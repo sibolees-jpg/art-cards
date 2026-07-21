@@ -1,0 +1,1249 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#f5f3ee">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="艺术卡片">
+<title>艺术卡片</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icon-192.png">
+<script>
+if('serviceWorker' in navigator){ window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{})); }
+</script>
+<style>
+:root{
+  --bg:#f5f3ee; --card:#ffffff; --card2:#ecebe5; --txt:#1d1d22; --sub:#71717c;
+  --line:#e7e4dc; --like:#d24a5b; --pass:#9a9aa5; --acc:#9a7c38;
+  color-scheme: light;
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{background:var(--bg);color:var(--txt);font-family:-apple-system,"PingFang SC","Hiragino Sans GB","Noto Sans SC",sans-serif;overflow:hidden;user-select:none;-webkit-user-select:none}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+
+/* 布局 */
+#app{height:100dvh;display:flex;flex-direction:column}
+header{display:flex;align-items:center;justify-content:space-between;padding:calc(env(safe-area-inset-top,0px) + 10px) 16px 6px;gap:8px}
+.hleft{display:flex;gap:8px}
+header .hbtn{font-size:14px;color:var(--sub);padding:6px 10px;border-radius:10px;background:var(--card);white-space:nowrap}
+header .hbtn b{color:var(--like)}
+#btnHonor b{color:var(--acc)}
+#roundLabel{font-size:13px;color:var(--acc);font-weight:600;letter-spacing:.04em;text-align:center;flex:1}
+#roundLabel small{color:var(--sub);font-weight:400;margin-left:4px}
+/* 闯关进度条 */
+#pbar{height:5px;margin:2px 16px 2px;background:var(--card2);border-radius:3px;overflow:hidden}
+#pfill{display:block;height:100%;width:0;border-radius:3px;background:linear-gradient(90deg,var(--acc),#c8a24e);transition:width .3s ease}
+#stage{flex:1;position:relative;display:flex;align-items:center;justify-content:center;min-height:0}
+footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe-area-inset-bottom,0px) + 14px)}
+.abtn{width:58px;height:58px;border-radius:50%;background:var(--card);display:flex;align-items:center;justify-content:center;font-size:24px;box-shadow:0 3px 12px rgba(40,35,20,.12);transition:transform .12s}
+.abtn:active{transform:scale(.9)}
+#btnPass{color:var(--pass)} #btnLike{color:var(--like)} #btnUndo{width:44px;height:44px;font-size:17px;align-self:center;color:var(--sub)}
+#btnPerson{position:relative}
+#btnPerson.unlocked{color:var(--acc)}
+#btnPerson.unlocked::after{content:"";position:absolute;top:3px;right:3px;width:6px;height:6px;border-radius:50%;background:var(--acc)}
+
+/* 卡片 */
+.card{position:absolute;width:min(92vw,430px);height:min(100%,740px);max-height:100%;background:var(--card);border-radius:22px;overflow:hidden;display:flex;flex-direction:column;box-shadow:0 10px 34px rgba(40,35,20,.16);touch-action:none;will-change:transform}
+.card.back{transform:scale(.94) translateY(14px);filter:brightness(.96);opacity:.7;pointer-events:none}
+.imgbox{flex:1;min-height:0;position:relative;background:var(--card2)}
+.img{position:absolute;inset:0;background-size:cover;background-position:center;display:flex;align-items:center;justify-content:center;text-align:center;padding:24px}
+.img .ph{font-size:26px;line-height:1.5;font-weight:600;color:rgba(40,35,25,.72);font-family:"Songti SC","SimSun",serif;position:relative;padding:22px 26px}
+.img .ph small{display:block;font-size:14px;font-weight:400;margin-top:12px;color:rgba(40,35,25,.5);font-family:system-ui,sans-serif}
+.img .ph::before,.img .ph::after{content:"";position:absolute;width:20px;height:20px;border:1.5px solid rgba(120,90,40,.32)}
+.img .ph::before{left:-2px;top:-2px;border-right:0;border-bottom:0}
+.img .ph::after{right:-2px;bottom:-2px;border-left:0;border-top:0}
+/* 诗卡:诗句本身即卡面 */
+.img.verse{background:linear-gradient(160deg,#faf6ec,#ece0cb);padding:20px;flex-direction:column;gap:14px}
+.verse .vseal{position:absolute;top:14px;right:16px;font-size:13px;color:#b2622e;border:1.5px solid #b2622e;border-radius:5px;padding:3px 5px;font-family:"Songti SC",serif;letter-spacing:2px;writing-mode:vertical-rl;opacity:.8}
+.verse .vtext{font-family:"Songti SC","SimSun","Kaiti SC",serif;color:#2b2419;font-size:23px;line-height:2;letter-spacing:2px;text-align:center;max-height:78%;overflow:hidden;text-shadow:0 1px 0 rgba(255,255,255,.4)}
+.verse .vtext.long{font-size:18px;line-height:1.85}
+.verse .vsig{font-family:"Songti SC",serif;font-size:14px;color:#6a5a3e;letter-spacing:1px}
+.dots{position:absolute;top:10px;left:0;right:0;display:flex;gap:5px;justify-content:center;z-index:2}
+.dots i{width:22px;height:3px;border-radius:2px;background:rgba(255,255,255,.28)}
+.dots i.on{background:rgba(255,255,255,.9)}
+.tapL,.tapR{position:absolute;top:0;bottom:0;width:34%;z-index:1}
+.tapL{left:0}.tapR{right:0}
+.cred{position:absolute;left:0;right:0;bottom:0;z-index:2;padding:4px 74px 5px 10px;font-size:10px;line-height:1.3;color:rgba(255,255,255,.82);background:linear-gradient(transparent,rgba(0,0,0,.42));text-align:right;pointer-events:none}
+.cred:empty{display:none}
+.cpr{position:absolute;left:8px;bottom:7px;z-index:3;display:flex;align-items:center;gap:4px;padding:3px 8px;border-radius:11px;font-size:10px;font-weight:600;color:#fff;pointer-events:none}
+.cpr::before{content:"";width:7px;height:7px;border-radius:50%;background:#fff}
+.cpr.ok{background:rgba(28,120,60,.82)}
+.cpr.no{background:rgba(178,44,44,.82)}
+.cpr.own{background:rgba(84,84,96,.82)}
+.portflag{position:absolute;top:10px;left:10px;z-index:3;padding:4px 9px;border-radius:11px;font-size:10px;font-weight:600;color:#fff;background:rgba(178,98,46,.9);pointer-events:none;max-width:70%}
+.cpr:empty{display:none}
+#dCredit{font-size:12px;color:var(--sub);line-height:1.6;margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}
+#dCredit:empty{display:none}
+.badge{position:absolute;top:22px;font-size:17px;font-weight:700;letter-spacing:.12em;padding:7px 14px;border-radius:8px;border:2.5px solid;opacity:0;z-index:3;transform:rotate(-8deg)}
+.badge.like{left:18px;color:#3f9e63;border-color:#3f9e63}
+.badge.pass{right:18px;color:var(--like);border-color:var(--like);transform:rotate(8deg)}
+.badge.fav{left:50%;top:auto;bottom:26%;transform:translateX(-50%) rotate(-4deg);color:#c8992e;border-color:#c8992e;background:rgba(255,250,235,.9);font-size:20px;box-shadow:0 4px 16px rgba(200,150,40,.35)}
+.badge.skip{left:50%;top:20%;transform:translateX(-50%) rotate(-3deg);color:#6b7280;border-color:#6b7280;background:rgba(248,248,248,.9)}
+.info{padding:14px 18px 16px;background:var(--card);border-top:1px solid var(--line)}
+.info h2{font-size:18px;line-height:1.35}
+.info .meta{font-size:13px;color:var(--acc);margin:3px 0 8px}
+.info .line{font-size:13px;line-height:1.55;color:var(--sub);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:3px}
+.info .line b{color:var(--txt);font-weight:600;margin-right:6px}
+/* 书籍卡:三句话总结(替代 背景/方式/意义) */
+.info .sum3{margin:2px 0 0}
+.info .sum3 p{font-size:13px;line-height:1.5;color:var(--sub);margin:6px 0;padding-left:20px;position:relative;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.info .sum3 p:before{position:absolute;left:0;top:1px;color:var(--acc);font-weight:700;font-size:12px}
+.info .sum3 p:nth-child(1):before{content:"①"}
+.info .sum3 p:nth-child(2):before{content:"②"}
+.info .sum3 p:nth-child(3):before{content:"③"}
+.info .hint{margin-top:8px;font-size:clamp(8px,2.5vw,12px);color:#6c6c78;text-align:center;white-space:nowrap;overflow:hidden}
+/* 详情页·书籍模式:隐藏 背景/方式/意义 标签,三句话编号呈现 */
+.dwrap.bookmode .dlbl{display:none}
+.dwrap.bookmode section{margin-bottom:11px}
+.dwrap.bookmode #dBg,.dwrap.bookmode #dHow,.dwrap.bookmode #dWhy{padding-left:26px;position:relative}
+.dwrap.bookmode #dBg:before,.dwrap.bookmode #dHow:before,.dwrap.bookmode #dWhy:before{position:absolute;left:0;top:2px;color:var(--acc);font-weight:700}
+.dwrap.bookmode #dBg:before{content:"①"}
+.dwrap.bookmode #dHow:before{content:"②"}
+.dwrap.bookmode #dWhy:before{content:"③"}
+.dbookhead{font-size:13px;color:var(--sub);letter-spacing:.15em;margin-bottom:10px}
+.dwrap:not(.bookmode) .dbookhead{display:none}
+.card.flyL{transition:transform .35s ease-in;transform:translate(-120vw,-6vh) rotate(-22deg)!important}
+.card.flyR{transition:transform .35s ease-in;transform:translate(120vw,-6vh) rotate(22deg)!important}
+.card.flyU{transition:transform .5s ease-in;transform:translateY(-125vh) scale(.9)!important}
+.card.flyD{transition:transform .38s ease-in;transform:translateY(125vh) scale(.95)!important}
+.card.spring{transition:transform .25s}
+/* 爆灯:金色星芒迸发 */
+.burst{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:96px;z-index:4;pointer-events:none;animation:burst .55s ease-out forwards}
+.burst::after{content:"";position:absolute;width:40px;height:40px;border-radius:50%;box-shadow:0 0 0 0 rgba(230,180,60,.75);animation:burstRing .55s ease-out forwards}
+@keyframes burst{0%{transform:scale(.2);opacity:0}30%{transform:scale(1.15);opacity:1}100%{transform:scale(1.5);opacity:0}}
+@keyframes burstRing{0%{box-shadow:0 0 0 0 rgba(230,180,60,.7)}100%{box-shadow:0 0 0 240px rgba(230,180,60,0)}}
+#btnFav{color:#c8992e}
+#btnFav:active{transform:scale(.86)}
+
+/* 提示 */
+#toast{position:fixed;left:50%;bottom:104px;transform:translateX(-50%);background:rgba(35,32,26,.92);color:#fff;padding:10px 18px;border-radius:20px;font-size:13px;opacity:0;pointer-events:none;transition:opacity .35s;z-index:40;max-width:82vw;text-align:center}
+#toast.show{opacity:1}
+/* 空状态 */
+#empty{text-align:center;color:var(--sub);padding:0 30px;line-height:2}
+#empty h2{color:var(--txt);margin-bottom:6px}
+#empty button{color:var(--acc);text-decoration:underline}
+
+/* 通关庆祝 */
+#victory{position:fixed;inset:0;z-index:50;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:30px;background:radial-gradient(120% 90% at 50% 30%,#fbf7ee,#efe9dc)}
+#victory.show{display:flex;animation:vfade .4s}
+@keyframes vfade{from{opacity:0}to{opacity:1}}
+#victory .medal{font-size:82px;line-height:1;animation:vpop .5s cubic-bezier(.2,1.3,.4,1)}
+@keyframes vpop{0%{transform:scale(0) rotate(-30deg)}100%{transform:scale(1) rotate(0)}}
+#victory .vlvl{margin-top:14px;font-size:14px;color:var(--sub);letter-spacing:.14em}
+#victory .vboss{margin-top:6px;font-size:26px;font-weight:700;color:var(--txt)}
+#victory .vboss span{color:var(--acc)}
+#victory .vsub{margin-top:10px;font-size:14px;color:var(--sub);line-height:1.7;max-width:300px}
+#victory .vbig{margin-top:20px;padding:14px 22px;border:1.5px solid var(--acc);border-radius:16px;background:rgba(154,124,56,.08);animation:vfade .6s .3s both}
+#victory .vbig .t{font-size:12px;color:var(--acc);letter-spacing:.24em}
+#victory .vbig .r{font-size:24px;font-weight:800;color:var(--acc);margin-top:6px;letter-spacing:.1em}
+#victory .vnext{margin-top:30px;padding:14px 40px;border-radius:26px;background:var(--acc);color:#fff;font-size:16px;font-weight:600;box-shadow:0 6px 18px rgba(154,124,56,.3)}
+#victory .vskip{margin-top:14px;font-size:13px;color:var(--sub)}
+/* 荣誉墙 */
+#honorWall{padding:20px 20px 40px;max-width:640px;margin:0 auto;width:100%}
+.hstat{display:flex;gap:12px;margin-bottom:22px}
+.hstat .box{flex:1;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;text-align:center}
+.hstat .box .n{font-size:26px;font-weight:800;color:var(--acc)}
+.hstat .box .l{font-size:12px;color:var(--sub);margin-top:4px;letter-spacing:.08em}
+.hstat .box.rank .n{font-size:22px}
+#medalGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(88px,1fr));gap:10px}
+.mcell{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 6px;text-align:center}
+.mcell.big{border-color:var(--acc);background:rgba(154,124,56,.07)}
+.mcell .e{font-size:22px}
+.mcell .lv{font-size:11px;color:var(--sub);margin-top:4px}
+.mcell .bn{font-size:12px;color:var(--txt);margin-top:2px}
+.mcell.big .bn{color:var(--acc);font-weight:700}
+#honorWall .muted{color:var(--sub);text-align:center;padding:30px}
+/* 个人 */
+.ptabs{display:flex;gap:8px;padding:14px 18px 0;max-width:640px;margin:0 auto;width:100%}
+.ptab{flex:1;padding:10px;border-radius:12px;background:var(--card);color:var(--sub);font-size:14px;border:1px solid var(--line)}
+.ptab.on{background:var(--acc);color:#fff;font-weight:600;border-color:var(--acc)}
+.ptabbody{padding:16px 20px 44px;max-width:640px;margin:0 auto;width:100%}
+.pfield{display:flex;justify-content:space-between;align-items:center;padding:13px 2px;border-bottom:1px solid var(--line);font-size:15px}
+.pfield .k{color:var(--sub)}
+.pfield .v{color:var(--txt);font-weight:600}
+.pedit{color:var(--acc);font-size:13px;margin-left:8px;cursor:pointer}
+.pdanger{margin-top:44px;padding-top:16px;border-top:1px dashed var(--line);text-align:center}
+.pdanger button{color:#b23b3b;font-size:12px;opacity:.55}
+.asig{font-size:16px;line-height:1.8;color:var(--txt);font-weight:600;background:linear-gradient(120deg,#faf6ec,#efe6d4);padding:16px 18px;border-radius:14px;margin-bottom:24px}
+.asec{margin-bottom:26px}
+.asec .at{font-size:12px;color:var(--acc);letter-spacing:.24em;margin-bottom:12px}
+.abar{margin-bottom:11px}
+.abar .row{display:flex;justify-content:space-between;font-size:14px;margin-bottom:4px}
+.abar .row b{font-weight:600;color:var(--txt)}
+.abar .row span{color:var(--sub);font-size:12px}
+.abar .track{height:7px;background:var(--card2);border-radius:4px;overflow:hidden}
+.abar .track i{display:block;height:100%;background:linear-gradient(90deg,var(--acc),#c8a24e);border-radius:4px}
+.aq{font-size:16px;line-height:1.85;color:var(--txt);background:var(--card);border-left:3px solid var(--acc);padding:14px 16px;border-radius:0 12px 12px 0}
+.atags{display:flex;flex-wrap:wrap;gap:8px}
+.atag{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:8px 14px;font-size:14px}
+.atag b{color:var(--acc);margin-left:4px}
+.anote{margin-top:22px;font-size:12px;color:var(--sub);line-height:1.8;text-align:center}
+.alock{text-align:center;padding:54px 24px;color:var(--sub);line-height:1.95}
+.alock .ico{font-size:46px}
+.alock h4{color:var(--txt);font-size:17px;margin:14px 0 8px}
+/* 覆盖层 */
+.overlay{position:fixed;inset:0;background:var(--bg);z-index:20;display:none;flex-direction:column;overflow:hidden}
+.overlay.show{display:flex}
+.obar{display:flex;align-items:center;justify-content:space-between;padding:calc(env(safe-area-inset-top,0px) + 10px) 16px 10px;border-bottom:1px solid var(--line);flex:none}
+.obar h3{font-size:16px}
+.obar .close{font-size:22px;color:var(--sub);padding:4px 10px}
+.obody{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding-bottom:40px}
+/* 详情 */
+#dImg{position:relative;width:100%;height:min(48vh,420px);background:var(--card2) center/contain no-repeat;display:flex;align-items:center;justify-content:center}
+#dImg .ph{font-size:22px;color:rgba(40,35,25,.65);font-weight:600;text-align:center;padding:20px}
+.dcpr{position:absolute;left:12px;bottom:12px;display:flex;align-items:center;gap:5px;padding:4px 10px;border-radius:12px;font-size:11px;font-weight:600;color:#fff}
+.dcpr::before{content:"";width:8px;height:8px;border-radius:50%;background:#fff}
+.dcpr.ok{background:rgba(28,120,60,.9)} .dcpr.no{background:rgba(178,44,44,.9)} .dcpr.own{background:rgba(84,84,96,.9)}
+.uprow{display:flex;align-items:center;gap:10px;margin-top:20px;flex-wrap:wrap}
+.upbtn{display:inline-flex;align-items:center;gap:6px;padding:9px 15px;border-radius:12px;background:var(--card2);color:var(--txt);font-size:14px;font-weight:600;cursor:pointer}
+.upbtn:active{opacity:.7}
+.uprm{padding:9px 13px;border-radius:12px;background:transparent;border:1px solid var(--line);color:var(--sub);font-size:13px}
+.uptip{font-size:11px;color:var(--sub)}
+#dVideo{width:100%;background:#000}
+#dVideo.vsearch{background:none;padding:12px 20px 0;max-width:640px;margin:0 auto}
+#dVideo[hidden]{display:none}
+#dVideo iframe,#dVideo video{display:block;width:100%;aspect-ratio:16/9;border:0}
+.ytbtn{display:flex;align-items:center;justify-content:center;gap:8px;padding:12px;border-radius:14px;background:var(--card);border:1px solid var(--line);color:var(--txt);font-size:15px;font-weight:600;text-decoration:none}
+.ytbtn:active{background:var(--card2)}
+.dwrap{padding:20px 22px;max-width:640px;margin:0 auto}
+.dwrap h2{font-size:22px;line-height:1.4}
+.dwrap .meta{color:var(--acc);font-size:14px;margin:6px 0 18px}
+.dwrap section{margin-bottom:16px}
+.dwrap section h4{font-size:13px;color:var(--sub);letter-spacing:.2em;margin-bottom:5px}
+.dwrap section p{font-size:15px;line-height:1.8}
+.mlinks{margin-top:8px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.mbtn{display:inline-flex;align-items:center;padding:11px 18px;border-radius:14px;font-size:15px;font-weight:600;color:#fff;background:#c62f2f}
+.mbtn.qq{background:#1c8f3e}
+.mbtn:active{opacity:.8}
+.playbtn.small{background:transparent;color:var(--sub);font-size:13px;font-weight:400;padding:6px 0;margin-top:6px}
+.dwrap .links{margin-top:22px;display:flex;gap:14px;flex-wrap:wrap}
+.dwrap .links a{color:var(--acc);font-size:14px;text-decoration:none;border-bottom:1px solid var(--acc)}
+#dAudio{margin:10px 0 4px}
+#dAudio .playbtn{background:var(--card);border:1px solid var(--line);padding:10px 18px;border-radius:12px;font-size:15px;color:var(--txt)}
+#dAudio .tk{font-size:13px;color:var(--sub);margin-top:8px}
+#dAudio audio{width:100%;margin-top:10px}
+.reprow{margin-top:18px}
+.repbtn{font-size:13px;color:var(--sub);background:none;border:1px dashed var(--sub);border-radius:12px;padding:7px 14px;opacity:.8}
+#repPanel{margin-top:10px;background:var(--card);border-radius:14px;padding:10px;display:flex;flex-wrap:wrap;gap:8px}
+#repPanel button{font-size:13px;padding:8px 12px;border-radius:10px;background:var(--card2)}
+.repfoot{width:100%;display:flex;gap:16px;align-items:center;font-size:12px;color:var(--sub);margin-top:4px}
+.repfoot a{color:var(--acc)}
+.dActs{display:flex;gap:14px;margin-top:26px}
+.dActs button{flex:1;padding:13px;border-radius:14px;font-size:16px;background:var(--card)}
+.dActs .dl{color:var(--like)}
+/* 库 */
+#libBody{padding:14px 18px;max-width:640px;margin:0 auto;width:100%}
+.grp{margin-bottom:22px}
+.grp h4{font-size:13px;color:var(--acc);letter-spacing:.25em;margin-bottom:8px}
+.grp.fav{background:rgba(200,153,46,.06);border:1px solid rgba(200,153,46,.25);border-radius:14px;padding:10px 12px;margin-bottom:20px}
+.grp.fav h4{color:#c8992e}
+.grp .item{display:flex;justify-content:space-between;align-items:center;padding:11px 4px;border-bottom:1px solid var(--line);cursor:pointer}
+.grp .item .tt{font-size:15px}
+.grp .item .aa{font-size:12px;color:var(--sub);margin-top:2px}
+.grp .item .rm{color:#55555f;font-size:17px;padding:4px 8px}
+#libTools{display:flex;gap:12px;margin:6px 0 20px}
+#libTools button{flex:1;background:var(--card);padding:11px;border-radius:12px;font-size:14px;color:var(--txt)}
+.muted{color:var(--sub);text-align:center;padding:40px 20px;line-height:2}
+</style>
+</head>
+<body>
+<div id="app">
+  <header>
+    <div class="hleft">
+      <button class="hbtn" id="btnLib">♥ <b id="libCount">0</b></button>
+      <button class="hbtn" id="btnPerson">👤</button>
+    </div>
+    <div id="roundLabel">第 1 关</div>
+    <button class="hbtn" id="btnLearn">🎓 <b id="learnCount">0</b></button>
+    <button class="hbtn" id="btnHonor">🏆 <b id="honorCount">0</b></button>
+  </header>
+  <div id="pbar"><i id="pfill"></i></div>
+  <main id="stage">
+    <div id="empty" hidden>
+      <h2>全部作品都进你的库了</h2>
+      <p>共 <span id="emptyLiked">0</span> 件,牌堆暂时空了,等我补新卡<br>
+      <button id="btnEmptyLib">看看我的库</button>&nbsp;·&nbsp;<button id="btnEmptyReset">清空重刷</button></p>
+    </div>
+  </main>
+  <footer>
+    <button class="abtn" id="btnPass">✕</button>
+    <button class="abtn" id="btnUndo">↩</button>
+    <button class="abtn" id="btnLike">♥</button>
+    <button class="abtn" id="btnFav">💡</button>
+  </footer>
+</div>
+
+<div id="toast"></div>
+
+<!-- 通关庆祝 -->
+<div id="victory">
+  <div class="medal" id="vMedal">🎖️</div>
+  <div class="vlvl" id="vLvl">第 1 关 通关</div>
+  <div class="vboss">击败心魔 · <span id="vBoss">从众</span></div>
+  <div class="vsub" id="vSub"></div>
+  <div class="vbig" id="vBig" hidden>
+    <div class="t">晋升境界</div>
+    <div class="r" id="vRank">入境</div>
+  </div>
+  <button class="vnext" id="vNext">进入下一关</button>
+  <div class="vskip" id="vSkip"></div>
+</div>
+
+<!-- 荣誉墙 -->
+<div class="overlay" id="honor">
+  <div class="obar"><h3>荣誉墙</h3><button class="close" data-close="honor">✕</button></div>
+  <div class="obody"><div id="honorWall"></div></div>
+</div>
+
+<!-- 个人 -->
+<div class="overlay" id="person">
+  <div class="obar"><h3>个人</h3><button class="close" data-close="person">✕</button></div>
+  <div class="obody">
+    <div class="ptabs">
+      <button class="ptab on" data-tab="info">个人信息</button>
+      <button class="ptab" data-tab="attr">个人属性</button>
+    </div>
+    <div id="pInfo" class="ptabbody"></div>
+    <div id="pAttr" class="ptabbody" hidden></div>
+  </div>
+</div>
+
+<!-- 详情 -->
+<div class="overlay" id="detail">
+  <div class="obar"><h3>详情</h3><button class="close" data-close="detail">✕</button></div>
+  <div class="obody">
+    <div id="dImg"></div>
+    <div id="dVideo"></div>
+    <div class="dwrap">
+      <h2 id="dTitle"></h2>
+      <div class="meta" id="dMeta"></div>
+      <div id="dAudio" hidden>
+        <div class="mlinks" id="dMusicLinks"></div>
+        <button class="playbtn small" id="dPlay">· 或 iTunes 试听 30 秒(海外)</button>
+        <div class="tk" id="dTrack"></div>
+        <div id="dAudioBox"></div>
+      </div>
+      <div class="dbookhead">这本书讲了什么 · 三句话</div>
+      <section><h4 class="dlbl">背景</h4><p id="dBg"></p></section>
+      <section><h4 class="dlbl">方式</h4><p id="dHow"></p></section>
+      <section><h4 class="dlbl">意义</h4><p id="dWhy"></p></section>
+      <section id="dMoreSec"><h4>延伸</h4><p id="dMore"></p></section>
+      <div class="links" id="dLinks"></div>
+      <div id="dCredit"></div>
+      <div class="uprow">
+        <label class="upbtn">📷 换成我的图片<input type="file" id="upFile" accept="image/*" hidden></label>
+        <button class="uprm" id="upRm" hidden>移除</button>
+        <span class="uptip">存在本机,私密不上传</span>
+      </div>
+      <div class="reprow">
+        <button class="repbtn" id="repBtn">⚑ 报告问题</button>
+        <div id="repPanel" hidden>
+          <button data-rep="主图不对(不是作品本身)">🖼 主图不对</button>
+          <button data-rep="缺配图,希望补一张">🕳 缺配图想要图</button>
+          <button data-rep="内容有误(事实错误)">📖 内容有误</button>
+          <button data-rep="文案不好">✏️ 文案不好</button>
+          <button data-rep="音频/试听不对">🎵 音频不对</button>
+          <button data-rep="其他">💬 其他</button>
+          <div class="repfoot"><span id="repCount"></span><a href="#" id="repSend">⬆ 上报</a><a href="#" id="repExport">导出</a><a href="#" id="repImgExport">导出换图包</a><a href="#" id="repClear">清空</a></div>
+        </div>
+      </div>
+      <div class="dActs" id="dActs">
+        <button id="dPass">✕ 没意思</button>
+        <button class="dl" id="dLike">♥ 有意思</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 我的库 -->
+<div class="overlay" id="library">
+  <div class="obar"><h3>我的库</h3><button class="close" data-close="library">✕</button></div>
+  <div class="obody"><div id="libBody"></div></div>
+</div>
+
+<script>
+/* 防缓存:按小时刷新 data.js,保证改动能被用户看到,又不至于每次都重下 */
+document.write('<scr'+'ipt src="data.js?v='+Math.floor(Date.now()/3600000)+'"><\/scr'+'ipt>');
+</script>
+<script>
+/* ============ 状态 ============ */
+const LSJ='ac_judged', LSI='ac_imgcache2', LSL='ac_lib', LSR='ac_rounds';
+// 闯关:每轮击败一个心魔(小 boss),每 5 关晋升一重境界(大荣誉)
+const BOSSES=['从众','猎奇','眼疲','偏食','附庸','速朽','麻木','成见','喜新','怀旧'];
+const RANKS=['入境','会心','独造','观道','化境','通神','入神','天工'];
+const BMEDAL=['🎖️','🏵️','⚔️','🛡️','🗡️','🎯','🔥','🌀','💠','🧿'];
+let rounds = +(localStorage.getItem(LSR)||0);            // 已通关轮数
+let roundTotal = 0;
+const saveR = ()=>localStorage.setItem(LSR, rounds);
+const LSS='ac_seen', LSN='ac_name';
+let seen = +(localStorage.getItem(LSS)||0);              // 累计刷过张数
+const saveS = ()=>localStorage.setItem(LSS, seen);
+const bossOf = n => BOSSES[(n-1)%BOSSES.length];
+const medalOf = n => BMEDAL[(n-1)%BMEDAL.length];
+const rankOf  = k => k<=RANKS.length ? RANKS[k-1]
+  : RANKS[(k-1)%RANKS.length]+'·'+(Math.floor((k-1)/RANKS.length)+1)+'周目';
+const curRank = ()=> rounds>=5 ? rankOf(Math.floor(rounds/5)) : '初学乍练';
+let judged = JSON.parse(localStorage.getItem(LSJ)||'{}');   // 本轮判断 id -> 'like'|'pass'
+// 库(永久):没存过则从旧版 judged 里迁移喜欢的
+let lib = new Set(JSON.parse(localStorage.getItem(LSL)||'null') ||
+  Object.keys(judged).filter(k=>judged[k]==='like').map(Number));
+let imgCache = JSON.parse(localStorage.getItem(LSI)||'{}'); // wikiTitle -> url|''
+const LSFAV='ac_favs';
+let favs = new Set(JSON.parse(localStorage.getItem(LSFAV)||'[]')); // 爆灯:比喜欢更喜欢
+const LSPASS='ac_passed';
+let passed = new Set(JSON.parse(localStorage.getItem(LSPASS)||'[]')); // 没意思(永久排除,不再出现,也不入库)
+const saveP = ()=>localStorage.setItem(LSPASS, JSON.stringify([...passed]));
+let deck = [];           // 待刷的 work 引用队列
+let undoStack = [];      // {id, r}
+const byId = {}; WORKS.forEach(w=>{ byId[w.id]=w; w._imgs=[]; w._idx=0; });
+
+/* ===== 本地上传图片:存 IndexedDB(在本机,私密,不上传公网)===== */
+let userImgs = {};   // id -> dataURL
+const IDB = (()=>{
+  let dbp;
+  const open = ()=> dbp || (dbp = new Promise((res,rej)=>{
+    const r = indexedDB.open('artcards', 1);
+    r.onupgradeneeded = ()=> r.result.createObjectStore('imgs');
+    r.onsuccess = ()=> res(r.result); r.onerror = ()=> rej(r.error);
+  }));
+  return {
+    async all(){ const d=await open(); return new Promise(res=>{ const out={}, cur=d.transaction('imgs').objectStore('imgs').openCursor();
+      cur.onsuccess=e=>{ const c=e.target.result; if(c){ out[c.key]=c.value; c.continue(); } else res(out); }; cur.onerror=()=>res(out); }); },
+    async put(id,val){ const d=await open(); return new Promise((res,rej)=>{ const tx=d.transaction('imgs','readwrite'); tx.objectStore('imgs').put(val,String(id)); tx.oncomplete=res; tx.onerror=()=>rej(tx.error); }); },
+    async del(id){ const d=await open(); return new Promise(res=>{ const tx=d.transaction('imgs','readwrite'); tx.objectStore('imgs').delete(String(id)); tx.oncomplete=res; tx.onerror=res; }); }
+  };
+})();
+function isUserImg(u){ return typeof u==='string' && u.startsWith('data:'); }
+// 把选的图压到 ≤1280、存本机,并即时替换当前作品主图
+function fileToImg(file, w){
+  const rd=new FileReader();
+  rd.onload=()=>{ const im=new Image(); im.onload=()=>{
+    const max=1280, sc=Math.min(1, max/Math.max(im.width,im.height));
+    const cv=document.createElement('canvas'); cv.width=Math.round(im.width*sc); cv.height=Math.round(im.height*sc);
+    cv.getContext('2d').drawImage(im,0,0,cv.width,cv.height);
+    const data=cv.toDataURL('image/jpeg',0.86);
+    userImgs[w.id]=data;
+    IDB.put(w.id,data).catch(()=>alert('保存失败,可能空间不足'));
+    w._imgs=w._imgs.filter(u=>!isUserImg(u)); w._imgs.unshift(data); w._idx=0; w._loaded=true;
+    if(dWork===w) setDImg(w), syncUpRow(w);
+    const top=stage.querySelector('.card:not(.back)'); if(top) render();
+  }; im.src=rd.result; };
+  rd.readAsDataURL(file);
+}
+function removeUserImg(w){
+  delete userImgs[w.id]; IDB.del(w.id);
+  w._imgs=w._imgs.filter(u=>!isUserImg(u)); w._idx=0; w._loaded=false;
+  if(dWork===w){ loadImgs(w,()=>{ if(dWork===w) setDImg(w); }); setDImg(w); syncUpRow(w); }
+  render();
+}
+function syncUpRow(w){
+  const rm=document.getElementById('upRm'); if(rm) rm.hidden = !userImgs[w.id];
+}
+const saveJ = ()=>localStorage.setItem(LSJ, JSON.stringify(judged));
+const saveI = ()=>localStorage.setItem(LSI, JSON.stringify(imgCache));
+const saveL = ()=>localStorage.setItem(LSL, JSON.stringify([...lib]));
+const saveF = ()=>localStorage.setItem(LSFAV, JSON.stringify([...favs]));
+
+/* ============ 牌堆:每关 200 张,打乱 + 避免同类连续 ============ */
+const ROUND_SIZE = 200;
+function buildDeck(){
+  let pool = WORKS.filter(w=>!judged[w.id] && !lib.has(w.id) && !passed.has(w.id)); // 入库的、已排除的、本关已判的都不再发
+  for(let i=pool.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [pool[i],pool[j]]=[pool[j],pool[i]]; }
+  for(let i=1;i<pool.length;i++){
+    if(pool[i].cat===pool[i-1].cat){
+      const k = pool.findIndex((w,x)=>x>i && w.cat!==pool[i-1].cat);
+      if(k>-1) [pool[i],pool[k]]=[pool[k],pool[i]];
+    }
+  }
+  const done = Object.keys(judged).length;               // 本关已判张数
+  roundTotal = Math.min(ROUND_SIZE, pool.length + done);  // 本关目标 ≤200
+  deck = pool.slice(0, Math.max(0, roundTotal - done));   // 只发够本关剩余的
+}
+
+/* ============ 配图:维基百科摘要接口,带缓存 ============ */
+function fetchImg(title){
+  if(title in imgCache) return Promise.resolve(imgCache[title]);
+  return fetch('https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(title))
+    .then(r=>r.ok?r.json():null)
+    .then(j=>{
+      let u='';
+      if(j){
+        const ow = j.originalimage ? j.originalimage.width : 0;
+        if(ow && ow<=1400) u=j.originalimage.source;               // 原图不大,直接用
+        else if(ow && j.thumbnail) u=j.thumbnail.source.replace(/\/(\d+)px-/, '/1000px-'); // 大图取 1000px 缩略
+        else if(j.thumbnail) u=j.thumbnail.source;
+        else if(j.originalimage) u=j.originalimage.source;
+      }
+      if(u){ imgCache[title]=u; saveI(); return u; }
+      return fetchPageImg(title);  // REST 摘要无图(或条目被重定向) → pageimages 兜底
+    }).catch(()=> fetchPageImg(title));
+}
+// 兜底:MediaWiki pageimages 接口,覆盖面远大于 REST 摘要,且 redirects=1 能跟条目重定向
+function fetchPageImg(title){
+  const api='https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1'
+    +'&prop=pageimages&piprop=original|thumbnail&pithumbsize=1000&titles='+encodeURIComponent(title);
+  return fetch(api).then(r=>r.ok?r.json():null).then(j=>{
+    let u='';
+    if(j && j.query && j.query.pages){
+      for(const p of Object.values(j.query.pages)){
+        const s=(p.original&&p.original.source)||(p.thumbnail&&p.thumbnail.source);
+        if(s){ u=s; break; }
+      }
+    }
+    if(u){ imgCache[title]=u; saveI(); return u; }
+    return fetchMediaList(title);  // pageimages 仍无 → 取条目正文首图
+  }).catch(()=> fetchMediaList(title));
+}
+// 最后兜底:REST media-list 列出条目正文全部图片,取第一张(含 logo/作品照片,覆盖面最广)
+function fetchMediaList(title){
+  return fetch('https://en.wikipedia.org/api/rest_v1/page/media-list/'+encodeURIComponent(title))
+    .then(r=>r.ok?r.json():null).then(j=>{
+      let u='';
+      if(j && j.items){
+        const im=j.items.find(m=>m.type==='image' && m.srcset && m.srcset.length);
+        if(im){ u=im.srcset[0].src; if(u.indexOf('//')===0) u='https:'+u; }
+      }
+      // 用作品最本身的最佳图(第一印象最关键),版权状态由左下角红/绿标注明
+      imgCache[title]=u; saveI(); return u;
+    }).catch(()=>{ imgCache[title]=''; return ''; });
+}
+// 音乐作品:用 iTunes 专辑封面(作品本身),而非艺术家照片
+function fetchMusicArt(w){
+  const key='itart:'+(w.q||w.a+' '+w.t);
+  if(key in imgCache) return Promise.resolve(imgCache[key]);
+  return new Promise(res=>{
+    const cb='itart'+Date.now()+Math.floor(Math.random()*1e4); let done=false;
+    const fin=u=>{ if(done)return; done=true; try{delete window[cb]; s.remove();}catch(_){}; imgCache[key]=u; saveI(); res(u); };
+    window[cb]=data=>{ const rs=(data&&data.results)||[]; const tr=rs.find(r=>r.artworkUrl100)||rs[0];
+      fin(tr&&tr.artworkUrl100 ? tr.artworkUrl100.replace('100x100','600x600') : ''); };
+    const s=document.createElement('script');
+    s.src=`https://itunes.apple.com/search?term=${encodeURIComponent(w.q||w.a+' '+w.t)}&media=music&entity=album&limit=5&callback=${cb}`;
+    s.onerror=()=>fin(''); document.body.appendChild(s);
+    setTimeout(()=>fin(''), 8000);
+  });
+}
+function loadImgs(w, onUpdate){
+  if(w._loaded) { onUpdate&&onUpdate(); return; }
+  w._loaded = true;
+  // 0) 本机上传图最优先
+  const uimg = userImgs[w.id];
+  if(uimg && !w._imgs.includes(uimg)){ w._imgs.unshift(uimg); onUpdate&&onUpdate(); }
+  // 音乐:优先专辑封面(作品本身),艺术家照片退居其后
+  if(w.kind==='music'){
+    fetchMusicArt(w).then(u=>{ if(!u || w._imgs.includes(u)) return;
+      const im=new Image(); im.onload=()=>{ if(!w._imgs.includes(u)){ w._imgs.splice(uimg?1:0,0,u); w._idx=0; onUpdate&&onUpdate(); } }; im.src=u; });
+  }
+  // 1) 固化图:可靠、秒出,不依赖实时抓取(有本机图则排其后)
+  if(w.img){
+    const im=new Image();
+    im.onload=()=>{ if(!w._imgs.includes(w.img)){ uimg? w._imgs.push(w.img) : w._imgs.unshift(w.img); onUpdate&&onUpdate(); } };
+    im.onerror=fetchWiki;               // 固化图失效才回退维基
+    im.src=w.img;
+    onUpdate&&onUpdate();
+    return;
+  }
+  fetchWiki();
+  function fetchWiki(){
+    if(!w.wiki || w.nwi) { onUpdate&&onUpdate(); return; }  // nwi=维基只剩作者传记页,禁取图(避免作者肖像冒充作品)
+    w.wiki.forEach(t=>fetchImg(t).then(u=>{
+      if(!u || w._imgs.includes(u)) return;
+      const im=new Image();             // 预加载成功才上卡片,避免黑图
+      im.onload=()=>{ if(!w._imgs.includes(u)){ w._imgs.push(u); onUpdate&&onUpdate(); } };
+      im.src=u;
+    }));
+  }
+}
+
+/* ============ 占位封面 ============ */
+function hue(s){ let h=0; for(const c of s) h=(h*31+c.charCodeAt(0))%360; return h; }
+function phStyle(w){ const h=hue(w.t); return `background-image:linear-gradient(160deg,hsl(${h},42%,88%),hsl(${(h+50)%360},36%,74%))`; }
+
+/* ============ 渲染卡片 ============ */
+const stage = document.getElementById('stage');
+function isPoem(w){ return w.kind==='poem' || !!w.verse; }
+function verseHTML(w){
+  const lines=(w.verse||'').split('\n').filter(x=>x.trim());
+  const long = lines.length>6 || lines.some(l=>l.length>16);
+  return `<div class="vseal">诗</div>
+    <div class="vtext${long?' long':''}">${lines.join('<br>')}</div>
+    <div class="vsig">— ${w.a}《${w.t}》</div>`;
+}
+// 书籍卡:三句话总结(无 背景/方式/意义 标签);其余门类保留原标签
+function linesHTML(w){
+  if(w.kind==='book'){
+    return `<div class="sum3"><p>${w.bg}</p><p>${w.how}</p><p>${w.why}</p></div>`;
+  }
+  return `<p class="line"><b>背景</b>${w.bg}</p>
+      <p class="line"><b>方式</b>${w.how}</p>
+      <p class="line"><b>意义</b>${w.why}</p>`;
+}
+function cardEl(w, isTop){
+  const el = document.createElement('article');
+  el.className = 'card'+(isTop?'':' back');
+  const face = isPoem(w)
+    ? `<div class="img verse">${verseHTML(w)}</div>`
+    : `<div class="img" style="${phStyle(w)}"><div class="ph">《${w.t}》<small>${w.a} · ${w.y}</small></div></div>`;
+  el.innerHTML = `
+    <div class="imgbox">
+      ${face}
+      <div class="dots"></div>
+      <div class="cred"></div>
+      <div class="cpr"></div>
+      ${w.port?'<div class="portflag">⚠ 此图是艺术家肖像 · 待换作品图</div>':''}
+      <div class="tapL"></div><div class="tapR"></div>
+      <span class="badge like">有意思</span><span class="badge pass">没意思</span><span class="badge fav">爆灯 💡</span><span class="badge skip">跳过 ↓</span>
+    </div>
+    <div class="info">
+      <h2>《${w.t}》</h2>
+      <div class="meta">${w.a} · ${w.y}</div>
+      ${linesHTML(w)}
+      <div class="hint">点看详情 · 左滑没意思 / 右滑有意思 · 下滑跳过 · 上滑或双击 💡爆灯</div>
+    </div>`;
+  if(!isPoem(w)){ const refresh = ()=>updateImg(el, w); loadImgs(w, refresh); refresh(); }
+  return el;
+}
+function isFreeImg(url){ return !!url && (url.indexOf('/wikipedia/commons/')>=0 || url.indexOf('imgs/')===0); } // Commons=自由授权,其余=有版权
+function updateImg(el, w){
+  const img = el.querySelector('.img'), dots = el.querySelector('.dots'), cred = el.querySelector('.cred'), cpr = el.querySelector('.cpr');
+  if(w._imgs.length){
+    w._idx = Math.min(w._idx, w._imgs.length-1);
+    const url = w._imgs[w._idx];
+    img.style.backgroundImage = `url("${url}")`;
+    img.querySelector('.ph').style.display='none';
+    dots.innerHTML = w._imgs.length>1 ? w._imgs.map((_,i)=>`<i class="${i===w._idx?'on':''}"></i>`).join('') : '';
+    const user = isUserImg(url), free = isFreeImg(url);
+    if(cred) cred.textContent = (!user && free && w.cr) ? '图:'+w.cr : '';
+    if(cpr){ cpr.className = 'cpr '+(user?'own':(free?'ok':'no')); cpr.textContent = user ? '我的图' : (free ? '自由授权' : '有版权'); }
+    const pf = el.querySelector('.portflag'); if(pf) pf.style.display = user ? 'none' : '';  // 换了自己的图就撤掉提示
+  }
+}
+function render(){
+  stage.querySelectorAll('.card').forEach(c=>c.remove());
+  const empty = document.getElementById('empty');
+  if(!deck.length && Object.keys(judged).length){
+    completeRound();   // 本轮刷完 → 通关庆祝,待用户点「进入下一关」再开新一轮
+    return;
+  }
+  if(!deck.length){
+    empty.hidden = false;
+    document.getElementById('emptyLiked').textContent = lib.size;
+  } else {
+    empty.hidden = true;
+    if(deck[1]) stage.appendChild(cardEl(deck[1], false));
+    const top = cardEl(deck[0], true);
+    stage.appendChild(top);
+    attachDrag(top, deck[0]);
+    // 预取后续几张的图,滑到时秒出(loadImgs 有 _loaded 去重,零重复开销)
+    for(let i=2;i<=5 && i<deck.length;i++){ if(!isPoem(deck[i])) loadImgs(deck[i]); }
+  }
+  updateHUD();
+}
+function updateHUD(){
+  const done = roundTotal - deck.length;
+  document.getElementById('pfill').style.width = (roundTotal? done/roundTotal*100 : 0)+'%';
+  document.getElementById('roundLabel').innerHTML = `第 ${rounds+1} 关 <small>${done}/${roundTotal}</small>`;
+  document.getElementById('libCount').textContent = lib.size;
+  document.getElementById('honorCount').textContent = rounds;
+  document.getElementById('btnPerson').classList.toggle('unlocked', rounds>=1);
+}
+/* ── 通关 ── */
+function completeRound(){
+  document.getElementById('pfill').style.width='100%';
+  rounds++; saveR();
+  const boss = bossOf(rounds), isBig = rounds%5===0;
+  document.getElementById('vMedal').textContent = isBig ? '🏆' : medalOf(rounds);
+  document.getElementById('vLvl').textContent = `第 ${rounds} 关 通关`;
+  document.getElementById('vBoss').textContent = boss;
+  document.getElementById('vSub').textContent = `你刷完了这一轮 ${roundTotal} 件作品,又把眼睛磨利了一点。`;
+  const big = document.getElementById('vBig');
+  if(isBig){ big.hidden=false; document.getElementById('vRank').textContent = curRank(); }
+  else big.hidden=true;
+  const toBig = 5 - (rounds%5);
+  document.getElementById('vSkip').textContent = isBig ? '' : `再过 ${toBig} 关晋升下一重境界`;
+  document.getElementById('victory').classList.add('show');
+}
+document.getElementById('vNext').onclick=()=>{
+  document.getElementById('victory').classList.remove('show');
+  judged={}; saveJ(); buildDeck(); render();
+};
+function toast(msg){
+  const t=document.getElementById('toast');
+  t.textContent=msg; t.classList.add('show');
+  clearTimeout(t._h); t._h=setTimeout(()=>t.classList.remove('show'),2800);
+}
+
+/* ============ 报告问题:本机记录,可导出发给维护者 ============ */
+const REPKEY='ac_reports';
+const getReps=()=>{ try{return JSON.parse(localStorage.getItem(REPKEY)||'[]')}catch(_){return []} };
+function updRepCount(){ document.getElementById('repCount').textContent='已记录 '+getReps().length+' 条'; }
+document.getElementById('repBtn').onclick=()=>{
+  const p=document.getElementById('repPanel'); p.hidden=!p.hidden; if(!p.hidden) updRepCount();
+};
+document.getElementById('repPanel').addEventListener('click',e=>{
+  const b=e.target.closest('button[data-rep]');
+  if(!b||!dWork) return;
+  const reps=getReps();
+  reps.push({id:dWork.id,t:dWork.t,a:dWork.a,r:b.dataset.rep,ts:new Date().toISOString().slice(0,16)});
+  localStorage.setItem(REPKEY,JSON.stringify(reps));
+  updRepCount(); document.getElementById('repPanel').hidden=true;
+  toast('已记录:'+b.dataset.rep+' — 谢谢!');
+});
+document.getElementById('repExport').onclick=e=>{
+  e.preventDefault();
+  const reps=getReps();
+  if(!reps.length){ toast('还没有反馈记录'); return; }
+  const txt=reps.map(r=>`#${r.id}《${r.t}》(${r.a}) — ${r.r} @${r.ts}`).join('\n');
+  const done=()=>toast('已复制 '+reps.length+' 条,粘贴发给维护者即可');
+  if(navigator.clipboard&&navigator.clipboard.writeText) navigator.clipboard.writeText(txt).then(done,()=>prompt('长按复制反馈:',txt));
+  else prompt('长按复制反馈:',txt);
+};
+document.getElementById('repSend').onclick=e=>{
+  e.preventDefault();
+  const reps=getReps();
+  if(!reps.length){ toast('还没有反馈记录'); return; }
+  const body=reps.map(r=>`- [ ] #${r.id}《${r.t}》(${r.a}) — ${r.r}`).join('\n');
+  const url='https://github.com/sibolees-jpg/art-cards/issues/new?title='+encodeURIComponent('卡片反馈 '+new Date().toISOString().slice(0,10)+' ('+reps.length+'条)')+'&body='+encodeURIComponent(body);
+  window.open(url,'_blank');
+  toast('已打开GitHub,点绿色按钮提交即可');
+};
+document.getElementById('repClear').onclick=e=>{
+  e.preventDefault(); localStorage.removeItem(REPKEY); updRepCount(); toast('反馈已清空');
+};
+// 导出换图包:把本机上传的替换图打包成json文件,发给维护者审核入库
+document.getElementById('repImgExport').onclick=e=>{
+  e.preventDefault();
+  const ids=Object.keys(userImgs);
+  if(!ids.length){ toast('还没有换过图(详情页📷可换)'); return; }
+  const pack={};
+  ids.forEach(id=>{ const w=WORKS.find(x=>x.id==id); pack[id]={t:w?w.t:'',img:userImgs[id]}; });
+  const blob=new Blob([JSON.stringify(pack)],{type:'application/json'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download='换图包_'+new Date().toISOString().slice(0,10)+'.json';
+  a.click(); URL.revokeObjectURL(a.href);
+  toast('已导出 '+ids.length+' 张,发给维护者即可全网生效');
+};
+
+/* ============ 手势:拖拽判断 + 点按 ============ */
+function attachDrag(el, w){
+  let x0=0,y0=0,dx=0,dy=0,down=false,moved=false;
+  el.addEventListener('pointerdown', e=>{
+    down=true; moved=false; x0=e.clientX; y0=e.clientY; dx=dy=0;
+    el.classList.remove('spring');
+    el.setPointerCapture(e.pointerId);
+  });
+  el.addEventListener('pointermove', e=>{
+    if(!down) return;
+    dx=e.clientX-x0; dy=e.clientY-y0;
+    if(Math.abs(dx)>8||Math.abs(dy)>8) moved=true;
+    if(!moved) return;
+    const up = dy<0 && Math.abs(dy)>Math.abs(dx);   // 上滑意图 = 爆灯
+    const dn = dy>0 && Math.abs(dy)>Math.abs(dx);   // 下滑意图 = 跳过
+    el.style.transform=`translate(${dx}px,${dy*((up||dn)?0.9:0.25)}px) rotate(${dx*0.045}deg)`;
+    el.querySelector('.badge.like').style.opacity = (up||dn)?0:Math.max(0, Math.min(1, dx/90));
+    el.querySelector('.badge.pass').style.opacity = (up||dn)?0:Math.max(0, Math.min(1,-dx/90));
+    el.querySelector('.badge.fav').style.opacity  = up?Math.max(0, Math.min(1, -dy/90 - Math.abs(dx)/120)):0;
+    const sk=el.querySelector('.badge.skip'); if(sk) sk.style.opacity = dn?Math.max(0, Math.min(1, dy/90 - Math.abs(dx)/120)):0;
+  });
+  el.addEventListener('pointerup', e=>{
+    if(!down) return; down=false;
+    if(!moved){ handleTap(e, el, w); return; }
+    if(dy<-95 && Math.abs(dy)>Math.abs(dx)) judge('fav');   // 上滑 = 爆灯
+    else if(dy>95 && Math.abs(dy)>Math.abs(dx)) judge('skip'); // 下滑 = 跳过(不记录,下轮再现)
+    else if(dx>100) judge('like');
+    else if(dx<-100) judge('pass');
+    else{ el.classList.add('spring'); el.style.transform=''; el.querySelectorAll('.badge').forEach(b=>b.style.opacity=0); }
+  });
+  el.addEventListener('pointercancel', ()=>{ down=false; el.classList.add('spring'); el.style.transform=''; el.querySelectorAll('.badge').forEach(b=>b.style.opacity=0); });
+}
+let _lastTap=0, _tapTimer=null;
+function handleTap(e, el, w){
+  const t = e.target;
+  if(w._imgs.length>1 && (t.classList.contains('tapL')||t.classList.contains('tapR'))){
+    w._idx = (w._idx + (t.classList.contains('tapR')?1:-1) + w._imgs.length) % w._imgs.length;
+    updateImg(el, w); return;
+  }
+  const now=Date.now();
+  if(now-_lastTap < 300){ clearTimeout(_tapTimer); _lastTap=0; judge('fav'); return; } // 双击 = 爆灯
+  _lastTap=now;
+  _tapTimer=setTimeout(()=>{ openDetail(w, true); }, 290);   // 单击稍等,确认不是双击才开详情
+}
+function burst(el){
+  const b=document.createElement('div'); b.className='burst'; b.textContent='💡';
+  el.querySelector('.imgbox').appendChild(b);
+}
+/* ============ 学习模式:间隔复习(独立于主刷卡流程) ============ */
+const LSLEARN='ac_learn';
+let learn={}; try{learn=JSON.parse(localStorage.getItem(LSLEARN)||'{}')}catch(_){}
+let learnMode=false;
+const LSTAGES=[3,7,30,90];  // 天
+const saveLearn=()=>localStorage.setItem(LSLEARN,JSON.stringify(learn));
+function learnSchedule(id,stage){
+  if(learn[id] && stage<=(learn[id].stage||0) && learn[id].due>Date.now()) return;
+  learn[id]={due:Date.now()+LSTAGES[Math.min(stage,3)]*864e5, stage:stage};
+  saveLearn(); updLearnCount();
+}
+function learnDue(){
+  const now=Date.now();
+  return [...lib].filter(id=>learn[id] && learn[id].due<=now).map(id=>WORKS.find(w=>w.id===id)).filter(Boolean);
+}
+function updLearnCount(){ const el=document.getElementById('learnCount'); if(el) el.textContent=learnDue().length; }
+function enterLearn(){
+  const due=learnDue();
+  if(!due.length){ toast('暂无到期复习卡——右滑喜欢的作品,3天后会回来考你'); return; }
+  for(let i=due.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [due[i],due[j]]=[due[j],due[i]]; }
+  learnMode=true; deck=due.slice(0,20);
+  document.getElementById('roundLabel').textContent='🎓 复习 '+deck.length+' 张';
+  render(); toast('学习模式:还记得它有意思在哪吗?右滑记得·左滑忘了');
+}
+function exitLearn(){
+  learnMode=false;
+  document.getElementById('roundLabel').textContent='第 '+(rounds+1)+' 关';
+  buildDeck(); render();
+  toast('复习完成!');
+}
+function learnJudge(r){
+  const top=stage.querySelector('.card:not(.back)');
+  const w=deck[0]; if(!w) return;
+  const st=(learn[w.id]&&learn[w.id].stage)||0;
+  if(r==='like'||r==='fav') learn[w.id]={due:Date.now()+LSTAGES[Math.min(st+1,3)]*864e5, stage:Math.min(st+1,3)};
+  else if(r==='pass') learn[w.id]={due:Date.now()+864e5, stage:0};   // 忘了:明天再来
+  else learn[w.id]={due:Date.now()+36e5, stage:st};                   // 跳过:1小时后
+  saveLearn();
+  const cls=r==='fav'?'flyU':(r==='like'?'flyR':(r==='pass'?'flyL':'flyD'));
+  const fin=()=>{ deck.shift(); if(!deck.length){ updLearnCount(); exitLearn(); } else render(); };
+  if(top){ top.classList.add(cls); setTimeout(fin,240); } else fin();
+}
+document.getElementById('btnLearn').onclick=()=>{ if(learnMode){ exitLearn(); } else enterLearn(); };
+// 老库存回填:已喜欢但未排期的,错峰排入(0-3天)
+setTimeout(()=>{ let n=0; [...lib].forEach(id=>{ if(!learn[id]){ learn[id]={due:Date.now()+Math.random()*3*864e5,stage:0}; n++; } }); if(n) saveLearn(); updLearnCount(); },800);
+
+function judge(r){
+  if(!deck.length) return;
+  if(learnMode){ learnJudge(r); return; }
+  const top = stage.querySelector('.card:not(.back)');
+  if(top && (top.classList.contains('flyL')||top.classList.contains('flyR')||top.classList.contains('flyU')||top.classList.contains('flyD'))) return; // 卡片正在飞出,忽略重复判定
+  const w = deck[0];
+  if(r==='skip'){                                  // 跳过:不判、不入库、不排除,本轮往下、下轮会再出现
+    undoStack.push({id:w.id, r:'skip'});
+    if(top){ top.classList.add('flyD'); setTimeout(()=>{ deck.shift(); render(); }, 240); }
+    else { deck.shift(); render(); }
+    return;
+  }
+  judged[w.id]=r; saveJ();
+  seen++; saveS();
+  if(r==='like'||r==='fav'){ lib.add(w.id); saveL(); learnSchedule(w.id,0); }
+  if(r==='pass'){ passed.add(w.id); saveP(); }   // 没意思:永久排除,以后不再出现
+  if(r==='fav'){ favs.add(w.id); saveF(); if(top) burst(top); }
+  undoStack.push({id:w.id, r});
+  const cls = r==='fav'?'flyU':(r==='like'?'flyR':'flyL');
+  const delay = r==='fav'?540:240;   // 爆灯多留一会儿看动画
+  if(top){ top.classList.add(cls); setTimeout(()=>{ deck.shift(); render(); }, delay); }
+  else { deck.shift(); render(); }
+}
+function undo(){
+  const u = undoStack.pop();
+  if(!u){ return; }
+  if(u.r!=='skip'){                                // 跳过没记录任何状态,撤销时只需把卡放回
+    delete judged[u.id]; saveJ();
+    if(seen>0){ seen--; saveS(); }
+    if(u.r==='like'||u.r==='fav'){ lib.delete(u.id); saveL(); }
+    if(u.r==='pass'){ passed.delete(u.id); saveP(); }
+    if(u.r==='fav'){ favs.delete(u.id); saveF(); }
+  }
+  deck.unshift(byId[u.id]); render();
+}
+
+/* ============ 详情 ============ */
+let dWork=null;
+function openDetail(w, judging){
+  dWork=w;
+  const ov=document.getElementById('detail');
+  document.getElementById('dTitle').textContent=`《${w.t}》`;
+  document.getElementById('dMeta').textContent=`${w.a} · ${w.y}`;
+  document.querySelector('#detail .dwrap').classList.toggle('bookmode', w.kind==='book');
+  document.getElementById('dBg').textContent=w.bg;
+  document.getElementById('dHow').textContent=w.how;
+  document.getElementById('dWhy').textContent=w.why;
+  document.getElementById('dMoreSec').hidden=!w.more;
+  document.getElementById('dMore').textContent=w.more||'';
+  const di=document.getElementById('dImg');
+  if(isPoem(w)){ setDImg(w); } else { loadImgs(w, ()=>{ if(dWork===w) setDImg(w); }); setDImg(w); }
+  // 音频
+  const da=document.getElementById('dAudio');
+  da.hidden = w.kind!=='music';
+  document.getElementById('dTrack').textContent='';
+  document.getElementById('dAudioBox').innerHTML='';
+  document.getElementById('dPlay').onclick=()=>playPreview(w);
+  document.getElementById('dPlay').textContent = w.pv ? '▶ 试听 30 秒' : '· 或 iTunes 试听 30 秒(海外)';
+  if(w.kind==='music'){
+    const kw=encodeURIComponent(w.a+' '+w.t);
+    document.getElementById('dMusicLinks').innerHTML =
+      `<a class="mbtn" href="https://music.163.com/#/search/m/?s=${kw}" target="_blank">▶ 网易云音乐 听</a>`+
+      `<a class="mbtn qq" href="https://y.qq.com/n/ryqq/search?w=${kw}" target="_blank">▶ QQ音乐 听</a>`;
+  }
+  // 视频(如有):详情页嵌入播放
+  renderVideo(w);
+  // 链接
+  document.getElementById('dLinks').innerHTML = (w.wiki||[]).slice(0,1)
+    .map(t=>`<a href="https://en.wikipedia.org/wiki/${encodeURIComponent(t)}" target="_blank">维基百科 ↗</a>`).join('');
+  document.getElementById('dActs').style.display = judging && !judged[w.id] ? 'flex':'none';
+  const uf=document.getElementById('upFile'); if(uf) uf.value='';
+  document.querySelector('.uprow').style.display = isPoem(w) ? 'none' : 'flex';  // 诗卡不需换图
+  document.getElementById('repPanel').hidden=true;
+  syncUpRow(w);
+  ov.classList.add('show');
+}
+function setDImg(w){
+  const di=document.getElementById('dImg');
+  const cr=document.getElementById('dCredit');
+  if(isPoem(w)){ di.style.cssText='background:linear-gradient(160deg,#faf6ec,#ece0cb);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:26px;text-align:center;position:relative'; di.className='verse'; di.innerHTML=verseHTML(w); cr.textContent=''; return; }
+  di.className='';
+  if(w._imgs.length){
+    const url=w._imgs[w._idx]||w._imgs[0];
+    di.style.cssText=`background-image:url("${url}")`; di.innerHTML='';
+    const user=isUserImg(url), free=isFreeImg(url);
+    di.innerHTML=`<div class="dcpr ${user?'own':(free?'ok':'no')}">${user?'我的图':(free?'自由授权':'有版权')}</div>`;
+    cr.textContent = user ? '你上传的图片(存于本机)'
+      : free ? (w.cr ? '图片:'+w.cr+' — via Wikimedia Commons' : '图片来自 Wikimedia Commons(自由授权)')
+      : '⚠ 此图可能受版权保护,仅作学习与识别用途;来源 Wikipedia';
+  } else { di.style.cssText=phStyle(w); di.innerHTML=`<div class="ph">《${w.t}》</div>`; cr.textContent=''; }
+}
+function renderVideo(w){
+  const dv=document.getElementById('dVideo');
+  if(w.video){   // 具体片段:内嵌播放
+    dv.hidden=false; dv.className='';
+    const yt=/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/))([\w-]+)/.exec(w.video);
+    dv.innerHTML = yt ? `<iframe src="https://www.youtube.com/embed/${yt[1]}" allowfullscreen loading="lazy"></iframe>`
+                      : `<video src="${w.video}" controls preload="none"></video>`;
+    return;
+  }
+  // 时基媒介:给一个永不失效的「看视频」入口(B站,国内可用)
+  const timeBased = w.kind==='film' || w.kind==='music' || ['影像·新媒体','行为','动画·漫画','大地艺术'].includes(w.cat);
+  if(timeBased){
+    dv.hidden=false; dv.className='vsearch';
+    const label = w.kind==='film'?'预告 / 片段' : w.kind==='music'?'MV / 现场' : '影像 / 记录';
+    const kw=encodeURIComponent(w.t+' '+w.a);
+    dv.innerHTML=`<a class="ytbtn" href="https://search.bilibili.com/all?keyword=${kw}" target="_blank">▶ 在 B站 看 ${label}</a>`;
+  } else { dv.hidden=true; dv.innerHTML=''; }
+}
+document.getElementById('dPass').onclick=()=>{ closeOv('detail'); judge('pass'); };
+document.getElementById('dLike').onclick=()=>{ closeOv('detail'); judge('like'); };
+document.getElementById('upFile').onchange=e=>{ const f=e.target.files&&e.target.files[0]; if(f&&dWork) fileToImg(f,dWork); };
+document.getElementById('upRm').onclick=()=>{ if(dWork) removeUserImg(dWork); };
+// 启动:载入本机上传的图,注入已初始化的作品并重绘
+IDB.all().then(m=>{ userImgs=m||{}; let any=false;
+  WORKS.forEach(w=>{ const u=userImgs[w.id]; if(u){ any=true; if(w._imgs && !w._imgs.includes(u)){ w._imgs.unshift(u); w._idx=0; } } });
+  if(any){ try{ render(); }catch(_){} if(dWork) setDImg(dWork); }
+}).catch(()=>{});
+
+/* ============ 音乐试听:iTunes 30 秒预览(JSONP) ============ */
+function playPreview(w){
+  const trackEl=document.getElementById('dTrack');
+  // 固化直链:免搜索接口(国内常被墙),音频直接走苹果 CDN
+  if(w.pv){
+    trackEl.textContent=w.t+' — 30 秒试听';
+    document.getElementById('dAudioBox').innerHTML=`<audio controls autoplay src="${w.pv}"></audio>`;
+    return;
+  }
+  trackEl.textContent='搜索音源中…';
+  const cb='itcb'+Date.now();
+  let done=false;
+  const fail=msg=>{ if(done) return; done=true; try{delete window[cb]; s.remove();}catch(_){}
+    trackEl.innerHTML=(msg||'iTunes 试听源不通')+' — 用下面「网易云 / QQ音乐」听整首 ↓'; };
+  window[cb]=data=>{
+    if(done) return; done=true; try{delete window[cb]; s.remove();}catch(_){}
+    const rs=(data.results||[]).filter(r=>r.previewUrl);
+    const tr=rs.find(r=>!/remix|live|edit|karaoke|tribute|cover/i.test(r.trackName+' '+r.collectionName)) || rs[0];
+    if(!tr){ trackEl.innerHTML='iTunes 没找到试听 — 用下面「网易云 / QQ音乐」听整首 ↓'; return; }
+    trackEl.innerHTML=`${tr.trackName} — ${tr.artistName} · <a style="color:var(--acc)" href="${tr.trackViewUrl}" target="_blank">完整版 ↗</a>`;
+    document.getElementById('dAudioBox').innerHTML=`<audio controls autoplay src="${tr.previewUrl}"></audio>`;
+  };
+  const s=document.createElement('script');
+  s.src=`https://itunes.apple.com/search?term=${encodeURIComponent(w.q||w.a+' '+w.t)}&media=music&limit=8&callback=${cb}`;
+  s.onerror=()=>fail('iTunes 试听源不通(国内常被墙)');
+  document.body.appendChild(s);
+  setTimeout(()=>fail('iTunes 试听超时(国内常被墙)'), 9000);   // 超时兜底
+}
+
+/* ============ 我的库 ============ */
+function openLibrary(){
+  const liked = WORKS.filter(w=>lib.has(w.id));
+  const body = document.getElementById('libBody');
+  if(!liked.length){ body.innerHTML='<div class="muted">还没有作品入库<br>右滑你觉得有意思的卡片</div>'; }
+  else{
+    const favW = liked.filter(w=>favs.has(w.id));
+    const item = w=>`<div class="item" data-id="${w.id}">
+        <div><div class="tt">${favs.has(w.id)?'💡 ':''}《${w.t}》</div><div class="aa">${w.a} · ${w.y}</div></div>
+        <button class="rm" data-rm="${w.id}">✕</button></div>`;
+    const cats=[...new Set(liked.map(w=>w.cat))];
+    body.innerHTML = `<div id="libTools"><button id="btnExport">导出目录 (.md)</button></div>` +
+      (favW.length ? `<div class="grp fav"><h4>💡 爆灯 · ${favW.length}</h4>${favW.map(item).join('')}</div>` : '') +
+      cats.map(c=>`<div class="grp"><h4>${c} · ${liked.filter(w=>w.cat===c).length}</h4>`+
+        liked.filter(w=>w.cat===c).map(item).join('')+`</div>`).join('');
+    document.getElementById('btnExport').onclick=exportMd;
+    body.querySelectorAll('.item').forEach(it=>it.addEventListener('click',e=>{
+      const rm=e.target.getAttribute('data-rm');
+      if(rm){ const id=Number(rm); lib.delete(id); favs.delete(id); saveL(); saveF(); delete judged[rm]; saveJ(); openLibrary(); render(); return; }
+      openDetail(byId[it.dataset.id], false);
+    }));
+  }
+  document.getElementById('library').classList.add('show');
+}
+function exportMd(){
+  const liked = WORKS.filter(w=>lib.has(w.id));
+  const cats=[...new Set(liked.map(w=>w.cat))];
+  let md=`# 我的作品库\n\n> 导出于 ${new Date().toLocaleDateString('zh-CN')} · 共 ${liked.length} 件,其中爆灯 ${favs.size} 件\n`;
+  cats.forEach(c=>{
+    md+=`\n## ${c}\n\n`;
+    liked.filter(w=>w.cat===c).forEach(w=>{
+      md += `### ${favs.has(w.id)?'💡 ':''}《${w.t}》— ${w.a}(${w.y})\n`;
+      md += w.kind==='book'
+        ? `1. ${w.bg}\n2. ${w.how}\n3. ${w.why}\n\n`
+        : `- 背景:${w.bg}\n- 方式:${w.how}\n- 意义:${w.why}\n\n`;
+    });
+  });
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(new Blob([md],{type:'text/markdown'}));
+  a.download='我的作品库.md'; a.click(); URL.revokeObjectURL(a.href);
+}
+
+/* ============ 个人属性(v1:从库里作品文本即时归纳,后续会升级) ============ */
+const ATTR = {
+  concern:[
+    {k:'时间与消逝',kw:['时间','消逝','易逝','流逝','瞬间','永恒','一瞬','转瞬','光阴','岁月','逝','短暂','稍纵'],
+      q:['一段影像、一件遗物,凭什么能替一个逝去的时刻继续活着?','正在流走的此刻,艺术能不能把它按住?','明知一切都会过去,人为什么还要拼命留住?']},
+    {k:'生死与无常',kw:['死亡','生命','临终','葬','墓','亡','余生','一生','生死','无常','枯荣','凋','殉','离世'],
+      q:['面对必然的失去,艺术能给出什么答案?','死亡是终点,还是另一种在场?','无常究竟是恐惧的根源,还是自由的开始?']},
+    {k:'记忆与遗忘',kw:['记忆','档案','历史','遗忘','纪念','证词','曾经','留下','旧','怀古','追忆','往事','回忆'],
+      q:['一段历史该由谁书写,又是谁被悄悄删掉了?','私人的记忆,如何对抗集体的失忆?','不被讲出来的创伤,会消失,还是会遗传?']},
+    {k:'身体与痛感',kw:['身体','肉','血','疼痛','裸','皮肤','肋骨','手术','伤','忍受','折磨','受刑','肉身'],
+      q:['身体要承受到哪里,才算触到了它的边界?','疼痛是私人的,还能被别人真正看见吗?','当身体成为材料,谁在受苦、谁在旁观?']},
+    {k:'权力与暴力',kw:['权力','暴力','政治','战争','独裁','监控','审查','剥削','殖民','轰炸','压迫','反抗','屠杀','统治'],
+      q:['看不见的支配,如何被显形出来?','施暴者与旁观者之间,界线到底在哪?','谁有权决定另一些人的生死与去留?']},
+    {k:'身份与自我',kw:['身份','自我','认同','血统','混血','是谁','我是','真我','面具','角色','标签'],
+      q:['一个不断被定义的人,靠什么确认"我是谁"?','"我"是别人眼中的我,还是独处时的我?','混杂的来处里,哪一部分才是真的我?']},
+    {k:'迁徙与边界',kw:['流亡','移民','迁徙','难民','旅居','漂','边界','国境','离散','跨越','签证','出走','远行'],
+      q:['一条国境线,凭什么就决定了一个人的命运?','离散的人,把"家"安放在哪里?','谁能自由通行,谁被永远拦在门外?']},
+    {k:'故土与乡愁',kw:['故乡','家园','乡愁','故国','归乡','思乡','还乡','家书','故园','游子','望乡','桑梓'],
+      q:['回不去的故乡,如何在心里重新建起来?','乡愁是对一个地方,还是对一段回不来的时光?','走得越远,故土是淡了,还是更重了?']},
+    {k:'离别与相思',kw:['离别','送别','相思','思念','别','重逢','分离','想念','别离','惜别','两地','远隔'],
+      q:['分别之后,思念靠什么维系而不消散?','送别时说不出口的,如何被一件作品替你说出?','距离究竟是冲淡了爱,还是让它更深?']},
+    {k:'劳动与阶级',kw:['劳动','工人','工厂','阶级','民工','拆迁','贫','失业','流水线','农','辛苦','底层','血汗','谋生'],
+      q:['被折叠进商品里的劳动,如何重新被看见?','一座城市的光鲜,究竟踩在谁的背上?','谁在流水线的尽头,谁在展厅的中央?']},
+    {k:'家庭与亲密',kw:['母亲','父亲','家庭','亲情','恋人','婚','妻','情人','告别','血缘','儿女','夫','亲人'],
+      q:['最近的人,为什么常常最难靠近?','爱与失去,能不能同处于一个屋檐下?','血缘到底是牵绊,还是枷锁?']},
+    {k:'孤独与自处',kw:['孤独','独','寂寞','一个人','独自','独处','孑然','幽独','冷清','空寂'],
+      q:['一个人面对世界,如何不被它吞没?','孤独是一种缺陷,还是最后的自由?','独处时的沉默里,藏着什么样的自己?']},
+    {k:'爱情与欲望',kw:['爱情','爱','欲望','情','恋','缠绵','痴','诱','肉欲','迷恋','心动','情欲'],
+      q:['爱到极处,是占有,还是成全?','欲望是自己的,还是被悄悄种下的?','炽烈过后,爱如何面对平淡与消退?']},
+    {k:'自然与生态',kw:['自然','生态','花','植物','海','天空','火山','蜂','动物','菌','山水','草木','江','月','鸟','雪'],
+      q:['人如何重新学会面对非人的世界?','一朵花、一群蜂,凭什么也能是主角?','当人类退场,自然还会记得我们吗?']},
+    {k:'隐逸与超然',kw:['隐','归隐','田园','归田','超然','出世','闲','逍遥','淡泊','幽','清静','避世','归去'],
+      q:['真正的清静,在山林里,还是在心里?','退出喧嚣,是逃避,还是另一种抵达?','"无用"的生活,是否也自有其重量?']},
+    {k:'家国与忧患',kw:['家国','忧国','爱国','山河','报国','亡国','天下','社稷','忧患','兴亡','黎民','苍生','壮士'],
+      q:['个人的命运,如何与家国的浮沉绑在一起?','面对时代的塌陷,一个人能做什么?','忧患意识,是负担,还是一种清醒?']},
+    {k:'壮志与豪情',kw:['壮志','豪情','抱负','凌云','雄心','豪迈','气魄','建功','立业','进取','登顶','远大','狂'],
+      q:['明知渺小,人为什么还要向上、向远?','壮志未酬时,如何与自己的不甘相处?','豪情是天真,还是对抗虚无的方式?']},
+    {k:'语言与意义',kw:['文字','语言','汉字','书写','阅读','符号','数字','念','读','书法','诗','言','字','写'],
+      q:['意义如何被建立,又如何被悄悄掏空?','说不出口的东西,还存在吗?','一个字、一句话,能承载多重的真实?']},
+    {k:'信仰与神圣',kw:['信仰','神圣','宗教','佛','教堂','仪式','虔诚','朝拜','冥想','愿','天','禅','神','圣','修行'],
+      q:['祛魅之后,神圣还剩下什么位置?','仪式没有了神,还剩下什么?','人为什么仍然需要跪拜与仰望?']},
+    {k:'媒介与图像',kw:['图像','媒介','屏幕','录像','监视','广告','电视','摄影','镜头','影像','直播','拍'],
+      q:['在被图像统治的世界,如何还能真正地"看"?','屏幕里的真实,和眼前的真实,哪个更真?','当一切都可被复制,原作还重要吗?']},
+    {k:'消费与虚妄',kw:['消费','商品','欲望','物','拜金','奢','品牌','空虚','浮华','虚荣','买','时尚'],
+      q:['我们买下的,究竟是物,还是被制造的欲望?','丰盛的表象之下,是谁在空虚?','当人被物包围,人还剩下多少?']},
+    {k:'技术与人',kw:['数据','算法','机器','程序','人工智能','虚拟','电子','合成','代码','技术','智能','赛博'],
+      q:['当机器也能创造,人还剩下什么不可替代?','算法比你更懂你,这是解放,还是囚禁?','数据里的那个"我",还是我吗?']},
+    {k:'性别与凝视',kw:['女性','性别','凝视','身体','女','母','娘','妇','规训','父权','阴性','她'],
+      q:['被观看的身体,能否夺回自己的目光?','"女性气质"是天生的,还是被规训出来的?','谁在看、谁被看,由谁说了算?']},
+    {k:'秩序与荒诞',kw:['荒诞','秩序','规则','制度','体制','权威','反讽','戏谑','悖','无意义','机构','官僚'],
+      q:['一本正经的规则背后,是不是一场荒诞?','意义崩塌之后,人如何自处?','荒谬,是要反抗,还是笑着接住?']},
+    {k:'童年与纯真',kw:['童年','纯真','儿童','天真','孩子','稚','童','初心','野性','长大'],
+      q:['长大,是一场获得,还是一场失去?','被规训之前的野性,还找得回来吗?','纯真一旦失去,还能假装拥有吗?']},
+  ],
+  material:[
+    {k:'光与空间',kw:['光','镜','空间','灯','投影','雾','缝','裂','洞','阴影','明暗','幽暗']},
+    {k:'声音与人声',kw:['声','人声','唱','录音','嗓','听','心跳','弦','歌','琴','鼓','回声','静默']},
+    {k:'身体与动作',kw:['身体','肉','血','裸','手','纹','站','走','坐','舞','呼吸','姿态']},
+    {k:'现成品与日常物',kw:['现成品','日常','旧衣','物品','钥匙','家具','床','椅','瓶','罐','便器','餐具','器物']},
+    {k:'织物与纤维',kw:['织物','线','布','衣','缝','红线','棉','毛毡','旗袍','绣','纱','编织','毛线']},
+    {k:'数据与算法',kw:['数据','算法','机器','程序','游戏','模型','传感','虚拟','电子','合成器','代码','屏']},
+    {k:'土石与自然物',kw:['土','石','泥','花粉','火药','沙','岩','混凝土','橡树','稻草','糖','木','水','冰','盐']},
+    {k:'影像与录像',kw:['录像','影像','屏幕','视频','电影','镜头','动画','幻灯','纪录','蒙太奇']},
+    {k:'文字与纸',kw:['文字','字','纸','书','印刷','墨','格言','日期','书法','篆','拓','手稿']},
+    {k:'金属与工业',kw:['金属','钢','铁','铜','焊','工业','机械','齿轮','不锈钢','铸','锈','管']},
+    {k:'颜料与笔触',kw:['颜料','油画','水彩','笔','画布','涂','染','色','丹青','水墨','壁画','矿物']},
+    {k:'土地与大地',kw:['大地','田','荒野','沙漠','海岸','山','原野','土地','户外','旷野']},
+    {k:'食物与气味',kw:['食','咖喱','饭','酒','茶','香','气味','厨房','烹','味','面','菜']},
+    {k:'光影与霓虹',kw:['霓虹','荧光','LED','闪','电','发光','灯箱','屏幕']},
+    {k:'废墟与残物',kw:['废墟','残','碎','废','拆','遗迹','断','尘','灰烬','破']},
+    {k:'植物与花木',kw:['花','叶','树','草','竹','梅','荷','菊','藤','枝','苔','芽']},
+  ],
+  method:[
+    {k:'行为与身体在场',kw:['行为','表演','静坐','在场','演','持续','一年','每小时','步行','绝食','忍耐']},
+    {k:'档案与收集',kw:['档案','收集','采集','整理','分类','陈列','目录','拓印','记录','编目','标本']},
+    {k:'重复与累积',kw:['重复','每天','每小时','一遍','累积','一万','一亿','循环','千遍','千','层层','叠']},
+    {k:'挪用与戏仿',kw:['挪用','戏仿','复制','伪','假','仿','冒充','放大','篡','拼贴','引用','恶搞']},
+    {k:'参与与社会介入',kw:['参与','公众','观众','社区','雇','志愿者','捐赠','协作','邀请','互动','介入','共同']},
+    {k:'装置与空间营造',kw:['装置','悬挂','铺满','弥漫','沉浸','现场','浇筑','嵌','环绕','布置','占满']},
+    {k:'极简与克制',kw:['极简','极少','留白','静默','纯','简','只','唯一','空','素','淡','省']},
+    {k:'叙事与虚构',kw:['叙事','故事','虚构','剧','旁白','讲述','梦','扮演','情节','寓言','神话']},
+    {k:'比兴与象征',kw:['比','兴','象征','隐喻','托物','借','喻','意象','寄托','以物']},
+    {k:'白描与写实',kw:['白描','写实','纪实','如实','直接','客观','素描','细节','逼真','实录']},
+    {k:'抒情与咏叹',kw:['抒情','咏','叹','歌咏','抒','情景','寓情','感怀','咏怀','长歌']},
+    {k:'对照与反讽',kw:['对照','反讽','讽','反差','对比','悖论','翻转','戏剧性','出人意料','荒诞']},
+    {k:'留白与意境',kw:['意境','留白','含蓄','空灵','言外','余味','悠远','幽','虚实','写意']},
+    {k:'解构与观念',kw:['观念','解构','拆解','质疑','悬置','概念','消解','反思','追问','命题']},
+  ],
+};
+// 每个用户由画像生成稳定但各异的种子,用来在候选问题中选变体 → 几乎不重样
+function attrSeed(a){
+  let s = a.wsum*3 + a.n*7 + a.nf*11;
+  a.concern.slice(0,4).forEach((x,i)=>{ s += x.s*(i+2)*13; });
+  (a.material[0]?[a.material[0]]:[]).forEach(x=> s += x.s*17);
+  (a.method[0]?[a.method[0]]:[]).forEach(x=> s += x.s*19);
+  return Math.abs(s);
+}
+function problemText(a){
+  const tops = a.concern.slice(0,3);
+  if(!tops.length) return '继续刷,你的问题会慢慢浮现。';
+  const seed = attrSeed(a);
+  const pair = tops.slice(0, tops.length>=2?2:1).map(x=>x.k).join('】与【');
+  const head = `你反复被【${pair}】牵动 ——`;
+  const qs = tops.map((x,i)=>{
+    const b = ATTR.concern.find(c=>c.k===x.k);
+    if(!b||!b.q||!b.q.length) return null;
+    return '· '+b.q[(seed + i*5) % b.q.length];
+  }).filter(Boolean).slice(0,3);
+  return head + '<br>' + qs.join('<br>');
+}
+function computeAttr(){
+  const liked = WORKS.filter(w=>lib.has(w.id));
+  const textOf = w => w.bg + w.how + w.why + (w.more||'') + w.cat + w.t + (w.verse||'');
+  const tally = buckets => buckets.map(b=>{
+    let s=0; liked.forEach(w=>{ const t=textOf(w); if(b.kw.some(k=>t.includes(k))) s+= favs.has(w.id)?2:1; }); // 爆灯权重加倍
+    return {k:b.k, s};
+  }).filter(x=>x.s>0).sort((a,b)=>b.s-a.s);
+  const wsum = liked.reduce((a,w)=>a+(favs.has(w.id)?2:1),0);
+  return { n:liked.length, nf:favs.size, wsum, concern:tally(ATTR.concern), material:tally(ATTR.material), method:tally(ATTR.method) };
+}
+
+/* ============ 个人(信息 + 属性) ============ */
+function openPersonal(tab){ renderInfo(); renderAttr(); switchPtab(tab||'info'); document.getElementById('person').classList.add('show'); }
+function switchPtab(t){
+  document.querySelectorAll('.ptab').forEach(b=>b.classList.toggle('on', b.dataset.tab===t));
+  document.getElementById('pInfo').hidden = t!=='info';
+  document.getElementById('pAttr').hidden = t!=='attr';
+}
+function renderInfo(){
+  const name = localStorage.getItem(LSN) || '未命名刷子';
+  document.getElementById('pInfo').innerHTML = `
+    <div class="pfield"><span class="k">昵称</span><span class="v">${name} <span class="pedit" id="pEditName">改</span></span></div>
+    <div class="pfield"><span class="k">作品库</span><span class="v">${lib.size} 件</span></div>
+    <div class="pfield"><span class="k">💡 爆灯</span><span class="v">${favs.size} 件</span></div>
+    <div class="pfield"><span class="k">累计刷过</span><span class="v">${seen} 张</span></div>
+    <div class="pfield"><span class="k">通关</span><span class="v">${rounds} 关</span></div>
+    <div class="pfield"><span class="k">当前境界</span><span class="v">${curRank()}</span></div>
+    <div class="pdanger"><button id="pReset">重置全部数据…</button></div>`;
+  document.getElementById('pEditName').onclick=()=>{
+    const n=prompt('给自己起个名字', name==='未命名刷子'?'':name);
+    if(n && n.trim()){ localStorage.setItem(LSN, n.trim()); renderInfo(); }
+  };
+  document.getElementById('pReset').onclick=hardReset;
+}
+function renderAttr(){
+  const box=document.getElementById('pAttr');
+  if(rounds<1){
+    const done=roundTotal-deck.length;
+    box.innerHTML=`<div class="alock"><div class="ico">🔒</div>
+      <h4>刷完第 1 关即可解锁</h4>
+      <p>个人属性由你库里喜欢的作品自动归纳。<br>先刷完这一关(当前 ${done}/${roundTotal}),<br>它会为你勾出:核心关怀 · 问题意识 · 材料 · 组织方法。</p></div>`;
+    return;
+  }
+  const a=computeAttr();
+  if(!a.n){ box.innerHTML=`<div class="alock"><div class="ico">🫙</div><h4>库里还没有作品</h4><p>右滑你觉得有意思的卡片,<br>属性会随之生长。</p></div>`; return; }
+  const bars = list => list.length ? list.slice(0,4).map(x=>`
+    <div class="abar"><div class="row"><b>${x.k}</b><span>${Math.round(x.s/a.wsum*100)}%</span></div>
+    <div class="track"><i style="width:${Math.round(x.s/a.wsum*100)}%"></i></div></div>`).join('') : '<div class="anote">暂无明显偏向</div>';
+  const tags = list => list.length ? '<div class="atags">'+list.slice(0,5).map(x=>`<span class="atag">${x.k}<b>${x.s}</b></span>`).join('')+'</div>' : '<div class="anote">暂无明显偏向</div>';
+  const q = problemText(a);
+  // 一句话画像:关怀 × 材料 × 方法(几乎人人不同)
+  const sig = (a.concern[0] && a.material[0] && a.method[0])
+    ? `你像是一个用【${a.material[0].k}】、以【${a.method[0].k}】,去追问【${a.concern[0].k}】的人。`
+    : '再多刷一些,你的创作气质会更清晰。';
+  box.innerHTML=`
+    <div class="asig">${sig}</div>
+    <div class="asec"><div class="at">核 心 关 怀</div>${bars(a.concern)}</div>
+    <div class="asec"><div class="at">问 题 意 识</div><div class="aq">${q}</div></div>
+    <div class="asec"><div class="at">材 料</div>${tags(a.material)}</div>
+    <div class="asec"><div class="at">组 织 方 法</div>${tags(a.method)}</div>
+    <div class="anote">基于库里 ${a.n} 件作品即时归纳${a.nf?`,其中 ${a.nf} 件爆灯按双倍权重计入`:''} · 刷得越多越准</div>`;
+}
+function hardReset(){
+  if(!confirm('⚠️ 重置会清空你的全部数据:作品库、荣誉、闯关进度、个人属性,且无法恢复。\n\n确定要继续吗?')) return;
+  if(!confirm('⚠️ 再确认一次。\n你喜欢过的所有作品、所有荣誉都会永久消失。\n建议先去「我的库」导出目录留档。\n\n仍然要清空吗?')) return;
+  const t=prompt('最后一步:请输入「清空」二字确认(输入其它任何内容都会取消)。');
+  if(t!=='清空'){ alert('已取消,你的数据安然无恙。'); return; }
+  judged={}; undoStack=[]; lib.clear(); favs.clear(); passed.clear(); rounds=0; seen=0;
+  saveJ(); saveL(); saveF(); saveP(); saveR(); saveS();
+  closeOv('person'); buildDeck(); render();
+  alert('已全部清空,从第 1 关重新开始。');
+}
+
+/* ============ 荣誉墙 ============ */
+function openHonor(){
+  const big = Math.floor(rounds/5);
+  let html = `<div class="hstat">
+    <div class="box"><div class="n">${rounds}</div><div class="l">通关数</div></div>
+    <div class="box rank"><div class="n">${curRank()}</div><div class="l">当前境界</div></div>
+    <div class="box"><div class="n">${big}</div><div class="l">大荣誉</div></div>
+  </div>`;
+  if(!rounds){ html+='<div class="muted">还没通关任何一关<br>刷完一整轮即可击败第一个心魔</div>'; }
+  else{
+    html+='<div id="medalGrid">';
+    for(let n=rounds;n>=1;n--){
+      const isBig = n%5===0;
+      html+=`<div class="mcell${isBig?' big':''}">
+        <div class="e">${isBig?'🏆':medalOf(n)}</div>
+        <div class="lv">第 ${n} 关</div>
+        <div class="bn">${isBig?rankOf(n/5):bossOf(n)}</div>
+      </div>`;
+    }
+    html+='</div>';
+  }
+  document.getElementById('honorWall').innerHTML=html;
+  document.getElementById('honor').classList.add('show');
+}
+
+/* ============ 全局绑定 ============ */
+function closeOv(id){ document.getElementById(id).classList.remove('show'); if(id==='detail') document.getElementById('dAudioBox').innerHTML=''; }
+document.querySelectorAll('[data-close]').forEach(b=>b.onclick=()=>closeOv(b.dataset.close));
+document.getElementById('btnLike').onclick=()=>judge('like');
+document.getElementById('btnPass').onclick=()=>judge('pass');
+document.getElementById('btnFav').onclick=()=>judge('fav');
+document.getElementById('btnUndo').onclick=undo;
+document.getElementById('btnLib').onclick=openLibrary;
+document.getElementById('btnHonor').onclick=openHonor;
+document.getElementById('btnPerson').onclick=()=>openPersonal('info');
+document.querySelectorAll('.ptab').forEach(b=>b.onclick=()=>switchPtab(b.dataset.tab));
+document.getElementById('btnEmptyLib').onclick=openLibrary;
+document.getElementById('btnEmptyReset').onclick=hardReset;
+document.addEventListener('keydown',e=>{
+  if(document.querySelector('.overlay.show')){ if(e.key==='Escape'){closeOv('detail');closeOv('library');closeOv('honor');closeOv('person');} return; }
+  if(document.getElementById('victory').classList.contains('show')){ if(e.key==='Enter') document.getElementById('vNext').click(); return; }
+  if(e.key==='ArrowRight') judge('like');
+  else if(e.key==='ArrowLeft') judge('pass');
+  else if(e.key==='ArrowUp') judge('fav');
+  else if(e.key==='z') undo();
+});
+
+buildDeck(); render();
+</script>
+</body>
+</html>
