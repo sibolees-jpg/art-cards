@@ -580,9 +580,11 @@ function isPoem(w){ return w.kind==='poem' || !!w.verse; }
 function verseHTML(w){
   const lines=(w.verse||'').split('\n').filter(x=>x.trim());
   const long = lines.length>6 || lines.some(l=>l.length>16);
-  return `<div class="vseal">诗</div>
+  const seal = w.kind==='life' ? '暖' : '诗';
+  const sig = w.kind==='life' ? `—《${w.t}》` : `— ${w.a}《${w.t}》`;
+  return `<div class="vseal">${seal}</div>
     <div class="vtext${long?' long':''}">${lines.join('<br>')}</div>
-    <div class="vsig">— ${w.a}《${w.t}》</div>`;
+    <div class="vsig">${sig}</div>`;
 }
 // 书籍卡:三句话总结(无 背景/方式/意义 标签);其余门类保留原标签
 function linesHTML(w){
