@@ -36,6 +36,9 @@ header .hbtn b{color:var(--like)}
 #roundLabel{font-size:13px;color:var(--acc);font-weight:600;letter-spacing:.04em;text-align:center;flex:1}
 #roundLabel small{color:var(--sub);font-weight:400;margin-left:4px}
 /* 闯关进度条 */
+#modebar{display:flex;gap:7px;padding:5px 16px 3px;justify-content:center}
+.mseg{font-size:12px;color:var(--sub);background:var(--card2);border:none;border-radius:14px;padding:5px 18px;transition:all .15s;cursor:pointer}
+.mseg.on{background:var(--acc);color:#fff;font-weight:600;box-shadow:0 2px 8px rgba(154,124,56,.3)}
 #pbar{height:5px;margin:2px 16px 2px;background:var(--card2);border-radius:3px;overflow:hidden}
 #pfill{display:block;height:100%;width:0;border-radius:3px;background:linear-gradient(90deg,var(--acc),#c8a24e);transition:width .3s ease}
 #stage{flex:1;position:relative;display:flex;align-items:center;justify-content:center;min-height:0}
@@ -262,6 +265,10 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
     <button class="hbtn" id="btnLearn">🎓 <b id="learnCount">0</b></button>
     <button class="hbtn" id="btnHonor">🏆 <b id="honorCount">0</b></button>
   </header>
+  <div id="modebar">
+    <button class="mseg" data-mode="all">🌏 综合</button>
+    <button class="mseg" data-mode="visual">🎨 视觉专业</button>
+  </div>
   <div id="pbar"><i id="pfill"></i></div>
   <main id="stage">
     <div id="empty" hidden>
@@ -372,7 +379,11 @@ document.write('<scr'+'ipt src="data.js?v='+Math.floor(Date.now()/3600000)+'"><\
 </script>
 <script>
 /* ============ 状态 ============ */
-const LSJ='ac_judged', LSI='ac_imgcache2', LSL='ac_lib', LSR='ac_rounds';
+let MODE = localStorage.getItem('ac_mode')||'all';   // 'all'综合 | 'visual'视觉专业
+function inMode(w){ return MODE==='visual' ? (w.kind==='art' && w.cat!=='美育案例') : true; }
+const _sfx = ()=> MODE==='visual' ? '_v' : '';       // 综合版沿用原键(兼容老进度),专业版独立
+let LSJ='ac_judged'+_sfx(), LSL='ac_lib'+_sfx(), LSR='ac_rounds'+_sfx();
+const LSI='ac_imgcache2';
 // 闯关:每轮击败一个心魔(小 boss),每 5 关晋升一重境界(大荣誉)
 const BOSSES=['从众','猎奇','眼疲','偏食','附庸','速朽','麻木','成见','喜新','怀旧'];
 const RANKS=['入境','会心','独造','观道','化境','通神','入神','天工'];
@@ -380,7 +391,7 @@ const BMEDAL=['🎖️','🏵️','⚔️','🛡️','🗡️','🎯','🔥','�
 let rounds = +(localStorage.getItem(LSR)||0);            // 已通关轮数
 let roundTotal = 0;
 const saveR = ()=>localStorage.setItem(LSR, rounds);
-const LSS='ac_seen', LSN='ac_name';
+let LSS='ac_seen'+_sfx(); const LSN='ac_name';
 let seen = +(localStorage.getItem(LSS)||0);              // 累计刷过张数
 const saveS = ()=>localStorage.setItem(LSS, seen);
 const bossOf = n => BOSSES[(n-1)%BOSSES.length];
@@ -393,9 +404,9 @@ let judged = JSON.parse(localStorage.getItem(LSJ)||'{}');   // 本轮判断 id -
 let lib = new Set(JSON.parse(localStorage.getItem(LSL)||'null') ||
   Object.keys(judged).filter(k=>judged[k]==='like').map(Number));
 let imgCache = JSON.parse(localStorage.getItem(LSI)||'{}'); // wikiTitle -> url|''
-const LSFAV='ac_favs';
+let LSFAV='ac_favs'+_sfx();
 let favs = new Set(JSON.parse(localStorage.getItem(LSFAV)||'[]')); // 爆灯:比喜欢更喜欢
-const LSPASS='ac_passed';
+let LSPASS='ac_passed'+_sfx();
 let passed = new Set(JSON.parse(localStorage.getItem(LSPASS)||'[]')); // 没意思(永久排除,不再出现,也不入库)
 const saveP = ()=>localStorage.setItem(LSPASS, JSON.stringify([...passed]));
 let deck = [];           // 待刷的 work 引用队列
@@ -452,7 +463,7 @@ const saveF = ()=>localStorage.setItem(LSFAV, JSON.stringify([...favs]));
 /* ============ 牌堆:每关 200 张,打乱 + 避免同类连续 ============ */
 const ROUND_SIZE = 200;
 function buildDeck(){
-  let pool = WORKS.filter(w=>!judged[w.id] && !lib.has(w.id) && !passed.has(w.id)); // 入库的、已排除的、本关已判的都不再发
+  let pool = WORKS.filter(w=>inMode(w) && !judged[w.id] && !lib.has(w.id) && !passed.has(w.id)); // 入库的、已排除的、本关已判的都不再发
   for(let i=pool.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [pool[i],pool[j]]=[pool[j],pool[i]]; }
   for(let i=1;i<pool.length;i++){
     if(pool[i].cat===pool[i-1].cat){
@@ -778,7 +789,7 @@ function burst(el){
   el.querySelector('.imgbox').appendChild(b);
 }
 /* ============ 学习模式:间隔复习(独立于主刷卡流程) ============ */
-const LSLEARN='ac_learn';
+let LSLEARN='ac_learn'+_sfx();
 let learn={}; try{learn=JSON.parse(localStorage.getItem(LSLEARN)||'{}')}catch(_){}
 let learnMode=false;
 const LSTAGES=[3,7,30,90];  // 天
@@ -822,6 +833,29 @@ function learnJudge(r){
 document.getElementById('btnLearn').onclick=()=>{ if(learnMode){ exitLearn(); } else enterLearn(); };
 // 老库存回填:已喜欢但未排期的,错峰排入(0-3天)
 setTimeout(()=>{ let n=0; [...lib].forEach(id=>{ if(!learn[id]){ learn[id]={due:Date.now()+Math.random()*3*864e5,stage:0}; n++; } }); if(n) saveLearn(); updLearnCount(); },800);
+
+/* ============ 双模式:综合版 / 视觉专业版(进度各自独立) ============ */
+function loadState(){
+  const x=_sfx();
+  LSJ='ac_judged'+x; LSL='ac_lib'+x; LSR='ac_rounds'+x; LSS='ac_seen'+x; LSFAV='ac_favs'+x; LSPASS='ac_passed'+x; LSLEARN='ac_learn'+x;
+  judged=JSON.parse(localStorage.getItem(LSJ)||'{}');
+  lib=new Set(JSON.parse(localStorage.getItem(LSL)||'[]'));
+  favs=new Set(JSON.parse(localStorage.getItem(LSFAV)||'[]'));
+  passed=new Set(JSON.parse(localStorage.getItem(LSPASS)||'[]'));
+  rounds=+(localStorage.getItem(LSR)||0);
+  seen=+(localStorage.getItem(LSS)||0);
+  try{learn=JSON.parse(localStorage.getItem(LSLEARN)||'{}')}catch(_){learn={}}
+}
+function switchMode(m){
+  if(m===MODE) return;
+  MODE=m; localStorage.setItem('ac_mode',m);
+  loadState();
+  learnMode=false; if(typeof undoStack!=='undefined') undoStack.length=0;
+  document.querySelectorAll('.mseg').forEach(b=>b.classList.toggle('on', b.dataset.mode===m));
+  buildDeck(); render(); updLearnCount();
+  toast(m==='visual'?'🎨 视觉专业版 · 只看纯视觉作品':'🌏 综合版');
+}
+document.querySelectorAll('.mseg').forEach(b=>{ b.classList.toggle('on', b.dataset.mode===MODE); b.onclick=()=>switchMode(b.dataset.mode); });
 
 function judge(r){
   if(!deck.length) return;
