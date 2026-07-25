@@ -252,6 +252,24 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 #libTools{display:flex;gap:12px;margin:6px 0 20px}
 #libTools button{flex:1;background:var(--card);padding:11px;border-radius:12px;font-size:14px;color:var(--txt)}
 .muted{color:var(--sub);text-align:center;padding:40px 20px;line-height:2}
+#learn .obody{padding:16px;display:flex;flex-direction:column;align-items:center}
+#lcProg{font-size:13px;color:var(--sub);margin-bottom:12px;letter-spacing:.05em}
+#lcFace{width:100%;max-width:430px}
+.lcimg{width:100%;aspect-ratio:3/4;max-height:54vh;background-size:cover;background-position:center;background-color:var(--card2);border-radius:18px;display:flex;align-items:center;justify-content:center;text-align:center;padding:24px;font-family:"Songti SC","SimSun",serif;font-size:24px;font-weight:600;color:rgba(40,35,25,.55)}
+.lcverse{background:linear-gradient(160deg,#faf6ec,#ece0cb);border-radius:18px;padding:28px 22px;text-align:center;position:relative;min-height:40vh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px}
+#lcReveal{width:100%;max-width:430px;margin-top:16px}
+#lcReveal h3{font-size:20px;text-align:center}
+#lcReveal .lcmeta{color:var(--acc);font-size:14px;margin:5px 0 12px;text-align:center}
+#lcReveal p{font-size:14px;line-height:1.7;color:var(--sub);margin:6px 0}
+.lbtns{display:flex;gap:14px;margin-top:20px;width:100%;max-width:430px}
+.lbtns[hidden]{display:none}
+.lbtns button{flex:1;padding:14px;border-radius:14px;font-size:16px;background:var(--card2);font-weight:600}
+#lcFlip{background:var(--card);border:1px solid var(--line);color:var(--txt)}
+#lcGot{background:var(--acc);color:#fff}
+#lcForget{background:var(--card);border:1px solid var(--line);color:var(--sub)}
+.strow{display:flex;align-items:center;gap:10px;margin-top:18px;flex-wrap:wrap}
+.stbtn{font-size:13px;color:var(--acc);background:none;border:1px solid var(--acc);border-radius:12px;padding:7px 14px;cursor:pointer}
+.stbtn.on{background:var(--acc);color:#fff}
 </style>
 </head>
 <body>
@@ -342,6 +360,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
       <section id="dMoreSec"><h4>延伸</h4><p id="dMore"></p></section>
       <div class="links" id="dLinks"></div>
       <div id="dCredit"></div>
+      <div class="strow"><button class="stbtn" id="dStudy">📚 加入学习</button><span class="uptip">加入后按 1/3/7/30/90 天回来考你 · 与点赞无关</span></div>
       <div class="uprow">
         <label class="upbtn">📷 换成我的图片<input type="file" id="upFile" accept="image/*" hidden></label>
         <button class="uprm" id="upRm" hidden>移除</button>
@@ -371,6 +390,21 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 <div class="overlay" id="library">
   <div class="obar"><h3>我的库</h3><button class="close" data-close="library">✕</button></div>
   <div class="obody"><div id="libBody"></div></div>
+</div>
+
+<div class="overlay" id="learn">
+  <div class="obar"><h3>学习 · 记忆复习</h3><button class="close" data-close="learn">✕</button></div>
+  <div class="obody">
+    <div id="learnEmpty" class="muted" hidden>学习清单还是空的。<br>浏览作品时,在详情页点「📚 加入学习」,<br>它们会按 1 / 3 / 7 / 30 / 90 天的节奏回来考你。<br><small style="opacity:.65">这里和点赞、收藏完全独立。</small></div>
+    <div id="learnCard" hidden>
+      <div id="lcProg"></div>
+      <div id="lcFace"></div>
+      <div id="lcReveal" hidden></div>
+      <div id="lcFlipRow" class="lbtns"><button id="lcFlip">👁 显示答案</button></div>
+      <div id="lcGrade" class="lbtns" hidden><button id="lcForget">🔁 没记住</button><button id="lcGot">✅ 记住了</button></div>
+    </div>
+    <div id="learnDone" class="muted" hidden>今天的复习都过完了 🎉<br>共复习 <span id="learnDoneN">0</span> 张,下次到期再来。<br><small style="opacity:.65">学习清单共 <span id="learnTotal">0</span> 张</small></div>
+  </div>
 </div>
 
 <script>
@@ -790,69 +824,69 @@ function burst(el){
   const b=document.createElement('div'); b.className='burst'; b.textContent='💡';
   el.querySelector('.imgbox').appendChild(b);
 }
-/* ============ 学习模式:间隔复习(独立于主刷卡流程) ============ */
-let LSLEARN='ac_learn'+_sfx();
+/* ============ 学习模式:独立的记忆闪卡工具(全局,不与刷卡评价/点赞/收藏连接) ============ */
+const LSTUDY='ac_study', LSLEARN='ac_learn';
+let study=new Set(JSON.parse(localStorage.getItem(LSTUDY)||'[]'));
 let learn={}; try{learn=JSON.parse(localStorage.getItem(LSLEARN)||'{}')}catch(_){}
-let learnMode=false;
-const LSTAGES=[3,7,30,90];  // 天
+const LSTAGES=[1,3,7,30,90];  // 天:没记住→1天;每记住一次往后延
+const saveStudy=()=>localStorage.setItem(LSTUDY,JSON.stringify([...study]));
 const saveLearn=()=>localStorage.setItem(LSLEARN,JSON.stringify(learn));
-function learnSchedule(id,stage){
-  if(learn[id] && stage<=(learn[id].stage||0) && learn[id].due>Date.now()) return;
-  learn[id]={due:Date.now()+LSTAGES[Math.min(stage,3)]*864e5, stage:stage};
-  saveLearn(); updLearnCount();
-}
-function learnDue(){
-  const now=Date.now();
-  return [...lib].filter(id=>learn[id] && learn[id].due<=now).map(id=>WORKS.find(w=>w.id===id)).filter(Boolean);
-}
+function studyAdd(id){ if(study.has(id))return; study.add(id); learn[id]={due:Date.now(),stage:0}; saveStudy(); saveLearn(); updLearnCount(); }
+function studyRemove(id){ study.delete(id); delete learn[id]; saveStudy(); saveLearn(); updLearnCount(); }
+function learnDue(){ const now=Date.now(); return [...study].filter(id=>learn[id]&&learn[id].due<=now).map(id=>WORKS.find(w=>w.id===id)).filter(Boolean); }
 function updLearnCount(){ const el=document.getElementById('learnCount'); if(el) el.textContent=learnDue().length; }
-function enterLearn(){
-  const due=learnDue();
-  if(!due.length){ toast('暂无到期复习卡——右滑喜欢的作品,3天后会回来考你'); return; }
-  for(let i=due.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [due[i],due[j]]=[due[j],due[i]]; }
-  learnMode=true; deck=due.slice(0,20);
-  document.getElementById('roundLabel').textContent='🎓 复习 '+deck.length+' 张';
-  render(); toast('学习模式:还记得它有意思在哪吗?右滑记得·左滑忘了');
+let lQueue=[], lIdx=0, lDoneN=0;
+function openLearn(){
+  lQueue=learnDue();
+  for(let i=lQueue.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [lQueue[i],lQueue[j]]=[lQueue[j],lQueue[i]]; }
+  lIdx=0; lDoneN=0;
+  document.getElementById('learn').classList.add('show');
+  renderLearn();
 }
-function exitLearn(){
-  learnMode=false;
-  document.getElementById('roundLabel').textContent='第 '+(rounds+1)+' 关';
-  buildDeck(); render();
-  toast('复习完成!');
+function renderLearn(){
+  const empty=document.getElementById('learnEmpty'), card=document.getElementById('learnCard'), done=document.getElementById('learnDone');
+  const tot=document.getElementById('learnTotal'); if(tot) tot.textContent=study.size;
+  if(!study.size){ empty.hidden=false; card.hidden=true; done.hidden=true; return; }
+  if(lIdx>=lQueue.length){ empty.hidden=true; card.hidden=true; done.hidden=false; document.getElementById('learnDoneN').textContent=lDoneN; return; }
+  empty.hidden=true; done.hidden=true; card.hidden=false;
+  const w=lQueue[lIdx];
+  document.getElementById('lcProg').textContent='复习 '+(lIdx+1)+' / '+lQueue.length;
+  const face=document.getElementById('lcFace');
+  if(isPoem(w)){ face.innerHTML='<div class="lcverse">'+verseHTML(w)+'</div>'; }
+  else { const im=(userImgs[w.id]||w.img||''); face.innerHTML = im ? '<div class="lcimg" style="background-image:url('+im+')"></div>' : '<div class="lcimg ph">'+w.t+'</div>'; }
+  const rev=document.getElementById('lcReveal'); rev.hidden=true;
+  rev.innerHTML='<h3>'+w.t+'</h3><div class="lcmeta">'+(w.a||'')+(w.y?' · '+w.y:'')+'</div>'+(isPoem(w)?'':('<p>'+w.bg+'</p><p>'+w.how+'</p><p>'+w.why+'</p>'));
+  document.getElementById('lcFlipRow').hidden=false;
+  document.getElementById('lcGrade').hidden=true;
 }
-function learnJudge(r){
-  const top=stage.querySelector('.card:not(.back)');
-  const w=deck[0]; if(!w) return;
-  const st=(learn[w.id]&&learn[w.id].stage)||0;
-  if(r==='like'||r==='fav') learn[w.id]={due:Date.now()+LSTAGES[Math.min(st+1,3)]*864e5, stage:Math.min(st+1,3)};
-  else if(r==='pass') learn[w.id]={due:Date.now()+864e5, stage:0};   // 忘了:明天再来
-  else learn[w.id]={due:Date.now()+36e5, stage:st};                   // 跳过:1小时后
-  saveLearn();
-  const cls=r==='fav'?'flyU':(r==='like'?'flyR':(r==='pass'?'flyL':'flyD'));
-  const fin=()=>{ deck.shift(); if(!deck.length){ updLearnCount(); exitLearn(); } else render(); };
-  if(top){ top.classList.add(cls); setTimeout(fin,240); } else fin();
+function learnFlip(){ document.getElementById('lcReveal').hidden=false; document.getElementById('lcFlipRow').hidden=true; document.getElementById('lcGrade').hidden=false; }
+function learnGrade(ok){
+  const w=lQueue[lIdx]; const st=(learn[w.id]&&learn[w.id].stage)||0;
+  if(ok) learn[w.id]={due:Date.now()+LSTAGES[Math.min(st+1,4)]*864e5, stage:Math.min(st+1,4)};
+  else   learn[w.id]={due:Date.now()+LSTAGES[0]*864e5, stage:0};
+  saveLearn(); lDoneN++; lIdx++; updLearnCount(); renderLearn();
 }
-document.getElementById('btnLearn').onclick=()=>{ if(learnMode){ exitLearn(); } else enterLearn(); };
-// 老库存回填:已喜欢但未排期的,错峰排入(0-3天)
-setTimeout(()=>{ let n=0; [...lib].forEach(id=>{ if(!learn[id]){ learn[id]={due:Date.now()+Math.random()*3*864e5,stage:0}; n++; } }); if(n) saveLearn(); updLearnCount(); },800);
+document.getElementById('btnLearn').onclick=openLearn;
+document.getElementById('lcFlip').onclick=learnFlip;
+document.getElementById('lcForget').onclick=()=>learnGrade(false);
+document.getElementById('lcGot').onclick=()=>learnGrade(true);
 
 /* ============ 双模式:综合版 / 视觉专业版(进度各自独立) ============ */
 function loadState(){
   const x=_sfx();
-  LSJ='ac_judged'+x; LSL='ac_lib'+x; LSR='ac_rounds'+x; LSS='ac_seen'+x; LSFAV='ac_favs'+x; LSPASS='ac_passed'+x; LSLEARN='ac_learn'+x;
+  LSJ='ac_judged'+x; LSL='ac_lib'+x; LSR='ac_rounds'+x; LSS='ac_seen'+x; LSFAV='ac_favs'+x; LSPASS='ac_passed'+x;
   judged=JSON.parse(localStorage.getItem(LSJ)||'{}');
   lib=new Set(JSON.parse(localStorage.getItem(LSL)||'[]'));
   favs=new Set(JSON.parse(localStorage.getItem(LSFAV)||'[]'));
   passed=new Set(JSON.parse(localStorage.getItem(LSPASS)||'[]'));
   rounds=+(localStorage.getItem(LSR)||0);
   seen=+(localStorage.getItem(LSS)||0);
-  try{learn=JSON.parse(localStorage.getItem(LSLEARN)||'{}')}catch(_){learn={}}
 }
 function switchMode(m){
   if(m===MODE) return;
   MODE=m; localStorage.setItem('ac_mode',m);
   loadState();
-  learnMode=false; if(typeof undoStack!=='undefined') undoStack.length=0;
+  if(typeof undoStack!=='undefined') undoStack.length=0;
   document.querySelectorAll('.mseg').forEach(b=>b.classList.toggle('on', b.dataset.mode===m));
   buildDeck(); render(); updLearnCount();
   toast(m==='visual'?'🎨 视觉专业版 · 只看纯视觉作品':'🌏 综合版');
@@ -861,7 +895,6 @@ document.querySelectorAll('.mseg').forEach(b=>{ b.classList.toggle('on', b.datas
 
 function judge(r){
   if(!deck.length) return;
-  if(learnMode){ learnJudge(r); return; }
   const top = stage.querySelector('.card:not(.back)');
   if(top && (top.classList.contains('flyL')||top.classList.contains('flyR')||top.classList.contains('flyU')||top.classList.contains('flyD'))) return; // 卡片正在飞出,忽略重复判定
   const w = deck[0];
@@ -873,7 +906,7 @@ function judge(r){
   }
   judged[w.id]=r; saveJ();
   seen++; saveS();
-  if(r==='like'||r==='fav'){ lib.add(w.id); saveL(); learnSchedule(w.id,0); }
+  if(r==='like'||r==='fav'){ lib.add(w.id); saveL(); }
   if(r==='pass'){ passed.add(w.id); saveP(); }   // 没意思:永久排除,以后不再出现
   if(r==='fav'){ favs.add(w.id); saveF(); if(top) burst(top); }
   undoStack.push({id:w.id, r});
@@ -932,6 +965,9 @@ function openDetail(w, judging){
   const uf=document.getElementById('upFile'); if(uf) uf.value='';
   document.querySelector('.uprow').style.display = isPoem(w) ? 'none' : 'flex';  // 诗卡不需换图
   document.getElementById('repPanel').hidden=true;
+  const ds=document.getElementById('dStudy');
+  const setDS=()=>{ ds.className='stbtn'+(study.has(w.id)?' on':''); ds.textContent=study.has(w.id)?'✓ 已在学习清单':'📚 加入学习'; };
+  setDS(); ds.onclick=()=>{ if(study.has(w.id)) studyRemove(w.id); else studyAdd(w.id); setDS(); toast(study.has(w.id)?'已加入学习 📚':'已移出学习清单'); };
   syncUpRow(w);
   ov.classList.add('show');
 }
@@ -1271,7 +1307,7 @@ document.querySelectorAll('.ptab').forEach(b=>b.onclick=()=>switchPtab(b.dataset
 document.getElementById('btnEmptyLib').onclick=openLibrary;
 document.getElementById('btnEmptyReset').onclick=hardReset;
 document.addEventListener('keydown',e=>{
-  if(document.querySelector('.overlay.show')){ if(e.key==='Escape'){closeOv('detail');closeOv('library');closeOv('honor');closeOv('person');} return; }
+  if(document.querySelector('.overlay.show')){ if(e.key==='Escape'){closeOv('detail');closeOv('library');closeOv('honor');closeOv('person');closeOv('learn');} return; }
   if(document.getElementById('victory').classList.contains('show')){ if(e.key==='Enter') document.getElementById('vNext').click(); return; }
   if(e.key==='ArrowRight') judge('like');
   else if(e.key==='ArrowLeft') judge('pass');
