@@ -176,6 +176,25 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .mwmeta{padding:9px 11px}
 .mwmeta b{font-size:14px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .mwmeta small{color:var(--sub);font-size:12px}
+.mwstat{display:flex;gap:9px;padding:0 11px 9px;font-size:11px;color:var(--sub);flex-wrap:wrap}
+.mwstat span{white-space:nowrap;font-variant-numeric:tabular-nums}
+.mwstat .mv b{color:var(--txt)}
+/* 观众反馈面板(本地演示) */
+.stpanel{background:var(--card2);border-radius:14px;padding:15px 15px 7px;margin:2px 0 18px}
+.stviews{font-size:13px;color:var(--sub);margin-bottom:14px;display:flex;align-items:baseline;gap:8px}
+.stviews b{font-size:26px;color:var(--txt);font-weight:700;font-variant-numeric:tabular-nums;letter-spacing:.02em}
+.strow{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.stlab{flex:0 0 74px;font-size:13px;color:var(--txt)}
+.stbarwrap{flex:1;height:9px;background:var(--line);border-radius:6px;overflow:hidden;display:block}
+.stbar{display:block;height:100%;border-radius:6px;transition:width .4s ease}
+.stbar.like{background:var(--like)}.stbar.dislike{background:var(--pass)}.stbar.star{background:#c8992e}
+.stnum{flex:0 0 96px;text-align:right;font-size:12px;color:var(--sub);font-variant-numeric:tabular-nums}
+.stnum b{color:var(--txt);font-size:14px}
+.stnote{font-size:11px;color:var(--sub);line-height:1.6;border-top:1px dashed var(--line);padding-top:10px;margin-top:2px}
+.stsim{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:9px}
+.stsim button{flex:1;min-width:56px;padding:8px 0;border-radius:9px;border:1px solid var(--line);background:var(--card);color:var(--txt);font-size:12px;cursor:pointer}
+.stsim button:active{opacity:.7}
+.stsim button.clr{flex:0 0 100%;color:var(--sub);background:transparent;border-style:dashed}
 .weImg{display:flex;align-items:center;justify-content:center;width:100%;min-height:200px;background:var(--card2);border-radius:16px;overflow:hidden;margin-bottom:14px;cursor:pointer;color:var(--sub);font-size:14px}
 .weImg img{width:100%;max-height:44vh;object-fit:contain}
 .weInput{display:block;width:100%;padding:12px 14px;margin-bottom:12px;border-radius:12px;border:1px solid var(--line);background:var(--card);font-size:15px;font-family:inherit;box-sizing:border-box;color:var(--txt);resize:vertical}
@@ -383,6 +402,8 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
       <button class="webtn2" id="weRefine">✨ 自动提炼成三句</button>
       <p class="uptip" style="margin:2px 0 0">自动提炼是本机把整段智能分成三句,请再润色一下。</p>
     </div>
+    <div class="wesec" id="weStatSec" hidden>观众反馈 · 数据</div>
+    <div class="stpanel" id="weStats" hidden></div>
     <div class="weBtns"><button id="weSave">保存</button><button id="weDel" hidden>删除</button></div>
     <p class="uptip" style="text-align:center;margin-top:14px">图片存在你手机本地,不上传服务器。</p>
   </div>
@@ -1062,6 +1083,21 @@ document.getElementById('upRm').onclick=()=>{ if(dWork) removeUserImg(dWork); };
 let myworks = (()=>{ try{return JSON.parse(localStorage.getItem('ac_myworks')||'[]')}catch(_){return []} })();
 let mwImgs = {};
 const saveMW = ()=>localStorage.setItem('ac_myworks', JSON.stringify(myworks));
+/* ===== 作品观众反馈统计 =====
+   目前是「本地演示版」:数据只存本机 localStorage(ac_mwstats)。
+   接云端后台时,只需把 mwStat() 换成读远端、mwBump() 换成写远端,这里是唯一改动点。 */
+let mwStats = (()=>{ try{return JSON.parse(localStorage.getItem('ac_mwstats')||'{}')}catch(_){return {}} })();
+const saveMWStats = ()=>localStorage.setItem('ac_mwstats', JSON.stringify(mwStats));
+function mwStat(id){                      // ← 后端接入的唯一读取口
+  const s=mwStats[id]||{}, like=s.like||0, dislike=s.dislike||0, star=s.star||0, views=s.views||0;
+  const tot=like+dislike+star, pct=n=>tot?Math.round(n/tot*100):0;
+  return {views,like,dislike,star,tot,likePct:pct(like),dislikePct:pct(dislike),starPct:pct(star),
+          rate: views?Math.round(tot/views*100):0};
+}
+function mwBump(id,key){                   // ← 后端接入的唯一写入口
+  const s=mwStats[id]||(mwStats[id]={views:0,like:0,dislike:0,star:0});
+  s[key]=(s[key]||0)+1; saveMWStats();
+}
 // 启动:载入本机图,按键前缀拆分卡片换图与作品集图
 IDB.all().then(m=>{ userImgs={}; mwImgs={};
   for(const k in (m||{})){ if(String(k).startsWith('mw_')) mwImgs[k.slice(3)]=m[k]; else userImgs[k]=m[k]; }
@@ -1278,7 +1314,11 @@ function renderWorks(){
   const grid = myworks.map(wk=>{
     const im = mwImgs[wk.id]||'';
     const meta=[wk.medium,wk.y].filter(Boolean).join(' · ');
-    return `<div class="mwtile" data-mw="${wk.id}"><div class="mwimg" style="${im?`background-image:url(${im})`:''}">${im?'':'无图'}</div><div class="mwmeta"><b>${(wk.t||'未命名').replace(/</g,'&lt;')}</b><small>${meta.replace(/</g,'&lt;')}</small></div></div>`;
+    const s=mwStat(wk.id);
+    const stat = s.views||s.tot
+      ? `<div class="mwstat"><span class="mv">👁 <b>${s.views}</b></span><span>❤️ ${s.like}·${s.likePct}%</span><span>👎 ${s.dislike}·${s.dislikePct}%</span><span>💥 ${s.star}·${s.starPct}%</span></div>`
+      : `<div class="mwstat"><span>还没有观众反馈</span></div>`;
+    return `<div class="mwtile" data-mw="${wk.id}"><div class="mwimg" style="${im?`background-image:url(${im})`:''}">${im?'':'无图'}</div><div class="mwmeta"><b>${(wk.t||'未命名').replace(/</g,'&lt;')}</b><small>${meta.replace(/</g,'&lt;')}</small></div>${stat}</div>`;
   }).join('');
   el.innerHTML = `<div class="mwhead"><div class="mwt"><b>${name.replace(/</g,'&lt;')}</b> 的作品 · 共 ${myworks.length} 件</div><button id="mwAdd">＋ 上传作品</button></div>`
     + (myworks.length ? `<div class="mwgrid">${grid}</div>` : `<div class="muted">还没有上传作品。<br>点右上「＋ 上传作品」,<br>建立你自己的作品集,随时拿出来给别人看。</div>`);
@@ -1302,7 +1342,31 @@ function openWorkEditor(id){
   if(im){ prev.src=im; prev.hidden=false; hint.hidden=true; } else { prev.hidden=true; prev.removeAttribute('src'); hint.hidden=false; }
   document.getElementById('weDel').hidden = !wk;
   document.getElementById('weFile').value='';
+  renderWeStats(wk?wk.id:null);
   document.getElementById('workEditor').classList.add('show');
+}
+// 观众反馈面板(仅已保存的作品显示;本地演示数据)
+function renderWeStats(id){
+  const sec=document.getElementById('weStatSec'), box=document.getElementById('weStats');
+  if(id==null){ sec.hidden=true; box.hidden=true; return; }
+  sec.hidden=false; box.hidden=false;
+  const s=mwStat(id);
+  const bar=(lab,cls,n,pct)=>`<div class="strow"><span class="stlab">${lab}</span><span class="stbarwrap"><span class="stbar ${cls}" style="width:${pct}%"></span></span><span class="stnum"><b>${n}</b> · ${pct}%</span></div>`;
+  box.innerHTML =
+    `<div class="stviews">👁 累计浏览 <b>${s.views}</b> 人次${s.views?` · 互动率 ${s.rate}%`:''}</div>`
+    + bar('❤️ 喜欢','like',s.like,s.likePct)
+    + bar('👎 不喜欢','dislike',s.dislike,s.dislikePct)
+    + bar('💥 爆灯','star',s.star,s.starPct)
+    + `<div class="stsim">
+         <button data-sim="views" data-id="${id}">＋浏览</button>
+         <button data-sim="like" data-id="${id}">＋喜欢</button>
+         <button data-sim="dislike" data-id="${id}">＋不喜欢</button>
+         <button data-sim="star" data-id="${id}">＋爆灯</button>
+         <button class="clr" data-clr="${id}">清零这件作品的数据</button>
+       </div>`
+    + `<div class="stnote">百分比按「喜欢+不喜欢+爆灯」的总反馈算。<br>这是<b>本地演示</b>:数字只存这台设备,上面的按钮用来模拟观众反馈、预览效果。接入云端后台后,会自动换成全网真实访客的数据。</div>`;
+  box.querySelectorAll('[data-sim]').forEach(b=>b.onclick=()=>{ mwBump(b.dataset.id,b.dataset.sim); renderWeStats(id); try{renderWorks();}catch(_){} });
+  box.querySelector('[data-clr]').onclick=()=>{ delete mwStats[id]; saveMWStats(); renderWeStats(id); try{renderWorks();}catch(_){} };
 }
 document.getElementById('weFile').onchange=e=>{
   const f=e.target.files&&e.target.files[0]; if(!f) return;
