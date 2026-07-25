@@ -313,8 +313,27 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .strow{display:flex;align-items:center;gap:10px;margin-top:18px;flex-wrap:wrap}
 .stbtn{font-size:13px;color:var(--acc);background:none;border:1px solid var(--acc);border-radius:12px;padding:7px 14px;cursor:pointer}
 .stbtn.on{background:var(--acc);color:#fff}
-/* ===== 签到 ===== */
-#sign .obody{padding:18px 16px 40px;max-width:460px;margin:0 auto;width:100%}
+/* ===== 签到 · 毛玻璃门 ===== */
+#signGate{position:fixed;inset:0;z-index:60;display:none;align-items:center;justify-content:center;padding:30px;
+  background:rgba(246,244,238,.5);backdrop-filter:blur(20px) saturate(115%);-webkit-backdrop-filter:blur(20px) saturate(115%);
+  opacity:0;transition:opacity .35s ease}
+#signGate.show{display:flex;opacity:1}
+.sgcard{width:100%;max-width:300px;text-align:center;padding:32px 26px 24px;border-radius:26px;
+  background:rgba(255,255,255,.66);border:1px solid rgba(255,255,255,.75);
+  box-shadow:0 20px 56px rgba(60,50,25,.13);
+  backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);
+  transform:translateY(10px) scale(.97);transition:transform .4s cubic-bezier(.2,.9,.25,1)}
+#signGate.show .sgcard{transform:none}
+.sgday{font-size:12px;color:var(--sub);letter-spacing:.14em}
+.sghi{font-size:20px;font-weight:600;color:var(--txt);margin:9px 0 4px}
+.sgstk{font-size:12.5px;color:var(--sub);min-height:18px;margin-bottom:22px}
+.sggo{width:100%;padding:14px;border-radius:16px;border:none;background:var(--acc);color:#fff;
+  font-size:17px;font-weight:600;letter-spacing:.22em;cursor:pointer;
+  box-shadow:0 6px 18px rgba(154,124,56,.28);transition:transform .12s}
+.sggo:active{transform:scale(.97)}
+.sggo.done{background:rgba(255,255,255,.5);color:var(--acc);box-shadow:none;border:1px solid rgba(154,124,56,.35)}
+.sgskip{width:100%;margin-top:12px;background:none;border:none;color:var(--sub);font-size:12.5px;cursor:pointer;padding:6px}
+/* ===== 签到 · 个人栏内的日历 ===== */
 .sgtop{background:linear-gradient(150deg,#faf6ec,#efe4cd);border-radius:18px;padding:20px 18px;text-align:center;margin-bottom:16px}
 .sgstreak{font-size:15px;color:#6b5626}
 .sgstreak b{font-size:38px;font-weight:700;color:var(--acc);margin:0 5px;font-variant-numeric:tabular-nums;line-height:1.1}
@@ -341,8 +360,8 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .sgnote{font-size:11px;color:var(--sub);line-height:1.7;border-top:1px dashed var(--line);padding-top:11px;margin-top:14px}
 .sgearn{font-size:12px;color:var(--sub);line-height:1.9;background:var(--card2);border-radius:12px;padding:12px 14px;margin-top:14px}
 .sgearn b{color:var(--txt)}
-#signBadge{position:relative}
-#signBadge.due::after{content:"";position:absolute;top:3px;right:3px;width:7px;height:7px;border-radius:50%;background:var(--like)}
+.ptab.due{position:relative}
+.ptab.due::after{content:"";position:absolute;top:5px;right:6px;width:6px;height:6px;border-radius:50%;background:var(--like)}
 </style>
 </head>
 <body>
@@ -351,7 +370,6 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
     <div class="hleft">
       <button class="hbtn" id="btnLib">♥ <b id="libCount">0</b></button>
       <button class="hbtn" id="btnPerson">👤</button>
-      <button class="hbtn" id="signBadge">📅 <b id="signStreak">0</b></button>
     </div>
     <div id="roundLabel">第 1 关</div>
     <button class="hbtn" id="btnLearn">🎓 <b id="learnCount">0</b></button>
@@ -407,10 +425,29 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
       <button class="ptab on" data-tab="info">个人信息</button>
       <button class="ptab" data-tab="works">我的作品</button>
       <button class="ptab" data-tab="attr">个人属性</button>
+      <button class="ptab" data-tab="sign">签到</button>
     </div>
     <div id="pInfo" class="ptabbody"></div>
     <div id="pWorks" class="ptabbody" hidden></div>
     <div id="pAttr" class="ptabbody" hidden></div>
+    <div id="pSign" class="ptabbody" hidden>
+      <div class="sgtop">
+        <div class="sgstreak">已连续签到 <b id="sgStreak">0</b> 天</div>
+        <div class="sgsub" id="sgSub"></div>
+        <button class="sgbtn" id="sgDo">今天签到</button>
+      </div>
+      <div class="sgpts">刷卡积分 <b id="sgPts">0</b> 分</div>
+      <div class="sgcalhd"><button id="sgPrev">‹</button><b id="sgMon"></b><button id="sgNext">›</button></div>
+      <div class="sgweek"><span>日</span><span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span></div>
+      <div class="sgcal" id="sgCal"></div>
+      <div class="sglegend">
+        <span><em style="background:var(--acc)"></em>已签到</span>
+        <span><em style="background:#c8992e"></em>补签</span>
+        <span><em style="background:var(--card2);border:1px dashed var(--line)"></em>漏签(可补)</span>
+      </div>
+      <div class="sgearn" id="sgEarn"></div>
+      <div class="sgnote">补签消耗积分,只能补最近 30 天内漏掉的日子。补上之后<b>连续记录会重新接上</b>——积分就是这么用的。</div>
+    </div>
   </div>
 </div>
 
@@ -488,28 +525,14 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
   </div>
 </div>
 
-<!-- 签到 -->
-<div class="overlay" id="sign">
-  <div class="obar"><h3>签到</h3><button class="close" data-close="sign">✕</button></div>
-  <div class="obody">
-    <div class="sgtop">
-      <div class="sgstreak">已连续签到 <b id="sgStreak">0</b> 天</div>
-      <div class="sgsub" id="sgSub"></div>
-      <button class="sgbtn" id="sgDo">今天签到</button>
-    </div>
-    <div class="sgpts">刷卡积分 <b id="sgPts">0</b> 分</div>
-    <div class="sgcalhd">
-      <button id="sgPrev">‹</button><b id="sgMon"></b><button id="sgNext">›</button>
-    </div>
-    <div class="sgweek"><span>日</span><span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span></div>
-    <div class="sgcal" id="sgCal"></div>
-    <div class="sglegend">
-      <span><em style="background:var(--acc)"></em>已签到</span>
-      <span><em style="background:#c8992e"></em>补签</span>
-      <span><em style="background:var(--card2);border:1px dashed var(--line)"></em>漏签(可补)</span>
-    </div>
-    <div class="sgearn" id="sgEarn"></div>
-    <div class="sgnote">补签消耗积分,只能补最近 30 天内漏掉的日子。补上之后<b>连续记录会重新接上</b>——积分就是这么用的。</div>
+<!-- 每天第一次进入:毛玻璃签到 -->
+<div id="signGate">
+  <div class="sgcard">
+    <div class="sgday" id="sgGateDay"></div>
+    <div class="sghi" id="sgGateHi">今天还没签到</div>
+    <div class="sgstk" id="sgGateStk"></div>
+    <button class="sggo" id="sgGateGo">签 到</button>
+    <button class="sgskip" id="sgGateSkip">先去刷卡</button>
   </div>
 </div>
 
@@ -990,13 +1013,39 @@ function makeUp(k){
   saveSign(); renderSign(); updSignBadge();
   toast(`已补签 ${k.slice(5)} · 花 ${MAKEUP_COST} 分`);
 }
-function updSignBadge(){
-  const b=document.getElementById('signStreak'); if(b) b.textContent=streakNow();
-  const badge=document.getElementById('signBadge'); if(badge) badge.classList.toggle('due', !signedToday());
+function updSignBadge(){   // 「个人」栏里签到页签上的小红点
+  const t=document.querySelector('.ptab[data-tab="sign"]');
+  if(t) t.classList.toggle('due', !signedToday());
 }
+/* 每天第一次进入:毛玻璃的一下,只做一件事——签到 */
+function openGate(){
+  if(signedToday()) return;
+  const st=streakNow();
+  const d=new Date(), wk=['日','一','二','三','四','五','六'][d.getDay()];
+  document.getElementById('sgGateDay').textContent=`${d.getMonth()+1} 月 ${d.getDate()} 日 · 星期${wk}`;
+  document.getElementById('sgGateHi').textContent='今天还没签到';
+  document.getElementById('sgGateStk').textContent = st>0?`已连续 ${st} 天,别断在今天`:'从今天开始攒连续';
+  const go=document.getElementById('sgGateGo');
+  go.textContent='签 到'; go.classList.remove('done'); go.disabled=false;
+  document.getElementById('signGate').classList.add('show');
+}
+function closeGate(){ document.getElementById('signGate').classList.remove('show'); }
+document.getElementById('sgGateGo').onclick=()=>{
+  if(!doSign()) { closeGate(); return; }
+  const st=streakNow();
+  document.getElementById('sgGateHi').textContent='签到成功';
+  document.getElementById('sgGateStk').textContent=`已连续 ${st} 天 · 积分 ${sign.p} 分`;
+  const go=document.getElementById('sgGateGo');
+  go.textContent='已签到 ✓'; go.classList.add('done'); go.disabled=true;
+  try{ renderSign(); }catch(_){}
+  setTimeout(closeGate, 1100);
+};
+document.getElementById('sgGateSkip').onclick=closeGate;
+document.getElementById('signGate').onclick=e=>{ if(e.target.id==='signGate') closeGate(); };
 let sgView=null;   // 日历当前显示的月份
-function openSign(){ sgView=new Date(); sgView.setDate(1); renderSign(); document.getElementById('sign').classList.add('show'); }
 function renderSign(){
+  if(!document.getElementById('sgCal')) return;
+  if(!sgView){ sgView=new Date(); sgView.setDate(1); }
   const st=streakNow(), done=signedToday();
   document.getElementById('sgStreak').textContent=st;
   const tot=Object.keys(sign.d).length, mk=Object.values(sign.d).filter(v=>v===2).length;
@@ -1034,7 +1083,6 @@ function renderSign(){
 document.getElementById('sgDo').onclick=()=>{ if(doSign()) renderSign(); };
 document.getElementById('sgPrev').onclick=()=>{ sgView.setMonth(sgView.getMonth()-1); renderSign(); };
 document.getElementById('sgNext').onclick=()=>{ sgView.setMonth(sgView.getMonth()+1); renderSign(); };
-document.getElementById('signBadge').onclick=openSign;
 
 /* ============ 学习模式:独立的记忆闪卡工具(全局,不与刷卡评价/点赞/收藏连接) ============ */
 const LSTUDY='ac_study', LSLEARN='ac_learn';
@@ -1443,12 +1491,14 @@ function computeAttr(){
 }
 
 /* ============ 个人(信息 + 属性) ============ */
-function openPersonal(tab){ renderInfo(); renderAttr(); renderWorks(); switchPtab(tab||'info'); document.getElementById('person').classList.add('show'); }
+function openPersonal(tab){ renderInfo(); renderAttr(); renderWorks(); renderSign(); switchPtab(tab||'info'); document.getElementById('person').classList.add('show'); }
 function switchPtab(t){
   document.querySelectorAll('.ptab').forEach(b=>b.classList.toggle('on', b.dataset.tab===t));
   document.getElementById('pInfo').hidden = t!=='info';
   document.getElementById('pWorks').hidden = t!=='works';
   document.getElementById('pAttr').hidden = t!=='attr';
+  document.getElementById('pSign').hidden = t!=='sign';
+  if(t==='sign') renderSign();
 }
 /* ============ 我的作品:个人作品集(本机存储,可展示) ============ */
 function renderWorks(){
@@ -1665,7 +1715,8 @@ document.querySelectorAll('.ptab').forEach(b=>b.onclick=()=>switchPtab(b.dataset
 document.getElementById('btnEmptyLib').onclick=openLibrary;
 document.getElementById('btnEmptyReset').onclick=hardReset;
 document.addEventListener('keydown',e=>{
-  if(document.querySelector('.overlay.show')){ if(e.key==='Escape'){closeOv('detail');closeOv('library');closeOv('honor');closeOv('person');closeOv('learn');closeOv('workEditor');closeOv('sign');} return; }
+  if(document.getElementById('signGate').classList.contains('show')){ if(e.key==='Escape') closeGate(); return; }
+  if(document.querySelector('.overlay.show')){ if(e.key==='Escape'){closeOv('detail');closeOv('library');closeOv('honor');closeOv('person');closeOv('learn');closeOv('workEditor');} return; }
   if(document.getElementById('victory').classList.contains('show')){ if(e.key==='Enter') document.getElementById('vNext').click(); return; }
   if(e.key==='ArrowRight') judge('like');
   else if(e.key==='ArrowLeft') judge('pass');
@@ -1676,7 +1727,7 @@ document.addEventListener('keydown',e=>{
 buildDeck(); render();
 // 每天第一次打开:自动弹签到面板(签过的日子不再打扰)
 updSignBadge();
-if(!signedToday()) setTimeout(openSign, 700);
+if(!signedToday()) setTimeout(openGate, 600);
 </script>
 </body>
 </html>
