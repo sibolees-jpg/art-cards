@@ -166,6 +166,23 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .ptab{flex:1;padding:10px;border-radius:12px;background:var(--card);color:var(--sub);font-size:14px;border:1px solid var(--line)}
 .ptab.on{background:var(--acc);color:#fff;font-weight:600;border-color:var(--acc)}
 .ptabbody{padding:16px 20px 44px;max-width:640px;margin:0 auto;width:100%}
+.mwhead{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;gap:10px}
+.mwhead .mwt{font-size:14px}
+.mwhead button{font-size:13px;background:var(--acc);color:#fff;padding:8px 16px;border-radius:12px;font-weight:600;white-space:nowrap}
+.mwgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.mwtile{background:var(--card);border-radius:14px;overflow:hidden;box-shadow:0 2px 10px rgba(40,35,20,.08);cursor:pointer}
+.mwtile:active{opacity:.8}
+.mwimg{aspect-ratio:1;background-size:cover;background-position:center;background-color:var(--card2);display:flex;align-items:center;justify-content:center;color:var(--sub);font-size:13px}
+.mwmeta{padding:9px 11px}
+.mwmeta b{font-size:14px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mwmeta small{color:var(--sub);font-size:12px}
+.weImg{display:flex;align-items:center;justify-content:center;width:100%;min-height:200px;background:var(--card2);border-radius:16px;overflow:hidden;margin-bottom:14px;cursor:pointer;color:var(--sub);font-size:14px}
+.weImg img{width:100%;max-height:44vh;object-fit:contain}
+.weInput{display:block;width:100%;padding:12px 14px;margin-bottom:12px;border-radius:12px;border:1px solid var(--line);background:var(--card);font-size:15px;font-family:inherit;box-sizing:border-box;color:var(--txt);resize:vertical}
+.weBtns{display:flex;gap:12px;margin-top:6px}
+.weBtns button{flex:1;padding:13px;border-radius:14px;font-size:16px;font-weight:600}
+#weSave{background:var(--acc);color:#fff}
+#weDel{background:var(--card);border:1px solid var(--like);color:var(--like);flex:0 0 90px}
 .pfield{display:flex;justify-content:space-between;align-items:center;padding:13px 2px;border-bottom:1px solid var(--line);font-size:15px}
 .pfield .k{color:var(--sub)}
 .pfield .v{color:var(--txt);font-weight:600}
@@ -331,10 +348,25 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
   <div class="obody">
     <div class="ptabs">
       <button class="ptab on" data-tab="info">个人信息</button>
+      <button class="ptab" data-tab="works">我的作品</button>
       <button class="ptab" data-tab="attr">个人属性</button>
     </div>
     <div id="pInfo" class="ptabbody"></div>
+    <div id="pWorks" class="ptabbody" hidden></div>
     <div id="pAttr" class="ptabbody" hidden></div>
+  </div>
+</div>
+
+<div class="overlay" id="workEditor">
+  <div class="obar"><h3 id="weTitle">上传作品</h3><button class="close" data-close="workEditor">✕</button></div>
+  <div class="obody" style="padding:20px;max-width:520px;margin:0 auto;width:100%">
+    <label class="weImg" id="wePick"><img id="wePreview" hidden alt=""><span id="wePickHint">＋ 点此选择作品图片</span><input type="file" id="weFile" accept="image/*" hidden></label>
+    <input class="weInput" id="weT" placeholder="作品标题" maxlength="40">
+    <input class="weInput" id="weMedium" placeholder="形式 / 材质(如 布面油画 · 装置 · 摄影)" maxlength="30">
+    <input class="weInput" id="weY" placeholder="年份(如 2024)" maxlength="20">
+    <textarea class="weInput" id="weDesc" rows="3" placeholder="一句话说明(可选)" maxlength="120"></textarea>
+    <div class="weBtns"><button id="weSave">保存</button><button id="weDel" hidden>删除</button></div>
+    <p class="uptip" style="text-align:center;margin-top:14px">图片存在你手机本地,不上传服务器。</p>
   </div>
 </div>
 
@@ -1008,10 +1040,17 @@ document.getElementById('dPass').onclick=()=>{ closeOv('detail'); judge('pass');
 document.getElementById('dLike').onclick=()=>{ closeOv('detail'); judge('like'); };
 document.getElementById('upFile').onchange=e=>{ const f=e.target.files&&e.target.files[0]; if(f&&dWork) fileToImg(f,dWork); };
 document.getElementById('upRm').onclick=()=>{ if(dWork) removeUserImg(dWork); };
-// 启动:载入本机上传的图,注入已初始化的作品并重绘
-IDB.all().then(m=>{ userImgs=m||{}; let any=false;
+// 我的作品(个人作品集,图存 IndexedDB 前缀 mw_,元数据存 localStorage)
+let myworks = (()=>{ try{return JSON.parse(localStorage.getItem('ac_myworks')||'[]')}catch(_){return []} })();
+let mwImgs = {};
+const saveMW = ()=>localStorage.setItem('ac_myworks', JSON.stringify(myworks));
+// 启动:载入本机图,按键前缀拆分卡片换图与作品集图
+IDB.all().then(m=>{ userImgs={}; mwImgs={};
+  for(const k in (m||{})){ if(String(k).startsWith('mw_')) mwImgs[k.slice(3)]=m[k]; else userImgs[k]=m[k]; }
+  let any=false;
   WORKS.forEach(w=>{ const u=userImgs[w.id]; if(u){ any=true; if(w._imgs && !w._imgs.includes(u)){ w._imgs.unshift(u); w._idx=0; } } });
   if(any){ try{ render(); }catch(_){} if(dWork) setDImg(dWork); }
+  try{ renderWorks(); }catch(_){}
 }).catch(()=>{});
 
 /* ============ 音乐试听:iTunes 30 秒预览(JSONP) ============ */
@@ -1207,12 +1246,72 @@ function computeAttr(){
 }
 
 /* ============ 个人(信息 + 属性) ============ */
-function openPersonal(tab){ renderInfo(); renderAttr(); switchPtab(tab||'info'); document.getElementById('person').classList.add('show'); }
+function openPersonal(tab){ renderInfo(); renderAttr(); renderWorks(); switchPtab(tab||'info'); document.getElementById('person').classList.add('show'); }
 function switchPtab(t){
   document.querySelectorAll('.ptab').forEach(b=>b.classList.toggle('on', b.dataset.tab===t));
   document.getElementById('pInfo').hidden = t!=='info';
+  document.getElementById('pWorks').hidden = t!=='works';
   document.getElementById('pAttr').hidden = t!=='attr';
 }
+/* ============ 我的作品:个人作品集(本机存储,可展示) ============ */
+function renderWorks(){
+  const el=document.getElementById('pWorks'); if(!el) return;
+  const name = localStorage.getItem(LSN) || '未命名刷子';
+  const grid = myworks.map(wk=>{
+    const im = mwImgs[wk.id]||'';
+    const meta=[wk.medium,wk.y].filter(Boolean).join(' · ');
+    return `<div class="mwtile" data-mw="${wk.id}"><div class="mwimg" style="${im?`background-image:url(${im})`:''}">${im?'':'无图'}</div><div class="mwmeta"><b>${(wk.t||'未命名').replace(/</g,'&lt;')}</b><small>${meta.replace(/</g,'&lt;')}</small></div></div>`;
+  }).join('');
+  el.innerHTML = `<div class="mwhead"><div class="mwt"><b>${name.replace(/</g,'&lt;')}</b> 的作品 · 共 ${myworks.length} 件</div><button id="mwAdd">＋ 上传作品</button></div>`
+    + (myworks.length ? `<div class="mwgrid">${grid}</div>` : `<div class="muted">还没有上传作品。<br>点右上「＋ 上传作品」,<br>建立你自己的作品集,随时拿出来给别人看。</div>`);
+  document.getElementById('mwAdd').onclick=()=>openWorkEditor(null);
+  el.querySelectorAll('.mwtile').forEach(t=>t.onclick=()=>openWorkEditor(t.dataset.mw));
+}
+let weEditing=null, wePendingImg=null;
+function openWorkEditor(id){
+  weEditing=id; wePendingImg=null;
+  const wk = id ? myworks.find(x=>String(x.id)===String(id)) : null;
+  document.getElementById('weTitle').textContent = wk?'编辑作品':'上传作品';
+  document.getElementById('weT').value = wk?(wk.t||''):'';
+  document.getElementById('weMedium').value = wk?(wk.medium||''):'';
+  document.getElementById('weY').value = wk?(wk.y||''):'';
+  document.getElementById('weDesc').value = wk?(wk.desc||''):'';
+  const prev=document.getElementById('wePreview'), hint=document.getElementById('wePickHint');
+  const im = wk?mwImgs[wk.id]:'';
+  if(im){ prev.src=im; prev.hidden=false; hint.hidden=true; } else { prev.hidden=true; prev.removeAttribute('src'); hint.hidden=false; }
+  document.getElementById('weDel').hidden = !wk;
+  document.getElementById('weFile').value='';
+  document.getElementById('workEditor').classList.add('show');
+}
+document.getElementById('weFile').onchange=e=>{
+  const f=e.target.files&&e.target.files[0]; if(!f) return;
+  const rd=new FileReader(); rd.onload=()=>{ const im=new Image(); im.onload=()=>{
+    const max=1400, sc=Math.min(1,max/Math.max(im.width,im.height));
+    const cv=document.createElement('canvas'); cv.width=Math.round(im.width*sc); cv.height=Math.round(im.height*sc);
+    cv.getContext('2d').drawImage(im,0,0,cv.width,cv.height);
+    wePendingImg=cv.toDataURL('image/jpeg',0.88);
+    const prev=document.getElementById('wePreview'); prev.src=wePendingImg; prev.hidden=false; document.getElementById('wePickHint').hidden=true;
+  }; im.src=rd.result; }; rd.readAsDataURL(f);
+};
+document.getElementById('weSave').onclick=async ()=>{
+  const t=document.getElementById('weT').value.trim();
+  const im = wePendingImg || (weEditing?mwImgs[weEditing]:null);
+  if(!im){ toast('请先选择作品图片'); return; }
+  if(!t){ toast('给作品起个标题'); return; }
+  let id=weEditing;
+  if(!id){ id=Date.now(); myworks.unshift({id,t:'',medium:'',y:'',desc:''}); }
+  const wk=myworks.find(x=>String(x.id)===String(id));
+  wk.t=t; wk.medium=document.getElementById('weMedium').value.trim(); wk.y=document.getElementById('weY').value.trim(); wk.desc=document.getElementById('weDesc').value.trim();
+  if(wePendingImg){ mwImgs[id]=wePendingImg; try{ await IDB.put('mw_'+id, wePendingImg); }catch(_){ toast('图片保存失败,可能空间不足'); } }
+  saveMW(); closeOv('workEditor'); renderWorks(); toast('已保存 ✓');
+};
+document.getElementById('weDel').onclick=async ()=>{
+  if(!weEditing) return;
+  if(!confirm('删除这件作品?此操作不可恢复。')) return;
+  myworks=myworks.filter(x=>String(x.id)!==String(weEditing));
+  delete mwImgs[weEditing]; try{ await IDB.del('mw_'+weEditing); }catch(_){}
+  saveMW(); closeOv('workEditor'); renderWorks();
+};
 function renderInfo(){
   const name = localStorage.getItem(LSN) || '未命名刷子';
   document.getElementById('pInfo').innerHTML = `
@@ -1307,7 +1406,7 @@ document.querySelectorAll('.ptab').forEach(b=>b.onclick=()=>switchPtab(b.dataset
 document.getElementById('btnEmptyLib').onclick=openLibrary;
 document.getElementById('btnEmptyReset').onclick=hardReset;
 document.addEventListener('keydown',e=>{
-  if(document.querySelector('.overlay.show')){ if(e.key==='Escape'){closeOv('detail');closeOv('library');closeOv('honor');closeOv('person');closeOv('learn');} return; }
+  if(document.querySelector('.overlay.show')){ if(e.key==='Escape'){closeOv('detail');closeOv('library');closeOv('honor');closeOv('person');closeOv('learn');closeOv('workEditor');} return; }
   if(document.getElementById('victory').classList.contains('show')){ if(e.key==='Enter') document.getElementById('vNext').click(); return; }
   if(e.key==='ArrowRight') judge('like');
   else if(e.key==='ArrowLeft') judge('pass');
