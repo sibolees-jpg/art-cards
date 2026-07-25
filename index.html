@@ -1056,7 +1056,7 @@ function renderSign(){
   btn.disabled = done;
   document.getElementById('sgPts').textContent=sign.p||0;
   document.getElementById('sgEarn').innerHTML=
-    `<b>积分怎么来:</b>每评价一张卡 +1 · 爆灯 +3 · 学习模式复习一张 +2<br>`+
+    `<b>积分怎么来:</b>每评价一张卡 +1(爆灯也是 +1,不额外加分) · 学习模式复习一张 +2<br>`+
     `每天签到 +10 · 连续满 7 天再 +20 · 连续满 30 天再 +50<br>`+
     `<b>补签:</b>${MAKEUP_COST} 分 / 天`;
   // 日历
@@ -1170,7 +1170,7 @@ function judge(r){
   if(r==='like'||r==='fav'){ lib.add(w.id); saveL(); }
   if(r==='pass'){ passed.add(w.id); saveP(); }   // 没意思:永久排除,以后不再出现
   if(r==='fav'){ favs.add(w.id); saveF(); if(top) burst(top); }
-  addPts(r==='fav'?3:1);                        // 刷卡攒积分:爆灯 +3,其余 +1(用于补签)
+  addPts(1);                                    // 刷卡攒积分:一律 +1。爆灯不额外加分,否则会有人为刷分乱爆灯,爆灯就失真了
   undoStack.push({id:w.id, r});
   const cls = r==='fav'?'flyU':(r==='like'?'flyR':'flyL');
   const delay = r==='fav'?540:240;   // 爆灯多留一会儿看动画
