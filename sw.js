@@ -1,5 +1,5 @@
 /* 艺术卡片 Service Worker —— 离线可用 + 图片缓存 */
-const VER = 'ac-v30';
+const VER = 'ac-v31';
 const SHELL = VER + '-shell';
 const IMG = VER + '-img';
 const APP = [
