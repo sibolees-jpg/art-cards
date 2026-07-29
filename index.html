@@ -161,6 +161,29 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .mcell .bn{font-size:12px;color:var(--txt);margin-top:2px}
 .mcell.big .bn{color:var(--acc);font-weight:700}
 #honorWall .muted{color:var(--sub);text-align:center;padding:30px}
+/* 探索地图 */
+#expHead{display:flex;align-items:center;gap:16px;margin-bottom:16px}
+#expHead .ep{flex:none;width:92px;height:92px;border-radius:50%;background:var(--card);border:2px solid var(--acc);display:flex;flex-direction:column;align-items:center;justify-content:center}
+#expHead .ep b{font-size:22px;color:var(--acc)}
+#expHead .ep span{font-size:11px;color:var(--sub)}
+#expHead .es{font-size:13px;color:var(--txt);line-height:1.7}
+#expHead .es em{color:var(--acc);font-style:normal;font-weight:700}
+#expHead .es small{color:var(--sub)}
+.cont{background:var(--card);border:1px solid var(--line);border-radius:16px;margin-bottom:12px;overflow:hidden}
+.cont.fog{background:#e7e4dc;opacity:.75}
+.chead{display:flex;justify-content:space-between;align-items:center;padding:10px 14px 4px}
+.chead .cn{font-size:14px;font-weight:700}
+.chead .cp{font-size:12px;color:var(--sub)}
+.regs{padding:2px 12px 12px}
+.rlab{font-size:11px;color:var(--sub);margin:7px 2px 2px;display:flex;justify-content:space-between}
+.mdots{line-height:0}
+.mdot{display:inline-block;width:9px;height:9px;border-radius:50%;margin:2.2px;background:#dbd7cc}
+.cont.fog .mdot{background:#d2cec2}
+.mdot.on{cursor:pointer}
+.mdot.fav{box-shadow:0 0 0 1.6px #c9a227}
+.legacy{margin:6px 0 30px}
+.legacy summary{font-size:13px;color:var(--sub);padding:8px 4px;cursor:pointer}
+.legacy #medalGrid{margin-top:10px}
 /* 个人 */
 .ptabs{display:flex;gap:8px;padding:14px 18px 0;max-width:640px;margin:0 auto;width:100%}
 .ptab{flex:1;padding:10px;border-radius:12px;background:var(--card);color:var(--sub);font-size:14px;border:1px solid var(--line)}
@@ -406,7 +429,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
     </div>
     <div id="roundLabel">第 1 关</div>
     <button class="hbtn" id="btnLearn">🎓 <b id="learnCount">0</b></button>
-    <button class="hbtn" id="btnHonor">🏆 <b id="honorCount">0</b></button>
+    <button class="hbtn" id="btnHonor">🗺 <b id="honorCount">0%</b></button>
   </header>
   <div id="modebar">
     <button class="mseg" data-mode="all">🌏 综合</button>
@@ -446,7 +469,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 
 <!-- 荣誉墙 -->
 <div class="overlay" id="honor">
-  <div class="obar"><h3>荣誉墙</h3><button class="close" data-close="honor">✕</button></div>
+  <div class="obar"><h3>探索地图</h3><button class="close" data-close="honor">✕</button></div>
   <div class="obody"><div id="honorWall"></div></div>
 </div>
 
@@ -905,7 +928,7 @@ function updateHUD(){
   document.getElementById('pfill').style.width = (roundTotal? done/roundTotal*100 : 0)+'%';
   document.getElementById('roundLabel').innerHTML = `第 ${rounds+1} 关 <small>${done}/${roundTotal}</small>`;
   document.getElementById('libCount').textContent = lib.size;
-  document.getElementById('honorCount').textContent = rounds;
+  var _ep=expModeTotal?expModeCount/expModeTotal*100:0; document.getElementById('honorCount').textContent=(_ep>0&&_ep<10?_ep.toFixed(1):Math.round(_ep))+'%';
   document.getElementById('btnPerson').classList.toggle('unlocked', rounds>=1);
 }
 /* ── 通关 ── */
@@ -1430,6 +1453,7 @@ function loadState(){
   passed=new Set(JSON.parse(localStorage.getItem(LSPASS)||'[]'));
   rounds=+(localStorage.getItem(LSR)||0);
   seen=+(localStorage.getItem(LSS)||0);
+  loadExplored();
 }
 function switchMode(m){
   if(m===MODE) return;
@@ -1454,6 +1478,7 @@ function judge(r){
     return;
   }
   judged[w.id]=r; saveJ();
+  expMark(w);                                    // 探索地图:判过即点亮
   seen++; saveS();
   if(r==='like'||r==='fav'){ lib.add(w.id); saveL(); }
   if(r==='pass'){ passed.add(w.id); saveP(); }   // 没意思:永久排除,以后不再出现
@@ -1964,30 +1989,126 @@ function hardReset(){
   alert('已全部清空,从第 1 关重新开始。');
 }
 
-/* ============ 荣誉墙 ============ */
-function openHonor(){
-  const big = Math.floor(rounds/5);
-  let html = `<div class="hstat">
-    <div class="box"><div class="n">${rounds}</div><div class="l">通关数</div></div>
-    <div class="box rank"><div class="n">${curRank()}</div><div class="l">当前境界</div></div>
-    <div class="box"><div class="n">${big}</div><div class="l">大荣誉</div></div>
-  </div>`;
-  if(!rounds){ html+='<div class="muted">还没通关任何一关<br>刷完一整轮即可击败第一个心魔</div>'; }
-  else{
-    html+='<div id="medalGrid">';
-    for(let n=rounds;n>=1;n--){
-      const isBig = n%5===0;
-      html+=`<div class="mcell${isBig?' big':''}">
-        <div class="e">${isBig?'🏆':medalOf(n)}</div>
-        <div class="lv">第 ${n} 关</div>
-        <div class="bn">${isBig?rankOf(n/5):bossOf(n)}</div>
-      </div>`;
-    }
-    html+='</div>';
+/* ============ 探索地图(战争迷雾):刷过才点亮,个人版图不断扩张 ============ */
+let LSE='ac_explored', explored=new Set(), expModeCount=0;
+function loadExplored(){
+  LSE='ac_explored'+_sfx();
+  explored=new Set(JSON.parse(localStorage.getItem(LSE)||'[]'));
+  // 老用户播种:历史上判过的(入库+排除)都算已探索
+  if(!explored.size&&(lib.size||passed.size)){
+    lib.forEach(id=>explored.add(id)); passed.forEach(id=>explored.add(id)); saveE();
   }
-  document.getElementById('honorWall').innerHTML=html;
+  _regLit=null; recountExp();
+}
+const saveE=()=>localStorage.setItem(LSE,JSON.stringify([...explored]));
+let expModeTotal=0;
+function recountExp(){ expModeCount=0; expModeTotal=0; WORKS.forEach(w=>{ if(inMode(w)){ expModeTotal++; if(explored.has(w.id)) expModeCount++; } }); }
+/* 大陆与区域划分 */
+const CONTS=[
+ ['绘画大陆',['西方绘画','绘画','俄罗斯绘画','抽象艺术','波普艺术','中国近现代'],'#b3543e'],
+ ['东方大陆',['中国书画','东方艺术','书法','壁画石窟'],'#5b7a5e'],
+ ['雕塑之原',['雕塑','公共·雕塑'],'#8c6a4a'],
+ ['建筑与园林',['建筑','园林'],'#4a6d8c'],
+ ['摄影之城',['摄影'],'#55534c'],
+ ['设计半岛',['设计','器物','青铜器','瓷器','漆器','家具','工艺'],'#7a5b8c'],
+ ['当代现场',['装置','行为','影像·新媒体','档案·观念','大地艺术','社会介入','街头艺术','游戏·交互','当代艺术'],'#8c4a5f'],
+ ['图像叙事',['版画·插画','动画·漫画','版画','动画'],'#4a8c7d'],
+ ['电影大陆',['电影','纪录片'],'#6b6b45'],
+ ['音乐海',['音乐'],'#4a7a8c'],
+ ['诗之群岛',['诗'],'#8c7a4a'],
+ ['文学与典籍',['中国典籍','外国文学','中国文学','书'],'#6a5b45'],
+ ['思想书房',['社会思想史','哲学','历史','科学科普','科学','社会学','心理学','人类学·文明史','经济学·政治','文学·文论·思想史','艺术史','传记回忆录','社会科学','经济管理'],'#5b6b7a'],
+ ['戏台',['戏曲','中国戏曲','舞蹈'],'#8c5b4a'],
+ ['美育之野',['美育案例'],'#5e7a6e'],
+ ['日常之光',['日常'],'#a08a5a'],
+];
+function contOf(w){ for(const c of CONTS){ if(c[1].includes(w.cat)) return c; } return ['未名之地',[],'#777']; }
+function eraReg(w,type){
+  const y=yearNum(w);
+  if(type==='west'){
+    if(y==null) return '无纪年';
+    if(y<1400) return '中世纪与之前'; if(y<1600) return '文艺复兴'; if(y<1750) return '巴洛克与古典';
+    if(y<1850) return '浪漫时代'; if(y<1900) return '印象与世纪末'; if(y<1945) return '现代主义'; return '战后与当代';
+  }
+  if(y==null) return '无纪年';
+  if(y<960) return '汉唐及之前'; if(y<1368) return '宋元'; if(y<1912) return '明清'; return '近现代';
+}
+function regionOf(w){
+  const c=contOf(w);
+  if(c[0]==='绘画大陆') return c[0]+'·'+eraReg(w,'west');
+  if(c[0]==='东方大陆') return c[0]+'·'+eraReg(w,'east');
+  return c[0];
+}
+let _regLit=null;
+function regLitMap(){
+  if(_regLit) return _regLit;
+  _regLit={};
+  WORKS.forEach(w=>{ if(inMode(w)&&explored.has(w.id)){ const k=regionOf(w); _regLit[k]=(_regLit[k]||0)+1; } });
+  return _regLit;
+}
+function expMark(w){
+  if(explored.has(w.id)||!inMode(w)) return;
+  explored.add(w.id); saveE(); expModeCount++;
+  const k=regionOf(w), m=regLitMap();
+  if(!m[k]){ toast('🗺 新区域点亮:'+k.split('·').pop()+'!'); }
+  m[k]=(m[k]||0)+1;
+}
+function openHonor(){
+  const pool=WORKS.filter(inMode);
+  const tot=pool.length, lit=expModeCount;
+  const pct=tot?Math.round(lit/tot*1000)/10:0;
+  const seenKey='ac_map_seen'+_sfx();
+  const last=+(localStorage.getItem(seenKey)||0);
+  const delta=Math.max(0,lit-last);
+  localStorage.setItem(seenKey,lit);
+  let html=`<div id="expHead">
+    <div class="ep"><b>${pct}%</b><span>已探索</span></div>
+    <div class="es">点亮 ${lit} / ${tot} 件${delta?` · <em>本次新点亮 +${delta}</em>`:''}<br><small>灰点是你还没见过的世界,每判断一张就点亮一格</small></div>
+  </div>`;
+  // 按大陆渲染
+  const byCont={};
+  pool.forEach(w=>{ const c=contOf(w)[0]; (byCont[c]=byCont[c]||[]).push(w); });
+  const contList=[...CONTS];
+  for(const cn in byCont){ if(!contList.some(c=>c[0]===cn)) contList.push([cn,[],'#8a887f']); }
+  for(const c of contList){
+    const ws=byCont[c[0]]; if(!ws||!ws.length) continue;
+    // 大陆内按区域分组(按年代序)
+    const byReg={};
+    ws.forEach(w=>{ const r=regionOf(w); (byReg[r]=byReg[r]||[]).push(w); });
+    const ERA_ORDER=['中世纪与之前','文艺复兴','巴洛克与古典','浪漫时代','印象与世纪末','现代主义','战后与当代','汉唐及之前','宋元','明清','近现代','无纪年'];
+    const regKeys=Object.keys(byReg).sort((a,b)=>{
+      const ea=ERA_ORDER.indexOf(a.split('·').pop()), eb=ERA_ORDER.indexOf(b.split('·').pop());
+      return (ea<0?99:ea)-(eb<0?99:eb);
+    });
+    const litC=ws.filter(w=>explored.has(w.id)).length;
+    const fog=litC===0;
+    html+=`<div class="cont${fog?' fog':''}"><div class="chead"><span class="cn">${fog?'🌫 ':''}${c[0]}</span><span class="cp">${litC}/${ws.length}</span></div><div class="regs">`;
+    for(const rk of regKeys){
+      const rws=byReg[rk];
+      const rlit=rws.filter(w=>explored.has(w.id)).length;
+      const rlabel=rk.includes('·')?rk.split('·')[1]:'';
+      if(rlabel) html+=`<div class="rlab"><span>${rlit?rlabel:'???'}</span><span>${rlit}/${rws.length}</span></div>`;
+      html+='<div class="mdots">'+rws.map(w=>{
+        const on=explored.has(w.id);
+        return `<span class="mdot${on?' on':''}${favs.has(w.id)?' fav':''}" ${on?`style="background:${c[2]}" data-did="${w.id}" title="${w.t}"`:''}></span>`;
+      }).join('')+'</div>';
+    }
+    html+='</div></div>';
+  }
+  // 旧闯关纪念收进折叠
+  html+=`<details class="legacy"><summary>🏆 闯关纪念(通关 ${rounds} · ${curRank()})</summary><div id="medalGrid">`;
+  for(let n=rounds;n>=1;n--){
+    const isBig=n%5===0;
+    html+=`<div class="mcell${isBig?' big':''}"><div class="e">${isBig?'🏆':medalOf(n)}</div><div class="lv">第 ${n} 关</div><div class="bn">${isBig?rankOf(n/5):bossOf(n)}</div></div>`;
+  }
+  html+='</div></details>';
+  const wall=document.getElementById('honorWall');
+  wall.innerHTML=html;
+  wall.querySelectorAll('.mdot.on').forEach(d=>{ d.onclick=()=>{ const w=WORKS.find(x=>x.id===+d.dataset.did); if(w) openDetail(w,false); }; });
   document.getElementById('honor').classList.add('show');
 }
+
+loadExplored();
 
 /* ============ 全局绑定 ============ */
 function closeOv(id){ document.getElementById(id).classList.remove('show'); if(id==='detail') document.getElementById('dAudioBox').innerHTML=''; }
