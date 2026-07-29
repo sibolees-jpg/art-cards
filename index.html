@@ -239,6 +239,36 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .obar h3{font-size:16px}
 .obar .close{font-size:22px;color:var(--sub);padding:4px 10px}
 .obody{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding-bottom:40px}
+/* 学习·兴趣谱系 */
+.gtabs{display:flex;gap:6px}
+.gtab{font-size:13px;color:var(--sub);background:var(--card2);border:none;border-radius:14px;padding:6px 14px;cursor:pointer}
+.gtab.on{background:var(--txt);color:var(--bg)}
+.gtab b{font-weight:600}
+#gMapView{flex:1;display:flex;flex-direction:column;overflow:hidden;position:relative}
+#gRevView{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding-bottom:40px}
+#gAttrLine{flex:none;padding:8px 14px 6px;font-size:12px;color:var(--sub);line-height:1.7}
+#gAttrLine .gc{display:inline-block;background:var(--card2);border-radius:10px;padding:1px 9px;margin:0 4px 4px 0;color:var(--txt)}
+#gmapWrap{flex:1;overflow:auto;-webkit-overflow-scrolling:touch;background:
+  repeating-linear-gradient(90deg,transparent 0 85px,rgba(0,0,0,.028) 85px 86px)}
+#gmapSvg{display:block}
+#gmapEmpty{padding:60px 30px;text-align:center;line-height:2}
+#gTray{flex:none;border-top:1px solid var(--line);padding:8px 12px calc(env(safe-area-inset-bottom,0px) + 8px);background:var(--bg)}
+#gSelChips{display:flex;gap:6px;overflow-x:auto;padding-bottom:6px;min-height:30px;align-items:center}
+.gtip{font-size:12px;color:var(--sub)}
+.gchip{flex:none;font-size:12px;background:var(--card2);border-radius:12px;padding:4px 10px;cursor:pointer;white-space:nowrap}
+.gchip .x{margin-left:5px;opacity:.55}
+.gtrayBtns{display:flex;gap:8px}
+.gtrayBtns button{flex:1;font-size:14px;padding:9px 0;border:none;border-radius:12px;background:var(--txt);color:var(--bg);cursor:pointer}
+.gtrayBtns button:disabled{opacity:.35}
+#gClearSel{flex:none;width:70px;background:var(--card2);color:var(--txt)}
+#gResult{position:absolute;left:0;right:0;bottom:0;max-height:72%;background:var(--card);border-radius:18px 18px 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.14);display:flex;flex-direction:column;z-index:5}
+.grhead{flex:none;display:flex;justify-content:space-between;align-items:center;padding:14px 16px 8px;font-size:15px}
+.grhead button{font-size:18px;color:var(--sub);background:none;border:none;padding:2px 8px}
+#grList{flex:1;overflow-y:auto;padding:0 16px 8px}
+.gritem{display:flex;gap:9px;padding:8px 0;border-bottom:1px dashed var(--line);font-size:13.5px;line-height:1.65}
+.gritem .gn{flex:none;width:22px;height:22px;border-radius:50%;background:var(--card2);display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--sub)}
+.gritem .gtag{color:var(--sub);margin-right:4px}
+.grfoot{flex:none;padding:8px 16px calc(env(safe-area-inset-bottom,0px) + 10px);font-size:11px;color:var(--sub)}
 /* 详情 */
 #dImg{position:relative;width:100%;height:min(48vh,420px);background:var(--card2) center/contain no-repeat;display:flex;align-items:center;justify-content:center}
 #dImg .ph{font-size:22px;color:rgba(40,35,25,.65);font-weight:600;text-align:center;padding:20px}
@@ -543,9 +573,34 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 </div>
 
 <div class="overlay" id="learn">
-  <div class="obar"><h3>学习 · 记忆复习</h3><button class="close" data-close="learn">✕</button></div>
-  <div class="obody">
-    <div id="learnEmpty" class="muted" hidden>学习清单还是空的。<br>浏览作品时,在详情页点「📚 加入学习」,<br>它们会按 1 / 3 / 7 / 30 / 90 天的节奏回来考你。<br><small style="opacity:.65">这里和点赞、收藏完全独立。</small></div>
+  <div class="obar">
+    <h3>学习</h3>
+    <div class="gtabs">
+      <button class="gtab on" data-gt="map">🗺 兴趣谱系</button>
+      <button class="gtab" data-gt="rev">🃏 复习 <b id="revBadge">0</b></button>
+    </div>
+    <button class="close" data-close="learn">✕</button>
+  </div>
+  <div id="gMapView">
+    <div id="gAttrLine"></div>
+    <div id="gmapWrap"><svg id="gmapSvg" xmlns="http://www.w3.org/2000/svg"></svg></div>
+    <div id="gmapEmpty" class="muted" hidden>谱系还没长出来。<br>先去刷卡:右滑喜欢、上滑爆灯的作品<br>会自动在这里织成你的兴趣地图。</div>
+    <div id="gTray">
+      <div id="gSelChips"><span class="gtip">点谱系里的作品圆点选中它们(2件起),看它们之间的公约</span></div>
+      <div class="gtrayBtns">
+        <button id="gAnalyze" disabled>⚡ 分析公约</button>
+        <button id="gCopyAI" disabled title="复制提示词发给 AI 深析">📋 发给AI</button>
+        <button id="gClearSel" hidden>清空</button>
+      </div>
+    </div>
+    <div id="gResult" hidden>
+      <div class="grhead"><b>这几件作品的公约</b><button id="grClose">✕</button></div>
+      <div id="grList"></div>
+      <div class="grfoot">本机谱系分析(离线词典)·想要更深的解读,点「发给AI」把三句话档案复制给任何 AI</div>
+    </div>
+  </div>
+  <div id="gRevView" hidden>
+    <div id="learnEmpty" class="muted" hidden>暂无到期的复习。<br>你右滑喜欢的作品会自动进入复习队列,<br>按 1 / 3 / 7 / 30 / 90 天的节奏回来考你。</div>
     <div id="learnCard" hidden>
       <div id="lcProg"></div>
       <div id="lcFace"></div>
@@ -1096,13 +1151,214 @@ function studyRemove(id){ study.delete(id); delete learn[id]; saveStudy(); saveL
 function learnDue(){ const now=Date.now(); return [...study].filter(id=>learn[id]&&learn[id].due<=now).map(id=>WORKS.find(w=>w.id===id)).filter(Boolean); }
 function updLearnCount(){ const el=document.getElementById('learnCount'); if(el) el.textContent=learnDue().length; }
 let lQueue=[], lIdx=0, lDoneN=0;
-function openLearn(){
-  lQueue=learnDue();
-  for(let i=lQueue.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [lQueue[i],lQueue[j]]=[lQueue[j],lQueue[i]]; }
-  lIdx=0; lDoneN=0;
-  document.getElementById('learn').classList.add('show');
-  renderLearn();
+
+/* ---- 喜欢的作品自动进入复习队列(每天最多补12张新,不需要手动"加入学习") ---- */
+function autoEnroll(){
+  const ymd=new Date().toISOString().slice(0,10);
+  let ed={}; try{ed=JSON.parse(localStorage.getItem('ac_enrollday')||'{}')}catch(_){}
+  if(ed.d!==ymd) ed={d:ymd,n:0};
+  const cand=[...lib].filter(id=>!study.has(id));
+  for(const id of cand){
+    if(ed.n>=12) break;
+    study.add(id); learn[id]={due:Date.now(),stage:0}; ed.n++;
+  }
+  saveStudy(); saveLearn();
+  localStorage.setItem('ac_enrollday',JSON.stringify(ed));
+  updLearnCount();
 }
+
+/* ---- 年代解析:字符串 y → 数字年(公元前为负,朝代/世纪取中值) ---- */
+const ERA_MAP=[['商',-1300],['西周',-900],['先秦',-400],['战国',-350],['秦',-215],['汉',60],['魏晋',300],['东晋',370],['南北朝',500],['隋',600],['盛唐',740],['唐',760],['五代',940],['北宋',1060],['南宋',1200],['辽',1050],['金',1180],['宋',1120],['元',1310],['明',1520],['清',1750],['飞鸟',640],['奈良',740],['平安',1000],['镰仓',1250],['室町',1450],['桃山',1585],['江户',1750],['朝鲜王朝',1600],['高丽',1200]];
+function yearNum(w){
+  const y=String(w.y||'');
+  if(!y||/世代|不详|未知/.test(y)) return null;
+  const neg=/前|BC/.test(y);
+  let m=y.match(/(\d{3,4})/);
+  if(m){ const v=+m[1]; return neg?-v:v; }
+  m=y.match(/(\d{1,2})世纪/);
+  if(m){ const v=(+m[1]-1)*100+50; return neg?-v:v; }
+  for(const [k,v] of ERA_MAP){ if(y.includes(k)) return v; }
+  return null;
+}
+const eraLabel=v=> v==null?'年代不详': v<0?('公元前'+Math.round(-v/100)+'世纪'): v<1000?(Math.floor(v/100)+1)+'世纪': String(Math.floor(v/10)*10)+'s';
+
+/* ---- 兴趣谱系:时间轴地图 ---- */
+const GCOLORS=['#b3543e','#5b7a5e','#4a6d8c','#8c6a4a','#7a5b8c','#8c4a5f','#4a8c7d','#6b6b45'];
+let gSel=new Set(), gWorks=[], gTab='map';
+const gTextOf=w=> (w.bg||'')+(w.how||'')+(w.why||'')+(w.more||'')+(w.cat||'')+(w.t||'')+(w.verse||'');
+function laneOf(w,lanes){
+  const t=gTextOf(w);
+  for(const ln of lanes){ const b=ATTR.concern.find(c=>c.k===ln); if(b&&b.kw.some(k=>t.includes(k))) return ln; }
+  return '其他';
+}
+function buildGMap(){
+  gWorks=WORKS.filter(w=>lib.has(w.id));
+  const empty=document.getElementById('gmapEmpty'), wrap=document.getElementById('gmapWrap');
+  const attrLine=document.getElementById('gAttrLine');
+  if(gWorks.length<1){ empty.hidden=false; wrap.style.display='none'; attrLine.innerHTML=''; return; }
+  empty.hidden=true; wrap.style.display='';
+  const a=computeAttr();
+  const lanes=a.concern.slice(0,6).map(x=>x.k);
+  attrLine.innerHTML='你的方向:'+(lanes.length?lanes.slice(0,3).map(k=>'<span class="gc">'+k+'</span>').join(''):'还在浮现')+
+    ' <span style="opacity:.6">'+gWorks.length+' 件收藏 · '+[...gSel].length+' 件选中</span>';
+  const allLanes=[...lanes,'其他'];
+  // 按年代排序,x=顺位(密排时间轴);同世纪聚拢
+  const sorted=gWorks.map(w=>({w,y:yearNum(w),lane:laneOf(w,lanes)}))
+    .sort((p,q)=>( (p.y==null?9e9:p.y) - (q.y==null?9e9:q.y) ));
+  const STEP=86, PADX=90, laneH=74, PADY=46;
+  const W=PADX+sorted.length*STEP+60, H=PADY+allLanes.length*laneH+30;
+  const svg=document.getElementById('gmapSvg');
+  svg.setAttribute('width',W); svg.setAttribute('height',H);
+  let out='';
+  // 泳道底
+  allLanes.forEach((ln,i)=>{
+    const y=PADY+i*laneH;
+    out+='<text x="10" y="'+(y+6)+'" font-size="11" fill="#8a887f">'+ln+'</text>';
+    out+='<line x1="0" y1="'+(y+22)+'" x2="'+W+'" y2="'+(y+22)+'" stroke="rgba(0,0,0,.05)"/>';
+  });
+  // 时代刻度:世纪变化处标注
+  let lastEra='';
+  sorted.forEach((p,i)=>{
+    const el=eraLabel(p.y);
+    if(el!==lastEra){ lastEra=el;
+      const x=PADX+i*STEP;
+      out+='<text x="'+x+'" y="18" font-size="10.5" fill="#a49f92">'+el+'</text>';
+      out+='<line x1="'+x+'" y1="24" x2="'+x+'" y2="'+H+'" stroke="rgba(0,0,0,.045)"/>';
+    }
+  });
+  // 同一作者连线
+  const byA={};
+  sorted.forEach((p,i)=>{ const k=(p.w.a||'').replace(/[(（].*$/,''); if(!k||/佚名/.test(k))return; (byA[k]=byA[k]||[]).push(i); });
+  let ci=0;
+  const posOf=i=>{ const p=sorted[i]; return [PADX+i*STEP, PADY+allLanes.indexOf(p.lane)*laneH+10]; };
+  for(const k in byA){ const idxs=byA[k]; if(idxs.length<2){continue;}
+    const col=GCOLORS[ci++%GCOLORS.length];
+    let d='';
+    idxs.forEach((i,j)=>{ const [x,y]=posOf(i); d+=(j?' L':'M')+x+' '+y; });
+    out+='<path d="'+d+'" fill="none" stroke="'+col+'" stroke-width="1.6" opacity=".5"/>';
+    const [x0,y0]=posOf(idxs[0]);
+    out+='<text x="'+(x0-4)+'" y="'+(y0-26)+'" font-size="10.5" fill="'+col+'">'+k+'</text>';
+  }
+  // 节点
+  sorted.forEach((p,i)=>{
+    const [x,y]=posOf(i), sel=gSel.has(p.w.id), fav=favs.has(p.w.id);
+    out+='<g class="gnode" data-gid="'+p.w.id+'" style="cursor:pointer">';
+    if(fav) out+='<circle cx="'+x+'" cy="'+y+'" r="14" fill="none" stroke="#c9a227" stroke-width="2"/>';
+    out+='<circle cx="'+x+'" cy="'+y+'" r="9" fill="'+(sel?'#1d1d22':'#b3543e')+'" opacity="'+(sel?'1':'.82')+'"/>';
+    if(sel) out+='<text x="'+x+'" y="'+(y+3.5)+'" font-size="10" fill="#fff" text-anchor="middle">✓</text>';
+    const t=p.w.t.length>7?p.w.t.slice(0,7)+'…':p.w.t;
+    out+='<text x="'+x+'" y="'+(y+26)+'" font-size="10.5" fill="#55534c" text-anchor="middle">'+t.replace(/&/g,'&amp;').replace(/</g,'&lt;')+'</text>';
+    out+='<text x="'+x+'" y="'+(y+39)+'" font-size="9.5" fill="#a49f92" text-anchor="middle">'+(p.y!=null?(p.y<0?'前'+(-p.y):p.y):'')+'</text>';
+    out+='</g>';
+  });
+  svg.innerHTML=out;
+  svg.querySelectorAll('.gnode').forEach(g=>{ g.onclick=()=>{ gToggle(+g.dataset.gid); }; });
+}
+function gToggle(id){
+  if(gSel.has(id)) gSel.delete(id); else gSel.add(id);
+  buildGMap(); renderGTray();
+}
+function renderGTray(){
+  const chips=document.getElementById('gSelChips');
+  const ids=[...gSel];
+  if(!ids.length){ chips.innerHTML='<span class="gtip">点谱系里的作品圆点选中它们(2件起),看它们之间的公约</span>'; }
+  else chips.innerHTML=ids.map(id=>{ const w=WORKS.find(x=>x.id===id); return w?'<span class="gchip" data-gid="'+id+'">《'+w.t+'》<span class="x">✕</span></span>':''; }).join('');
+  chips.querySelectorAll('.gchip').forEach(c=>{
+    c.querySelector('.x').onclick=e=>{ e.stopPropagation(); gToggle(+c.dataset.gid); };
+    c.onclick=()=>{ const w=WORKS.find(x=>x.id===+c.dataset.gid); if(w) openDetail(w,false); };
+  });
+  document.getElementById('gAnalyze').disabled = ids.length<2;
+  document.getElementById('gCopyAI').disabled = ids.length<2;
+  document.getElementById('gClearSel').hidden = !ids.length;
+}
+/* ---- 公约分析:10 条 ---- */
+function analyzeCommon(ids){
+  const ws=ids.map(id=>WORKS.find(w=>w.id===id)).filter(Boolean);
+  const M=ws.length, lines=[];
+  const hitCount=b=>ws.filter(w=>b.kw.some(k=>gTextOf(w).includes(k))).length;
+  // 时代
+  const ys=ws.map(yearNum).filter(v=>v!=null);
+  if(ys.length>=2){
+    const mn=Math.min(...ys),mx=Math.max(...ys);
+    if(mx-mn<=100) lines.push(['时代','它们几乎是同代人做的:都落在'+eraLabel((mn+mx)/2)+'前后,同一空气里的不同呼吸。']);
+    else lines.push(['时代','跨越约 '+Math.round(mx-mn)+' 年('+eraLabel(mn)+' → '+eraLabel(mx)+'),但你在完全不同的时代里认出了同一种东西。']);
+  }
+  // 类别
+  const cats=[...new Set(ws.map(w=>w.cat))];
+  lines.push(['形态',cats.length===1?('都是「'+cats[0]+'」——你对这种形态有明显偏好。'):('横跨 '+cats.map(c=>'「'+c+'」').join('')+' '+cats.length+' 种形态——吸引你的不是媒介,是别的东西。')]);
+  // 题材(concern)
+  ATTR.concern.map(b=>({b,n:hitCount(b)})).filter(x=>x.n>=Math.max(2,Math.ceil(M*0.6))).sort((a,b)=>b.n-a.n).slice(0,3)
+    .forEach(x=>{ const q=x.b.q?x.b.q[ids.reduce((s,i)=>s+i,0)%x.b.q.length]:'';
+      lines.push(['题材',x.n+'/'+M+' 件都在处理【'+x.b.k+'】。'+(q?'共同的问题也许是:'+q:'')]); });
+  // 材料
+  ATTR.material.map(b=>({b,n:hitCount(b)})).filter(x=>x.n>=Math.max(2,Math.ceil(M*0.6))).sort((a,b)=>b.n-a.n).slice(0,2)
+    .forEach(x=>lines.push(['材料',x.n+'/'+M+' 件共享同一类质料:【'+x.b.k+'】。']));
+  // 方法
+  ATTR.method.map(b=>({b,n:hitCount(b)})).filter(x=>x.n>=Math.max(2,Math.ceil(M*0.6))).sort((a,b)=>b.n-a.n).slice(0,2)
+    .forEach(x=>lines.push(['方法',x.n+'/'+M+' 件用了相近的组织方式:【'+x.b.k+'】。']));
+  // 作者结构
+  const as=[...new Set(ws.map(w=>(w.a||'').replace(/[(（].*$/,'')))].filter(Boolean);
+  lines.push(['作者',as.length===1?('全部出自同一人:'+as[0]+'——这已经是一次小型个展。'):('分属 '+as.length+' 位创作者,是你把他们放进了同一个房间。')]);
+  // 与个人画像的关系
+  const a=computeAttr();
+  if(a.concern.length){
+    const top=a.concern[0].k, b=ATTR.concern.find(c=>c.k===top);
+    const n=b?hitCount(b):0;
+    lines.push(['你的坐标',n>=Math.ceil(M/2)?('它们大多命中你的核心关怀【'+top+'】——这次选择和你的整体口味同频。'):('它们偏离了你平时的核心关怀【'+top+'】——可能是一条新支线正在生长。')]);
+  }
+  // 爆灯
+  const nf=ws.filter(w=>favs.has(w.id)).length;
+  if(nf) lines.push(['强度',nf+'/'+M+' 件被你爆过灯——这组选择的心跳比平均值快。']);
+  // 首尾
+  if(ys.length>=2){
+    const sortedW=ws.map(w=>({w,y:yearNum(w)})).filter(p=>p.y!=null).sort((p,q)=>p.y-q.y);
+    lines.push(['谱系','最早的一件是《'+sortedW[0].w.t+'》,最晚是《'+sortedW[sortedW.length-1].w.t+'》——把它们连起来,就是你此刻兴趣的时间轴。']);
+  }
+  // 无图/文字类兜底凑质
+  if(lines.length<10){
+    const withV=ws.filter(w=>w.verse).length;
+    if(withV) lines.push(['文本',withV+'/'+M+' 件本身是文字作品——你允许"看"和"读"同席。']);
+  }
+  if(lines.length<10) lines.push(['留白','有 '+ws.filter(w=>!ATTR.concern.some(b=>b.kw.some(k=>gTextOf(w).includes(k)))).length+' 件没落进任何现成题材抽屉——说明你的兴趣比词典大。']);
+  return lines.slice(0,10);
+}
+function gAnalyze(){
+  const lines=analyzeCommon([...gSel]);
+  document.getElementById('grList').innerHTML=lines.map((l,i)=>'<div class="gritem"><span class="gn">'+(i+1)+'</span><span><span class="gtag">['+l[0]+']</span>'+l[1]+'</span></div>').join('');
+  document.getElementById('gResult').hidden=false;
+}
+function gCopyAI(){
+  const ws=[...gSel].map(id=>WORKS.find(w=>w.id===id)).filter(Boolean);
+  const txt='请分析下面 '+ws.length+' 件艺术作品,给出 10 条它们之间的"公约方式"(共同的题材、方法、材料、精神气质等),每条一句话:\n\n'+
+    ws.map(w=>'《'+w.t+'》'+(w.a||'')+'('+(w.y||'')+')\n背景:'+(w.bg||'')+'\n方式:'+(w.how||'')+'\n意义:'+(w.why||'')).join('\n\n');
+  (navigator.clipboard&&navigator.clipboard.writeText?navigator.clipboard.writeText(txt):Promise.reject()).then(
+    ()=>toast('已复制,去粘贴给任何 AI 🤖'),
+    ()=>{ prompt('手动复制:',txt); });
+}
+function setGTab(t){
+  gTab=t;
+  document.querySelectorAll('.gtab').forEach(b=>b.classList.toggle('on',b.dataset.gt===t));
+  document.getElementById('gMapView').style.display = t==='map'?'flex':'none';
+  document.getElementById('gRevView').hidden = t!=='rev';
+  if(t==='map') { buildGMap(); renderGTray(); }
+  else {
+    autoEnroll();
+    lQueue=learnDue();
+    for(let i=lQueue.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [lQueue[i],lQueue[j]]=[lQueue[j],lQueue[i]]; }
+    lIdx=0; lDoneN=0; renderLearn();
+  }
+}
+function openLearn(){
+  autoEnroll();
+  document.getElementById('learn').classList.add('show');
+  document.getElementById('revBadge').textContent=learnDue().length;
+  setGTab('map');
+}
+document.querySelectorAll('.gtab').forEach(b=>b.onclick=()=>{ setGTab(b.dataset.gt); });
+document.getElementById('gAnalyze').onclick=gAnalyze;
+document.getElementById('gCopyAI').onclick=gCopyAI;
+document.getElementById('gClearSel').onclick=()=>{ gSel.clear(); buildGMap(); renderGTray(); };
+document.getElementById('grClose').onclick=()=>{ document.getElementById('gResult').hidden=true; };
 function renderLearn(){
   const empty=document.getElementById('learnEmpty'), card=document.getElementById('learnCard'), done=document.getElementById('learnDone');
   const tot=document.getElementById('learnTotal'); if(tot) tot.textContent=study.size;
@@ -1412,7 +1668,7 @@ const ATTR = {
       q:['祛魅之后,神圣还剩下什么位置?','仪式没有了神,还剩下什么?','人为什么仍然需要跪拜与仰望?']},
     {k:'媒介与图像',kw:['图像','媒介','屏幕','录像','监视','广告','电视','摄影','镜头','影像','直播','拍'],
       q:['在被图像统治的世界,如何还能真正地"看"?','屏幕里的真实,和眼前的真实,哪个更真?','当一切都可被复制,原作还重要吗?']},
-    {k:'消费与虚妄',kw:['消费','商品','欲望','物','拜金','奢','品牌','空虚','浮华','虚荣','买','时尚'],
+    {k:'消费与虚妄',kw:['消费','商品','拜金','奢侈','品牌','空虚','浮华','虚荣','购物','时尚','广告'],
       q:['我们买下的,究竟是物,还是被制造的欲望?','丰盛的表象之下,是谁在空虚?','当人被物包围,人还剩下多少?']},
     {k:'技术与人',kw:['数据','算法','机器','程序','人工智能','虚拟','电子','合成','代码','技术','智能','赛博'],
       q:['当机器也能创造,人还剩下什么不可替代?','算法比你更懂你,这是解放,还是囚禁?','数据里的那个"我",还是我吗?']},
