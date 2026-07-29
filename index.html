@@ -269,6 +269,9 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .gritem .gn{flex:none;width:22px;height:22px;border-radius:50%;background:var(--card2);display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--sub)}
 .gritem .gtag{color:var(--sub);margin-right:4px}
 .grfoot{flex:none;padding:8px 16px calc(env(safe-area-inset-bottom,0px) + 10px);font-size:11px;color:var(--sub)}
+#grAI{margin:0 16px 6px;background:var(--card2);border-radius:12px;padding:10px 12px}
+.graihead{font-size:12px;color:var(--sub);margin-bottom:5px}
+.graitext{font-size:13.5px;line-height:1.75}
 /* 详情 */
 #dImg{position:relative;width:100%;height:min(48vh,420px);background:var(--card2) center/contain no-repeat;display:flex;align-items:center;justify-content:center}
 #dImg .ph{font-size:22px;color:rgba(40,35,25,.65);font-weight:600;text-align:center;padding:20px}
@@ -589,12 +592,14 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
       <div id="gSelChips"><span class="gtip">点谱系里的作品圆点选中它们(2件起),看它们之间的公约</span></div>
       <div class="gtrayBtns">
         <button id="gAnalyze" disabled>⚡ 分析公约</button>
+        <button id="gDeep" disabled hidden>🤖 AI深析</button>
         <button id="gCopyAI" disabled title="复制提示词发给 AI 深析">📋 发给AI</button>
         <button id="gClearSel" hidden>清空</button>
       </div>
     </div>
     <div id="gResult" hidden>
       <div class="grhead"><b>这几件作品的公约</b><button id="grClose">✕</button></div>
+      <div id="grAI" hidden></div>
       <div id="grList"></div>
       <div class="grfoot">本机谱系分析(离线词典)·想要更深的解读,点「发给AI」把三句话档案复制给任何 AI</div>
     </div>
@@ -1269,6 +1274,8 @@ function renderGTray(){
   });
   document.getElementById('gAnalyze').disabled = ids.length<2;
   document.getElementById('gCopyAI').disabled = ids.length<2;
+  const gd=document.getElementById('gDeep');
+  gd.hidden = !AGENT_URL; gd.disabled = ids.length<2;
   document.getElementById('gClearSel').hidden = !ids.length;
 }
 /* ---- 公约分析:10 条 ---- */
@@ -1355,6 +1362,31 @@ function openLearn(){
   setGTab('map');
 }
 document.querySelectorAll('.gtab').forEach(b=>b.onclick=()=>{ setGTab(b.dataset.gt); });
+/* ---- AI 深析:走 Cloudflare Worker 代理(密钥在云端,前端无密钥) ---- */
+const AGENT_URL = localStorage.getItem('ac_agent_url') || '';   // 配置后「🤖AI深析」自动出现
+async function gDeep(){
+  const btn=document.getElementById('gDeep');
+  const ws=[...gSel].map(id=>WORKS.find(w=>w.id===id)).filter(Boolean).slice(0,8);
+  if(ws.length<2) return;
+  btn.disabled=true; btn.textContent='🤖 分析中…';
+  const a=computeAttr();
+  try{
+    const r=await fetch(AGENT_URL,{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({works:ws.map(w=>({t:w.t,a:w.a,y:w.y,bg:w.bg,how:w.how,why:w.why})),
+        profile:{concerns:a.concern.slice(0,3).map(x=>x.k),n:a.n,nf:a.nf}})});
+    if(!r.ok) throw new Error(r.status);
+    const d=await r.json();
+    const ai=document.getElementById('grAI');
+    ai.hidden=false;
+    ai.innerHTML='<div class="graihead">🤖 驻馆分析员</div><div class="graitext">'+
+      String(d.text||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/\n/g,'<br>')+'</div>';
+    document.getElementById('gResult').hidden=false;
+  }catch(e){
+    toast('AI 暂时联不上,先看本机分析 🛠');
+  }
+  btn.disabled=false; btn.textContent='🤖 AI深析';
+}
+document.getElementById('gDeep').onclick=gDeep;
 document.getElementById('gAnalyze').onclick=gAnalyze;
 document.getElementById('gCopyAI').onclick=gCopyAI;
 document.getElementById('gClearSel').onclick=()=>{ gSel.clear(); buildGMap(); renderGTray(); };
