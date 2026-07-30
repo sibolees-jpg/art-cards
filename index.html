@@ -196,6 +196,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 #wctrl .wsp{flex:1}
 #wctrl button{font-size:13px;background:var(--card2);border:none;border-radius:12px;padding:6px 12px;color:var(--txt);cursor:pointer}
 #wctrl button.on{background:var(--txt);color:var(--bg)}
+#wTimeRow[hidden]{display:none}
 #wTimeRow{display:flex;align-items:center;gap:10px;padding:0 4px 10px}
 #wTimeRow input{flex:1;accent-color:var(--acc)}
 #wTimeRow span{font-size:12.5px;color:var(--txt);min-width:74px;text-align:right}
@@ -2352,17 +2353,32 @@ const COUNTRY_OF={巴黎:'法国',凡尔赛:'法国',枫丹白露:'法国',尚�
 let _wcityPts=[], wview={level:'world',country:null,timeOn:false,T:2030,z:1,tx:0,ty:0};
 function wClampPan(cssW,cssH){
   const z=wview.z;
-  if(z<=1){ wview.tx=0; wview.ty=0; return; }
-  wview.tx=Math.min(0,Math.max(cssW-cssW*z,wview.tx));
-  wview.ty=Math.min(0,Math.max(cssH-cssH*z,wview.ty));
+  if(z<=1&&wview.level!=='world'){ wview.tx=0; wview.ty=0; return; }
+  wview.tx=Math.min(cssW*0.25,Math.max(cssW-cssW*z-cssW*0.25,wview.tx));
+  wview.ty=Math.min(cssH*0.4,Math.max(cssH-cssH*z-cssH*0.4,wview.ty));
 }
-function wResetZoom(){ wview.z=1; wview.tx=0; wview.ty=0; renderWorld(); }
+function wAutoFit(){
+  const wrap=document.getElementById('wmapWrap');
+  const cssW=wrap.clientWidth||340;
+  const avail=window.innerHeight-(wrap.getBoundingClientRect().top||160)-110;
+  const cssH=Math.max(280,Math.min(760,avail));
+  const mapH=cssW*0.5, oy=(cssH-mapH)/2;
+  const z=Math.min(3.4,Math.max(1,cssH/mapH*0.96));
+  wview.z=z;
+  // 以东经40°、北纬35°为初始视野中心(欧亚非交界,藏品最密)
+  const cx=(40+180)/360*cssW, cy=oy+(90-35)/180*mapH;
+  wview.tx=cssW/2-cx*z; wview.ty=cssH/2-cy*z;
+}
+function wResetZoom(){ wAutoFit(); renderWorld(); }
 const wTimePass=w=>{ if(!wview.timeOn) return true; const y=yearNum(w); return y!=null&&y<=wview.T; };
 function wProj(){
   const wrap=document.getElementById('wmapWrap');
-  const cssW=wrap.clientWidth||340, cssH=Math.round(cssW*0.52);
+  const cssW=wrap.clientWidth||340;
+  const avail=window.innerHeight-(wrap.getBoundingClientRect().top||160)-110;
+  const cssH=Math.max(280,Math.min(760,avail));
   if(wview.level==='world'){
-    return {cssW,cssH,fx:(lon,lat)=>[(lon+180)/360*cssW,(90-lat)/180*cssH]};
+    const mapH=cssW*0.5, oy=(cssH-mapH)/2;
+    return {cssW,cssH,mapH,oy,fx:(lon,lat)=>[(lon+180)/360*cssW, oy+(90-lat)/180*mapH]};
   }
   // 国家视图:按该国城市 bbox 放大
   const cs=CITIES.filter(c=>COUNTRY_OF[c[0]]===wview.country);
@@ -2379,7 +2395,7 @@ function renderWorld(){
   wClampPan(P0.cssW,P0.cssH);
   const z=wview.z, tx=wview.tx, ty=wview.ty;
   const P={cssW:P0.cssW,cssH:P0.cssH,fx:(lon,lat)=>{const p=P0.fx(lon,lat);return [p[0]*z+tx,p[1]*z+ty];}};
-  const rb=document.getElementById('wReset'); if(rb) rb.hidden=(z<=1);
+  const rb=document.getElementById('wReset'); if(rb) rb.hidden=false;
   const dpr=window.devicePixelRatio||1;
   cv.width=P.cssW*dpr; cv.height=P.cssH*dpr; cv.style.height=P.cssH+'px';
   const ctx=cv.getContext('2d'); ctx.setTransform(dpr,0,0,dpr,0,0);
@@ -2539,7 +2555,7 @@ function wTap(x,y){
   panel.scrollIntoView({behavior:'smooth',block:'nearest'});
 }
 document.getElementById('wcClose').onclick=()=>{ document.getElementById('wcity').hidden=true; };
-document.getElementById('wBack').onclick=()=>{ wview.level='world'; wview.country=null; wview.z=1; wview.tx=0; wview.ty=0; document.getElementById('wcity').hidden=true; renderWorld(); };
+document.getElementById('wBack').onclick=()=>{ wview.level='world'; wview.country=null; wAutoFit(); document.getElementById('wcity').hidden=true; renderWorld(); };
 document.getElementById('wReset').onclick=wResetZoom;
 document.getElementById('wTimeBtn').onclick=()=>{
   wview.timeOn=!wview.timeOn;
@@ -2556,7 +2572,7 @@ function setExpTab(t){
   document.querySelectorAll('#honor .gtab').forEach(b=>b.classList.toggle('on',b.dataset.et===t));
   document.getElementById('honorWall').style.display = t==='dots'?'':'none';
   document.getElementById('expWorld').hidden = t!=='world';
-  if(t==='world'){ _geoIdx=null; renderWorld(); }
+  if(t==='world'){ _geoIdx=null; if(wview.level==='world') wAutoFit(); renderWorld(); }
 }
 document.querySelectorAll('#honor .gtab').forEach(b=>b.onclick=()=>setExpTab(b.dataset.et));
 
