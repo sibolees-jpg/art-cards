@@ -191,6 +191,14 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 #wcity{background:var(--card);border:1px solid var(--line);border-radius:16px;margin-top:10px;overflow:hidden}
 .wchead{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;border-bottom:1px solid var(--line)}
 .wchead button{font-size:16px;color:var(--sub);background:none;border:none;padding:2px 8px}
+#wctrl{display:flex;align-items:center;gap:10px;padding:2px 4px 8px}
+#wctrl b{font-size:14px}
+#wctrl .wsp{flex:1}
+#wctrl button{font-size:13px;background:var(--card2);border:none;border-radius:12px;padding:6px 12px;color:var(--txt);cursor:pointer}
+#wctrl button.on{background:var(--txt);color:var(--bg)}
+#wTimeRow{display:flex;align-items:center;gap:10px;padding:0 4px 10px}
+#wTimeRow input{flex:1;accent-color:var(--acc)}
+#wTimeRow span{font-size:12.5px;color:var(--txt);min-width:74px;text-align:right}
 #wcList{max-height:40vh;overflow-y:auto;padding:6px 14px 12px}
 .wcitem{padding:7px 0;border-bottom:1px dashed var(--line);font-size:13.5px;display:flex;justify-content:space-between;gap:8px}
 .wcitem.dim{color:var(--sub)}
@@ -486,6 +494,15 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
     <button class="close" data-close="honor">✕</button></div>
   <div class="obody"><div id="honorWall"></div>
     <div id="expWorld" hidden>
+      <div id="wctrl">
+        <button id="wBack" hidden>← 世界</button><b id="wCrumb">世界</b>
+        <span class="wsp"></span>
+        <button id="wTimeBtn">⏳ 时间轴</button>
+      </div>
+      <div id="wTimeRow" hidden>
+        <input type="range" id="wTime" min="-3000" max="2030" step="10" value="2030">
+        <span id="wTimeLab">至今</span>
+      </div>
       <div id="wmapWrap"><canvas id="wmap"></canvas></div>
       <div id="wmapNote"></div>
       <div id="wcity" hidden><div class="wchead"><b id="wcName"></b><button id="wcClose">✕</button></div><div id="wcList"></div></div>
@@ -2311,55 +2328,139 @@ function geoIndex(){
   _geoIdx={idx,unloc};
   return _geoIdx;
 }
-let _wcityPts=[];
-function renderWorld(){
+const COUNTRY_OF={巴黎:'法国',凡尔赛:'法国',枫丹白露:'法国',尚蒂伊:'法国',里昂:'法国',蒙彼利埃:'法国',里尔:'法国',
+伦敦:'英国',曼彻斯特:'英国',利物浦:'英国',牛津:'英国',剑桥:'英国',伯明翰:'英国',爱丁堡:'英国',格林尼治:'英国',
+罗马:'意大利',佛罗伦萨:'意大利',威尼斯:'意大利',米兰:'意大利',那不勒斯:'意大利',
+马德里:'西班牙',巴塞罗那:'西班牙',里斯本:'葡萄牙',
+阿姆斯特丹:'荷兰',海牙:'荷兰',奥特洛:'荷兰',布鲁塞尔:'比利时',安特卫普:'比利时',根特:'比利时',布鲁日:'比利时',
+维也纳:'奥地利',柏林:'德国',慕尼黑:'德国',德累斯顿:'德国',汉堡:'德国',科隆:'德国',法兰克福:'德国',斯图加特:'德国',埃森:'德国',
+巴塞尔:'瑞士',苏黎世:'瑞士',伯尔尼:'瑞士',巴塞尔郊区:'瑞士',日内瓦:'瑞士',
+圣彼得堡:'俄罗斯',莫斯科:'俄罗斯',基辅:'乌克兰',明斯克:'白俄罗斯',
+奥斯陆:'挪威',卑尔根:'挪威',斯德哥尔摩:'瑞典',哥本哈根:'丹麦',兰讷斯:'丹麦',赫尔辛基:'芬兰',
+华沙:'波兰',克拉科夫:'波兰',布拉格:'捷克',布达佩斯:'匈牙利',
+雅典:'希腊',伊斯坦布尔:'土耳其',开罗:'埃及',耶路撒冷:'以色列',都柏林:'爱尔兰',
+纽约:'美国',华盛顿:'美国',波士顿:'美国',芝加哥:'美国',费城:'美国',洛杉矶:'美国',旧金山:'美国',底特律:'美国',克利夫兰:'美国',休斯顿:'美国',明尼阿波利斯:'美国',圣路易斯:'美国',巴尔的摩:'美国',堪萨斯城:'美国',沃斯堡:'美国',布法罗:'美国',西雅图:'美国',亨廷顿:'美国',威廉斯敦:'美国',
+多伦多:'加拿大',渥太华:'加拿大',墨西哥城:'墨西哥',
+里约热内卢:'巴西',圣保罗:'巴西',布宜诺斯艾利斯:'阿根廷',利马:'秘鲁',复活节岛:'智利',
+北京:'中国',台北:'中国',上海:'中国',南京:'中国',杭州:'中国',苏州:'中国',西安:'中国',敦煌:'中国',天津:'中国',拉萨:'中国',香港:'中国',
+东京:'日本',京都:'日本',奈良:'日本',直岛:'日本',首尔:'韩国',
+新德里:'印度',孟买:'印度',加尔各答:'印度',曼谷:'泰国',河内:'越南',暹粒:'柬埔寨',雅加达:'印度尼西亚',
+悉尼:'澳大利亚',墨尔本:'澳大利亚',堪培拉:'澳大利亚',奥克兰:'新西兰',
+德黑兰:'伊朗',伊斯法罕:'伊朗',撒马尔罕:'乌兹别克斯坦',巴格达:'伊拉克',
+拉各斯:'尼日利亚',马里:'马里',哈拉雷:'津巴布韦'};
+let _wcityPts=[], wview={level:'world',country:null,timeOn:false,T:2030};
+const wTimePass=w=>{ if(!wview.timeOn) return true; const y=yearNum(w); return y!=null&&y<=wview.T; };
+function wProj(){
   const wrap=document.getElementById('wmapWrap');
-  const cv=document.getElementById('wmap');
   const cssW=wrap.clientWidth||340, cssH=Math.round(cssW*0.52);
+  if(wview.level==='world'){
+    return {cssW,cssH,fx:(lon,lat)=>[(lon+180)/360*cssW,(90-lat)/180*cssH]};
+  }
+  // 国家视图:按该国城市 bbox 放大
+  const cs=CITIES.filter(c=>COUNTRY_OF[c[0]]===wview.country);
+  let lo1=999,lo2=-999,la1=999,la2=-999;
+  cs.forEach(c=>{ lo1=Math.min(lo1,c[1]); lo2=Math.max(lo2,c[1]); la1=Math.min(la1,c[2]); la2=Math.max(la2,c[2]); });
+  const spanLo=Math.max(lo2-lo1,16), spanLa=Math.max(la2-la1,9);
+  const cx=(lo1+lo2)/2, cy=(la1+la2)/2;
+  const sc=Math.min(cssW/(spanLo*1.5), cssH/(spanLa*1.5));
+  return {cssW,cssH,fx:(lon,lat)=>[cssW/2+(lon-cx)*sc, cssH/2-(lat-cy)*sc]};
+}
+function renderWorld(){
+  const cv=document.getElementById('wmap');
+  const P=wProj();
   const dpr=window.devicePixelRatio||1;
-  cv.width=cssW*dpr; cv.height=cssH*dpr; cv.style.height=cssH+'px';
-  const ctx=cv.getContext('2d'); ctx.scale(dpr,dpr);
-  ctx.clearRect(0,0,cssW,cssH);
-  // 陆地点阵
+  cv.width=P.cssW*dpr; cv.height=P.cssH*dpr; cv.style.height=P.cssH+'px';
+  const ctx=cv.getContext('2d'); ctx.setTransform(dpr,0,0,dpr,0,0);
+  ctx.clearRect(0,0,P.cssW,P.cssH);
+  // 陆地
   const [COLS,ROWS]=WLAND_GRID;
-  ctx.fillStyle='#dbd7cc';
+  ctx.fillStyle=wview.level==='world'?'#dbd7cc':'#e3e0d6';
+  const dotR=wview.level==='world'?1.1:9;
+  if(wview.level!=='world') ctx.globalAlpha=.55;
   WLAND.split(';').forEach(row=>{
     const [gy,xs]=row.split(':');
-    const y=(+gy+0.5)/ROWS*cssH;
+    const lat=90-(+gy+0.5)/ROWS*180;
     xs.split(',').forEach(gx=>{
-      const x=(+gx+0.5)/COLS*cssW;
-      ctx.beginPath(); ctx.arc(x,y,1.1,0,7); ctx.fill();
+      const lon=(+gx+0.5)/COLS*360-180;
+      const [x,y]=P.fx(lon,lat);
+      if(x<-8||x>P.cssW+8||y<-8||y>P.cssH+8) return;
+      ctx.beginPath(); ctx.arc(x,y,dotR,0,7); ctx.fill();
     });
   });
-  // 城市
+  ctx.globalAlpha=1;
   const {idx,unloc}=geoIndex();
   _wcityPts=[];
-  let litCities=0, cityCount=0;
-  CITIES.forEach((c,ci)=>{
-    const ws=idx[ci]; if(!ws.length) return;
-    cityCount++;
-    const lit=ws.filter(w=>explored.has(w.id)).length;
-    const x=(c[1]+180)/360*cssW, y=(90-c[2])/180*cssH;
-    const r=Math.max(3,Math.min(11,2+Math.sqrt(ws.length)*1.15));
-    ctx.beginPath(); ctx.arc(x,y,r,0,7);
-    if(lit){ litCities++; ctx.fillStyle='#b3543e'; ctx.globalAlpha=.9; }
-    else { ctx.fillStyle='#b9b4a6'; ctx.globalAlpha=.85; }
-    ctx.fill(); ctx.globalAlpha=1;
-    if(lit&&lit>=ws.length){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=1.6; ctx.stroke(); }
-    if(lit||ws.length>=60){ ctx.fillStyle='#55534c'; ctx.font='9.5px sans-serif'; ctx.textAlign='center'; ctx.fillText(c[0],x,y-r-3); }
-    _wcityPts.push({x,y,r,ci,lit,n:ws.length});
-  });
-  document.getElementById('wmapNote').innerHTML=
-    `亮起 <b>${litCities}</b> / ${cityCount} 座城市 · 金环=该城全部点亮 · 点圆点看那座城里有什么`+
-    (unloc?`<br><small>另有 ${unloc} 件暂未定位到城市</small>`:'');
+  if(wview.level==='world'){
+    // 国家聚合气泡
+    const byCountry={};
+    CITIES.forEach((c,ci)=>{
+      const ws=idx[ci].filter(wTimePass); if(!ws.length) return;
+      const k=COUNTRY_OF[c[0]]||'其他';
+      const o=byCountry[k]=byCountry[k]||{n:0,lit:0,sx:0,sy:0,m:0,cities:0,litCities:0};
+      const lit=ws.filter(w=>explored.has(w.id)).length;
+      o.n+=ws.length; o.lit+=lit; o.sx+=c[1]; o.sy+=c[2]; o.m++; o.cities++;
+      if(lit) o.litCities++;
+    });
+    let litC=0, totC=0;
+    for(const k in byCountry){
+      const o=byCountry[k]; totC++;
+      const [x,y]=P.fx(o.sx/o.m,o.sy/o.m);
+      const r=Math.max(5,Math.min(15,3+Math.sqrt(o.n)*1.1));
+      ctx.beginPath(); ctx.arc(x,y,r,0,7);
+      if(o.lit){ litC++; ctx.fillStyle='#b3543e'; ctx.globalAlpha=.9; }
+      else{ ctx.fillStyle='#b9b4a6'; ctx.globalAlpha=.8; }
+      ctx.fill(); ctx.globalAlpha=1;
+      if(o.lit>=o.n&&o.n>0){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=1.8; ctx.stroke(); }
+      ctx.fillStyle='#55534c'; ctx.font='10px sans-serif'; ctx.textAlign='center';
+      ctx.fillText(k,x,y-r-3);
+      _wcityPts.push({x,y,r:r+4,country:k});
+    }
+    document.getElementById('wCrumb').textContent='世界';
+    document.getElementById('wBack').hidden=true;
+    document.getElementById('wmapNote').innerHTML=
+      `已踏足 <b>${litC}</b> / ${totC} 个国家 · 点国家钻进去看城市`+
+      (wview.timeOn?`<br><small>时间轴开启:只显示 ${wTimeLabTxt()} 前的有纪年作品</small>`:(unloc?`<br><small>另有 ${unloc} 件暂未定位</small>`:''));
+  } else {
+    // 国家内:城市气泡
+    let litCt=0, tot=0;
+    CITIES.forEach((c,ci)=>{
+      if(COUNTRY_OF[c[0]]!==wview.country) return;
+      const ws=idx[ci].filter(wTimePass); if(!ws.length) return;
+      tot++;
+      const lit=ws.filter(w=>explored.has(w.id)).length;
+      if(lit) litCt++;
+      const [x,y]=P.fx(c[1],c[2]);
+      const r=Math.max(6,Math.min(17,4+Math.sqrt(ws.length)*1.4));
+      ctx.beginPath(); ctx.arc(x,y,r,0,7);
+      ctx.fillStyle=lit?'#b3543e':'#b9b4a6'; ctx.globalAlpha=.88; ctx.fill(); ctx.globalAlpha=1;
+      if(lit>=ws.length){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=1.8; ctx.stroke(); }
+      ctx.fillStyle='#fff'; ctx.font='9.5px sans-serif'; ctx.textAlign='center';
+      if(r>=10) ctx.fillText(lit+'/'+ws.length,x,y+3);
+      ctx.fillStyle='#55534c'; ctx.font='10.5px sans-serif';
+      ctx.fillText(c[0],x,y-r-4);
+      _wcityPts.push({x,y,r:r+5,ci});
+    });
+    document.getElementById('wCrumb').textContent='世界 · '+wview.country;
+    document.getElementById('wBack').hidden=false;
+    document.getElementById('wmapNote').innerHTML=
+      `${wview.country}:亮起 <b>${litCt}</b> / ${tot} 座城 · 点城市看那里的每个角落`+
+      (wview.timeOn?`<br><small>时间轴:${wTimeLabTxt()}</small>`:'');
+  }
+}
+function wTimeLabTxt(){
+  const T=wview.T;
+  if(T>=2030) return '至今';
+  return T<0?('公元前'+(-T)+'年'):('公元'+T+'年');
 }
 document.getElementById('wmap').onclick=e=>{
   const rect=e.target.getBoundingClientRect();
   const x=e.clientX-rect.left, y=e.clientY-rect.top;
   let best=null,bd=1e9;
   _wcityPts.forEach(p=>{ const d=(p.x-x)**2+(p.y-y)**2; if(d<bd){bd=d;best=p;} });
-  if(!best||bd>26*26) return;
-  const c=CITIES[best.ci], ws=geoIndex().idx[best.ci];
+  if(!best||bd>28*28) return;
+  if(wview.level==='world'){ wview.level='country'; wview.country=best.country;
+    document.getElementById('wcity').hidden=true; renderWorld(); return; }
+  const c=CITIES[best.ci], ws=geoIndex().idx[best.ci].filter(wTimePass);
   document.getElementById('wcName').textContent=`${c[0]} · ${ws.filter(w=>explored.has(w.id)).length}/${ws.length}`;
   document.getElementById('wcList').innerHTML=ws.map(w=>{
     const on=explored.has(w.id);
@@ -2370,6 +2471,18 @@ document.getElementById('wmap').onclick=e=>{
   panel.scrollIntoView({behavior:'smooth',block:'nearest'});
 };
 document.getElementById('wcClose').onclick=()=>{ document.getElementById('wcity').hidden=true; };
+document.getElementById('wBack').onclick=()=>{ wview.level='world'; wview.country=null; document.getElementById('wcity').hidden=true; renderWorld(); };
+document.getElementById('wTimeBtn').onclick=()=>{
+  wview.timeOn=!wview.timeOn;
+  document.getElementById('wTimeBtn').classList.toggle('on',wview.timeOn);
+  document.getElementById('wTimeRow').hidden=!wview.timeOn;
+  renderWorld();
+};
+document.getElementById('wTime').oninput=e=>{
+  wview.T=+e.target.value;
+  document.getElementById('wTimeLab').textContent=wTimeLabTxt();
+  renderWorld();
+};
 function setExpTab(t){
   document.querySelectorAll('#honor .gtab').forEach(b=>b.classList.toggle('on',b.dataset.et===t));
   document.getElementById('honorWall').style.display = t==='dots'?'':'none';
