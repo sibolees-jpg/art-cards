@@ -1,9 +1,9 @@
 /* 艺术卡片 Service Worker —— 离线可用 + 图片缓存 */
-const VER = 'ac-v49';
+const VER = 'ac-v50';
 const SHELL = VER + '-shell';
 const IMG = VER + '-img';
 const APP = [
-  './', './index.html', './data.js', './manifest.webmanifest',
+  './', './index.html', './data.js', './worldmap.js', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './apple-touch-icon.png'
 ];
 

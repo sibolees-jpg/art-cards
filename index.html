@@ -184,6 +184,17 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .legacy{margin:6px 0 30px}
 .legacy summary{font-size:13px;color:var(--sub);padding:8px 4px;cursor:pointer}
 .legacy #medalGrid{margin-top:10px}
+#expWorld{padding:8px 10px 40px;max-width:760px;margin:0 auto}
+#wmapWrap{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden}
+#wmap{display:block;width:100%;height:auto}
+#wmapNote{font-size:12px;color:var(--sub);padding:10px 6px;line-height:1.7}
+#wcity{background:var(--card);border:1px solid var(--line);border-radius:16px;margin-top:10px;overflow:hidden}
+.wchead{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;border-bottom:1px solid var(--line)}
+.wchead button{font-size:16px;color:var(--sub);background:none;border:none;padding:2px 8px}
+#wcList{max-height:40vh;overflow-y:auto;padding:6px 14px 12px}
+.wcitem{padding:7px 0;border-bottom:1px dashed var(--line);font-size:13.5px;display:flex;justify-content:space-between;gap:8px}
+.wcitem.dim{color:var(--sub)}
+.wcitem .go{color:var(--acc);flex:none}
 /* 个人 */
 .ptabs{display:flex;gap:8px;padding:14px 18px 0;max-width:640px;margin:0 auto;width:100%}
 .ptab{flex:1;padding:10px;border-radius:12px;background:var(--card);color:var(--sub);font-size:14px;border:1px solid var(--line)}
@@ -469,8 +480,16 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 
 <!-- 荣誉墙 -->
 <div class="overlay" id="honor">
-  <div class="obar"><h3>探索地图</h3><button class="close" data-close="honor">✕</button></div>
-  <div class="obody"><div id="honorWall"></div></div>
+  <div class="obar"><h3>探索地图</h3>
+    <div class="gtabs"><button class="gtab on" data-et="dots">🗂 藏品</button><button class="gtab" data-et="world">🌍 世界</button></div>
+    <button class="close" data-close="honor">✕</button></div>
+  <div class="obody"><div id="honorWall"></div>
+    <div id="expWorld" hidden>
+      <div id="wmapWrap"><canvas id="wmap"></canvas></div>
+      <div id="wmapNote"></div>
+      <div id="wcity" hidden><div class="wchead"><b id="wcName"></b><button id="wcClose">✕</button></div><div id="wcList"></div></div>
+    </div>
+  </div>
 </div>
 
 <!-- 个人 -->
@@ -643,6 +662,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 <script>
 /* 防缓存:按小时刷新 data.js,保证改动能被用户看到,又不至于每次都重下 */
 document.write('<scr'+'ipt src="data.js?v='+Math.floor(Date.now()/3600000)+'"><\/scr'+'ipt>');
+document.write('<scr'+'ipt src="worldmap.js?v=1"><\/scr'+'ipt>');
 </script>
 <script>
 /* ============ 状态 ============ */
@@ -2106,9 +2126,157 @@ function openHonor(){
   wall.innerHTML=html;
   wall.querySelectorAll('.mdot.on').forEach(d=>{ d.onclick=()=>{ const w=WORKS.find(x=>x.id===+d.dataset.did); if(w) openDetail(w,false); }; });
   document.getElementById('honor').classList.add('show');
+  const wt=document.querySelector('#honor .gtab.on');
+  if(wt&&wt.dataset.et==='world'){ _geoIdx=null; setTimeout(renderWorld,30); }
 }
 
 loadExplored();
+
+/* ============ 世界地图视图:作品按现藏地/诞生地落到真实地图 ============ */
+const CITIES=[
+ ['巴黎',2.35,48.86,['卢浮宫','奥赛','蓬皮杜','橘园','小皇宫','玛摩丹','雅克马尔','巴黎']],
+ ['伦敦',-0.13,51.5,['大英博物馆','大英图书馆','泰特','伦敦国家美术馆','国家肖像馆','维多利亚和阿尔伯特','白金汉宫','考陶尔德','华勒斯','伦敦']],
+ ['罗马',12.5,41.9,['梵蒂冈','西斯汀','西斯廷','博尔盖塞','鲍格才','卡比托利欧','多利亚潘菲利','罗马']],
+ ['佛罗伦萨',11.26,43.77,['乌菲兹','乌菲齐','烏菲茲','巴杰罗','皮蒂','旧宫','佣兵凉廊','佛罗伦萨']],
+ ['威尼斯',12.34,45.44,['威尼斯']],['米兰',9.19,45.46,['布雷拉','米兰','恩宠圣母']],
+ ['那不勒斯',14.27,40.85,['卡波迪蒙特','那不勒斯','庞贝']],
+ ['马德里',-3.7,40.42,['普拉多','提森-博内米萨','索菲亚王后','马德里','索罗拉博物馆']],
+ ['巴塞罗那',2.17,41.39,['巴塞罗那']],['里斯本',-9.14,38.72,['古尔本基安','里斯本']],
+ ['阿姆斯特丹',4.9,52.37,['阿姆斯特丹','梵高博物馆']],['海牙',4.3,52.08,['莫瑞泰斯','海牙']],
+ ['布鲁塞尔',4.35,50.85,['比利时皇家','布鲁塞尔']],
+ ['维也纳',16.37,48.21,['艺术史博物馆','美景宫','维也纳','阿尔贝蒂娜']],
+ ['柏林',13.4,52.52,['博德博物馆','旧国家画廊','舊國家畫廊','柏林']],
+ ['慕尼黑',11.58,48.14,['老绘画陈列馆','新绘画陈列馆','伦巴赫','慕尼黑']],
+ ['德累斯顿',13.74,51.05,['历代大师','德累斯顿']],['巴塞尔',7.59,47.56,['巴塞尔']],['苏黎世',8.54,47.37,['苏黎世','蘇黎世']],
+ ['圣彼得堡',30.36,59.93,['埃尔米塔日','冬宫','俄罗斯博物馆','圣彼得堡']],
+ ['莫斯科',37.62,55.75,['特列季亚科夫','普希金造型','莫斯科']],
+ ['奥斯陆',10.75,59.91,['奥斯陆','蒙克博物馆']],['斯德哥尔摩',18.07,59.33,['瑞典国立','瑞典國立','斯德哥尔摩']],
+ ['哥本哈根',12.57,55.68,['丹麦国立','國立丹麥','新嘉士伯','赫希斯普龙','奥德罗普格','哥本哈根']],
+ ['赫尔辛基',24.94,60.17,['雅典娜姆','赫尔辛基']],
+ ['华沙',21.01,52.23,['华沙','華沙']],['克拉科夫',19.94,50.06,['克拉科夫']],['布拉格',14.42,50.09,['布拉格']],['布达佩斯',19.04,47.5,['匈牙利国家','匈牙利國家','布达佩斯']],
+ ['雅典',23.73,37.98,['雅典','帕特农','卫城']],['伊斯坦布尔',28.98,41.01,['伊斯坦布尔','圣索菲亚','托普卡帕']],
+ ['开罗',31.24,30.04,['开罗','埃及国家','吉萨','金字塔']],['耶路撒冷',35.22,31.77,['耶路撒冷']],
+ ['都柏林',-6.26,53.35,['爱尔兰国立','愛爾蘭國立','都柏林']],['爱丁堡',-3.19,55.95,['苏格兰国家','蘇格蘭國家','爱丁堡']],
+ ['纽约',-74,40.71,['大都会','MoMA','现代艺术博物馆','古根海姆','惠特尼','布鲁克林','弗里克','纽约']],
+ ['华盛顿',-77.04,38.9,['国家艺廊','國家藝廊','弗利尔','华盛顿','菲利普斯']],
+ ['波士顿',-71.06,42.36,['波士顿','伊莎贝拉']],['芝加哥',-87.63,41.88,['芝加哥']],['费城',-75.16,39.95,['费城','巴恩斯']],
+ ['洛杉矶',-118.24,34.05,['盖蒂','洛杉矶','洛杉磯']],['旧金山',-122.42,37.77,['旧金山','金门公园']],
+ ['底特律',-83.05,42.33,['底特律']],['克利夫兰',-81.69,41.5,['克利夫兰','克利夫蘭']],['休斯顿',-95.37,29.76,['休斯顿','休士頓']],
+ ['多伦多',-79.38,43.65,['安大略','阿迦汗','多伦多']],['渥太华',-75.7,45.42,['加拿大国家','渥太华']],
+ ['墨西哥城',-99.13,19.43,['墨西哥国家','墨西哥城','索马亚','索馬亞','特奥蒂瓦坎']],
+ ['里约热内卢',-43.2,-22.9,['里约']],['圣保罗',-46.63,-23.55,['圣保罗']],['布宜诺斯艾利斯',-58.38,-34.6,['布宜诺斯']],['利马',-77.04,-12.05,['利马','秘鲁','马丘比丘','纳斯卡','帕拉卡斯']],
+ ['北京',116.4,39.9,['故宫','国博','中国国家博物馆','人民大会堂','天坛','颐和园','北京']],
+ ['台北',121.56,25.03,['台北']],['上海',121.47,31.23,['上海']],
+ ['南京',118.8,32.06,['南京']],['杭州',120.15,30.27,['杭州','西湖']],['苏州',120.58,31.3,['苏州','拙政园','留园','网师园','狮子林']],
+ ['西安',108.94,34.34,['陕西','西安','兵马俑','秦始皇']],['敦煌',94.66,40.14,['敦煌','莫高窟']],['天津',117.2,39.08,['天津','杨柳青']],
+ ['拉萨',91.11,29.65,['拉萨','布达拉宫','西藏']],['香港',114.17,22.32,['香港']],
+ ['东京',139.69,35.69,['东京','東京','静嘉堂','三之丸','山种','足立美术馆','根津']],
+ ['京都',135.77,35.01,['京都','龙安寺','桂离宫','智积院']],['奈良',135.83,34.69,['奈良','法隆寺','东大寺']],['直岛',133.99,34.46,['直岛','濑户内']],
+ ['首尔',126.98,37.57,['韩国国立','首尔','石窟庵','景福宫']],
+ ['新德里',77.21,28.61,['德里','泰姬陵','阿格拉']],['孟买',72.88,19.08,['孟买']],['加尔各答',88.36,22.57,['加尔各答']],
+ ['曼谷',100.5,13.76,['曼谷','泰国']],['河内',105.85,21.03,['河内','东湖','越南']],['暹粒',103.86,13.36,['吴哥','高棉','巴戎']],
+ ['雅加达',106.85,-6.21,['爪哇','婆罗浮屠','巴厘','印尼']],
+ ['悉尼',151.21,-33.87,['新南威尔士','新南威爾士','悉尼']],['墨尔本',144.96,-37.81,['维多利亚国立','維多利亞國立','墨尔本']],['堪培拉',149.13,-35.28,['澳大利亚国家','堪培拉']],
+ ['奥克兰',174.76,-36.85,['奥克兰美术馆','奧克蘭美術館','毛利']],
+ ['德黑兰',51.39,35.69,['德黑兰','伊朗']],['伊斯法罕',51.67,32.65,['伊斯法罕','波斯波利斯']],
+ ['撒马尔罕',66.96,39.65,['撒马尔罕','雷吉斯坦']],['巴格达',44.36,33.31,['巴格达','美索不达米亚','巴比伦']],
+ ['拉各斯',3.38,6.52,['贝宁','尼日利亚']],['马里',-4,17,['杰内','廷巴克图','马里']],['哈拉雷',31.05,-17.83,['津巴布韦']],
+ ['复活节岛',-109.35,-27.11,['复活节岛','摩艾','拉帕努伊']],
+ ['汉堡',10,53.55,['汉堡','漢堡']],['安特卫普',4.4,51.22,['安特卫普']],['根特',3.72,51.05,['根特']],['布鲁日',3.22,51.21,['布鲁日']],
+ ['科隆',6.96,50.94,['科隆']],['法兰克福',8.68,50.11,['法兰克福','施泰德']],['斯图加特',9.18,48.78,['斯图加特']],['埃森',7.01,51.46,['埃森','福克旺']],
+ ['曼彻斯特',-2.24,53.48,['曼彻斯特']],['利物浦',-2.98,53.41,['利物浦','沃克美術館','沃克美术馆']],['牛津',-1.26,51.75,['牛津','阿什莫林']],['剑桥',0.12,52.21,['剑桥','菲茨威廉']],['伯明翰',-1.89,52.48,['伯明翰']],
+ ['凡尔赛',2.13,48.8,['凡尔赛']],['枫丹白露',2.7,48.4,['枫丹白露']],['尚蒂伊',2.48,49.19,['尚蒂伊','孔代']],['里昂',4.84,45.76,['里昂']],['蒙彼利埃',3.88,43.61,['蒙彼利埃','法布尔博物馆','法布爾博物館']],['里尔',3.06,50.63,['里尔','里爾']],
+ ['伯尔尼',7.45,46.95,['伯尔尼']],['巴塞尔郊区',7.65,47.55,['贝耶勒']],
+ ['基辅',30.52,50.45,['基辅','乌克兰']],['明斯克',27.57,53.9,['白俄罗斯','白俄羅斯']],
+ ['明尼阿波利斯',-93.27,44.98,['明尼阿波利斯']],['圣路易斯',-90.2,38.63,['圣路易斯','圣路易']],['巴尔的摩',-76.61,39.29,['巴尔的摩','沃尔特斯','沃爾特斯']],['堪萨斯城',-94.58,39.1,['堪萨斯','纳尔逊']],['沃斯堡',-97.32,32.75,['金贝尔','沃斯堡']],['布法罗',-78.88,42.89,['布法罗','奥尔布赖特']],['西雅图',-122.33,47.61,['西雅图','奇胡利']],
+ ['卑尔根',5.32,60.39,['卑尔根']],['兰讷斯',10.04,56.46,['兰讷斯']],['奥特洛',5.77,52.1,['克勒勒-米勒','克羅勒-穆勒']],
+ ['亨廷顿',-118.1,34.13,['亨廷顿','亨廷頓']],['威廉斯敦',-73.2,42.71,['克拉克艺术','克拉克藝術']],
+];
+let _geoIdx=null;
+function geoIndex(){
+  if(_geoIdx) return _geoIdx;
+  const kws=[];
+  CITIES.forEach((c,ci)=>c[3].forEach(k=>kws.push([k,ci])));
+  kws.sort((a,b)=>b[0].length-a[0].length);
+  const idx=CITIES.map(()=>[]);
+  let unloc=0;
+  WORKS.forEach(w=>{
+    if(!inMode(w)) return;
+    const t1=(w.more||''), t2=(w.bg||'')+(w.how||'')+(w.t||'')+(w.a||'');
+    let ci=-1;
+    for(const [k,i] of kws){ if(t1.includes(k)){ ci=i; break; } }
+    if(ci<0){ for(const [k,i] of kws){ if(t2.includes(k)){ ci=i; break; } } }
+    if(ci>=0) idx[ci].push(w); else unloc++;
+  });
+  _geoIdx={idx,unloc};
+  return _geoIdx;
+}
+let _wcityPts=[];
+function renderWorld(){
+  const wrap=document.getElementById('wmapWrap');
+  const cv=document.getElementById('wmap');
+  const cssW=wrap.clientWidth||340, cssH=Math.round(cssW*0.52);
+  const dpr=window.devicePixelRatio||1;
+  cv.width=cssW*dpr; cv.height=cssH*dpr; cv.style.height=cssH+'px';
+  const ctx=cv.getContext('2d'); ctx.scale(dpr,dpr);
+  ctx.clearRect(0,0,cssW,cssH);
+  // 陆地点阵
+  const [COLS,ROWS]=WLAND_GRID;
+  ctx.fillStyle='#dbd7cc';
+  WLAND.split(';').forEach(row=>{
+    const [gy,xs]=row.split(':');
+    const y=(+gy+0.5)/ROWS*cssH;
+    xs.split(',').forEach(gx=>{
+      const x=(+gx+0.5)/COLS*cssW;
+      ctx.beginPath(); ctx.arc(x,y,1.1,0,7); ctx.fill();
+    });
+  });
+  // 城市
+  const {idx,unloc}=geoIndex();
+  _wcityPts=[];
+  let litCities=0, cityCount=0;
+  CITIES.forEach((c,ci)=>{
+    const ws=idx[ci]; if(!ws.length) return;
+    cityCount++;
+    const lit=ws.filter(w=>explored.has(w.id)).length;
+    const x=(c[1]+180)/360*cssW, y=(90-c[2])/180*cssH;
+    const r=Math.max(3,Math.min(11,2+Math.sqrt(ws.length)*1.15));
+    ctx.beginPath(); ctx.arc(x,y,r,0,7);
+    if(lit){ litCities++; ctx.fillStyle='#b3543e'; ctx.globalAlpha=.9; }
+    else { ctx.fillStyle='#b9b4a6'; ctx.globalAlpha=.85; }
+    ctx.fill(); ctx.globalAlpha=1;
+    if(lit&&lit>=ws.length){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=1.6; ctx.stroke(); }
+    if(lit||ws.length>=60){ ctx.fillStyle='#55534c'; ctx.font='9.5px sans-serif'; ctx.textAlign='center'; ctx.fillText(c[0],x,y-r-3); }
+    _wcityPts.push({x,y,r,ci,lit,n:ws.length});
+  });
+  document.getElementById('wmapNote').innerHTML=
+    `亮起 <b>${litCities}</b> / ${cityCount} 座城市 · 金环=该城全部点亮 · 点圆点看那座城里有什么`+
+    (unloc?`<br><small>另有 ${unloc} 件暂未定位到城市</small>`:'');
+}
+document.getElementById('wmap').onclick=e=>{
+  const rect=e.target.getBoundingClientRect();
+  const x=e.clientX-rect.left, y=e.clientY-rect.top;
+  let best=null,bd=1e9;
+  _wcityPts.forEach(p=>{ const d=(p.x-x)**2+(p.y-y)**2; if(d<bd){bd=d;best=p;} });
+  if(!best||bd>26*26) return;
+  const c=CITIES[best.ci], ws=geoIndex().idx[best.ci];
+  document.getElementById('wcName').textContent=`${c[0]} · ${ws.filter(w=>explored.has(w.id)).length}/${ws.length}`;
+  document.getElementById('wcList').innerHTML=ws.map(w=>{
+    const on=explored.has(w.id);
+    return `<div class="wcitem${on?'':' dim'}" ${on?`data-wid="${w.id}"`:''}><span>${on?(favs.has(w.id)?'💡 ':'')+'《'+w.t+'》'+(w.a||''):'??? <small>还没刷到</small>'}</span>${on?'<span class="go">看</span>':''}</div>`;
+  }).join('');
+  const panel=document.getElementById('wcity'); panel.hidden=false;
+  panel.querySelectorAll('[data-wid]').forEach(el=>el.onclick=()=>{ const w=WORKS.find(x=>x.id===+el.dataset.wid); if(w) openDetail(w,false); });
+  panel.scrollIntoView({behavior:'smooth',block:'nearest'});
+};
+document.getElementById('wcClose').onclick=()=>{ document.getElementById('wcity').hidden=true; };
+function setExpTab(t){
+  document.querySelectorAll('#honor .gtab').forEach(b=>b.classList.toggle('on',b.dataset.et===t));
+  document.getElementById('honorWall').style.display = t==='dots'?'':'none';
+  document.getElementById('expWorld').hidden = t!=='world';
+  if(t==='world'){ _geoIdx=null; renderWorld(); }
+}
+document.querySelectorAll('#honor .gtab').forEach(b=>b.onclick=()=>setExpTab(b.dataset.et));
 
 /* ============ 全局绑定 ============ */
 function closeOv(id){ document.getElementById(id).classList.remove('show'); if(id==='detail') document.getElementById('dAudioBox').innerHTML=''; }
