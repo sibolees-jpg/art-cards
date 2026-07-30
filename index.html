@@ -186,7 +186,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .legacy #medalGrid{margin-top:10px}
 #expWorld{padding:8px 10px 40px;max-width:760px;margin:0 auto}
 #wmapWrap{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden}
-#wmap{display:block;width:100%;height:auto}
+#wmap{display:block;width:100%;height:auto;touch-action:none}
 #wmapNote{font-size:12px;color:var(--sub);padding:10px 6px;line-height:1.7}
 #wcity{background:var(--card);border:1px solid var(--line);border-radius:16px;margin-top:10px;overflow:hidden}
 .wchead{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;border-bottom:1px solid var(--line)}
@@ -497,6 +497,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
       <div id="wctrl">
         <button id="wBack" hidden>← 世界</button><b id="wCrumb">世界</b>
         <span class="wsp"></span>
+        <button id="wReset" hidden>⟲ 复位</button>
         <button id="wTimeBtn">⏳ 时间轴</button>
       </div>
       <div id="wTimeRow" hidden>
@@ -2348,7 +2349,14 @@ const COUNTRY_OF={巴黎:'法国',凡尔赛:'法国',枫丹白露:'法国',尚�
 悉尼:'澳大利亚',墨尔本:'澳大利亚',堪培拉:'澳大利亚',奥克兰:'新西兰',
 德黑兰:'伊朗',伊斯法罕:'伊朗',撒马尔罕:'乌兹别克斯坦',巴格达:'伊拉克',
 拉各斯:'尼日利亚',马里:'马里',哈拉雷:'津巴布韦'};
-let _wcityPts=[], wview={level:'world',country:null,timeOn:false,T:2030};
+let _wcityPts=[], wview={level:'world',country:null,timeOn:false,T:2030,z:1,tx:0,ty:0};
+function wClampPan(cssW,cssH){
+  const z=wview.z;
+  if(z<=1){ wview.tx=0; wview.ty=0; return; }
+  wview.tx=Math.min(0,Math.max(cssW-cssW*z,wview.tx));
+  wview.ty=Math.min(0,Math.max(cssH-cssH*z,wview.ty));
+}
+function wResetZoom(){ wview.z=1; wview.tx=0; wview.ty=0; renderWorld(); }
 const wTimePass=w=>{ if(!wview.timeOn) return true; const y=yearNum(w); return y!=null&&y<=wview.T; };
 function wProj(){
   const wrap=document.getElementById('wmapWrap');
@@ -2367,7 +2375,11 @@ function wProj(){
 }
 function renderWorld(){
   const cv=document.getElementById('wmap');
-  const P=wProj();
+  const P0=wProj();
+  wClampPan(P0.cssW,P0.cssH);
+  const z=wview.z, tx=wview.tx, ty=wview.ty;
+  const P={cssW:P0.cssW,cssH:P0.cssH,fx:(lon,lat)=>{const p=P0.fx(lon,lat);return [p[0]*z+tx,p[1]*z+ty];}};
+  const rb=document.getElementById('wReset'); if(rb) rb.hidden=(z<=1);
   const dpr=window.devicePixelRatio||1;
   cv.width=P.cssW*dpr; cv.height=P.cssH*dpr; cv.style.height=P.cssH+'px';
   const ctx=cv.getContext('2d'); ctx.setTransform(dpr,0,0,dpr,0,0);
@@ -2375,7 +2387,7 @@ function renderWorld(){
   // 陆地
   const [COLS,ROWS]=WLAND_GRID;
   ctx.fillStyle=wview.level==='world'?'#dbd7cc':'#e3e0d6';
-  const dotR=wview.level==='world'?1.1:9;
+  const dotR=(wview.level==='world'?1.1:9)*Math.min(2,Math.sqrt(wview.z));
   if(wview.level!=='world') ctx.globalAlpha=.55;
   WLAND.split(';').forEach(row=>{
     const [gy,xs]=row.split(':');
@@ -2452,13 +2464,69 @@ function wTimeLabTxt(){
   if(T>=2030) return '至今';
   return T<0?('公元前'+(-T)+'年'):('公元'+T+'年');
 }
-document.getElementById('wmap').onclick=e=>{
-  const rect=e.target.getBoundingClientRect();
-  const x=e.clientX-rect.left, y=e.clientY-rect.top;
+/* 手势:单指拖动平移 / 双指捏合缩放 / 滚轮缩放 / 轻点=选取 */
+(function(){
+  const cv=document.getElementById('wmap');
+  const pts=new Map();
+  let start=null, moved=0, raf=null;
+  const paint=()=>{ if(!raf){ raf=requestAnimationFrame(()=>{ raf=null; renderWorld(); }); } };
+  cv.addEventListener('pointerdown',e=>{
+    cv.setPointerCapture(e.pointerId);
+    pts.set(e.pointerId,[e.clientX,e.clientY]);
+    if(pts.size===1){ start={x:e.clientX,y:e.clientY,tx:wview.tx,ty:wview.ty}; moved=0; }
+    if(pts.size===2){
+      const a=[...pts.values()];
+      start={d:Math.hypot(a[0][0]-a[1][0],a[0][1]-a[1][1]),
+             cx:(a[0][0]+a[1][0])/2, cy:(a[0][1]+a[1][1])/2,
+             z:wview.z, tx:wview.tx, ty:wview.ty};
+    }
+    e.preventDefault();
+  });
+  cv.addEventListener('pointermove',e=>{
+    if(!pts.has(e.pointerId)) return;
+    pts.set(e.pointerId,[e.clientX,e.clientY]);
+    if(pts.size===1&&start&&start.x!==undefined){
+      const dx=e.clientX-start.x, dy=e.clientY-start.y;
+      moved+=Math.abs(dx)+Math.abs(dy);
+      if(wview.z>1){ wview.tx=start.tx+dx; wview.ty=start.ty+dy; paint(); }
+    } else if(pts.size===2&&start&&start.d){
+      const a=[...pts.values()];
+      const d=Math.hypot(a[0][0]-a[1][0],a[0][1]-a[1][1]);
+      const rect=cv.getBoundingClientRect();
+      const cx=start.cx-rect.left, cy=start.cy-rect.top;
+      const nz=Math.min(8,Math.max(1,start.z*d/start.d));
+      wview.tx=cx-(cx-start.tx)*nz/start.z;
+      wview.ty=cy-(cy-start.ty)*nz/start.z;
+      wview.z=nz; moved=99; paint();
+    }
+  });
+  function up(e){
+    if(!pts.has(e.pointerId)) return;
+    pts.delete(e.pointerId);
+    if(pts.size===0&&moved<8){
+      const rect=cv.getBoundingClientRect();
+      wTap(e.clientX-rect.left,e.clientY-rect.top);
+    }
+    if(pts.size===0) start=null;
+  }
+  cv.addEventListener('pointerup',up);
+  cv.addEventListener('pointercancel',up);
+  cv.addEventListener('wheel',e=>{
+    e.preventDefault();
+    const rect=cv.getBoundingClientRect();
+    const cx=e.clientX-rect.left, cy=e.clientY-rect.top;
+    const nz=Math.min(8,Math.max(1,wview.z*(e.deltaY<0?1.15:0.87)));
+    wview.tx=cx-(cx-wview.tx)*nz/wview.z;
+    wview.ty=cy-(cy-wview.ty)*nz/wview.z;
+    wview.z=nz; paint();
+  },{passive:false});
+})();
+function wTap(x,y){
   let best=null,bd=1e9;
   _wcityPts.forEach(p=>{ const d=(p.x-x)**2+(p.y-y)**2; if(d<bd){bd=d;best=p;} });
   if(!best||bd>28*28) return;
   if(wview.level==='world'){ wview.level='country'; wview.country=best.country;
+    wview.z=1; wview.tx=0; wview.ty=0;
     document.getElementById('wcity').hidden=true; renderWorld(); return; }
   const c=CITIES[best.ci], ws=geoIndex().idx[best.ci].filter(wTimePass);
   document.getElementById('wcName').textContent=`${c[0]} · ${ws.filter(w=>explored.has(w.id)).length}/${ws.length}`;
@@ -2469,9 +2537,10 @@ document.getElementById('wmap').onclick=e=>{
   const panel=document.getElementById('wcity'); panel.hidden=false;
   panel.querySelectorAll('[data-wid]').forEach(el=>el.onclick=()=>{ const w=WORKS.find(x=>x.id===+el.dataset.wid); if(w) openDetail(w,false); });
   panel.scrollIntoView({behavior:'smooth',block:'nearest'});
-};
+}
 document.getElementById('wcClose').onclick=()=>{ document.getElementById('wcity').hidden=true; };
-document.getElementById('wBack').onclick=()=>{ wview.level='world'; wview.country=null; document.getElementById('wcity').hidden=true; renderWorld(); };
+document.getElementById('wBack').onclick=()=>{ wview.level='world'; wview.country=null; wview.z=1; wview.tx=0; wview.ty=0; document.getElementById('wcity').hidden=true; renderWorld(); };
+document.getElementById('wReset').onclick=wResetZoom;
 document.getElementById('wTimeBtn').onclick=()=>{
   wview.timeOn=!wview.timeOn;
   document.getElementById('wTimeBtn').classList.toggle('on',wview.timeOn);
