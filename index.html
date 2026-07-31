@@ -298,6 +298,8 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 #gTray{flex:none;border-top:1px solid var(--line);padding:8px 12px calc(env(safe-area-inset-bottom,0px) + 8px);background:var(--bg)}
 #gSelChips{display:flex;gap:6px;overflow-x:auto;padding-bottom:6px;min-height:30px;align-items:center}
 .gtip{font-size:12px;color:var(--sub)}
+.ghchip{flex:none;font-size:12px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 10px;cursor:pointer;white-space:nowrap}
+.ghchip b{font-weight:600;color:var(--acc)}
 .gchip{flex:none;font-size:12px;background:var(--card2);border-radius:12px;padding:4px 10px;cursor:pointer;white-space:nowrap}
 .gchip .x{margin-left:5px;opacity:.55}
 .gtrayBtns{display:flex;gap:8px}
@@ -305,14 +307,17 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .gtrayBtns button:disabled{opacity:.35}
 #gClearSel{flex:none;width:70px;background:var(--card2);color:var(--txt)}
 #gResult[hidden]{display:none}
-#gResult{position:absolute;left:0;right:0;bottom:0;max-height:72%;background:var(--card);border-radius:18px 18px 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.14);display:flex;flex-direction:column;z-index:5}
-.grhead{flex:none;display:flex;justify-content:space-between;align-items:center;padding:14px 16px 8px;font-size:15px}
+#gResult{position:absolute;left:0;right:0;bottom:0;max-height:82%;background:var(--card);border-radius:18px 18px 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.14);display:flex;flex-direction:column;z-index:5}
+.grhead{flex:none;display:flex;align-items:center;padding:14px 16px 8px;font-size:15px}
 .grhead button{font-size:18px;color:var(--sub);background:none;border:none;padding:2px 8px}
-#grList{flex:1;overflow-y:auto;padding:0 16px 8px}
+#grBody{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+#grList{padding:0 16px 8px}
+.grhead .grsp{flex:1}
+.grhead button{margin-left:2px}
 .gritem{display:flex;gap:9px;padding:8px 0;border-bottom:1px dashed var(--line);font-size:13.5px;line-height:1.65}
 .gritem .gn{flex:none;width:22px;height:22px;border-radius:50%;background:var(--card2);display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--sub)}
 .gritem .gtag{color:var(--sub);margin-right:4px}
-.grfoot{flex:none;padding:8px 16px calc(env(safe-area-inset-bottom,0px) + 10px);font-size:11px;color:var(--sub)}
+.grfoot{padding:8px 16px calc(env(safe-area-inset-bottom,0px) + 10px);font-size:11px;color:var(--sub);line-height:1.7}
 #grAI{margin:0 16px 6px;background:var(--card2);border-radius:12px;padding:10px 12px}
 .graihead{font-size:12px;color:var(--sub);margin-bottom:5px}
 .graitext{font-size:13.5px;line-height:1.75}
@@ -660,10 +665,15 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
       </div>
     </div>
     <div id="gResult" hidden>
-      <div class="grhead"><b>这几件作品的公约</b><button id="grClose">✕</button></div>
-      <div id="grAI" hidden></div>
-      <div id="grList"></div>
-      <div class="grfoot">本机谱系分析(离线词典)·想要更深的解读,点「发给AI」把三句话档案复制给任何 AI</div>
+      <div class="grhead"><b id="grTitle">这几件作品的公约</b>
+        <span class="grsp"></span>
+        <button id="grRegen" hidden title="重新生成">🔄</button>
+        <button id="grClose">✕</button></div>
+      <div id="grBody">
+        <div id="grAI" hidden></div>
+        <div id="grList"></div>
+        <div class="grfoot" id="grFoot"></div>
+      </div>
     </div>
   </div>
   <div id="gRevView" hidden>
@@ -1428,7 +1438,15 @@ function gToggle(id){
 function renderGTray(){
   const chips=document.getElementById('gSelChips');
   const ids=[...gSel];
-  if(!ids.length){ chips.innerHTML='<span class="gtip">点谱系里的作品圆点选中它们(2件起),看它们之间的公约</span>'; }
+  if(!ids.length){
+    const rec=aiRecent();
+    chips.innerHTML = rec.length
+      ? '<span class="gtip">存档:</span>'+rec.slice(0,12).map(([sig,r])=>
+          '<span class="ghchip" data-sig="'+sig+'"><b>'+r.ids.length+'件</b> '+
+          (r.titles||[]).slice(0,2).map(t=>'《'+t+'》').join('')+' <span style="opacity:.55">'+fmtDay(r.t)+'</span></span>').join('')
+      : '<span class="gtip">点谱系里的作品圆点选中它们(2件起),看它们之间的公约</span>';
+    chips.querySelectorAll('.ghchip').forEach(c=>c.onclick=()=>openSaved(c.dataset.sig));
+  }
   else chips.innerHTML=ids.map(id=>{ const w=WORKS.find(x=>x.id===id); return w?'<span class="gchip" data-gid="'+id+'">《'+w.t+'》<span class="x">✕</span></span>':''; }).join('');
   chips.querySelectorAll('.gchip').forEach(c=>{
     c.querySelector('.x').onclick=e=>{ e.stopPropagation(); gToggle(+c.dataset.gid); };
@@ -1492,10 +1510,21 @@ function analyzeCommon(ids){
   if(lines.length<10) lines.push(['留白','有 '+ws.filter(w=>!ATTR.concern.some(b=>b.kw.some(k=>gTextOf(w).includes(k)))).length+' 件没落进任何现成题材抽屉——说明你的兴趣比词典大。']);
   return lines.slice(0,10);
 }
-function gAnalyze(){
+function gAnalyze(keepAI){
   const lines=analyzeCommon([...gSel]);
   document.getElementById('grList').innerHTML=lines.map((l,i)=>'<div class="gritem"><span class="gn">'+(i+1)+'</span><span><span class="gtag">['+l[0]+']</span>'+l[1]+'</span></div>').join('');
+  if(keepAI!==true){
+    document.getElementById('grAI').hidden=true;
+    document.getElementById('grRegen').hidden=true;
+    document.getElementById('grTitle').textContent='这几件作品的公约';
+    const sig=aiSig(gSel);
+    if(aiSaved[sig]) showAI(aiSaved[sig].text,aiSaved[sig]);   // 有存档就一并带出
+  }
+  document.getElementById('grFoot').innerHTML=
+    '本机谱系分析(离线词典)·AI 深析会自动存档,同一组作品再看不重复生成'+
+    (aiRecent().length?' · 共 '+aiRecent().length+' 条存档':'');
   document.getElementById('gResult').hidden=false;
+  document.getElementById('grBody').scrollTop=0;
 }
 function gCopyAI(){
   const ws=[...gSel].map(id=>WORKS.find(w=>w.id===id)).filter(Boolean);
@@ -1537,6 +1566,40 @@ const AI_SYS = `你是「艺术卡片」App 的驻馆分析员,服务于一个�
 2. 最后另起一段,写不超过 80 字的「给这位观众的话」:基于 TA 的画像和这次选择,指出 TA 兴趣里可能正在生长的方向。
 铁律:只依据给定档案与公认艺术史常识,不虚构事实、不编造年代与收藏地;语气克制具体,不吹捧不空话;中文,每条不超过 40 字。`;
 function aiReady(){ return !!(AGENT_URL||dsKey()); }
+/* ---- AI 分析存档:同一组作品不重复生成 ---- */
+const LSAI='ac_ai_saved';
+let aiSaved={}; try{aiSaved=JSON.parse(localStorage.getItem(LSAI)||'{}')}catch(_){}
+const aiSig=ids=>[...ids].map(Number).sort((a,b)=>a-b).join(',');
+function aiSave(sig,rec){
+  aiSaved[sig]=rec;
+  const keys=Object.keys(aiSaved).sort((a,b)=>aiSaved[b].t-aiSaved[a].t);
+  if(keys.length>60) keys.slice(60).forEach(k=>delete aiSaved[k]);   // 只留最近 60 条
+  try{ localStorage.setItem(LSAI,JSON.stringify(aiSaved)); }catch(_){ }
+}
+function aiRecent(){ return Object.entries(aiSaved).sort((a,b)=>b[1].t-a[1].t); }
+function fmtDay(ts){ const d=new Date(ts); return (d.getMonth()+1)+'月'+d.getDate()+'日'; }
+function showAI(text,rec){
+  const ai=document.getElementById('grAI');
+  ai.hidden=false;
+  const body=String(text).replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/\n{2,}/g,'\n\n')
+    .replace(/(?!^)【/g,'\n【')          // AI 偶尔把十条挤成一段:每个【】另起一行
+    .replace(/\n{3,}/g,'\n\n')
+    .replace(/\n/g,'<br>');
+  ai.innerHTML='<div class="graihead">🤖 驻馆分析员'+(rec&&rec.t?' · <span style="opacity:.75">'+fmtDay(rec.t)+'存档</span>':'')+'</div>'+
+    '<div class="graitext">'+body+'</div>';
+  document.getElementById('grRegen').hidden=false;
+  document.getElementById('gResult').hidden=false;
+  document.getElementById('grBody').scrollTop=0;
+}
+/* 打开一条历史存档(含当时选的作品) */
+function openSaved(sig){
+  const rec=aiSaved[sig]; if(!rec) return;
+  gSel=new Set(rec.ids); renderGTray(); buildGMap();
+  document.getElementById('grTitle').textContent='存档 · '+rec.ids.length+' 件';
+  gAnalyze(true);
+  showAI(rec.text,rec);
+}
 function askKey(){
   const k=prompt('粘贴你的 DeepSeek API Key(sk- 开头)。\n它只保存在这台设备的浏览器里,不会上传到仓库或任何第三方。\n留空则取消。');
   if(k&&/^sk-/.test(k.trim())){ localStorage.setItem('ac_ds_key',k.trim()); toast('已保存在本机 🔑'); renderGTray(); return true; }
@@ -1546,6 +1609,9 @@ async function gDeep(){
   const btn=document.getElementById('gDeep');
   const ws=[...gSel].map(id=>WORKS.find(w=>w.id===id)).filter(Boolean).slice(0,8);
   if(ws.length<2) return;
+  const sig=aiSig(gSel);
+  if(!gDeep._force && aiSaved[sig]){ showAI(aiSaved[sig].text,aiSaved[sig]); toast('读取已存档的分析 📁'); return; }
+  gDeep._force=false;
   if(!aiReady()&&!askKey()) return;
   btn.disabled=true; btn.textContent='🤖 分析中…';
   const a=computeAttr();
@@ -1570,11 +1636,9 @@ async function gDeep(){
       const d=await r.json();
       text=(((d.choices||[])[0]||{}).message||{}).content||'';
     }
-    const ai=document.getElementById('grAI');
-    ai.hidden=false;
-    ai.innerHTML='<div class="graihead">🤖 驻馆分析员</div><div class="graitext">'+
-      String(text).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/\n/g,'<br>')+'</div>';
-    document.getElementById('gResult').hidden=false;
+    const rec={t:Date.now(),text:text,ids:[...gSel],
+      titles:ws.map(w=>w.t).slice(0,4)};
+    aiSave(sig,rec); showAI(text,rec); renderGTray();
   }catch(e){
     toast('AI 联不上('+e.message+'),先看本机分析 🛠');
   }
@@ -1585,6 +1649,10 @@ document.getElementById('gAnalyze').onclick=gAnalyze;
 document.getElementById('gCopyAI').onclick=gCopyAI;
 document.getElementById('gClearSel').onclick=()=>{ gSel.clear(); buildGMap(); renderGTray(); };
 document.getElementById('grClose').onclick=()=>{ document.getElementById('gResult').hidden=true; };
+document.getElementById('grRegen').onclick=()=>{
+  if(!confirm('重新生成会再调用一次 AI(消耗一点额度),并覆盖这条存档。继续?')) return;
+  gDeep._force=true; gDeep();
+};
 function renderLearn(){
   const empty=document.getElementById('learnEmpty'), card=document.getElementById('learnCard'), done=document.getElementById('learnDone');
   const tot=document.getElementById('learnTotal'); if(tot) tot.textContent=study.size;
