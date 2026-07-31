@@ -1437,7 +1437,8 @@ function renderGTray(){
   document.getElementById('gAnalyze').disabled = ids.length<2;
   document.getElementById('gCopyAI').disabled = ids.length<2;
   const gd=document.getElementById('gDeep');
-  gd.hidden = !AGENT_URL; gd.disabled = ids.length<2;
+  gd.hidden=false; gd.disabled = ids.length<2;
+  gd.textContent = aiReady()?'🤖 AI深析':'🤖 接入AI';
   document.getElementById('gClearSel').hidden = !ids.length;
 }
 /* ---- 公约分析:10 条 ---- */
@@ -1524,27 +1525,58 @@ function openLearn(){
   setGTab('map');
 }
 document.querySelectorAll('.gtab').forEach(b=>b.onclick=()=>{ setGTab(b.dataset.gt); });
-/* ---- AI 深析:走 Cloudflare Worker 代理(密钥在云端,前端无密钥) ---- */
-const AGENT_URL = localStorage.getItem('ac_agent_url') || '';   // 配置后「🤖AI深析」自动出现
+/* ---- AI 深析 ----
+   两条路:①本机直连 DeepSeek(密钥存本设备 localStorage,不入仓库、不上传他处)
+          ②Cloudflare Worker 代理(密钥在云端,给所有访客用)
+   优先用 Worker;没配 Worker 时用本机密钥。 */
+const AGENT_URL = localStorage.getItem('ac_agent_url') || '';
+const dsKey = ()=>localStorage.getItem('ac_ds_key')||'';
+const AI_SYS = `你是「艺术卡片」App 的驻馆分析员,服务于一个社会美育项目。用户会给你若干件艺术作品的三句话档案(背景/方式/意义),以及这位观众的兴趣画像。
+你的任务:
+1. 给出恰好 10 条这几件作品之间的「公约方式」——共同的题材、方法、材料、时代处境或精神气质。每条一句话,句首用【题材】【方法】【材料】【时代】【气质】之类的方括号标注维度。
+2. 最后另起一段,写不超过 80 字的「给这位观众的话」:基于 TA 的画像和这次选择,指出 TA 兴趣里可能正在生长的方向。
+铁律:只依据给定档案与公认艺术史常识,不虚构事实、不编造年代与收藏地;语气克制具体,不吹捧不空话;中文,每条不超过 40 字。`;
+function aiReady(){ return !!(AGENT_URL||dsKey()); }
+function askKey(){
+  const k=prompt('粘贴你的 DeepSeek API Key(sk- 开头)。\n它只保存在这台设备的浏览器里,不会上传到仓库或任何第三方。\n留空则取消。');
+  if(k&&/^sk-/.test(k.trim())){ localStorage.setItem('ac_ds_key',k.trim()); toast('已保存在本机 🔑'); renderGTray(); return true; }
+  return false;
+}
 async function gDeep(){
   const btn=document.getElementById('gDeep');
   const ws=[...gSel].map(id=>WORKS.find(w=>w.id===id)).filter(Boolean).slice(0,8);
   if(ws.length<2) return;
+  if(!aiReady()&&!askKey()) return;
   btn.disabled=true; btn.textContent='🤖 分析中…';
   const a=computeAttr();
+  const userMsg='这位观众的画像:核心关怀='+a.concern.slice(0,3).map(x=>x.k).join('、')+
+    ';共收藏 '+a.n+' 件,其中爆灯(最爱)'+a.nf+' 件。\n\nTA 这次选中的作品:\n\n'+
+    ws.map(w=>'《'+w.t+'》'+(w.a||'')+'('+(w.y||'')+')\n背景:'+(w.bg||'')+'\n方式:'+(w.how||'')+'\n意义:'+(w.why||'')).join('\n\n');
   try{
-    const r=await fetch(AGENT_URL,{method:'POST',headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({works:ws.map(w=>({t:w.t,a:w.a,y:w.y,bg:w.bg,how:w.how,why:w.why})),
-        profile:{concerns:a.concern.slice(0,3).map(x=>x.k),n:a.n,nf:a.nf}})});
-    if(!r.ok) throw new Error(r.status);
-    const d=await r.json();
+    let text='';
+    if(AGENT_URL){
+      const r=await fetch(AGENT_URL,{method:'POST',headers:{'Content-Type':'application/json'},
+        body:JSON.stringify({works:ws.map(w=>({t:w.t,a:w.a,y:w.y,bg:w.bg,how:w.how,why:w.why})),
+          profile:{concerns:a.concern.slice(0,3).map(x=>x.k),n:a.n,nf:a.nf}})});
+      if(!r.ok) throw new Error('worker '+r.status);
+      text=(await r.json()).text||'';
+    }else{
+      const r=await fetch('https://api.deepseek.com/chat/completions',{method:'POST',
+        headers:{'Content-Type':'application/json','Authorization':'Bearer '+dsKey()},
+        body:JSON.stringify({model:'deepseek-chat',max_tokens:900,temperature:0.8,
+          messages:[{role:'system',content:AI_SYS},{role:'user',content:userMsg}]})});
+      if(r.status===401){ localStorage.removeItem('ac_ds_key'); throw new Error('密钥无效'); }
+      if(!r.ok) throw new Error('deepseek '+r.status);
+      const d=await r.json();
+      text=(((d.choices||[])[0]||{}).message||{}).content||'';
+    }
     const ai=document.getElementById('grAI');
     ai.hidden=false;
     ai.innerHTML='<div class="graihead">🤖 驻馆分析员</div><div class="graitext">'+
-      String(d.text||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/\n/g,'<br>')+'</div>';
+      String(text).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/\n/g,'<br>')+'</div>';
     document.getElementById('gResult').hidden=false;
   }catch(e){
-    toast('AI 暂时联不上,先看本机分析 🛠');
+    toast('AI 联不上('+e.message+'),先看本机分析 🛠');
   }
   btn.disabled=false; btn.textContent='🤖 AI深析';
 }
