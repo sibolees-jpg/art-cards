@@ -1,0 +1,884 @@
+[
+ {
+  "id": 8180,
+  "zh": "乔治·华盛顿",
+  "qid": "Q5545910",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Virginia%20State%20Capitol%20complex%20-%20Houdon%27s%20Washington%2C%20seen%20from%20the%20front.jpg",
+  "y": "1785",
+  "loc": "弗吉尼亚州议会大厦",
+  "a": "乌东"
+ },
+ {
+  "id": 8181,
+  "zh": "Diana",
+  "qid": "Q19753091",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Houdon-diana.jpg",
+  "y": "1790",
+  "loc": "Gallery of great men",
+  "a": "乌东"
+ },
+ {
+  "id": 8182,
+  "zh": "受冻的女孩",
+  "qid": "Q29383602",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20MET%20DP162240.jpg",
+  "y": "1787",
+  "loc": "大都會藝術博物館",
+  "a": "乌东"
+ },
+ {
+  "id": 8183,
+  "zh": "Dance of Time",
+  "qid": "Q18619205",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clodion2small.jpg",
+  "y": "1788",
+  "loc": "弗里克收藏",
+  "a": "克洛迪翁"
+ },
+ {
+  "id": 8184,
+  "zh": "Les Bretonnes au Pardon",
+  "qid": "Q1820460",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dagnan%20Bouveret%20Bretonnes%20au%20Pardon.jpg",
+  "y": "1887",
+  "loc": "古爾本基安美術館",
+  "a": "勒帕热"
+ },
+ {
+  "id": 8185,
+  "zh": "Watercolourist in the Louv",
+  "qid": "Q21741379",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dagnan-Bouveret%20-%20Jeune%20Femme-aquarelliste%20au%20Louvre%20-%20Hermitage.jpg",
+  "y": "1891",
+  "loc": "埃尔米塔日博物馆",
+  "a": "勒帕热"
+ },
+ {
+  "id": 8186,
+  "zh": "Ophelia",
+  "qid": "Q117270556",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Cabanel%2C%20Ophelia.JPG",
+  "y": "1883",
+  "loc": "",
+  "a": "卡巴内尔"
+ },
+ {
+  "id": 8187,
+  "zh": "Nymph abducted by a faun",
+  "qid": "Q17494548",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nymphe%20et%20Saty%20%28Alexandre%20Cabanel%29%201860.JPG",
+  "y": "1860",
+  "loc": "里爾美術宮",
+  "a": "卡巴内尔"
+ },
+ {
+  "id": 8188,
+  "zh": "Albaydé",
+  "qid": "Q115652264",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Cabanel%20-%20Albayde.jpg",
+  "y": "1848",
+  "loc": "法布爾博物館",
+  "a": "卡巴内尔"
+ },
+ {
+  "id": 8189,
+  "zh": "Emperor Napoleon III",
+  "qid": "Q118142327",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Cabanel%20002.jpg",
+  "y": "1865",
+  "loc": "贡比涅城堡",
+  "a": "卡巴内尔"
+ },
+ {
+  "id": 8190,
+  "zh": "Death of Francesca da Rimi",
+  "qid": "Q17494334",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Inf.%2006%20Alexandre%20Cabanel%2C%20Morte%20di%20Francesca%20da%20Rimini%20e%20di%20Paolo%20Malatesta%2C%201870.jpg",
+  "y": "1870",
+  "loc": "奥赛博物馆",
+  "a": "卡巴内尔"
+ },
+ {
+  "id": 8191,
+  "zh": "Echo",
+  "qid": "Q19913204",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Cabanel%20-%20Echo.jpg",
+  "y": "1874",
+  "loc": "大都會藝術博物館",
+  "a": "卡巴内尔"
+ },
+ {
+  "id": 8192,
+  "zh": "Portrait of Mme*** (Madame",
+  "qid": "Q2105253",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carolus-Duran%20Dame%20au%20gant.jpg",
+  "y": "1869",
+  "loc": "奥赛博物馆",
+  "a": "卡罗吕斯-杜兰"
+ },
+ {
+  "id": 8193,
+  "zh": "Portrait of Madame Ernest ",
+  "qid": "Q72273730",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20carolus%20duran%20dame%20au%20chien.JPG",
+  "y": "1870",
+  "loc": "里爾美術宮",
+  "a": "卡罗吕斯-杜兰"
+ },
+ {
+  "id": 8194,
+  "zh": "Portrait of Anna Obolenska",
+  "qid": "Q15880880",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carolus-Duran%20Anna%20Obolenskaya.jpg",
+  "y": "1887",
+  "loc": "埃尔米塔日博物馆",
+  "a": "卡罗吕斯-杜兰"
+ },
+ {
+  "id": 8195,
+  "zh": "The Kiss",
+  "qid": "Q19968553",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carolus-Duran%2C%201868%20-%20Le%20baiser.jpg",
+  "y": "1868",
+  "loc": "里爾美術宮",
+  "a": "卡罗吕斯-杜兰"
+ },
+ {
+  "id": 8196,
+  "zh": "Equestrian Portrait of Mad",
+  "qid": "Q62015732",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carolus-Duran%20-%20Equestrian%20Portrait%20of%20Mademoiselle%20Croizette.JPG",
+  "y": "1873",
+  "loc": "MUba Eugène-Leroy",
+  "a": "卡罗吕斯-杜兰"
+ },
+ {
+  "id": 8197,
+  "zh": "Aphrodite of Syracuse",
+  "qid": "Q618530",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Aphrodite%2C%202nd%20c.%20BC.jpg",
+  "y": "0200",
+  "loc": "雅典國家考古博物館",
+  "a": "卡诺瓦"
+ },
+ {
+  "id": 8198,
+  "zh": "Penitent Magdalene",
+  "qid": "Q3842294",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Canova%2C%20maddalena%20penitente%2C%2002.JPG",
+  "y": "1793",
+  "loc": "多利亚-图尔西宫",
+  "a": "卡诺瓦"
+ },
+ {
+  "id": 8199,
+  "zh": "Monument to the Royal Stua",
+  "qid": "Q6906903",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20to%20the%20Stuarts.JPG",
+  "y": "",
+  "loc": "",
+  "a": "卡诺瓦"
+ },
+ {
+  "id": 8200,
+  "zh": "Theseus and the Minotaur",
+  "qid": "Q3984954",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Canova-Theseus%20and%20the%20Minotaur-Victoria%20and%20Albert%20Museum.jpg",
+  "y": "1781",
+  "loc": "维多利亚和阿尔伯特博物馆",
+  "a": "卡诺瓦"
+ },
+ {
+  "id": 8201,
+  "zh": "Theseus and Centaur by Ant",
+  "qid": "Q27031521",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Theseus%20and%20Centaur%20by%20Antonio%20Canova%201.jpg",
+  "y": "1900",
+  "loc": "艺术史博物馆",
+  "a": "卡诺瓦"
+ },
+ {
+  "id": 8202,
+  "zh": "Napoleon as Mars the Peace",
+  "qid": "Q41799096",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/IMG%203972%20-%20Canova%20-%20Napoleone%20Bonaparte%20-%20Milano%2C%20Cortile%20del%20Palazzo%20di%20Brera%20-%20Foto%20Giovanni%20Dall%27Orto%2019-jan%202007.jpg",
+  "y": "1807",
+  "loc": "honorary courtyard of the Palazzo di Brera",
+  "a": "卡诺瓦"
+ },
+ {
+  "id": 8203,
+  "zh": "Woman on a Black Divan",
+  "qid": "Q99432889",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1869%20Jean-Jacques%20Henner%20-%20Woman%20on%20a%20black%20divan.jpg",
+  "y": "1865",
+  "loc": "米卢斯美术馆",
+  "a": "埃内"
+ },
+ {
+  "id": 8204,
+  "zh": "Bara",
+  "qid": "Q104443881",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Henner%20-%20Bara%20-%20PPP182%20-%20Mus%C3%A9e%20des%20Beaux-Arts%20de%20la%20ville%20de%20Paris.jpg",
+  "y": "1882",
+  "loc": "小皇宮",
+  "a": "埃内"
+ },
+ {
+  "id": 8205,
+  "zh": "Herodias",
+  "qid": "Q121434892",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques%20Henner%20001.jpg",
+  "y": "1887",
+  "loc": "Musée national Jean-Jacques Henner",
+  "a": "埃内"
+ },
+ {
+  "id": 8206,
+  "zh": "The Naiads",
+  "qid": "Q118408997",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Na%C3%AFades%2C%20par%20Jean-Jacques%20Henner.jpg",
+  "y": "1877",
+  "loc": "Musée national Jean-Jacques Henner",
+  "a": "埃内"
+ },
+ {
+  "id": 8207,
+  "zh": "Salome (Henner)",
+  "qid": "Q138491657",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Salom%C3%A9%2C%20variante%20tardive%2C%20par%20Jean-Jacques%20Henner.jpg",
+  "y": "1904",
+  "loc": "Musée national Jean-Jacques Henner",
+  "a": "埃内"
+ },
+ {
+  "id": 8208,
+  "zh": "The Chaste Susannah",
+  "qid": "Q17450435",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Chaste%20Suzanne%2C%20par%20Jean-Jacques%20Henner.jpg",
+  "y": "1864",
+  "loc": "卢浮宫博物馆",
+  "a": "埃内"
+ },
+ {
+  "id": 8209,
+  "zh": "Neptune",
+  "qid": "Q17635672",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Neptune%20-%20Pajou-Augustin%20%28droit%29.jpg",
+  "y": "1767",
+  "loc": "",
+  "a": "夏普"
+ },
+ {
+  "id": 8210,
+  "zh": "Ariadne Abandoned by These",
+  "qid": "Q5703908",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%2C%20Ariadne%20Abandoned%20by%20Theseus%2C%201774.jpg",
+  "y": "1774",
+  "loc": "休士頓美術館",
+  "a": "安杰莉卡·考夫曼"
+ },
+ {
+  "id": 8211,
+  "zh": "The Sorrow of Telemachus",
+  "qid": "Q19912047",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sorrow%20of%20Telemachus%20MET%20DP169392.jpg",
+  "y": "1783",
+  "loc": "大都會藝術博物館",
+  "a": "安杰莉卡·考夫曼"
+ },
+ {
+  "id": 8212,
+  "zh": "Sappho Inspired by Love",
+  "qid": "Q79358025",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sappho%20Inspired%20by%20Love%20by%20Angelica%20Kauffmann.jpg",
+  "y": "1775",
+  "loc": "約翰與及梅波·瑞霖藝術博物館",
+  "a": "安杰莉卡·考夫曼"
+ },
+ {
+  "id": 8213,
+  "zh": "Telemachus and the Nymphs ",
+  "qid": "Q19912157",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Telemachus%20and%20the%20Nymphs%20of%20Calypso%20MET%20DP169393.jpg",
+  "y": "1782",
+  "loc": "大都會藝術博物館",
+  "a": "安杰莉卡·考夫曼"
+ },
+ {
+  "id": 8214,
+  "zh": "斐迪南多四世一家",
+  "qid": "Q19985096",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Painting%20of%20the%20family%20of%20Ferdinando%20IV%20%28Angelica%20Kauffmann%2C%201782%29.jpg",
+  "y": "1782",
+  "loc": "卡波迪蒙特美術館",
+  "a": "安杰莉卡·考夫曼"
+ },
+ {
+  "id": 8215,
+  "zh": "Virgil reading the ''Aenei",
+  "qid": "Q21741326",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelica%20Kauffmann%20-%20Virgil%20reading%20the%20%E2%80%9AAeneid%E2%80%98%20to%20Augustus%20and%20Octavia%20%28Hermitage%29.jpg",
+  "y": "1788",
+  "loc": "埃尔米塔日博物馆",
+  "a": "安杰莉卡·考夫曼"
+ },
+ {
+  "id": 8216,
+  "zh": "Village Love",
+  "qid": "Q15690957",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bastien%20Lepage%20LAmour%20au%20Village%202.jpg",
+  "y": "1882",
+  "loc": "普希金造型藝術博物館",
+  "a": "巴斯蒂安-勒帕热"
+ },
+ {
+  "id": 8217,
+  "zh": "Hay Making",
+  "qid": "Q16696928",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Bastien-Lepage%20-%20Hay%20making%20-%20Google%20Art%20Project.jpg",
+  "y": "1877",
+  "loc": "奥赛博物馆",
+  "a": "巴斯蒂安-勒帕热"
+ },
+ {
+  "id": 8218,
+  "zh": "October (Saison d'octobre)",
+  "qid": "Q16682769",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Bastien-Lepage%20-%20October%20-%20Google%20Art%20Project.jpg",
+  "y": "1878",
+  "loc": "維多利亞國立美術館",
+  "a": "巴斯蒂安-勒帕热"
+ },
+ {
+  "id": 8219,
+  "zh": "Weary",
+  "qid": "Q55425480",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Bastien-Lepage%20-%20Weary%20-%20NG.M.03370%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
+  "y": "1881",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "巴斯蒂安-勒帕热"
+ },
+ {
+  "id": 8220,
+  "zh": "The Wood Gatherer",
+  "qid": "Q73824058",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Bastien-Lepage%20-%20Le%20P%C3%A8re%20Jacques%20%28The%20Wood%20Gatherer%29%20-%201881.jpg",
+  "y": "1881",
+  "loc": "密爾沃基美術博物館",
+  "a": "巴斯蒂安-勒帕热"
+ },
+ {
+  "id": 8221,
+  "zh": "The Blind Beggar",
+  "qid": "Q91018238",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Bastien-Lepage%20The%20Blind%20Beggar.jpg",
+  "y": "1882",
+  "loc": "Musée des Beaux-Arts de Tournai",
+  "a": "巴斯蒂安-勒帕热"
+ },
+ {
+  "id": 8222,
+  "zh": "雄獅與蛇",
+  "qid": "Q15935044",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lion%20au%20serpent%20Antoine-Louis%20Barye.jpg",
+  "y": "1832",
+  "loc": "里昂美术馆",
+  "a": "巴里"
+ },
+ {
+  "id": 8223,
+  "zh": "Charles VI frightened in t",
+  "qid": "Q16538591",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Augustins%20-%20Charles%20VI%20effray%C3%A9%20dans%20la%20for%C3%AAt%20du%20Mans%20-%20Antoine-Louis%20Barye.jpg",
+  "y": "1833",
+  "loc": "",
+  "a": "巴里"
+ },
+ {
+  "id": 8224,
+  "zh": "Monument to Napoleon and H",
+  "qid": "Q20807009",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Corsica%20Ajaccio%20monument%20Napoleon%20Place%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle.jpg",
+  "y": "1864",
+  "loc": "",
+  "a": "巴里"
+ },
+ {
+  "id": 8225,
+  "zh": "Lion with a Snake",
+  "qid": "Q106675387",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/0%20Lion%20au%20serpent-%20A-L%20Barye%20-%20LP%201184%20-%20Louvre.JPG",
+  "y": "1835",
+  "loc": "Room 105",
+  "a": "巴里"
+ },
+ {
+  "id": 8226,
+  "zh": "Grotte im Park der Villa d",
+  "qid": "Q1547637",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Blechen%20005.jpg",
+  "y": "1828",
+  "loc": "",
+  "a": "布莱希恩"
+ },
+ {
+  "id": 8227,
+  "zh": "The Neustadt-Eberswalde Ro",
+  "qid": "Q18683552",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Blechen%20-%20Walzwerk%20Neustadt-Eberswalde%20-%20Google%20Art%20Project.jpg",
+  "y": "1830",
+  "loc": "舊國家畫廊",
+  "a": "布莱希恩"
+ },
+ {
+  "id": 8228,
+  "zh": "Building of the Devil's Br",
+  "qid": "Q30067404",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Blechen%20-%20Bau%20der%20Teufelsbr%C3%BCcke%20%281833%29.jpg",
+  "y": "1833",
+  "loc": "新绘画陈列馆",
+  "a": "布莱希恩"
+ },
+ {
+  "id": 8229,
+  "zh": "equestrian statue of Joan ",
+  "qid": "Q3497617",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20of%20Arc%20Emmanuel%20Fremiet.jpg",
+  "y": "1874",
+  "loc": "金字塔广场",
+  "a": "弗雷米埃"
+ },
+ {
+  "id": 8230,
+  "zh": "Joan of Arc",
+  "qid": "Q22023008",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20of%20Arc%20statue%20with%20pedestal%20-%20Portland%2C%20Oregon.jpg",
+  "y": "",
+  "loc": "Laurelhurst",
+  "a": "弗雷米埃"
+ },
+ {
+  "id": 8231,
+  "zh": "Young Trapped Elephant",
+  "qid": "Q17306899",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fremiet%20Elephant.jpg",
+  "y": "1878",
+  "loc": "奥赛博物馆",
+  "a": "弗雷米埃"
+ },
+ {
+  "id": 8232,
+  "zh": "equestrian statue of Simón",
+  "qid": "Q3497628",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20equestre%20de%20Bolivar%20a%20Paris.jpg",
+  "y": "1930",
+  "loc": "",
+  "a": "弗雷米埃"
+ },
+ {
+  "id": 8233,
+  "zh": "equestrian statue of Joan ",
+  "qid": "Q13452941",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%2075001%20Place%20des%20Pyramides%20Jeanne%20d%27Arc%20equestre%20by%20Fr%C3%A9miet%20S1.jpg",
+  "y": "1874",
+  "loc": "",
+  "a": "弗雷米埃"
+ },
+ {
+  "id": 8234,
+  "zh": "Dénicheur d'oursons",
+  "qid": "Q18177089",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9nicheur.JPG",
+  "y": "1885",
+  "loc": "巴黎植物園",
+  "a": "弗雷米埃"
+ },
+ {
+  "id": 8235,
+  "zh": "Christus",
+  "qid": "Q5113613",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B8benhavn%20katedra%202.jpg",
+  "y": "1838",
+  "loc": "聖母教堂",
+  "a": "托瓦尔森"
+ },
+ {
+  "id": 8236,
+  "zh": "Ganymede with Jupiter's Ea",
+  "qid": "Q117521579",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ganymede%20Waters%20Zeus%20as%20an%20Eagle%20by%20Thorvaldsen.jpg",
+  "y": "1817",
+  "loc": "",
+  "a": "托瓦尔森"
+ },
+ {
+  "id": 8237,
+  "zh": "哥白尼纪念碑 (蒙特利尔)",
+  "qid": "Q36598847",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaus%20Copernicus%20Monument.jpg",
+  "y": "",
+  "loc": "",
+  "a": "托瓦尔森"
+ },
+ {
+  "id": 8238,
+  "zh": "Night",
+  "qid": "Q21570161",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Natten%2C%20Bertel%20Thorvaldsen%2C%20A901.tif",
+  "y": "1815",
+  "loc": "托瓦爾森博物館",
+  "a": "托瓦尔森"
+ },
+ {
+  "id": 8239,
+  "zh": "Cupid and the Graces by Be",
+  "qid": "Q72911207",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bertel%20Thorvaldsen%20%281770-1844%29%20Le%20Grazie%20con%20Cupido%20%281820-1823%29%20dal%20modello%20in%20gesso%20del%201817-1819%2001.jpg",
+  "y": "",
+  "loc": "",
+  "a": "托瓦尔森"
+ },
+ {
+  "id": 8240,
+  "zh": "Bertel Thorvaldsen with th",
+  "qid": "Q108824415",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thorvaldsen%20og%20h%C3%A5bets%20gudinde.jpg",
+  "y": "1839",
+  "loc": "托瓦爾森博物館",
+  "a": "托瓦尔森"
+ },
+ {
+  "id": 8241,
+  "zh": "The intercepted love lette",
+  "qid": "Q1198247",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Spitzweg%20013.jpg",
+  "y": "1860",
+  "loc": "Museum Georg Schäfer",
+  "a": "斯皮茨韦格"
+ },
+ {
+  "id": 8242,
+  "zh": "Gnome watching railway tra",
+  "qid": "Q1533248",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/CarlSpitzwegGnomEisenbahnbetrachtend.jpg",
+  "y": "1848",
+  "loc": "",
+  "a": "斯皮茨韦格"
+ },
+ {
+  "id": 8243,
+  "zh": "Justitia",
+  "qid": "Q1714279",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Spitzweg%20-%20Das%20Auge%20des%20Gesetzes%20%28Justitia%29%20-%201857.jpg",
+  "y": "1857",
+  "loc": "林茨美術館",
+  "a": "斯皮茨韦格"
+ },
+ {
+  "id": 8244,
+  "zh": "Magician and Dragon",
+  "qid": "Q1194309",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20Hexenmeister%20%28Carl%20Spitzweg%29.jpg",
+  "y": "1875",
+  "loc": "Museum Georg Schäfer",
+  "a": "斯皮茨韦格"
+ },
+ {
+  "id": 8245,
+  "zh": "Flying kites",
+  "qid": "Q1254326",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Spitzweg%20-%20Drachensteigen%20-%20Google%20Art%20Project.jpg",
+  "y": "1880",
+  "loc": "舊國家畫廊",
+  "a": "斯皮茨韦格"
+ },
+ {
+  "id": 8246,
+  "zh": "The Geologist",
+  "qid": "Q22678780",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Spitzweg%20025.jpg",
+  "y": "1860",
+  "loc": "冯德海特博物馆",
+  "a": "斯皮茨韦格"
+ },
+ {
+  "id": 8247,
+  "zh": "1814年莫斯科戰役.",
+  "qid": "Q14900433",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Louis-Ernest%20Meissonier-Campagne%20de%20France.jpg",
+  "y": "1862",
+  "loc": "奥赛博物馆",
+  "a": "梅索尼埃"
+ },
+ {
+  "id": 8248,
+  "zh": "1807, Friedland",
+  "qid": "Q9546923",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1807%2C%20Friedland.jpg",
+  "y": "1875",
+  "loc": "大都會藝術博物館",
+  "a": "梅索尼埃"
+ },
+ {
+  "id": 8249,
+  "zh": "1805, Cuirassiers Before t",
+  "qid": "Q15973110",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cuirassiers%201805%20Meissonier%20Chantilly.jpg",
+  "y": "1875",
+  "loc": "孔蒂博物馆",
+  "a": "梅索尼埃"
+ },
+ {
+  "id": 8250,
+  "zh": "The siege of Paris",
+  "qid": "Q17493359",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Paris.jpg",
+  "y": "1884",
+  "loc": "奥赛博物馆",
+  "a": "梅索尼埃"
+ },
+ {
+  "id": 8251,
+  "zh": "The Brawl",
+  "qid": "Q17640278",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Louis%20Ernest%20Meissonier%20%281815-91%29%20-%20La%20Rixe%20%28The%20Brawl%29%20-%20RCIN%20404872%20-%20Royal%20Collection.jpg",
+  "y": "1855",
+  "loc": "皇室收藏",
+  "a": "梅索尼埃"
+ },
+ {
+  "id": 8252,
+  "zh": "A Painter",
+  "qid": "Q60474936",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Meissonier%20-%20A%20Painter%20-%201982.247%20-%20Cleveland%20Museum%20of%20Art.tiff",
+  "y": "1855",
+  "loc": "克利夫蘭藝術博物館",
+  "a": "梅索尼埃"
+ },
+ {
+  "id": 8253,
+  "zh": "Pygmalion and Galatea",
+  "qid": "Q17315628",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Falconet%20-%20Pygmalion%20%26%20Galatee%20%281763%29-black%20bg.jpg",
+  "y": "1761",
+  "loc": "Room 222",
+  "a": "法尔科内"
+ },
+ {
+  "id": 8254,
+  "zh": "Amour menaçant by Falconet",
+  "qid": "Q113391295",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Amour%20mena%C3%A7ant%20door%20Falconet%20%28Rijksmuseum%20BK-1963-101%29.jpg",
+  "y": "1757",
+  "loc": "阿姆斯特丹",
+  "a": "法尔科内"
+ },
+ {
+  "id": 8255,
+  "zh": "Return from the Church Fai",
+  "qid": "Q16331868",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Waldm%C3%BCller%20R%C3%BCckk%20Kirchweih.JPG",
+  "y": "1859",
+  "loc": "舊國家畫廊",
+  "a": "瓦尔德米勒"
+ },
+ {
+  "id": 8256,
+  "zh": "After School",
+  "qid": "Q107437734",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/School%27s%20out%2C%20by%20Ferdinand%20Georg%20Waldm%C3%BCller.jpg",
+  "y": "1841",
+  "loc": "舊國家畫廊",
+  "a": "瓦尔德米勒"
+ },
+ {
+  "id": 8257,
+  "zh": "Young African Woman",
+  "qid": "Q66107721",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernand%20Cormon%20-%20Jeune%20Africaine.jpg",
+  "y": "",
+  "loc": "波城美术博物馆",
+  "a": "科尔蒙"
+ },
+ {
+  "id": 8258,
+  "zh": "Cain flying before Jehovah",
+  "qid": "Q12878468",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cormon%2C%20Fernand%20-%20Cain%20flying%20before%20Jehovah%27s%20Curse.jpg",
+  "y": "1880",
+  "loc": "奥赛博物馆",
+  "a": "科尔蒙"
+ },
+ {
+  "id": 8259,
+  "zh": "The Triumph of the Republi",
+  "qid": "Q3227834",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%2011e%20-%20Place%20de%20la%20Nation%20-%20Le%20Triomphe%20de%20la%20R%C3%A9publique%20%28Jules%20Dalou%29%2001.jpg",
+  "y": "1899",
+  "loc": "民族广场",
+  "a": "达卢"
+ },
+ {
+  "id": 8260,
+  "zh": "Grave of Victor Noir",
+  "qid": "Q106153211",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A1hrobek%20Victora%20Noira%2C%201870%2C%20h%C5%99bitov%20Pere%20Lachaise%2C%20Pa%C5%99%C3%AD%C5%BE.jpg",
+  "y": "1890",
+  "loc": "拉雪兹神父公墓",
+  "a": "达卢"
+ },
+ {
+  "id": 8261,
+  "zh": "Mirabeau répondant à Dreux",
+  "qid": "Q20971124",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mirabeau%20r%C3%A9pondant%20%C3%A0%20Dreux-Br%C3%A9z%C3%A9%20plan%20large%203.jpg",
+  "y": "1890",
+  "loc": "波旁宫",
+  "a": "达卢"
+ },
+ {
+  "id": 8262,
+  "zh": "Monument to Émile Levassor",
+  "qid": "Q23593705",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/P1160191%20Paris%20XVI%20square%20A%20et%20R%20Parodi%20monument%20Levassor%20rwk.jpg",
+  "y": "1907",
+  "loc": "square Alexandre-et-René-Parodi",
+  "a": "达卢"
+ },
+ {
+  "id": 8263,
+  "zh": "View from Stalheim",
+  "qid": "Q6799225",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Christian%20Claussen%20Dahl%20%E2%80%93%20View%20from%20Stalheim%20%E2%80%93%20Google%20Art%20Project.jpg",
+  "y": "1842",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "达尔"
+ },
+ {
+  "id": 8264,
+  "zh": "A Seascape. The coast of t",
+  "qid": "Q20428378",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/JC%20Dahl%2C%20Et%20s%C3%B8stykke%20Kysterne%20af%20R%C3%BCgen%20set%20i%20aftenr%C3%B8den%20efter%20en%20stormfuld%20dag%2C%201818%2C%20KMS6852%2C%20Statens%20Museum%20for%20Kunst.jpg",
+  "y": "1818",
+  "loc": "國立丹麥美術館",
+  "a": "达尔"
+ },
+ {
+  "id": 8265,
+  "zh": "Shipwreck on the Coast of ",
+  "qid": "Q6856683",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Christian%20Dahl%20-%20Shipwreck%20on%20the%20Coast%20of%20Norway%20-%20NG.M.01626%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
+  "y": "1832",
+  "loc": "挪威國家美術館",
+  "a": "达尔"
+ },
+ {
+  "id": 8266,
+  "zh": "Birch Tree in a Storm",
+  "qid": "Q10430515",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Christian%20Dahl%20-%20Birch%20Tree%20in%20a%20Storm%20-%20Bjerk%20i%20storm%20-%20KODE%20Art%20Museums%20and%20Composer%20Homes%20-%20BB.M.00539.jpg",
+  "y": "1849",
+  "loc": "Stenersen",
+  "a": "达尔"
+ },
+ {
+  "id": 8267,
+  "zh": "Frogner Manor",
+  "qid": "Q6854974",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frogner%20Manor%20by%20I.%20C.%20Dahl%20for%20Benjamin%20Wegner.jpg",
+  "y": "1842",
+  "loc": "",
+  "a": "达尔"
+ },
+ {
+  "id": 8268,
+  "zh": "Stugunøset at Filefjell",
+  "qid": "Q19399016",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Christian%20Dahl%20-%20Stugun%C3%B8set%20at%20Filefjell%20-%20Google%20Art%20Project.jpg",
+  "y": "1851",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "达尔"
+ },
+ {
+  "id": 8269,
+  "zh": "Portrait of Ferdinand IV",
+  "qid": "Q19060568",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Raphael%20Mengs%20-%20Ferdinand%20IV%20-%20Museo%20di%20Capodimonte.jpg",
+  "y": "1759",
+  "loc": "卡波迪蒙特美術館",
+  "a": "门斯"
+ },
+ {
+  "id": 8270,
+  "zh": "Portrait of José Nicolás d",
+  "qid": "Q16583650",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Nicolas%20de%20Azara%202.jpg",
+  "y": "1774",
+  "loc": "普拉多博物馆",
+  "a": "门斯"
+ },
+ {
+  "id": 8271,
+  "zh": "帕里斯的评判",
+  "qid": "Q27971295",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Raphael%20Mengs%20-%20Das%20Urteil%20des%20Paris%20%28ca.%201757%29.jpg",
+  "y": "1757",
+  "loc": "埃尔米塔日博物馆",
+  "a": "门斯"
+ },
+ {
+  "id": 8272,
+  "zh": "Studio Wall",
+  "qid": "Q4279336",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Menzel%2C%20Adolph%20von%20-%20The%20Studio%20Wall%20-%201872.jpg",
+  "y": "1872",
+  "loc": "漢堡美術館",
+  "a": "门泽尔"
+ },
+ {
+  "id": 8273,
+  "zh": "The Iron Rolling Mill (Mod",
+  "qid": "Q18683026",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph%20Menzel%20-%20Eisenwalzwerk%20-%20Google%20Art%20Project.jpg",
+  "y": "1870",
+  "loc": "舊國家畫廊",
+  "a": "门泽尔"
+ },
+ {
+  "id": 8274,
+  "zh": "1769年腓特烈二世和约瑟夫二世在尼斯会面",
+  "qid": "Q15787438",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph%20Menzel%20-%20Begegnung%20mit%20Kaiser%20Joseph%20II%20in%20Nei%C3%9Fe%201769.jpg",
+  "y": "1857",
+  "loc": "舊國家畫廊",
+  "a": "门泽尔"
+ },
+ {
+  "id": 8275,
+  "zh": "The Balcony Room",
+  "qid": "Q18683021",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph%20Menzel%20-%20Das%20Balkonzimmer%20-%20Google%20Art%20Project.jpg",
+  "y": "1845",
+  "loc": "舊國家畫廊",
+  "a": "门泽尔"
+ },
+ {
+  "id": 8276,
+  "zh": "Falcon Attacking a Pigeon",
+  "qid": "Q21042163",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1844%20Menzel%20Falke%20attackiert%20Taube%20anagoria.jpg",
+  "y": "1844",
+  "loc": "舊國家畫廊",
+  "a": "门泽尔"
+ },
+ {
+  "id": 8277,
+  "zh": "1870年7月31日，國王威廉一世啟程參軍",
+  "qid": "Q50108115",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abreise%20K%C3%B6nig%20Wilhelms%20I.%20zur%20Armee%20am%2031.%20Juli%201870%20%28Adolph%20von%20Menzel%29.jpg",
+  "y": "1871",
+  "loc": "舊國家畫廊",
+  "a": "门泽尔"
+ }
+]
