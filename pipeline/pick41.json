@@ -1,0 +1,803 @@
+[
+ {
+  "id": 7704,
+  "zh": "Portrait of a Youth",
+  "qid": "Q3656034",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Young%20Man%20Giorgione%20-%20Museum%20of%20Fine%20Arts%20-%20Budapest.jpg",
+  "y": "1503",
+  "loc": "布达佩斯美术博物馆",
+  "a": "乔尔乔内"
+ },
+ {
+  "id": 7705,
+  "zh": "主啊,你往何处去? (卡拉奇)",
+  "qid": "Q1227679",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Domine%2C%20quo%20vadis.jpg",
+  "y": "1601",
+  "loc": "国家美术馆",
+  "a": "卡拉奇"
+ },
+ {
+  "id": 7706,
+  "zh": "圣母蒙召升天",
+  "qid": "Q4810381",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Annibale%20Carracci%20Assumption%20of%20the%20Virgin.jpg",
+  "y": "1587",
+  "loc": "普拉多博物馆",
+  "a": "卡拉奇"
+ },
+ {
+  "id": 7707,
+  "zh": "Venus with a Satyr and Cup",
+  "qid": "Q18420689",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Annibale%20Carracci%20-%20Venus%20with%20a%20Satyr%20and%20Cupids%20-%20WGA4430.jpg",
+  "y": "1588",
+  "loc": "烏菲茲美術館",
+  "a": "卡拉奇"
+ },
+ {
+  "id": 7708,
+  "zh": "維納斯，阿多尼斯和丘比特，",
+  "qid": "Q4245125",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Annibale%20Carracci%20-%20Venus%2C%20Adonis%20and%20Cupid%20-%20WGA4428.jpg",
+  "y": "1591",
+  "loc": "普拉多博物馆",
+  "a": "卡拉奇"
+ },
+ {
+  "id": 7709,
+  "zh": "Resurrection of Christ",
+  "qid": "Q935815",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20R%C3%A9surrection%20du%20Christ%2C%20par%20Annibale%20Carracci.jpg",
+  "y": "1593",
+  "loc": "Room 712",
+  "a": "卡拉奇"
+ },
+ {
+  "id": 7710,
+  "zh": "Two children teasing a cat",
+  "qid": "Q17629102",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Annibale%20Carracci%20-%20Two%20Children%20Teasing%20a%20Cat%20-%20WGA4410.jpg",
+  "y": "1590",
+  "loc": "大都會藝術博物館",
+  "a": "卡拉奇"
+ },
+ {
+  "id": 7711,
+  "zh": "The Raising of Lazarus",
+  "qid": "Q4126304",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20-%20Raising%20of%20Lazarus%20-%20WGA10931.jpg",
+  "y": "1619",
+  "loc": "Room 712",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7712,
+  "zh": "Abraham Casting Out Hagar ",
+  "qid": "Q9138435",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20Abramo%20ripudia%20Agar.jpg",
+  "y": "1657",
+  "loc": "布雷拉画廊",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7713,
+  "zh": "Et in Arcadia ego",
+  "qid": "Q259012",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Et-in-Arcadia-ego.jpg",
+  "y": "1618",
+  "loc": "國立古代藝術美術館",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7714,
+  "zh": "Samson and Delilah",
+  "qid": "Q21566410",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Samson%20and%20Delilah%20mg%200034FXD.jpg",
+  "y": "1654",
+  "loc": "斯特拉斯堡美術館",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7715,
+  "zh": "Mars, Venus and Cupid",
+  "qid": "Q71828584",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20Marte%20Venere%20Cupido.jpg",
+  "y": "1633",
+  "loc": "埃斯特美術館",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7716,
+  "zh": "Death of Dido",
+  "qid": "Q55831023",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20Morte%20di%20Didone.jpg",
+  "y": "1630",
+  "loc": "斯帕达宫",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7717,
+  "zh": "圣金口若望祭坛画",
+  "qid": "Q3889258",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20del%20piombo%2C%20pala%20di%20san%20giovanni%20crisostomo%2001.jpg",
+  "y": "1510",
+  "loc": "圣金口若望堂",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7718,
+  "zh": "拉匝禄复活 (塞巴斯蒂亚诺·德尔·皮翁博)",
+  "qid": "Q3933578",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20del%20Piombo%2C%20The%20Raising%20of%20Lazarus.jpg",
+  "y": "1517",
+  "loc": "国家美术馆",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7719,
+  "zh": "A Young Roman Woman",
+  "qid": "Q3714344",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bildnis%20einer%20jungen%20R%C3%B6merin%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205019632.jpg",
+  "y": "1512",
+  "loc": "畫廊",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7720,
+  "zh": "Pietà",
+  "qid": "Q3904401",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20del%20piombo%2C%20piet%C3%A0.jpg",
+  "y": "1516",
+  "loc": "Palazzo del Comune",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7721,
+  "zh": "Polyphemus",
+  "qid": "Q3907302",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20del%20piombo%2C%20polifemo.jpg",
+  "y": "1512",
+  "loc": "法爾內西納別墅",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7722,
+  "zh": "Portrait of a Woman",
+  "qid": "Q3937680",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20del%20Piombo%20-%20Portrait%20of%20a%20Woman%20-%20WGA21119.jpg",
+  "y": "1512",
+  "loc": "烏菲茲美術館",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7723,
+  "zh": "Bathsheba at Her Bath",
+  "qid": "Q2900098",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bathsheba%20in%20her%20bath-Veronese-MBA%20Lyon%20A63-IMG%200319.jpg",
+  "y": "1550",
+  "loc": "里昂美术馆",
+  "a": "委罗内塞"
+ },
+ {
+  "id": 7724,
+  "zh": "西门家中的筵席 (委罗内塞，米兰)",
+  "qid": "Q15074981",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Veronese%2C%20Paolo%20-%20Feast%20at%20the%20House%20of%20Simon%20-%201567-1570.jpg",
+  "y": "1570",
+  "loc": "布雷拉画廊",
+  "a": "委罗内塞"
+ },
+ {
+  "id": 7725,
+  "zh": "Two Hounds",
+  "qid": "Q18573209",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bassano-Chiens-Louvre.jpg",
+  "y": "1548",
+  "loc": "蒙娜丽莎厅",
+  "a": "巴萨诺"
+ },
+ {
+  "id": 7726,
+  "zh": "Last Supper",
+  "qid": "Q19740261",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Bassano%20Last%20Supper%201542.jpeg",
+  "y": "1546",
+  "loc": "鮑格才美術館",
+  "a": "巴萨诺"
+ },
+ {
+  "id": 7727,
+  "zh": "Adoration of the Magi",
+  "qid": "Q20091451",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20da%20Ponte%2Ccalled%20Jacopo%20Bassano%20-%20Adoration%20of%20the%20Magi%20-%20Google%20Art%20Project.jpg",
+  "y": "1555",
+  "loc": "艺术史博物馆",
+  "a": "巴萨诺"
+ },
+ {
+  "id": 7728,
+  "zh": "St Jerome Saint Jerome Med",
+  "qid": "Q20092785",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Saint%20Jerome%20Meditating%20by%20Jacopo%20Da%20ponte%20-%20gallerie%20Accademia%20Venice.jpg",
+  "y": "1556",
+  "loc": "學院美術館",
+  "a": "巴萨诺"
+ },
+ {
+  "id": 7729,
+  "zh": "The Supper at Emmaus",
+  "qid": "Q676955",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20da%20Ponte%20Cena%20in%20Emmaus.jpg",
+  "y": "1538",
+  "loc": "Cittadella Duomo",
+  "a": "巴萨诺"
+ },
+ {
+  "id": 7730,
+  "zh": "年轻男子肖像",
+  "qid": "Q3937730",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bronzino%20%28Agnolo%20di%20Cosimo%20di%20Mariano%29%20-%20Portrait%20of%20a%20Young%20Man%20-%20The%20Metropolitan%20Museum%20of%20Art.jpg",
+  "y": "1530",
+  "loc": "Gallery 638, Metropolitan Museum of Art",
+  "a": "布龙齐诺"
+ },
+ {
+  "id": 7731,
+  "zh": "潘恰蒂基神圣家族",
+  "qid": "Q3944462",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bronzino%20-%20Sacra%20famiglia%20Panciatichi%20or%20Madonna%20Panciatichi%20-%20Google%20Art%20Project.jpg",
+  "y": "1539",
+  "loc": "Room D14 - Bronzino",
+  "a": "布龙齐诺"
+ },
+ {
+  "id": 7732,
+  "zh": "Portrait of Giovanni de' M",
+  "qid": "Q3784272",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bronzino%20-%20Portrait%20of%20Giovanni%20de%E2%80%99%20Medici%20-%201475%20-%20Uffizi%20Gallery.jpg",
+  "y": "1545",
+  "loc": "烏菲茲美術館",
+  "a": "布龙齐诺"
+ },
+ {
+  "id": 7733,
+  "zh": "Portrait of Bia de' Medici",
+  "qid": "Q3937472",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bia%20di%20Cosimo%20de%E2%80%98%20Medici%2C%20by%20Agnolo%20Bronzino.jpg",
+  "y": "1543",
+  "loc": "Q107209467",
+  "a": "布龙齐诺"
+ },
+ {
+  "id": 7734,
+  "zh": "Portrait of Ugolino Martel",
+  "qid": "Q7232310",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Agnolo%20Bronzino%20%281503%20-%201572%29%20-%20Portrait%20of%20Ugolino%20Martelli%20%281519-1592%29%20-%20338A%20-%20Gem%C3%A4ldegalerie.jpg",
+  "y": "1540",
+  "loc": "畫廊",
+  "a": "布龙齐诺"
+ },
+ {
+  "id": 7735,
+  "zh": "Cupid as a bow carver",
+  "qid": "Q892604",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Mazzola%20gen.%20Parmigianino%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Bogenschnitzender%20Amor%20-%20GG%20275%20-%20Kunsthistorisches%20Museum.jpg",
+  "y": "1536",
+  "loc": "艺术史博物馆",
+  "a": "帕尔米贾尼诺"
+ },
+ {
+  "id": 7736,
+  "zh": "The Conversion of Saint Pa",
+  "qid": "Q3689725",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20012.jpg",
+  "y": "1527",
+  "loc": "艺术史博物馆",
+  "a": "帕尔米贾尼诺"
+ },
+ {
+  "id": 7737,
+  "zh": "加萊亞佐·山維塔萊肖像",
+  "qid": "Q3937542",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20024.jpg",
+  "y": "1524",
+  "loc": "卡波迪蒙特美術館",
+  "a": "帕尔米贾尼诺"
+ },
+ {
+  "id": 7738,
+  "zh": "The Circumcision",
+  "qid": "Q282277",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20-%20The%20Circumcision%20-%2030.295%20-%20Detroit%20Institute%20of%20Arts.jpg",
+  "y": "1523",
+  "loc": "底特律藝術學院",
+  "a": "帕尔米贾尼诺"
+ },
+ {
+  "id": 7739,
+  "zh": "Lucretia",
+  "qid": "Q3839035",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%2C%20lucrezia%20romana%2C%201540.jpg",
+  "y": "1540",
+  "loc": "卡波迪蒙特美術館",
+  "a": "帕尔米贾尼诺"
+ },
+ {
+  "id": 7740,
+  "zh": "Madonna of the rose",
+  "qid": "Q3842680",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino%20-%20Madonna%20of%20the%20Rose.jpg",
+  "y": "1529",
+  "loc": "历代大师画廊",
+  "a": "帕尔米贾尼诺"
+ },
+ {
+  "id": 7741,
+  "zh": "情人 (罗马诺)",
+  "qid": "Q19966572",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lovers-%20Giulio%20Romano%20-%20oil%20painting%20-%201520s%20-%201530s.jpg",
+  "y": "1525",
+  "loc": "埃尔米塔日博物馆",
+  "a": "朱利奥·罗马诺"
+ },
+ {
+  "id": 7742,
+  "zh": "多納·伊莎貝爾·德·勒克斯森肖像",
+  "qid": "Q3399388",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Jeanne%20d%27Aragon%2C%20by%20Raffaello%20Sanzio%2C%20from%20C2RMF%20retouched.jpg",
+  "y": "1518",
+  "loc": "羅浮宮朗斯分館",
+  "a": "朱利奥·罗马诺"
+ },
+ {
+  "id": 7743,
+  "zh": "Perla di Modena",
+  "qid": "Q521680",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raffaello%20Ritratto%20di%20donna.jpg",
+  "y": "1518",
+  "loc": "埃斯特美術館",
+  "a": "朱利奥·罗马诺"
+ },
+ {
+  "id": 7744,
+  "zh": "Portrait of a young woman",
+  "qid": "Q786196",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait-of-a-Young-Girl-Raphael.jpg",
+  "y": "1519",
+  "loc": "斯特拉斯堡美術館",
+  "a": "朱利奥·罗马诺"
+ },
+ {
+  "id": 7745,
+  "zh": "Woman before the mirror",
+  "qid": "Q28680785",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Romano%20pushkin.jpg",
+  "y": "1550",
+  "loc": "普希金造型藝術博物館",
+  "a": "朱利奥·罗马诺"
+ },
+ {
+  "id": 7746,
+  "zh": "有母貓的聖母像",
+  "qid": "Q26767074",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giulio%20romano%2C%20madonna%20della%20gatta%2C%201519-20%2C%20Q140%2C%2001.JPG",
+  "y": "1522",
+  "loc": "卡波迪蒙特美術館",
+  "a": "朱利奥·罗马诺"
+ },
+ {
+  "id": 7747,
+  "zh": "火神兀兒肯的鍛造爐",
+  "qid": "Q15974337",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20Vasari%20002.jpg",
+  "y": "1567",
+  "loc": "烏菲茲美術館",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7748,
+  "zh": "Allegory of justice and tr",
+  "qid": "Q31881231",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20Vasari%20-%20Allegory%20of%20Justice%20and%20Truth%20%281543%29%20-%20Google%20Arts%20and%20Culture.jpg",
+  "y": "1543",
+  "loc": "卡波迪蒙特美術館",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7749,
+  "zh": "Portrait of Lorenzo de' Me",
+  "qid": "Q12118453",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Lorenzo%20de%27%20Medici%2C%20the%20Magnificent%20%281449%E2%80%931492%29%2C%20by%20Giorgio%20Vasari%20-%20Uffizi%20Gallery.jpg",
+  "y": "1533",
+  "loc": "烏菲茲美術館",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7750,
+  "zh": "Allegory of Patience",
+  "qid": "Q109396658",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Allegory%20of%20Patience%20%28Vasari%29.jpg",
+  "y": "",
+  "loc": "国家美术馆",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7751,
+  "zh": "The Prophet Elisha",
+  "qid": "Q17354853",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20Vasari%20001.jpg",
+  "y": "1566",
+  "loc": "烏菲茲美術館",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7752,
+  "zh": "Annunciation",
+  "qid": "Q18572246",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Annonciation%20-%20Giorgio%20Vasari%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20732%20%3B%20MR%20536.jpg",
+  "y": "1567",
+  "loc": "Room 712",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7753,
+  "zh": "Madonna and Child with Che",
+  "qid": "Q3842746",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosso%20Fiorentino%20-%20Madonna%20and%20Child%20with%20Putti%20-%20after%20restoration.jpg",
+  "y": "1517",
+  "loc": "埃尔米塔日博物馆",
+  "a": "罗索"
+ },
+ {
+  "id": 7754,
+  "zh": "奏樂小天使",
+  "qid": "Q3926028",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosso%20Fiorentino%20-%20Madonna%20dello%20Spedalingo%20-%20Google%20Art%20Project.jpg",
+  "y": "1518",
+  "loc": "烏菲茲美術館",
+  "a": "罗索"
+ },
+ {
+  "id": 7755,
+  "zh": "Sacred conversation with m",
+  "qid": "Q3889236",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosso%20Fiorentino%20-%20Spedalingo%20Altarpiece%20-%20Google%20Art%20Project.jpg",
+  "y": "1518",
+  "loc": "烏菲茲美術館",
+  "a": "罗索"
+ },
+ {
+  "id": 7756,
+  "zh": "Pietà",
+  "qid": "Q3904400",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%C3%A0%20du%20Ch%C3%A2teau%20d%27Ecouen.jpg",
+  "y": "1536",
+  "loc": "Room 712",
+  "a": "罗索"
+ },
+ {
+  "id": 7757,
+  "zh": "Bacchus, Venus and Cupid",
+  "qid": "Q3632504",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosso%20fiorentino%20%28attr.%29%2C%20bacco%2C%20venere%20e%20marte.jpg",
+  "y": "1531",
+  "loc": "國立歷史與藝術博物館",
+  "a": "罗索"
+ },
+ {
+  "id": 7758,
+  "zh": "死去的基督与天使 (菲奥伦蒂诺)",
+  "qid": "Q3697650",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosso%20Fiorentino%20-%20Dead%20Christ%20with%20Angels%20-%20WGA20129.jpg",
+  "y": "1525",
+  "loc": "波士頓美術館",
+  "a": "罗索"
+ },
+ {
+  "id": 7759,
+  "zh": "Still Life with Lemons, Or",
+  "qid": "Q7617092",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Zurbar%C3%A1n%20-%20Still-life%20with%20Lemons%2C%20Oranges%20and%20Rose%20-%20WGA26062.jpg",
+  "y": "1633",
+  "loc": "諾頓西蒙博物館",
+  "a": "苏巴朗"
+ },
+ {
+  "id": 7760,
+  "zh": "Saint Elizabeth of Portuga",
+  "qid": "Q15943274",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Isabel%20de%20Portugal.jpg",
+  "y": "1635",
+  "loc": "普拉多博物馆",
+  "a": "苏巴朗"
+ },
+ {
+  "id": 7761,
+  "zh": "The Death of Hercules",
+  "qid": "Q6025833",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Muerte%20de%20H%C3%A9rcules%2C%20por%20Zurbar%C3%A1n.jpg",
+  "y": "1634",
+  "loc": "普拉多博物馆",
+  "a": "苏巴朗"
+ },
+ {
+  "id": 7762,
+  "zh": "Saint Apollonia",
+  "qid": "Q6034540",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sainte%20Apolline%20-%20Francisco%20de%20Zurbar%C3%A1n%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%20724.jpg",
+  "y": "1637",
+  "loc": "Piazzetta",
+  "a": "苏巴朗"
+ },
+ {
+  "id": 7763,
+  "zh": "The Tailor",
+  "qid": "Q5561848",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Moroni%20-%20The%20Tailor%20%28%27Il%20Tagliapanni%27%29%20-%20Google%20Art%20Project.jpg",
+  "y": "1567",
+  "loc": "国家美术馆",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7764,
+  "zh": "Portrait of the sculptor A",
+  "qid": "Q20093065",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Moroni%20-%20The%20Sculptor%20Alessandro%20Vittoria%20-%20Google%20Art%20Project.jpg",
+  "y": "1552",
+  "loc": "艺术史博物馆",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7765,
+  "zh": "Portrait of Gian Gerolamo ",
+  "qid": "Q28952741",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Moroni%20008.jpg",
+  "y": "1560",
+  "loc": "Palazzo Moroni",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7766,
+  "zh": "Portrait of a Lady",
+  "qid": "Q18685840",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Moroni%20-%20Portrait%20of%20a%20Lady%2C%20perhaps%20Contessa%20Lucia%20Albani%20Avogadro%20%28%27La%20Dama%20in%20Rosso%27%29%20-%20Google%20Art%20Project.jpg",
+  "y": "1558",
+  "loc": "国家美术馆",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7767,
+  "zh": "Man holding a Letter",
+  "qid": "Q18685873",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Moroni%20-%20Portrait%20of%20a%20Man%20holding%20a%20Letter%20%28%27L%27Avvocato%27%29%20-%20Google%20Art%20Project.jpg",
+  "y": "1570",
+  "loc": "国家美术馆",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7768,
+  "zh": "Portrait of Pietro Secco S",
+  "qid": "Q3937429",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Moroni%20023.jpg",
+  "y": "1563",
+  "loc": "烏菲茲美術館",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7769,
+  "zh": "Mary Magdalene",
+  "qid": "Q3847405",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Girolamo%20Savoldo%20-%20Mary%20Magdalene%20-%20Google%20Art%20Project.jpg",
+  "y": "1535",
+  "loc": "Room 9 Radical Innovation and Rivalry: Painting in Venice 1500–1600",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7770,
+  "zh": "多俾亞與天使 (薩弗爾多)",
+  "qid": "Q3992111",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savoldo%2C%20tobia%20e%20l%27angelo.jpg",
+  "y": "1542",
+  "loc": "鮑格才美術館",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7771,
+  "zh": "Portrait of a Clad Warrior",
+  "qid": "Q654044",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Gerolamo%20Savoldo%20004.jpg",
+  "y": "1600",
+  "loc": "蒙娜丽莎厅",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7772,
+  "zh": "Saint Matthew and the Ange",
+  "qid": "Q3947666",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Matthew%20and%20the%20Angel%20MET%2046C%20048R5M.jpg",
+  "y": "1530",
+  "loc": "大都會藝術博物館",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7773,
+  "zh": "The Temptation of Saint Je",
+  "qid": "Q3983796",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savoldo%2C%20tentazione%20di%20sant%27antonio.jpg",
+  "y": "1521",
+  "loc": "普希金造型藝術博物館",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7774,
+  "zh": "The Adoration of the Sheph",
+  "qid": "Q3605553",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savoldo%2C%20adorazione%20dei%20pastori%2C%20brescia.jpg",
+  "y": "1540",
+  "loc": "Tosio Martinengo Gallery",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7775,
+  "zh": "Visitation of Carmignano",
+  "qid": "Q1109475",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pontormo-visitation-after-restorationRGB.jpg",
+  "y": "1528",
+  "loc": "Rectory of Saints Michael and Francis",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7776,
+  "zh": "Joseph with Jacob in Egypt",
+  "qid": "Q1706136",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Pontormo%20032.jpg",
+  "y": "1518",
+  "loc": "国家美术馆",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7777,
+  "zh": "The Virgin and Child with ",
+  "qid": "Q3944486",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Pontormo%20036.jpg",
+  "y": "1522",
+  "loc": "埃尔米塔日博物馆",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7778,
+  "zh": "Vertumnus and Pomona",
+  "qid": "Q1237596",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pontormo%2C%20Jacopo%20-%20Vertumnus%20and%20Pomona%20-%201519-21.jpg",
+  "y": "1519",
+  "loc": "波焦阿卡亚诺美第奇别墅",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7779,
+  "zh": "伊姆瓦斯的晚餐 (蓬托莫)",
+  "qid": "Q3664358",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pontormo%20-%20Cena%20in%20Emmaus%20-%20Google%20Art%20Project.jpg",
+  "y": "1525",
+  "loc": "烏菲茲美術館",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7780,
+  "zh": "基督下葬",
+  "qid": "Q3705703",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Pontormo%20-%20Kreuzabnahme%20Christi.jpg",
+  "y": "1525",
+  "loc": "卡波尼小堂",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7781,
+  "zh": "Apollo Flaying Marsyas",
+  "qid": "Q5701552",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20de%20Ribera%20-%20Apollo%20Flaying%20Marsyas%20-%20WGA19374.jpg",
+  "y": "1637",
+  "loc": "比利时皇家美术博物馆",
+  "a": "里贝拉"
+ },
+ {
+  "id": 7782,
+  "zh": "亞里士多德",
+  "qid": "Q4791095",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ribera%2C%20Jusepe%20de%20-%20Aristotle%20-%20Google%20Art%20Project.jpg",
+  "y": "1637",
+  "loc": "印第安納波利斯藝術博物館",
+  "a": "里贝拉"
+ },
+ {
+  "id": 7783,
+  "zh": "酒醉的西勒努斯",
+  "qid": "Q17652393",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sileno%20ebrio%2C%20por%20Jos%C3%A9%20de%20Ribera.jpg",
+  "y": "1626",
+  "loc": "卡波迪蒙特美術館",
+  "a": "里贝拉"
+ },
+ {
+  "id": 7784,
+  "zh": "Democritus",
+  "qid": "Q18170716",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Toulouse%29%20D%C3%A9mocrite%20%281630%29%20-%20Jusepe%20de%20Ribera%20-%20Madrid%2C%20Museo%20Nacional%20del%20Prado.jpg",
+  "y": "1630",
+  "loc": "普拉多博物馆",
+  "a": "里贝拉"
+ },
+ {
+  "id": 7785,
+  "zh": "Lamentation over the dead ",
+  "qid": "Q3904402",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20de%20Ribera%20058.jpg",
+  "y": "1637",
+  "loc": "Museo Nazionale di San Martino",
+  "a": "里贝拉"
+ },
+ {
+  "id": 7786,
+  "zh": "圣雅纳略毫发无损出火炉",
+  "qid": "Q3947170",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Napoli-Ribera-San-Gennaro.jpg",
+  "y": "1646",
+  "loc": "圣雅纳略皇家小堂",
+  "a": "里贝拉"
+ },
+ {
+  "id": 7787,
+  "zh": "Saint Matthew and the Ange",
+  "qid": "Q4411577",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Reni%20-%20St%20Matthew%20and%20the%20Angel.jpg",
+  "y": "1620",
+  "loc": "梵蒂冈博物馆",
+  "a": "雷尼"
+ },
+ {
+  "id": 7788,
+  "zh": "The Rape of Europa",
+  "qid": "Q7759428",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Reni%20055.jpg",
+  "y": "1637",
+  "loc": "国家美术馆",
+  "a": "雷尼"
+ },
+ {
+  "id": 7789,
+  "zh": "The Rape of Helen",
+  "qid": "Q18572427",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Enl%C3%A8vement%20d%27H%C3%A9l%C3%A8ne%20-%20Guido%20Reni%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20539%20%3B%20MR%20288%20-%20photo%202.jpg",
+  "y": "1631",
+  "loc": "Room 716",
+  "a": "雷尼"
+ },
+ {
+  "id": 7790,
+  "zh": "圣巴斯弟盎 (雷尼, 罗马)",
+  "qid": "Q28796715",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Reni%20-%20Saint%20Sebastian%20-%20Google%20Art%20Project%20%28430907%29.jpg",
+  "y": "1615",
+  "loc": "卡比托利欧博物馆",
+  "a": "雷尼"
+ },
+ {
+  "id": 7791,
+  "zh": "圣巴斯弟盎 (雷尼, 奥克兰)",
+  "qid": "Q19966602",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Reni%20-%20Saint%20Sebastian%20-%20Google%20Art%20Project.jpg",
+  "y": "1625",
+  "loc": "奧克蘭美術館",
+  "a": "雷尼"
+ },
+ {
+  "id": 7792,
+  "zh": "Annunciation",
+  "qid": "Q3202070",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Annonciation%20Guido%20Reni%20Louvre.jpg",
+  "y": "1629",
+  "loc": "Room 716",
+  "a": "雷尼"
+ }
+]
