@@ -1,0 +1,749 @@
+[
+ {
+  "id": 7621,
+  "zh": "The Crucifixion",
+  "qid": "Q16691214",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Klage%20unter%20dem%20Kreuz%2C%201503%20%28Alte%20Pinakothek%29.jpg",
+  "y": "1503",
+  "loc": "Alte Pinakothek, upper floor, gallery II",
+  "a": "克拉纳赫"
+ },
+ {
+  "id": 7622,
+  "zh": "Caritas",
+  "qid": "Q21614134",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Caritas%20%28Koninklijk%20Museum%20v.%20Schone%20Kunsten%20Antwerpen%29.jpg",
+  "y": "1537",
+  "loc": "皇家安特衛普美術館",
+  "a": "克拉纳赫"
+ },
+ {
+  "id": 7623,
+  "zh": "Venus and Cupid",
+  "qid": "Q45896010",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Cranach%20d.%C3%84.%20-%20Venus%20und%20Amor%20%28Hermitage%29.jpg",
+  "y": "1509",
+  "loc": "埃尔米塔日博物馆",
+  "a": "克拉纳赫"
+ },
+ {
+  "id": 7624,
+  "zh": "Saint Lawrence Enthroned w",
+  "qid": "Q3538918",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lawrence%20Enthroned%20with%20Saints%20and%20Donors%20MET%20Filippo%20Lippi%20nocap.jpg",
+  "y": "1453",
+  "loc": "大都會藝術博物館",
+  "a": "利皮"
+ },
+ {
+  "id": 7625,
+  "zh": "Martelli Annunciation",
+  "qid": "Q3618193",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lippi%2C%20annunciazione%20Martelli.jpg",
+  "y": "1445",
+  "loc": "佛罗伦萨圣老楞佐大殿",
+  "a": "利皮"
+ },
+ {
+  "id": 7626,
+  "zh": "Madonna and Child with Sai",
+  "qid": "Q3889222",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Filippo%20Lippi%20-%20Madonna%20Enthroned%20with%20Saints%20-%20WGA13224.jpg",
+  "y": "1445",
+  "loc": "烏菲茲美術館",
+  "a": "利皮"
+ },
+ {
+  "id": 7627,
+  "zh": "Seven Saints",
+  "qid": "Q3958339",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lippi%2C%20sette%20santi.png",
+  "y": "1449",
+  "loc": "国家美术馆",
+  "a": "利皮"
+ },
+ {
+  "id": 7628,
+  "zh": "Reredos of the Martyrdom o",
+  "qid": "Q22262029",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dierick%20Bouts%20-%20Triptiek%20van%20het%20martelaarschap%20van%20de%20heilige%20ErasmusFXD.jpg",
+  "y": "1400",
+  "loc": "圣伯多禄教堂",
+  "a": "博茨"
+ },
+ {
+  "id": 7629,
+  "zh": "The Flagellation of Christ",
+  "qid": "Q16556250",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cimabue%20-%20Flagellation.jpg",
+  "y": "1280",
+  "loc": "弗里克收藏",
+  "a": "契马布埃"
+ },
+ {
+  "id": 7630,
+  "zh": "與孩子的聖母",
+  "qid": "Q16574861",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cimabue%20madonna%20castefliorentino.jpg",
+  "y": "1283",
+  "loc": "Museum of Santa Verdiana",
+  "a": "契马布埃"
+ },
+ {
+  "id": 7631,
+  "zh": "Saint Francis",
+  "qid": "Q15588902",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cimabue%20%28attr.%29%2C%20tavola%20di%20san%20francesco%2C%20museo%20della%20porziuncola.jpg",
+  "y": "1290",
+  "loc": "Museo della Porziuncola",
+  "a": "契马布埃"
+ },
+ {
+  "id": 7632,
+  "zh": "Vision of Angels at the Fo",
+  "qid": "Q11364492",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cimabue%2C%20angeli%20ai%20quattro%20canti%20della%20terra.jpg",
+  "y": "1277",
+  "loc": "亚西西的圣方济各上层圣殿",
+  "a": "契马布埃"
+ },
+ {
+  "id": 7633,
+  "zh": "Christ at the Column",
+  "qid": "Q5108945",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20at%20the%20Column%20by%20Antonello%20da%20Messina%20%28Louvre%20RF%201992-10%29.jpg",
+  "y": "1477",
+  "loc": "Doughty House",
+  "a": "安东内洛"
+ },
+ {
+  "id": 7634,
+  "zh": "Madonna and Child",
+  "qid": "Q3842554",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20madonna%20col%20bambino%20leggente%2C%201494-98%2C%2033%2C7x25%2C4%20cm%2C%20raleigh%2C%20north%20carolina%20museum%20of%20art.jpg",
+  "y": "1494",
+  "loc": "Q1459878",
+  "a": "平图里基奥"
+ },
+ {
+  "id": 7635,
+  "zh": "Madonna with Writing Child",
+  "qid": "Q3842560",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20madonna%20col%20bambino%20scrivente%2C%201494-98%2C%2061x41%2C6%20cm%2C%20philadelphia%2C%20museum%20of%20art.jpg",
+  "y": "1494",
+  "loc": "费城艺术博物馆",
+  "a": "平图里基奥"
+ },
+ {
+  "id": 7636,
+  "zh": "Saint Augustine",
+  "qid": "Q3948667",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20sant%27agostino%20tra%20i%20flagellanti.jpg",
+  "y": "1500",
+  "loc": "國立翁布里亞美術館",
+  "a": "平图里基奥"
+ },
+ {
+  "id": 7637,
+  "zh": "Madonna with child",
+  "qid": "Q3842673",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20madonna%20della%20pace%2C%201490%20circa.%20143x70%20cm%2C%20sanseverino%20marche%2C%20pinacoteca%20civica.jpg",
+  "y": "1490",
+  "loc": "Pinacoteca civica Tacchi-Venturi",
+  "a": "平图里基奥"
+ },
+ {
+  "id": 7638,
+  "zh": "Saint Jerome in the Wilder",
+  "qid": "Q3947305",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernardino%20Pinturicchio%20-%20Saint%20Jerome%20in%20the%20Wilderness%20-%20Walters%20371089.jpg",
+  "y": "1477",
+  "loc": "沃爾特斯藝術博物館",
+  "a": "平图里基奥"
+ },
+ {
+  "id": 7639,
+  "zh": "St Catherine's Disputation",
+  "qid": "Q12764744",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%20-%20St%20Catherine%27s%20Disputation%20-%20WGA17820.jpg",
+  "y": "1469",
+  "loc": "",
+  "a": "平图里基奥"
+ },
+ {
+  "id": 7640,
+  "zh": "Virgin in Glory surrounded",
+  "qid": "Q50880027",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vierge%20en%20gloire%20entre%20saint%20Pierre%20et%20saint%20Augustin%20v%C3%A9n%C3%A9r%C3%A9e%20par%20un%20donateur%2C%20par%20Robert%20Campin.jpg",
+  "y": "1437",
+  "loc": "格拉内博物馆",
+  "a": "康平"
+ },
+ {
+  "id": 7641,
+  "zh": "Madonna and Child Playing ",
+  "qid": "Q6728395",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Gossaert%20-%20Madonna%20and%20Child%20-%20830%20-%20Mauritshuis.jpg",
+  "y": "1520",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "戈萨特"
+ },
+ {
+  "id": 7642,
+  "zh": "亚当和夏娃",
+  "qid": "Q60237756",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%281525%29%20Jan%20Gossaert-Adam%20%26%20Eve%20%28Staatliche%20Museum%2C%20Berlin%29.jpg",
+  "y": "1527",
+  "loc": "畫廊",
+  "a": "戈萨特"
+ },
+ {
+  "id": 7643,
+  "zh": "A game shop",
+  "qid": "Q12156964",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Snyders%20-%20A%20game%20shop%20-%20Vilthandlerbod%20-%20Nasjonalmuseet%20-%20NG.M.01356.jpg",
+  "y": "1700",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "斯尼德斯"
+ },
+ {
+  "id": 7644,
+  "zh": "Allegory of Fertility",
+  "qid": "Q22787456",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Jordaens%20-%20Allegory%20of%20Fertility%20-%20Google%20Art%20Project.jpg",
+  "y": "1623",
+  "loc": "Oldmasters Museum",
+  "a": "斯尼德斯"
+ },
+ {
+  "id": 7645,
+  "zh": "The Lion and the Mouse",
+  "qid": "Q128483982",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lion%20and%20the%20Mouse%20by%20Snyders%20and%20Rubens%20-%20Canisy.jpg",
+  "y": "",
+  "loc": "卡尼西城堡",
+  "a": "斯尼德斯"
+ },
+ {
+  "id": 7646,
+  "zh": "The Raising of Lazarus",
+  "qid": "Q9068317",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%27The%20Raising%20of%20Lazarus%27%2C%20tempera%20and%20gold%20on%20panel%20by%20Duccio%20di%20Buoninsegna%2C%201310%E2%80%9311%2C%20Kimbell%20Art%20Museum.jpg",
+  "y": "1310",
+  "loc": "金貝爾美術館",
+  "a": "杜乔"
+ },
+ {
+  "id": 7647,
+  "zh": "The Nativity with the Prop",
+  "qid": "Q3873252",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Duccio%20di%20Buoninsegna%20-%20The%20Nativity%20with%20the%20Prophets%20Isaiah%20and%20Ezekiel%20-%20Google%20Art%20Project.jpg",
+  "y": "1308",
+  "loc": "國家藝廊",
+  "a": "杜乔"
+ },
+ {
+  "id": 7648,
+  "zh": "Madonna and Child with Sai",
+  "qid": "Q3907537",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Duccio%20The-Madonna-and-Child-with-Saints-138.jpg",
+  "y": "1300",
+  "loc": "国立美术馆 (锡耶纳)",
+  "a": "杜乔"
+ },
+ {
+  "id": 7649,
+  "zh": "彼得和安德烈的召喚",
+  "qid": "Q4015930",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Duccio%20di%20Buoninsegna%20036.jpg",
+  "y": "1308",
+  "loc": "國家藝廊",
+  "a": "杜乔"
+ },
+ {
+  "id": 7650,
+  "zh": "Maestà of Sant'Agostino",
+  "qid": "Q3843029",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambrogio%20lorenzetti%2C%20madonna%20in%20trono%20col%20bambino%20e%20santi%2C%201335-38%2C%2001.jpg",
+  "y": "1337",
+  "loc": "圣奧思定堂",
+  "a": "洛伦泽蒂"
+ },
+ {
+  "id": 7651,
+  "zh": "Altarpiece of St Proculus",
+  "qid": "Q3999127",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambrogio%20Lorenzetti%20-%20san%20procolo.jpg",
+  "y": "1332",
+  "loc": "烏菲茲美術館",
+  "a": "洛伦泽蒂"
+ },
+ {
+  "id": 7652,
+  "zh": "The Charity of St. Nichola",
+  "qid": "Q18572975",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambrogio%20lorenzetti%2C%20carit%C3%A0%20di%20san%20nicola%2C%201330-40%20ca..JPG",
+  "y": "1330",
+  "loc": "Room 709",
+  "a": "洛伦泽蒂"
+ },
+ {
+  "id": 7653,
+  "zh": "Painted crucifix",
+  "qid": "Q55831798",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambrogio%20Lorenzetti%2C%20Crocifisso%20del%20Carmine%20di%20Siena%2C%20Post-restoration.jpg",
+  "y": "",
+  "loc": "国立美术馆 (锡耶纳)",
+  "a": "洛伦泽蒂"
+ },
+ {
+  "id": 7654,
+  "zh": "The Martyrdom of the Franc",
+  "qid": "Q117101706",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambrogio%20Lorenzetti%2C%20Martirio%20di%20cinque%20frati%20francescani%2C%201336-37%20circa%2C%20dalla%20sala%20capitolare%2C%2000%2C0.jpg",
+  "y": "",
+  "loc": "圣方济各圣殿 (锡耶纳)",
+  "a": "洛伦泽蒂"
+ },
+ {
+  "id": 7655,
+  "zh": "The Kitchen",
+  "qid": "Q18719632",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Teniers%20%28II%29%20-%20The%20Kitchen%20-%20WGA22074.jpg",
+  "y": "1646",
+  "loc": "埃尔米塔日博物馆",
+  "a": "特尼尔斯"
+ },
+ {
+  "id": 7656,
+  "zh": "Portrait of Bishop Antoniu",
+  "qid": "Q21716862",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Teniers%20%28II%29%20-%20Portrait%20of%20Bishop%20Antonius%20Triest%20and%20His%20Brother%20Eugene%2C%20a%20Capuchin.jpg",
+  "y": "1652",
+  "loc": "埃尔米塔日博物馆",
+  "a": "特尼尔斯"
+ },
+ {
+  "id": 7657,
+  "zh": "Village feast",
+  "qid": "Q19928445",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Teniers%20%28II%29%20-%20Dorpsfeest%20-%202039%20%28OK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+  "y": "1651",
+  "loc": "博伊曼斯·范伯宁恩美术馆",
+  "a": "特尼尔斯"
+ },
+ {
+  "id": 7658,
+  "zh": "Archduke Leopold Wilhelm i",
+  "qid": "Q19960947",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Teniers%20%28II%29%20-%20The%20Gallery%20of%20Archduke%20Leopold%20in%20Brussels.jpg",
+  "y": "http",
+  "loc": "State Gallery in the New Schleißheim Palace",
+  "a": "特尼尔斯"
+ },
+ {
+  "id": 7659,
+  "zh": "Peasants Celebrating Twelf",
+  "qid": "Q20177143",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peasants%20Celebrating%20Twelfth%20Night%20G-001795-20120626.jpg",
+  "y": "1635",
+  "loc": "國家藝廊",
+  "a": "特尼尔斯"
+ },
+ {
+  "id": 7660,
+  "zh": "The Four Seasons (Spring)",
+  "qid": "Q26924948",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20d.%20J.%20II.%20Teniers%20%281610-1690%29%20-%20Der%20Fr%C3%BChling%20-%201013%20-%20F%C3%BChrermuseum.jpg",
+  "y": "1660",
+  "loc": "林茨美術館",
+  "a": "特尼尔斯"
+ },
+ {
+  "id": 7661,
+  "zh": "Discovery of Honey by Pier",
+  "qid": "Q3952722",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20Cosimo%20-%20Bacco%20scoperto%20miele.jpg",
+  "y": "1499",
+  "loc": "伍斯特艺术博物馆",
+  "a": "科西莫"
+ },
+ {
+  "id": 7662,
+  "zh": "Saint Mary Magdalene",
+  "qid": "Q28229479",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa%20Magdalena%20leyendo%2C%20por%20Piero%20di%20Cosimo.jpg",
+  "y": "1490",
+  "loc": "巴贝里尼宫",
+  "a": "科西莫"
+ },
+ {
+  "id": 7663,
+  "zh": "Madonna and Child with a D",
+  "qid": "Q3558023",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vierge%20et%20l%27Enfant%20%C3%A0%20la%20colombe%20-%20Piero%20di%20Cosimo%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20817%20%3B%20MR%20241.jpg",
+  "y": "1490",
+  "loc": "Room 710",
+  "a": "科西莫"
+ },
+ {
+  "id": 7664,
+  "zh": "狩猎图",
+  "qid": "Q3649298",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20cosimo%2C%20scena%20di%20caccia%202.jpg",
+  "y": "1500",
+  "loc": "大都會藝術博物館",
+  "a": "科西莫"
+ },
+ {
+  "id": 7665,
+  "zh": "Self-portrait",
+  "qid": "Q47498730",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Jordaens%20-%20Zelfportret%20-%20Autoportrait%20-%20Fonds%20Generet%20-%20Koning%20Boudewijnstichting%20-%20Fondation%20Roi%20Baudouin.jpg",
+  "y": "1649",
+  "loc": "鲁本斯故居",
+  "a": "约尔丹斯"
+ },
+ {
+  "id": 7666,
+  "zh": "Mercury and Argus",
+  "qid": "Q17125310",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jordaens-mercure.jpg",
+  "y": "1620",
+  "loc": "里昂美术馆",
+  "a": "约尔丹斯"
+ },
+ {
+  "id": 7667,
+  "zh": "King Candaules of Lydia Sh",
+  "qid": "Q18573716",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Jordaens-King%20Candaules%20of%20Lydia%20Showing%20his%20Wife%20to%20Gyges.jpg",
+  "y": "1646",
+  "loc": "瑞典國立博物館",
+  "a": "约尔丹斯"
+ },
+ {
+  "id": 7668,
+  "zh": "Miraculous Draught of Fish",
+  "qid": "Q97667173",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Jordaens%20-%20Miraculous%20Draught%20of%20Fishes%20%28cropped%29.jpg",
+  "y": "1619",
+  "loc": "斯特拉斯堡美術館",
+  "a": "约尔丹斯"
+ },
+ {
+  "id": 7669,
+  "zh": "The Bean king",
+  "qid": "Q20100473",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Jordaens%20-%20The%20Bean%20King%20%28Hermitage%29.jpg",
+  "y": "1638",
+  "loc": "埃尔米塔日博物馆",
+  "a": "约尔丹斯"
+ },
+ {
+  "id": 7670,
+  "zh": "Madonna with Child and Sai",
+  "qid": "Q3360743",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20Lippi%20Santo%20Spirito.jpg",
+  "y": "1493",
+  "loc": "佛罗伦萨圣神大殿",
+  "a": "菲利皮诺·利皮"
+ },
+ {
+  "id": 7671,
+  "zh": "圣伯多禄从监牢得自由",
+  "qid": "Q3831650",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20lippi%2C%20liberazione%20di%20san%20pietro%2C%20cappella%20brancacci%2C%201482-85.jpg",
+  "y": "1482",
+  "loc": "布兰卡契小堂",
+  "a": "菲利皮诺·利皮"
+ },
+ {
+  "id": 7672,
+  "zh": "圣加大肋纳的神秘婚姻 (菲利皮诺·利皮)",
+  "qid": "Q3851964",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%2C%20matrimonio%20mistico%20di%20santa%20caterina%2001.jpg",
+  "y": "1503",
+  "loc": "圣多明我大殿",
+  "a": "菲利皮诺·利皮"
+ },
+ {
+  "id": 7673,
+  "zh": "与术士西门的争执和圣伯多禄倒钉十字架",
+  "qid": "Q1119782",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20lippi%2C%20crocifissione%20di%20san%20pietro%2C%20cappella%20brancacci%2C%201482-85.jpg",
+  "y": "1481",
+  "loc": "布兰卡契小堂",
+  "a": "菲利皮诺·利皮"
+ },
+ {
+  "id": 7674,
+  "zh": "提阿非罗的儿子复活和圣伯多禄登宝座",
+  "qid": "Q3933568",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20brancacci%2C%20Resurrezione%20del%20figlio%20di%20Teofilo%20e%20San%20Pietro%20in%20cattedra%20%28restaurato%29%2C%20Masaccio.jpg",
+  "y": "1427",
+  "loc": "布兰卡契小堂",
+  "a": "菲利皮诺·利皮"
+ },
+ {
+  "id": 7675,
+  "zh": "Communion of the Apostles ",
+  "qid": "Q3685501",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20signorelli%2C%20comunione%20con%20gli%20apostoli%2C%20cortona.jpg",
+  "y": "1512",
+  "loc": "Diocesan Museum in Cortona",
+  "a": "西尼奥雷利"
+ },
+ {
+  "id": 7676,
+  "zh": "與孩子的聖母",
+  "qid": "Q3842491",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20Signorelli-Maria%20mit%20dem%20Kinde.JPG",
+  "y": "1492",
+  "loc": "老绘画陈列馆",
+  "a": "西尼奥雷利"
+ },
+ {
+  "id": 7677,
+  "zh": "The Birth of St. John the ",
+  "qid": "Q3873242",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Signorelli%2C%20birth%20of%20st.%20john%20the%20baptist.jpg",
+  "y": "1483",
+  "loc": "Room 709",
+  "a": "西尼奥雷利"
+ },
+ {
+  "id": 7678,
+  "zh": "Sant'Onofrio Altarpiece",
+  "qid": "Q3889269",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pala-sant-onofrio%20luca-signorelli.jpg",
+  "y": "1484",
+  "loc": "Museo dell'Opera del Duomo",
+  "a": "西尼奥雷利"
+ },
+ {
+  "id": 7679,
+  "zh": "Portrait of a Man",
+  "qid": "Q3937404",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bildnis%20eines%20%C3%A4lteren%20Mannes%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205132435.jpg",
+  "y": "1492",
+  "loc": "Paintings of the Italian Renaissance - Room 39",
+  "a": "西尼奥雷利"
+ },
+ {
+  "id": 7680,
+  "zh": "Commemoration of Guidoricc",
+  "qid": "Q3119488",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1western-wall-in-palazzo-publico-siena-235.jpg",
+  "y": "1328",
+  "loc": "意大利",
+  "a": "西蒙内·马尔蒂尼"
+ },
+ {
+  "id": 7681,
+  "zh": "Maestà",
+  "qid": "Q3276413",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maest%C3%A0%20di%20simone%20martini%2C%20siena%20palazzo%20pubblico%201315-1321.jpg",
+  "y": "1315",
+  "loc": "",
+  "a": "西蒙内·马尔蒂尼"
+ },
+ {
+  "id": 7682,
+  "zh": "Triptych of Saint Augustin",
+  "qid": "Q3539577",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Simone%20Martini%20073.jpg",
+  "y": "1328",
+  "loc": "国立美术馆 (锡耶纳)",
+  "a": "西蒙内·马尔蒂尼"
+ },
+ {
+  "id": 7683,
+  "zh": "Saint Catherine of Alexand",
+  "qid": "Q3907529",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Simone%20Martini%20012.jpg",
+  "y": "1320",
+  "loc": "國立聖馬特奧博物館",
+  "a": "西蒙内·马尔蒂尼"
+ },
+ {
+  "id": 7684,
+  "zh": "Polyptych of Saint Dominiq",
+  "qid": "Q3395788",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Simone%20Martini%20008.jpg",
+  "y": "1323",
+  "loc": "Museo dell'Opera del Duomo",
+  "a": "西蒙内·马尔蒂尼"
+ },
+ {
+  "id": 7685,
+  "zh": "The Carrying of the Cross",
+  "qid": "Q3225814",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Simone%20Martini%20067.jpg",
+  "y": "1335",
+  "loc": "Room 709",
+  "a": "西蒙内·马尔蒂尼"
+ },
+ {
+  "id": 7686,
+  "zh": "Triumphal Arch",
+  "qid": "Q1300406",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20D%C3%BCrer%2C%20The%20Triumphal%20Arch%20of%20Maximilian%2C%201515%20%281799%20edition%29%2C%20NGA%2076935.jpg",
+  "y": "1512",
+  "loc": "國家藝廊",
+  "a": "阿尔特多费"
+ },
+ {
+  "id": 7687,
+  "zh": "Nativity of the Virgin",
+  "qid": "Q649408",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Altdorfer%2C%20Albrecht%20-%20Geburt%20Mariae%20-%20CC-BY-SA%20BSTGS%205358.jpg",
+  "y": "1520",
+  "loc": "Alte Pinakothek, upper floor, gallery III",
+  "a": "阿尔特多费"
+ },
+ {
+  "id": 7688,
+  "zh": "Countryside of Wood With S",
+  "qid": "Q1807195",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20Altdorfer%20Laubwald%20mit%20dem%20Heiligen%20Georg%201510.jpg",
+  "y": "1510",
+  "loc": "老绘画陈列馆",
+  "a": "阿尔特多费"
+ },
+ {
+  "id": 7689,
+  "zh": "Susanna and the Elders",
+  "qid": "Q25986",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20Altdorfer%20-%20Susanna%20und%20die%20beiden%20Alten.jpg",
+  "y": "1526",
+  "loc": "老绘画陈列馆",
+  "a": "阿尔特多费"
+ },
+ {
+  "id": 7690,
+  "zh": "聖弗洛里亞諾的殉難",
+  "qid": "Q3850303",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20Altdorfer%20-%20Das%20Martyrium%20des%20heiligen%20Florian.jpg",
+  "y": "1510",
+  "loc": "Flemish and German Renaissance paintings,  room 22",
+  "a": "阿尔特多费"
+ },
+ {
+  "id": 7691,
+  "zh": "Christ Taking Leave of his",
+  "qid": "Q18683046",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht%20Altdorfer%20-%20Christ%20taking%20Leave%20of%20his%20Mother%20-%20Google%20Art%20Project.jpg",
+  "y": "1520",
+  "loc": "国家美术馆",
+  "a": "阿尔特多费"
+ },
+ {
+  "id": 7692,
+  "zh": "The Annunciation",
+  "qid": "Q3618180",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masolino%20Annunciation.jpg",
+  "y": "1423",
+  "loc": "國家藝廊",
+  "a": "马索利诺"
+ },
+ {
+  "id": 7693,
+  "zh": "羅馬聖母大教堂奠基",
+  "qid": "Q3747239",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masolino%2C%20fondazione%20di%20santa%20maria%20maggiore.jpg",
+  "y": "1423",
+  "loc": "卡波迪蒙特美術館",
+  "a": "马索利诺"
+ },
+ {
+  "id": 7694,
+  "zh": "治愈跛子与大比大复活",
+  "qid": "Q3778390",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masolino%2C%20resurrezione%20di%20tabita%20%28full%29.jpg",
+  "y": "1424",
+  "loc": "佛罗伦萨卡尔米内圣母大殿",
+  "a": "马索利诺"
+ },
+ {
+  "id": 7695,
+  "zh": "亚当和夏娃",
+  "qid": "Q3983794",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masolino%2C%20adamo%20ed%20eva.jpg",
+  "y": "1424",
+  "loc": "布兰卡契小堂",
+  "a": "马索利诺"
+ },
+ {
+  "id": 7696,
+  "zh": "Santa Maria Maggiore Altar",
+  "qid": "Q3889198",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Colonna%20Masolino%20Philadelphia%2001.JPG",
+  "y": "",
+  "loc": "",
+  "a": "马索利诺"
+ },
+ {
+  "id": 7697,
+  "zh": "圣伯多禄讲道",
+  "qid": "Q3910089",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Peter%20Preaching%2000.jpg",
+  "y": "1424",
+  "loc": "佛罗伦萨卡尔米内圣母大殿",
+  "a": "马索利诺"
+ },
+ {
+  "id": 7698,
+  "zh": "Altarpiece of the Guild of",
+  "qid": "Q21614510",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Quinten%20Massijs%20-%20Altarpiece%20of%20the%20Joiners%E2%80%99%20Guild%2C%201511%2C%20245-249.tif",
+  "y": "1511",
+  "loc": "皇家安特衛普美術館",
+  "a": "马西斯"
+ },
+ {
+  "id": 7699,
+  "zh": "Madonna and Child with Ang",
+  "qid": "Q24929980",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyon%201er%20-%20Mus%C3%A9e%20des%20Beaux-Art%20-%20Vierge%20%C3%A0%20l%27Enfant%20entour%C3%A9e%20d%27anges%20%28Quentin%20Metsys%29.jpg",
+  "y": "1509",
+  "loc": "里昂美术馆",
+  "a": "马西斯"
+ },
+ {
+  "id": 7700,
+  "zh": "The Virgin and Child",
+  "qid": "Q17276111",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20met%20kind%20Rijksmuseum%20SK-A-247.jpeg",
+  "y": "1520",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "马西斯"
+ },
+ {
+  "id": 7701,
+  "zh": "Ill-Matched Marriage",
+  "qid": "Q5998624",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Quentin%20Metsys%20-%20O%20Casamento%20Desigual.jpg",
+  "y": "1520",
+  "loc": "聖保羅藝術博物館",
+  "a": "马西斯"
+ },
+ {
+  "id": 7702,
+  "zh": "The Lamentation over the D",
+  "qid": "Q6153533",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Quinten%20Massijs%20-%20The%20Lamentation%20over%20the%20Dead%20Christ%2C%201511%2C%20245.tif",
+  "y": "1511",
+  "loc": "皇家安特衛普美術館",
+  "a": "马西斯"
+ },
+ {
+  "id": 7703,
+  "zh": "Ill-Matched Lovers",
+  "qid": "Q20175616",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ill-Matched%20Lovers%20E10886.jpg",
+  "y": "1520",
+  "loc": "國家藝廊",
+  "a": "马西斯"
+ }
+]
