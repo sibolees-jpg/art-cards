@@ -1,0 +1,2769 @@
+{
+ "洛托": {
+  "qid": "Q310973",
+  "works": [
+   {
+    "qid": "Q1994442",
+    "t": "Portrait of a Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Lotto%20046.jpg",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 12
+   },
+   {
+    "qid": "Q4009580",
+    "t": "维纳斯和丘比特",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1525%20Lotto%20Venus%20und%20Amor%20anagoria.JPG",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 12
+   },
+   {
+    "qid": "Q3842436",
+    "t": "Madonna and Child with the Young St John the Baptist and St Peter Martyr",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lotto%2C%20Madonna%20col%20Bambino%2C%20san%20Pietro%20martire%20e%20un%20donatore.jpg",
+    "y": "1503",
+    "mat": "油彩",
+    "loc": "卡波迪蒙特美術館",
+    "links": 10
+   },
+   {
+    "qid": "Q605863",
+    "t": "年輕男子肖像畫",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Accademia%20-%20Ritratto%20di%20giovane%20gentiluomo%20nel%20suo%20studio%20-%20Lorenzo%20Lotto%20cat.912.jpg",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "學院美術館",
+    "links": 9
+   },
+   {
+    "qid": "Q2105277",
+    "t": "馬西利奧·卡索蒂與他的妻子法烏斯蒂娜肖像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Micer%20Marsilio%20Cassotti%20y%20su%20esposa%20Faustina%20%28Lorenzo%20Lotto%29.jpg",
+    "y": "1523",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 9
+   },
+   {
+    "qid": "Q3937591",
+    "t": "勞拉·達·波拉肖像畫",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Lotto%20040.jpg",
+    "y": "1543",
+    "mat": "油彩",
+    "loc": "布雷拉画廊",
+    "links": 9
+   },
+   {
+    "qid": "Q3937719",
+    "t": "Portrait of a Young Man with a Lamp",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Lotto%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Bildnis%20eines%20J%C3%BCnglings%20vor%20wei%C3%9Fem%20Vorhang%20-%20GG%20214%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1508",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 9
+   },
+   {
+    "qid": "Q369350",
+    "t": "美德與罪惡的寓意圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Lotto%20-%20All%C3%A9gorie%20de%20la%20Vertu%20et%20du%20Vice%201.JPG",
+    "y": "1505",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 8
+   },
+   {
+    "qid": "Q1994120",
+    "t": "Recanati Annunciation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Lotto%20066.jpg",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "Villa Colloredo Mels Museum",
+    "links": 8
+   },
+   {
+    "qid": "Q3605564",
+    "t": "耶穌誕生",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Nativity%20-%20Lorenzo%20Lotto%20%281523%29%20National%20Gallery%20of%20Art.jpg",
+    "y": "1523",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 8
+   },
+   {
+    "qid": "Q3684648",
+    "t": "Christ taking leave of his Mother",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lotto%20-%20Christi%20Abschied%20von%20seiner%20Mutter%2C%201521%2C%20325.jpg",
+    "y": "1521",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 8
+   },
+   {
+    "qid": "Q3697662",
+    "t": "The Carrying of the Cross",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lotto-lorenzo%20Keresztet%20cipel%C5%91%20Krisztus%20%281526%29.jpg",
+    "y": "1526",
+    "mat": "油彩",
+    "loc": "蒙娜丽莎厅",
+    "links": 8
+   }
+  ]
+ },
+ "柯勒乔": {
+  "qid": "Q8457",
+  "works": [
+   {
+    "qid": "Q700834",
+    "t": "Jupiter and Io",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%2C%20gen.%20Correggio%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Jupiter%20und%20Io%20-%20GG%20274%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 21
+   },
+   {
+    "qid": "Q1527541",
+    "t": "耶稣降生",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Correggio%20-%20The%20Holy%20Night%20-%20Google%20Art%20Project.jpg",
+    "y": "1529",
+    "mat": "油彩",
+    "loc": "历代大师画廊",
+    "links": 18
+   },
+   {
+    "qid": "Q939962",
+    "t": "Ganymede Abducted by the Eagle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Allegri%2C%20called%20Correggio%20-%20The%20Abduction%20of%20Ganymede%20-%20Google%20Art%20Project.jpg",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 13
+   },
+   {
+    "qid": "Q1408753",
+    "t": "達那厄 (科雷吉歐)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Correggio%20008.jpg",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "鮑格才美術館",
+    "links": 13
+   },
+   {
+    "qid": "Q3829339",
+    "t": "Leda and the Swan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Correggio%20%28Antonio%20Allegri%29%20%28ca.%201489%20-%201534%29%20-%20Leda%20and%20the%20Swan%20-%20218%20-%20Gem%C3%A4ldegalerie.jpg",
+    "y": "1532",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 13
+   },
+   {
+    "qid": "Q3877896",
+    "t": "不要碰我",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Correggio%20056.jpg",
+    "y": "1523",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 11
+   },
+   {
+    "qid": "Q2017819",
+    "t": "Portrait of a Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hermitagecorreggioportraitofawoman.jpg",
+    "y": "1520",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 10
+   },
+   {
+    "qid": "Q3719885",
+    "t": "爱神丘比特的教育",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cupido.jpg",
+    "y": "1527",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 10
+   },
+   {
+    "qid": "Q3850306",
+    "t": "四聖人的殉道",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Correggio%20-%20Martirio%20dei%20santi%20Placido%2C%20Flavia%2C%20Eutichio%20e%20Vittorino%2C%201524%20circa%2C%20GN353.jpg",
+    "y": "1524",
+    "mat": "油彩",
+    "loc": "帕尔马国家美术馆",
+    "links": 10
+   }
+  ]
+ },
+ "曼特尼亚": {
+  "qid": "Q5681",
+  "works": [
+   {
+    "qid": "Q546297",
+    "t": "哀悼死去的基督",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lamentaci%C3%B3n%20sobre%20Cristo%20muerto%2C%20por%20Andrea%20Mantegna.jpg",
+    "y": "1483",
+    "mat": "tempera",
+    "loc": "布雷拉画廊",
+    "links": 32
+   },
+   {
+    "qid": "Q965822",
+    "t": "Madonna della Vittoria",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vierge%20de%20la%20Victoire%20-%20Andrea%20Mantegna%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20369%20%3B%20MR%20337.jpg",
+    "y": "1495",
+    "mat": "tempera",
+    "loc": "Room 710",
+    "links": 15
+   },
+   {
+    "qid": "Q959537",
+    "t": "聖母之死",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Mantegna%20047.jpg",
+    "y": "1462",
+    "mat": "tempera",
+    "loc": "意大利",
+    "links": 14
+   },
+   {
+    "qid": "Q2066739",
+    "t": "San Zeno Altarpiece",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Verone%20-%20San%20Zeno%20-%20Retable%20de%20Mantegna..jpg",
+    "y": "1457",
+    "mat": "tempera",
+    "loc": "意大利",
+    "links": 13
+   }
+  ]
+ },
+ "奥拉齐奥": {
+  "qid": "Q367360",
+  "works": [
+   {
+    "qid": "Q20176925",
+    "t": "The Lute Player",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20-%20Il%20suonatore%20di%20liuto%20%28National%20Gallery%20of%20Art%29.jpg",
+    "y": "1612",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 10
+   },
+   {
+    "qid": "Q18688278",
+    "t": "Lot and His Daughters",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20-%20Lot%20and%20His%20Daughters%20-%20Google%20Art%20Project.jpg",
+    "y": "1628",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 8
+   },
+   {
+    "qid": "Q22329907",
+    "t": "Danaë",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20-%20Dana%C3%AB%20and%20the%20Shower%20of%20Gold%20-%202016.6%20-%20J.%20Paul%20Getty%20Museum.jpg",
+    "y": "1623",
+    "mat": "油彩",
+    "loc": "盖蒂中心",
+    "links": 8
+   },
+   {
+    "qid": "Q19890804",
+    "t": "Death of Cleopatra",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Cleopatra2.jpg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "",
+    "links": 6
+   },
+   {
+    "qid": "Q20178589",
+    "t": "Lot and his Daughters",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20-%20Lot%20e%20le%20figlie%20%28Getty%20Center%29.jpg",
+    "y": "1622",
+    "mat": "油彩",
+    "loc": "盖蒂中心",
+    "links": 6
+   },
+   {
+    "qid": "Q26713329",
+    "t": "摩西被救出水中",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20-%20Mos%C3%A8%20salvato%20dalle%20acque%20%28National%20Gallery%2C%20London%29.jpg",
+    "y": "1634",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 6
+   },
+   {
+    "qid": "Q17627591",
+    "t": "Diana the Huntress",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Diane%20Chasseresse%20%28Gentileschi%29.jpg",
+    "y": "1700",
+    "mat": "油彩",
+    "loc": "南特美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q28031064",
+    "t": "Joseph and Potiphar's Wife",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20%28Pisa%201563-London%201639%29%20-%20Joseph%20and%20Potiphar%27s%20wife%20-%20RCIN%20405477%20-%20Royal%20Collection.jpg",
+    "y": "1632",
+    "mat": "油彩",
+    "loc": "皇室收藏",
+    "links": 3
+   },
+   {
+    "qid": "Q29044255",
+    "t": "David and Goliath",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20-%20Davide%20e%20Golia%20%28National%20Gallery%20of%20Ireland%29.jpg",
+    "y": "1605",
+    "mat": "画布",
+    "loc": "愛爾蘭國立美術館",
+    "links": 3
+   },
+   {
+    "qid": "Q77610686",
+    "t": "Annunciation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20-%20L%27Annonciation.jpg",
+    "y": "1603",
+    "mat": "",
+    "loc": "",
+    "links": 3
+   },
+   {
+    "qid": "Q5966543",
+    "t": "Lot and his daughters",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20-%20Lot%20and%20His%20Daughters%20-%20WGA8588.jpg",
+    "y": "1622",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 2
+   },
+   {
+    "qid": "Q18572437",
+    "t": "Public Felicity Triumphant over Dangers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%2C%20Orazio%20-%20Public%20Felicity%20Triumphant%20over%20Dangers%20-%201624-1625.jpg",
+    "y": "1623",
+    "mat": "油彩",
+    "loc": "Room 716",
+    "links": 2
+   }
+  ]
+ },
+ "真蒂莱斯基": {
+  "qid": "Q212657",
+  "works": [
+   {
+    "qid": "Q2247406",
+    "t": "猶迪割下赫羅弗尼斯的頭顱",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Judith%20Beheading%20Holofernes%20-%20WGA8563.jpg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "卡波迪蒙特美術館",
+    "links": 24
+   },
+   {
+    "qid": "Q3978274",
+    "t": "苏珊娜和长者",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20and%20the%20Elders%20%281610%29%2C%20Artemisia%20GentileschiFXD.jpg",
+    "y": "1610",
+    "mat": "油彩",
+    "loc": "魏森斯坦城堡",
+    "links": 17
+   },
+   {
+    "qid": "Q532486",
+    "t": "Judith and Her Maidservant",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%20judith1.jpg",
+    "y": "1610",
+    "mat": "油彩",
+    "loc": "帕拉提納美術館",
+    "links": 17
+   },
+   {
+    "qid": "Q3630745",
+    "t": "Self-Portrait as the Allegory of Painting",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20as%20the%20Allegory%20of%20Painting%20%28La%20Pittura%29%20-%20Artemisia%20Gentileschi.jpg",
+    "y": "1630",
+    "mat": "油彩",
+    "loc": "白金汉宫",
+    "links": 16
+   },
+   {
+    "qid": "Q3612415",
+    "t": "Allegory of Inclination",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Gentileschi%20Allegoria%20dell%27inclinazione.jpg",
+    "y": "1615",
+    "mat": "油彩",
+    "loc": "博纳罗蒂之家",
+    "links": 14
+   },
+   {
+    "qid": "Q3701418",
+    "t": "Danaë",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Dana%C3%AB%20-%2093-1986%20-%20Saint%20Louis%20Art%20Museum.jpg",
+    "y": "1612",
+    "mat": "銅",
+    "loc": "圣路易斯艺术博物馆",
+    "links": 14
+   },
+   {
+    "qid": "Q3769169",
+    "t": "猶迪割下赫羅弗尼斯的頭顱 (詹蒂萊斯基)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Giuditta%20decapita%20Oloferne%20-%20Google%20Art%20Project-Adjust.jpg",
+    "y": "1620",
+    "mat": "油彩",
+    "loc": "烏菲茲美術館",
+    "links": 14
+   },
+   {
+    "qid": "Q3733425",
+    "t": "Esther before Ahasuerus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%2C%20Artemisia%20-%20Esther%20before%20Ahasuerus%20-%20c.%201628%E2%80%931635.jpg",
+    "y": "1629",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 12
+   },
+   {
+    "qid": "Q3689716",
+    "t": "Conversion of the Magdalene",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selbstbildnis%20als%20Maria%20Magdalena.jpg",
+    "y": "1620",
+    "mat": "油彩",
+    "loc": "帕拉提納美術館",
+    "links": 11
+   },
+   {
+    "qid": "Q3762348",
+    "t": "Jael and Sisera",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giaele%20e%20Sisara%20%28ca.1620%29%20-%20Artemisia%20Gentileschi%20%28Museum%20of%20Fine%20Arts%2C%20Budapest%29.jpg",
+    "y": "1620",
+    "mat": "油彩",
+    "loc": "布达佩斯美术博物馆",
+    "links": 11
+   },
+   {
+    "qid": "Q23010133",
+    "t": "Self-Portrait as a Lute Player",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Autoritratto%20come%20suonatrice%20di%20liuto%20%28ca.%201615-18%29.jpg",
+    "y": "1616",
+    "mat": "油彩",
+    "loc": "沃兹沃思学会",
+    "links": 10
+   },
+   {
+    "qid": "Q3630748",
+    "t": "Self-Portrait as a Female Martyr",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20Selfportrait%20Martyr.jpg",
+    "y": "1615",
+    "mat": "油彩",
+    "loc": "",
+    "links": 10
+   }
+  ]
+ },
+ "埃尔·格列柯": {
+  "qid": "Q301",
+  "works": [
+   {
+    "qid": "Q94802",
+    "t": "歐貴茲伯爵的葬禮",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG",
+    "y": "1586",
+    "mat": "油彩",
+    "loc": "圣多默堂",
+    "links": 29
+   },
+   {
+    "qid": "Q883994",
+    "t": "托莱多风景",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Toledo%20MET%20DP349564.jpg",
+    "y": "1596",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 28
+   },
+   {
+    "qid": "Q2714617",
+    "t": "脫掉基督的外衣",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Expolio%2C%20por%20El%20Greco.jpg",
+    "y": "1578",
+    "mat": "油彩",
+    "loc": "托莱多主教座堂",
+    "links": 21
+   },
+   {
+    "qid": "Q1220013",
+    "t": "揭開第五印",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%2C%20The%20Vision%20of%20Saint%20John%20%281608-1614%29.jpg",
+    "y": "1610",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 19
+   },
+   {
+    "qid": "Q6402081",
+    "t": "手放胸口的騎士",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20caballero%20de%20la%20mano%20en%20el%20pecho%2C%20by%20El%20Greco%2C%20from%20Prado%20in%20Google%20Earth.jpg",
+    "y": "1580",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 19
+   },
+   {
+    "qid": "Q2255224",
+    "t": "拉奧孔",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20%28Domenikos%20Theotokopoulos%29%20-%20Laoco%C3%B6n%20-%20Google%20Art%20Project.jpg",
+    "y": "1610",
+    "mat": "油彩",
+    "loc": "華盛頓哥倫比亞特區",
+    "links": 16
+   },
+   {
+    "qid": "Q6119366",
+    "t": "聖馬丁與乞丐",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20San%20Mart%C3%ADn%20y%20el%20mendigo.jpg",
+    "y": "1597",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 15
+   },
+   {
+    "qid": "Q949323",
+    "t": "Fray Hortensio Félix Paravicino",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20%28Domenikos%20Theotokopoulos%29%20-%20Fray%20Hortensio%20F%C3%A9lix%20Paravicino%20-%20Google%20Art%20Project.jpg",
+    "y": "1609",
+    "mat": "油彩",
+    "loc": "西班牙",
+    "links": 13
+   },
+   {
+    "qid": "Q1114913",
+    "t": "Adoration of the Shepherds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20adoraci%C3%B3n%20de%20los%20pastores%20%28El%20Greco%29.jpg",
+    "y": "1612",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 13
+   },
+   {
+    "qid": "Q6106760",
+    "t": "Portrait of Jorge Manuel Theotocópuli",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20Portrait%20of%20the%20Artist%27s%20Son%20Jorge%20Manuel%20Theotokopoulos%20-%20WGA10567.jpg",
+    "y": "1600",
+    "mat": "油彩",
+    "loc": "塞维利亚美术博物馆",
+    "links": 13
+   },
+   {
+    "qid": "Q617629",
+    "t": "The Resurrection",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Resurrection%20%28La%20Resurrecci%C3%B3n%20de%20Cristo%29%201597-1600.jpg",
+    "y": "1598",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 12
+   },
+   {
+    "qid": "Q3078569",
+    "t": "Dormition of the Virgin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dormition%20El%20Greco.jpg",
+    "y": "1565",
+    "mat": "",
+    "loc": "埃尔穆波利",
+    "links": 12
+   }
+  ]
+ },
+ "丁托列托": {
+  "qid": "Q9319",
+  "works": [
+   {
+    "qid": "Q2472983",
+    "t": "最後晚餐 (丁托列多)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20The%20Last%20Supper%20-%20WGA22649.jpg",
+    "y": "1563",
+    "mat": "油彩",
+    "loc": "聖喬治馬焦雷教堂",
+    "links": 22
+   },
+   {
+    "qid": "Q2273890",
+    "t": "聖馬可的奇蹟",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoretto%20-%20Miracle%20of%20the%20Slave.jpg",
+    "y": "1547",
+    "mat": "油彩",
+    "loc": "學院美術館",
+    "links": 17
+   },
+   {
+    "qid": "Q2393412",
+    "t": "维纳斯、武尔坎努斯和玛尔斯",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/JACOPO-TINTORETTO-JACOPO-ROBUSTI%20VULKAN-UEBERRASCHT-VENUS-UND-MARS%20CC-BY-SA%20BSTGS%209257.jpg",
+    "y": "1555",
+    "mat": "油彩",
+    "loc": "老绘画陈列馆",
+    "links": 17
+   },
+   {
+    "qid": "Q2274267",
+    "t": "The Origin of the Milky Way",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20The%20Origin%20of%20the%20Milky%20Way%20-%20Google%20Art%20Project.jpg",
+    "y": "1575",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 15
+   },
+   {
+    "qid": "Q3978277",
+    "t": "苏撒拿和长老 (丁托列托)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Robusti%2C%20called%20Tintoretto%20-%20Susanna%20and%20the%20Elders%20-%20Google%20Art%20Project.jpg",
+    "y": "1555",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 15
+   },
+   {
+    "qid": "Q924655",
+    "t": "偷走聖馬可的遺體",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20St%20Mark%27s%20Body%20Brought%20to%20Venice.jpg",
+    "y": "1564",
+    "mat": "油彩",
+    "loc": "學院美術館",
+    "links": 13
+   },
+   {
+    "qid": "Q3937806",
+    "t": "發現聖馬卡的遺體",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20Finding%20of%20the%20body%20of%20St%20Mark.jpg",
+    "y": "1562",
+    "mat": "油彩",
+    "loc": "布雷拉画廊",
+    "links": 13
+   },
+   {
+    "qid": "Q490312",
+    "t": "钉十字架 (丁托列托)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20021.jpg",
+    "y": "1565",
+    "mat": "油彩",
+    "loc": "聖洛克大會堂",
+    "links": 12
+   },
+   {
+    "qid": "Q3013303",
+    "t": "Danae",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tintoret-Dana%C3%A9-Lyon.jpg",
+    "y": "1570",
+    "mat": "油彩",
+    "loc": "里昂美术馆",
+    "links": 11
+   },
+   {
+    "qid": "Q5996597",
+    "t": "天堂",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Jacopo%20Tintoretto%20-%20Gloria%20del%20Paradiso%20-%20Sala%20del%20Maggior%20Consiglio.jpg",
+    "y": "1588",
+    "mat": "油彩",
+    "loc": "Sala del Maggior Consiglio",
+    "links": 11
+   },
+   {
+    "qid": "Q1984131",
+    "t": "Saint George and the Dragon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20-%20Saint%20George%20and%20the%20Dragon%20-%20Google%20Art%20Project.jpg",
+    "y": "1555",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 10
+   },
+   {
+    "qid": "Q9068409",
+    "t": "Portrait of Procurator Jacopo Soranzo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Tintoretto%20096.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "學院美術館",
+    "links": 10
+   }
+  ]
+ },
+ "提香": {
+  "qid": "Q47551",
+  "works": [
+   {
+    "qid": "Q727875",
+    "t": "乌尔比诺的维纳斯",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%27s%20Venere%20di%20Urbino%20%28from%20The%20History%20BLog%29.jpg",
+    "y": "1538",
+    "mat": "油彩",
+    "loc": "烏菲茲美術館",
+    "links": 40
+   },
+   {
+    "qid": "Q500812",
+    "t": "沉睡的维纳斯",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione%20-%20Sleeping%20Venus%20-%20Google%20Art%20Project%202.jpg",
+    "y": "1509",
+    "mat": "油彩",
+    "loc": "历代大师画廊",
+    "links": 37
+   },
+   {
+    "qid": "Q1899740",
+    "t": "聖母升天",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20041.jpg",
+    "y": "1517",
+    "mat": "油彩",
+    "loc": "圣方济会荣耀圣母圣殿",
+    "links": 27
+   },
+   {
+    "qid": "Q794077",
+    "t": "神聖與世俗的小愛神",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20-%20Amor%20Sacro%20y%20Amor%20Profano%20%28Galer%C3%ADa%20Borghese%2C%20Roma%2C%201514%29FXD.jpg",
+    "y": "1514",
+    "mat": "油彩",
+    "loc": "鮑格才美術館",
+    "links": 26
+   },
+   {
+    "qid": "Q1123378",
+    "t": "在米赫爾貝格的查理五世",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20V%20en%20M%C3%BChlberg%2C%20by%20Titian%2C%20from%20Prado%20in%20Google%20Earth.jpg",
+    "y": "1548",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 23
+   },
+   {
+    "qid": "Q2046100",
+    "t": "花神芙蘿拉 (提齊安諾)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano%20-%20Flora%20-%20Google%20Art%20Project.jpg",
+    "y": "1517",
+    "mat": "油彩",
+    "loc": "烏菲茲美術館",
+    "links": 23
+   },
+   {
+    "qid": "Q15008032",
+    "t": "眾神的宴會",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Bellini%20and%20Titian%20-%20The%20Feast%20of%20the%20Gods%20-%20Google%20Art%20Project.jpg",
+    "y": "1514",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 22
+   },
+   {
+    "qid": "Q2528145",
+    "t": "Allegory of Prudence",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Allegorie%20der%20Zeit.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 21
+   },
+   {
+    "qid": "Q1206860",
+    "t": "酒神与阿丽亚德尼公主",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20Bacchus%20and%20Ariadne.jpg",
+    "y": "1520",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 20
+   },
+   {
+    "qid": "Q2528177",
+    "t": "戴安娜與阿克泰翁 (提香)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20Diana%20and%20Actaeon%20-%20Google%20Art%20Project.jpg",
+    "y": "1557",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 20
+   },
+   {
+    "qid": "Q572697",
+    "t": "聖母、聖徒和佩薩羅家族的成員",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frari%20%28Venice%29%20nave%20left%20-%20Altar%20of%20Madona%20di%20Ca%27Pesaro.jpg",
+    "y": "1522",
+    "mat": "油彩",
+    "loc": "圣方济会荣耀圣母圣殿",
+    "links": 19
+   },
+   {
+    "qid": "Q18002417",
+    "t": "被劫持的歐羅巴 (提香)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tizian%20085.jpg",
+    "y": "1560",
+    "mat": "油彩",
+    "loc": "伊莎貝拉·史都華·嘉納藝術博物館",
+    "links": 19
+   }
+  ]
+ },
+ "洛兰": {
+  "qid": "Q214074",
+  "works": [
+   {
+    "qid": "Q3909309",
+    "t": "聖吳甦樂登船的海港",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Lorrain%20-%20Seaport%20with%20the%20Embarkation%20of%20Saint%20Ursula.jpg",
+    "y": "1641",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 9
+   },
+   {
+    "qid": "Q7731855",
+    "t": "The Embarkation of the Queen of Sheba",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Lorrain%20008.jpg",
+    "y": "1648",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 9
+   },
+   {
+    "qid": "Q4803790",
+    "t": "Ascanius Shooting the Stag of Sylvia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ascanius%20Shooting%20the%20Stag%20of%20Sylvia%201682%20Claude%20Lorrain.jpg",
+    "y": "1682",
+    "mat": "油彩",
+    "loc": "阿須摩林博物館",
+    "links": 8
+   },
+   {
+    "qid": "Q7734433",
+    "t": "逃往埃及",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Flight%20into%20Egypt%20by%20Claude%20Lorrain.jpg",
+    "y": "1635",
+    "mat": "油彩",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 8
+   },
+   {
+    "qid": "Q19904837",
+    "t": "Sunrise",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sunrise%20MET%20DT226758.jpg",
+    "y": "1646",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 8
+   },
+   {
+    "qid": "Q6057319",
+    "t": "摩西被救出水處的風景",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Lorrain%20-%20Landscape%20with%20the%20Finding%20of%20Moses%20-%20WGA04979.jpg",
+    "y": "1639",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q6057322",
+    "t": "Landscape with Tobias and the Angel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20con%20Tob%C3%ADas%20y%20el%20Arc%C3%A1ngel%20Rafael.jpg",
+    "y": "1600",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q6057325",
+    "t": "Landscape with the Embarkation of Saint Paula Romana at Ostia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20con%20el%20embarco%20en%20Ostia%20de%20Santa%20Paula%20Romana%20%28Gell%C3%A9e%29.jpg",
+    "y": "1639",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q19911726",
+    "t": "特洛伊女人放火烧船",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Trojan%20Women%20Set%20Fire%20to%20their%20Flee.jpg",
+    "y": "1643",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 7
+   },
+   {
+    "qid": "Q87113706",
+    "t": "被劫持的歐羅巴 (洛蘭)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorrain%20yusupov.jpg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "普希金造型藝術博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q24066",
+    "t": "Village Fête",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20F%C3%AAte%20villageoise%20-%20Claude%20Gell%C3%A9e%20dit%20Le%20Lorrain%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%204714%20%3B%20MR%201739.jpg",
+    "y": "1639",
+    "mat": "油彩",
+    "loc": "Room 909",
+    "links": 6
+   },
+   {
+    "qid": "Q6057328",
+    "t": "Landscape with the Burial of Saint Serapia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorrain%20Santa%20Serapia.jpg",
+    "y": "1639",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 6
+   }
+  ]
+ },
+ "夏尔丹": {
+  "qid": "Q207447",
+  "works": [
+   {
+    "qid": "Q3212142",
+    "t": "The Ray",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Raie%20-%20Jean%20Baptiste%20Sim%C3%A9on%20Chardin%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203197.jpg",
+    "y": "1727",
+    "mat": "油彩",
+    "loc": "Room 919",
+    "links": 10
+   },
+   {
+    "qid": "Q5640196",
+    "t": "Boy with a Spinning-Top",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Enfant%20au%20toton%20-%20Jean%20Baptiste%20Sim%C3%A9on%20Chardin%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201705.jpg",
+    "y": "1738",
+    "mat": "油彩",
+    "loc": "Room 920",
+    "links": 8
+   },
+   {
+    "qid": "Q3220656",
+    "t": "Le Buffet",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Buffet%20-%20Jean%20Baptiste%20Sim%C3%A9on%20Chardin%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203198.jpg",
+    "y": "1728",
+    "mat": "油彩",
+    "loc": "Room 919",
+    "links": 7
+   },
+   {
+    "qid": "Q3230728",
+    "t": "Allegory of Music, Arts and Science",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Attributs%20de%20la%20musique%20-%20Jean%20Sim%C3%A9on%20Chardin%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203200%20%3B%20B%20497.jpg",
+    "y": "1765",
+    "mat": "油彩",
+    "loc": "Room 919",
+    "links": 5
+   },
+   {
+    "qid": "Q15973749",
+    "t": "The Laundress",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20The%20Laundress%20-%20WGA04761.jpg",
+    "y": "1730",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 5
+   },
+   {
+    "qid": "Q20177902",
+    "t": "The Kitchen Maid",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%2C%20The%20Kitchen%20Maid%2C%201738%2C%20NGA%2041650.jpg",
+    "y": "1799",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 5
+   },
+   {
+    "qid": "Q26708343",
+    "t": "The House of Cards",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Sim%C3%A9on%20Chardin%2C%20The%20House%20of%20Cards%2C%201736-37.jpg",
+    "y": "1740",
+    "mat": "油彩",
+    "loc": "Q132397166",
+    "links": 5
+   },
+   {
+    "qid": "Q6025666",
+    "t": "拿著球拍的女孩",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20002.jpg",
+    "y": "1737",
+    "mat": "油彩",
+    "loc": "烏菲茲美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q6038776",
+    "t": "Still Life with Attributes of the Arts",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Chardin%2C%20Jean-Baptiste%20Sim%C3%A9on%20-%20Still%20Life%20with%20Attributes%20of%20the%20Arts%20-%201766.jpg",
+    "y": "1766",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q12859898",
+    "t": "The Attentive Nurse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%2C%20The%20Attentive%20Nurse%2C%201747%2C%20NGA%2041649.jpg",
+    "y": "1747",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 4
+   },
+   {
+    "qid": "Q111578201",
+    "t": "Le Panier de fraises des bois",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sim%C3%A9on%20Chardin%20-%20Le%20Panier%20de%20fraises%20des%20bois%20%281761%29.jpg",
+    "y": "1761",
+    "mat": "油彩",
+    "loc": "卢浮宫博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q12859906",
+    "t": "The Copper Cistern",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Copper%20cistern.jpg",
+    "y": "1733",
+    "mat": "油彩",
+    "loc": "Room 920",
+    "links": 3
+   }
+  ]
+ },
+ "华托": {
+  "qid": "Q183221",
+  "works": [
+   {
+    "qid": "Q531329",
+    "t": "The Embarkation for Cythera",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Embarquement%20pour%20Cyth%C3%A8re%2C%20by%20Antoine%20Watteau%2C%20from%20C2RMF%20retouched.jpg",
+    "y": "1717",
+    "mat": "油彩",
+    "loc": "Room 917",
+    "links": 22
+   },
+   {
+    "qid": "Q3387944",
+    "t": "Pierrot",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierrot%20-%20Antoine%20Watteau%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%201121%20-%20apr%C3%A8s%20restauration%202024.jpg",
+    "y": "1718",
+    "mat": "油彩",
+    "loc": "Louvre Museum storage",
+    "links": 12
+   },
+   {
+    "qid": "Q766011",
+    "t": "The Shop Sign of Gersaint",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gersaint.jpg",
+    "y": "1720",
+    "mat": "油彩",
+    "loc": "夏洛滕堡宫",
+    "links": 9
+   },
+   {
+    "qid": "Q3204146",
+    "t": "L'Indifférent",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Indiff%C3%A9rent%20-%20Antoine%20Watteau%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%201122.jpg",
+    "y": "1717",
+    "mat": "油彩",
+    "loc": "Room 918",
+    "links": 8
+   },
+   {
+    "qid": "Q5861788",
+    "t": "Fêtes Vénitiennes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Antoine%20Watteau%20-%20F%C3%AAtes%20Venitiennes%20-%20Google%20Art%20Project.jpg",
+    "y": "1718",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 8
+   },
+   {
+    "qid": "Q1713754",
+    "t": "Nymph and Satyr",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nymphe%20et%20satyre%20-%20Jean-Antoine%20Watteau%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%201129.jpg",
+    "y": "1716",
+    "mat": "油彩",
+    "loc": "Louvre Museum storage",
+    "links": 7
+   },
+   {
+    "qid": "Q15973132",
+    "t": "Actors of the Comedie-Francaise",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20Watteau%20062.jpg",
+    "y": "1710",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q2885144",
+    "t": "The Faux Pas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Faux-Pas%20-%20Jean-Antoine%20Watteau%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%201127.jpg",
+    "y": "1717",
+    "mat": "油彩",
+    "loc": "Room 918",
+    "links": 6
+   },
+   {
+    "qid": "Q17635065",
+    "t": "弹吉他的梅兹坦",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Antoine%20Watteau%20-%20Mezzetin.JPG",
+    "y": "1717",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q3222406",
+    "t": "The Chord",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Antoine%20Watteau%20-%20Le%20donneur%20de%20s%C3%A9r%C3%A9nades%20%28Mezetin%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1715",
+    "mat": "油彩",
+    "loc": "孔蒂博物馆",
+    "links": 5
+   },
+   {
+    "qid": "Q17633041",
+    "t": "The two cousins",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20deux%20Cousines%20-%20Jean-Antoine%20Watteau%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201990%208.jpg",
+    "y": "1716",
+    "mat": "油彩",
+    "loc": "Room 918",
+    "links": 5
+   },
+   {
+    "qid": "Q3212992",
+    "t": "The Surprise",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Antoine%20Watteau%20-%20La%20Surprise%20%28Getty%20Center%29.jpg",
+    "y": "1718",
+    "mat": "木材",
+    "loc": "盖蒂中心",
+    "links": 4
+   }
+  ]
+ },
+ "布歇": {
+  "qid": "Q180932",
+  "works": [
+   {
+    "qid": "Q3556817",
+    "t": "黛安娜出浴圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Diane%20sortant%20du%20bain%20-%20Fran%C3%A7ois%20Boucher%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%202712.jpg",
+    "y": "1742",
+    "mat": "油彩",
+    "loc": "Room 919",
+    "links": 18
+   },
+   {
+    "qid": "Q18783512",
+    "t": "Brown Odalisque",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Odalisque%20-%20Fran%C3%A7ois%20Boucher%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%202140%20-%20version%202.jpg",
+    "y": "1740",
+    "mat": "油彩",
+    "loc": "Room 921",
+    "links": 12
+   },
+   {
+    "qid": "Q18552705",
+    "t": "Madame de Pompadour",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20de%20Pompadour%201759%20-%20Fran%C3%A7ois%20Boucher.jpg",
+    "y": "1759",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 11
+   },
+   {
+    "qid": "Q3211033",
+    "t": "La Naissance de Vénus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20011.jpg",
+    "y": "1754",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 10
+   },
+   {
+    "qid": "Q3227830",
+    "t": "The Triumph of Venus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20The%20Triumph%20of%20Venus%20-%20Google%20Art%20Project.jpg",
+    "y": "1740",
+    "mat": "油彩",
+    "loc": "瑞典國立博物館",
+    "links": 9
+   },
+   {
+    "qid": "Q12841555",
+    "t": "Portrait of Madame de Pompadour",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20de%20Pompadour.jpg",
+    "y": "1756",
+    "mat": "油彩",
+    "loc": "Alte Pinakothek, upper floor, gallery XII",
+    "links": 9
+   },
+   {
+    "qid": "Q63536638",
+    "t": "Aurora and Cephalus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Boucher%20-%20L%27Aurore%20et%20C%C3%A9phale%2C%20Nancy%2C%20mus%C3%A9e%20des%20Beaux-Arts.jpg",
+    "y": "1733",
+    "mat": "油彩",
+    "loc": "南锡美术博物馆",
+    "links": 8
+   },
+   {
+    "qid": "Q3796075",
+    "t": "The setting of the sun",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20028.jpg",
+    "y": "1752",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 8
+   },
+   {
+    "qid": "Q11345762",
+    "t": "Jupiter and Callisto",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20Jupiter%20et%20Callisto.jpg",
+    "y": "1744",
+    "mat": "油彩",
+    "loc": "普希金造型藝術博物館",
+    "links": 8
+   },
+   {
+    "qid": "Q12860070",
+    "t": "Venus Consoling Love",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20Consoling%20Love%2C%20Fran%C3%A7ois%20Boucher%2C%201751.jpg",
+    "y": "1751",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 8
+   },
+   {
+    "qid": "Q12900239",
+    "t": "Hercules and Omphale",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francois%20Boucher%20Heracles%20and%20Omphale.jpg",
+    "y": "1732",
+    "mat": "油彩",
+    "loc": "普希金造型藝術博物館",
+    "links": 8
+   },
+   {
+    "qid": "Q3223900",
+    "t": "The Rising of the Sun",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Boucher%20-%20The%20Rising%20of%20the%20Sun%20-%20WGA02916.jpg",
+    "y": "1753",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 7
+   }
+  ]
+ },
+ "弗拉戈纳尔": {
+  "qid": "Q127171",
+  "works": [
+   {
+    "qid": "Q2629559",
+    "t": "秋千",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20Swing.jpg",
+    "y": "1767",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 34
+   },
+   {
+    "qid": "Q2629423",
+    "t": "讀書的少女",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20Reader.jpg",
+    "y": "1770",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 28
+   },
+   {
+    "qid": "Q3220204",
+    "t": "被偷的吻",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Honor%C3%A9%20Fragonard%20-%20The%20Stolen%20Kiss.jpg",
+    "y": "1787",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 16
+   },
+   {
+    "qid": "Q3228069",
+    "t": "門閂 (弗拉戈納爾)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Verrou%20-%20Jean-Honor%C3%A9%20Fragonard%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201974%202.jpg",
+    "y": "1777",
+    "mat": "油彩",
+    "loc": "卢浮宫博物馆",
+    "links": 13
+   },
+   {
+    "qid": "Q974414",
+    "t": "Blind Man's Bluff",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%20collin%20maillard.jpg",
+    "y": "1757",
+    "mat": "油彩",
+    "loc": "林茨美術館",
+    "links": 11
+   },
+   {
+    "qid": "Q3211034",
+    "t": "The Birth of Venus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonnard%20Naissance%20de%20V%C3%A9nus.JPG",
+    "y": "1753",
+    "mat": "油彩",
+    "loc": "格罗贝-拉巴迪耶博物馆",
+    "links": 8
+   },
+   {
+    "qid": "Q12859945",
+    "t": "The See-Saw",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragonard%2C%20The%20See-Saw.jpg",
+    "y": "1750",
+    "mat": "油彩",
+    "loc": "提森-博内米萨博物馆",
+    "links": 8
+   }
+  ]
+ },
+ "安格尔": {
+  "qid": "Q23380",
+  "works": [
+   {
+    "qid": "Q1978815",
+    "t": "大宫女",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20grande%20odalisque%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201158.jpg",
+    "y": "1810",
+    "mat": "油彩",
+    "loc": "达鲁厅",
+    "links": 34
+   },
+   {
+    "qid": "Q1215604",
+    "t": "泉",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Auguste%20Dominique%20Ingres%20-%20The%20Spring%20-%20Google%20Art%20Project%202.jpg",
+    "y": "1856",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 29
+   },
+   {
+    "qid": "Q2027662",
+    "t": "土耳其浴女",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Bain%20Turc%2C%20by%20Jean%20Auguste%20Dominique%20Ingres%2C%20from%20C2RMFFXD.jpg",
+    "y": "1862",
+    "mat": "油彩",
+    "loc": "Room 940",
+    "links": 27
+   },
+   {
+    "qid": "Q3080509",
+    "t": "瓦平松的浴女",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Auguste-Dominique%20Ingres%20-%20La%20Baigneuse%20Valpin%C3%A7on.jpg",
+    "y": "1808",
+    "mat": "油彩",
+    "loc": "Room 940",
+    "links": 22
+   },
+   {
+    "qid": "Q1282840",
+    "t": "帝國王座上的拿破崙一世",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Napoleon%20on%20his%20Imperial%20throne.jpg",
+    "y": "1806",
+    "mat": "油彩",
+    "loc": "卢浮宫博物馆",
+    "links": 20
+   },
+   {
+    "qid": "Q3137278",
+    "t": "Madame Moitessier",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Ingres%20-%20Mme%20Moitessier.jpg",
+    "y": "1856",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 18
+   },
+   {
+    "qid": "Q2985455",
+    "t": "Portrait of Monsieur Bertin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis-Francois%20Bertin.jpg",
+    "y": "1832",
+    "mat": "油彩",
+    "loc": "Room 940",
+    "links": 16
+   },
+   {
+    "qid": "Q3498655",
+    "t": "Vénus Anadyomène",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%20Venere%20Anadiomene.jpg",
+    "y": "1808",
+    "mat": "油彩",
+    "loc": "孔蒂博物馆",
+    "links": 16
+   },
+   {
+    "qid": "Q5818528",
+    "t": "Oedipus and the Sphinx",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%C5%92dipe%20explique%20l%27%C3%A9nigme%20du%20sphinx%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20218.jpg",
+    "y": "1808",
+    "mat": "油彩",
+    "loc": "Louvre Museum storage",
+    "links": 15
+   },
+   {
+    "qid": "Q3202169",
+    "t": "The Apotheosis of Homer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hom%C3%A8re%20d%C3%A9ifi%C3%A9%2C%20dit%20aussi%20L%27apoth%C3%A9ose%20d%27Hom%C3%A8re%20-%20Jean-Auguste%20Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%205417%20%3B%20C%20196.jpg",
+    "y": "1827",
+    "mat": "油彩",
+    "loc": "达鲁厅",
+    "links": 14
+   },
+   {
+    "qid": "Q24011",
+    "t": "Mademoiselle Caroline Rivière",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mademoiselle%20Caroline%20Rivi%C3%A8re%20-%20Jean-Auguste-Dominique%20Ingres%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%201447.jpg",
+    "y": "1806",
+    "mat": "油彩",
+    "loc": "达鲁厅",
+    "links": 13
+   },
+   {
+    "qid": "Q941416",
+    "t": "Jupiter and Thetis",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BApiter%20y%20Tetis%2C%20por%20Dominique%20Ingres.jpg",
+    "y": "1811",
+    "mat": "油彩",
+    "loc": "格拉内博物馆",
+    "links": 13
+   }
+  ]
+ },
+ "德拉克洛瓦": {
+  "qid": "Q33477",
+  "works": [
+   {
+    "qid": "Q29530",
+    "t": "自由引导人民",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Libert%C3%A9%20guidant%20le%20peuple%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20129%20-%20apr%C3%A8s%20restauration%202024.jpg",
+    "y": "1830",
+    "mat": "油彩",
+    "loc": "Room 700",
+    "links": 67
+   },
+   {
+    "qid": "Q1133821",
+    "t": "薩達那帕拉之死",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Mort%20de%20Sardanapale%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%202346.jpg",
+    "y": "1827",
+    "mat": "油彩",
+    "loc": "Room 700",
+    "links": 30
+   },
+   {
+    "qid": "Q2290433",
+    "t": "希阿岛的屠杀",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sc%C3%A8ne%20des%20massacres%20de%20Scio%2C%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203823%20%3B%20C3.jpg",
+    "y": "1824",
+    "mat": "油彩",
+    "loc": "Room 700",
+    "links": 28
+   },
+   {
+    "qid": "Q2354251",
+    "t": "The Barque of Dante",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20The%20Barque%20of%20Dante.jpg",
+    "y": "1822",
+    "mat": "油彩",
+    "loc": "Room 700",
+    "links": 27
+   },
+   {
+    "qid": "Q1212737",
+    "t": "阿爾及爾的婦女",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Femmes%20d%27Alger%20dans%20leur%20appartement%2C%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203824.jpg",
+    "y": "1834",
+    "mat": "油彩",
+    "loc": "Room 700",
+    "links": 19
+   },
+   {
+    "qid": "Q3181999",
+    "t": "迈索隆吉翁废墟上的希腊",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20La%20Gr%C3%A8ce%20sur%20les%20ruines%20de%20Missolonghi%2C%201826.jpg",
+    "y": "1826",
+    "mat": "油彩",
+    "loc": "波爾多美術館",
+    "links": 18
+   },
+   {
+    "qid": "Q3119110",
+    "t": "Orphan Girl at the Cemetery",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeune%20Orpheline%20au%20cimeti%C3%A8re%20-%20Eug%C3%A8ne%20Delacroix%20-%20Muse%20du%20Louvre%20Peintures%20RF%201652%20-%20photo%202.jpg",
+    "y": "1824",
+    "mat": "油彩",
+    "loc": "Room 950",
+    "links": 17
+   },
+   {
+    "qid": "Q3055367",
+    "t": "十字军进入君士坦丁堡",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prise%20de%20Constantinople%20par%20les%20crois%C3%A9s%20%2812%20avril%201204%29%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203821%20%3B%20LP%204674%20-%20apr%C3%A8s%20restauration%202026.jpg",
+    "y": "1840",
+    "mat": "油彩",
+    "loc": "Room 700",
+    "links": 12
+   },
+   {
+    "qid": "Q4992187",
+    "t": "弗雷德里克·肖邦和乔治·桑的肖像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/ChopinSandDelacroix.jpg",
+    "y": "1837",
+    "mat": "油彩",
+    "loc": "奧德羅普格園林博物館",
+    "links": 9
+   },
+   {
+    "qid": "Q11938897",
+    "t": "Jewish Wedding in Morocco",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Noce%20juive%20dans%20le%20Maroc%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%203825%20%3B%20LP%204737.jpg",
+    "y": "1839",
+    "mat": "油彩",
+    "loc": "Room 942",
+    "links": 9
+   },
+   {
+    "qid": "Q16011494",
+    "t": "Medea",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20delacroix%20medee.JPG",
+    "y": "1836",
+    "mat": "油彩",
+    "loc": "里爾美術宮",
+    "links": 9
+   },
+   {
+    "qid": "Q22965178",
+    "t": "Woman with a Parrot",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Delacroix%2C%20Eug%C3%A8ne%20Ferdinand%20Victor%20-%20Woman%20with%20a%20Parrot%20-%201827.jpg",
+    "y": "1827",
+    "mat": "油彩",
+    "loc": "里昂美术馆",
+    "links": 9
+   }
+  ]
+ },
+ "籍里柯": {
+  "qid": "Q184212",
+  "works": [
+   {
+    "qid": "Q212616",
+    "t": "梅杜薩之筏",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/JEAN%20LOUIS%20TH%C3%89ODORE%20G%C3%89RICAULT%20-%20La%20Balsa%20de%20la%20Medusa%20%28Museo%20del%20Louvre%2C%201818-19%29.jpg",
+    "y": "1819",
+    "mat": "油彩",
+    "loc": "Room 700",
+    "links": 47
+   },
+   {
+    "qid": "Q429753",
+    "t": "The 1821 Derby at Epsom",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Derby%20de%201821%20%C3%A0%20Epsom%20-%20Th%C3%A9odore%20G%C3%A9ricault%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%20708%20-%20photo%202.jpg",
+    "y": "1821",
+    "mat": "油彩",
+    "loc": "Room 941",
+    "links": 13
+   },
+   {
+    "qid": "Q2459266",
+    "t": "Portrait of a Kleptomaniac",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9odore%20G%C3%A9ricault%20-%20Portrait%20of%20a%20Kleptomaniac%20-%201908-F%20-%20Museum%20of%20Fine%20Arts%20Ghent%20%28MSK%29.jpg",
+    "y": "1820",
+    "mat": "油彩",
+    "loc": "根特美術館",
+    "links": 11
+   },
+   {
+    "qid": "Q3349704",
+    "t": "The Charging Chasseur",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20Officer%20of%20the%20Imperial%20Horse%20Guards%20Charging%20-%20G%C3%A9ricault%20%28Louvre%20INV%204885%29.jpg",
+    "y": "1812",
+    "mat": "油彩",
+    "loc": "Room 700",
+    "links": 8
+   },
+   {
+    "qid": "Q3006832",
+    "t": "The Wounded Cuirassier",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cuirassier%20bless%C3%A9%2C%20quittant%20le%20feu%20-%20Th%C3%A9odore%20G%C3%A9ricault%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%204886%20%3B%20MN%2051.jpg",
+    "y": "1814",
+    "mat": "油彩",
+    "loc": "Room 700",
+    "links": 7
+   },
+   {
+    "qid": "Q3611769",
+    "t": "The Woman with a Gambling Mania",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/GericaultMonomaniacOfGame.jpg",
+    "y": "1820",
+    "mat": "油彩",
+    "loc": "Room 941",
+    "links": 7
+   },
+   {
+    "qid": "Q3210764",
+    "t": "Insane Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Monomane%20de%20l%27envie.jpg",
+    "y": "1819",
+    "mat": "油彩",
+    "loc": "里昂美术馆",
+    "links": 6
+   },
+   {
+    "qid": "Q3222938",
+    "t": "The Plaster Kiln",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Four%20%C3%A0%20pl%C3%A2tre%20-%20Th%C3%A9odore%20G%C3%A9ricault%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%204888%20%3B%20MN%2028.jpg",
+    "y": "1821",
+    "mat": "油彩",
+    "loc": "Room 941",
+    "links": 5
+   },
+   {
+    "qid": "Q18599152",
+    "t": "The Severed Heads",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Severed%20Heads%2C%201810s%2C%20by%20Th%C3%A9odore%20G%C3%A9ricault.%20Nationalmuseum%2C%20Stockholm%2C%20Sweden.jpg",
+    "y": "1818",
+    "mat": "油彩",
+    "loc": "瑞典國立博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q15951392",
+    "t": "Gray Horse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Theodore-Gericault--cheval-arabe-gris-blanc-rouen.jpg",
+    "y": "1812",
+    "mat": "油彩",
+    "loc": "魯昂美術館",
+    "links": 3
+   },
+   {
+    "qid": "Q29349245",
+    "t": "Head of a white horse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gericault%20tete.jpg",
+    "y": "1811",
+    "mat": "油彩",
+    "loc": "Room 941",
+    "links": 3
+   },
+   {
+    "qid": "Q19911548",
+    "t": "黄昏：高架渠风景",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9odore%20G%C3%A9ricault%20-%20Evening%2C%20Landscape%20with%20an%20Aqueduct.jpg",
+    "y": "1818",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 2
+   }
+  ]
+ },
+ "柯罗": {
+  "qid": "Q148475",
+  "works": [
+   {
+    "qid": "Q24283",
+    "t": "The Bridge at Narni",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20pont%20de%20Narni%20-%20Jean-Baptiste%20Camille%20Corot%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201613%20-%20photo%202.jpg",
+    "y": "1826",
+    "mat": "纸",
+    "loc": "Room 949",
+    "links": 9
+   },
+   {
+    "qid": "Q18177816",
+    "t": "The road from Sèvres to Paris",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20051.jpg",
+    "y": "1855",
+    "mat": "油彩",
+    "loc": "Room 947",
+    "links": 8
+   },
+   {
+    "qid": "Q5442918",
+    "t": "Femme Lisant",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20031.jpg",
+    "y": "1869",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 8
+   },
+   {
+    "qid": "Q3221688",
+    "t": "Pastoral Concert",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20-%20Le%20Concert%20champ%C3%AAtre%20-%20Google%20Art%20Project.jpg",
+    "y": "1857",
+    "mat": "油彩",
+    "loc": "孔蒂博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q7571529",
+    "t": "Recollection of Mortefontaine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Souvenir%20de%20Mortefontaine%20-%20Jean-Baptiste%20Camille%20Corot%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%20692%20bis%20-%20photo%202.jpg",
+    "y": "1864",
+    "mat": "油彩",
+    "loc": "Room 952",
+    "links": 7
+   },
+   {
+    "qid": "Q18177483",
+    "t": "Hagar in the Wilderness",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1835%20Corot%20Hagar%20in%20der%20Wildnis%20anagoria.JPG",
+    "y": "1835",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q20184292",
+    "t": "Diana and Actaeon (Diana Surprised in Her Bath)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Corot%20-%20Diana%20and%20Actaeon%20-%201836.jpg",
+    "y": "1836",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q15709546",
+    "t": "Castel Sant'Angelo and Tiber",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Castel%20Sant%27Angelo%20by%20Corot%20Louvre%20RF1622%20n02.jpg",
+    "y": "1826",
+    "mat": "油彩",
+    "loc": "Room 949",
+    "links": 5
+   },
+   {
+    "qid": "Q83742676",
+    "t": "View of Volterra",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Diego%2C%202016%20-%20408%20%28cropped%29.jpg",
+    "y": "1838",
+    "mat": "油彩",
+    "loc": "Timken Museum of Art",
+    "links": 4
+   },
+   {
+    "qid": "Q19905179",
+    "t": "西比勒",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sibylle%20MET%20DT883.jpg",
+    "y": "1870",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q18177756",
+    "t": "Chartres Cathedral",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille%20Corot%20-%20The%20Cathedral%20of%20Chartres%20-%20WGA5282.jpg",
+    "y": "1830",
+    "mat": "油彩",
+    "loc": "Room 949",
+    "links": 4
+   },
+   {
+    "qid": "Q18178495",
+    "t": "The Harbor of La Rochelle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Harbor%20of%20La%20Rochelle%20by%20Jean-Baptiste-Camille%20Corot.jpeg",
+    "y": "1851",
+    "mat": "油彩",
+    "loc": "耶鲁大学美术馆",
+    "links": 4
+   }
+  ]
+ },
+ "米勒": {
+  "qid": "Q148458",
+  "works": [
+   {
+    "qid": "Q1368055",
+    "t": "拾穗",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20Gleaners%20-%20Google%20Art%20Project.jpg",
+    "y": "1857",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 26
+   },
+   {
+    "qid": "Q2571560",
+    "t": "晚禱",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/JEAN-FRAN%C3%87OIS%20MILLET%20-%20El%20%C3%81ngelus%20%28Museo%20de%20Orsay%2C%201857-1859.%20%C3%93leo%20sobre%20lienzo%2C%2055.5%20x%2066%20cm%29.jpg",
+    "y": "1858",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 21
+   },
+   {
+    "qid": "Q3823264",
+    "t": "Death and the Woodcutter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Death-and-the-woodcutter-jean-francois-millet3.jpg",
+    "y": "1859",
+    "mat": "油彩",
+    "loc": "新嘉士伯美術館",
+    "links": 10
+   },
+   {
+    "qid": "Q3212566",
+    "t": "The Potato Harvest",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20The%20Potato%20Harvest%20-%20Walters%2037115.jpg",
+    "y": "1855",
+    "mat": "油彩",
+    "loc": "沃爾特斯藝術博物館",
+    "links": 9
+   },
+   {
+    "qid": "Q18203240",
+    "t": "牧羊女與羊群",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20Pastora.jpg",
+    "y": "1863",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 8
+   },
+   {
+    "qid": "Q3228018",
+    "t": "The Winnower",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%2C%20The%20Winnower%20%28London%29.jpg",
+    "y": "1848",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 6
+   },
+   {
+    "qid": "Q20540661",
+    "t": "The Sower",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20The%20Sower%20-%20Google%20Art%20Project.jpg",
+    "y": "1850",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q21715858",
+    "t": "Peasant Women with Brushwood",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%28II%29%20-%20Peasant-Girls%20with%20Brushwood%20-%20WGA15690.jpg",
+    "y": "1852",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q3921662",
+    "t": "Le Printemps",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20%28II%29%20-%20Spring%20-%20WGA15693.jpg",
+    "y": "1870",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q7494497",
+    "t": "Shepherdess Seated on a Rock",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mille%20-%20Shepherdess%20Seated%20on%20a%20Rock%20-%20Metropolitan.jpg",
+    "y": "1856",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q19911604",
+    "t": "Haystacks: Autumn",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Haystacks%20Autumn%201873%20Jean-Francois%20Millet.jpg",
+    "y": "1874",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q20180844",
+    "t": "Man with a Hoe",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Fran%C3%A7ois%20Millet%20-%20L%27Homme%20%C3%A0%20la%20houe%20%281860-62%29.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "盖蒂中心",
+    "links": 4
+   }
+  ]
+ },
+ "库尔贝": {
+  "qid": "Q34618",
+  "works": [
+   {
+    "qid": "Q334138",
+    "t": "世界的起源",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Origin-of-the-World.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 51
+   },
+   {
+    "qid": "Q540488",
+    "t": "奥南的葬礼",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20A%20Burial%20at%20Ornans%20-%20Google%20Art%20Project.jpg",
+    "y": "1841",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 33
+   },
+   {
+    "qid": "Q326503",
+    "t": "睡眠者 (畫)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Le%20Sommeil%20%281866%29%2C%20Paris%2C%20Petit%20Palais.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "小皇宮",
+    "links": 31
+   },
+   {
+    "qid": "Q1167178",
+    "t": "畫家的工作室",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20LAtelier%20du%20peintre.jpg",
+    "y": "1850",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 30
+   },
+   {
+    "qid": "Q8030760",
+    "t": "女人与鹦鹉",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20with%20a%20Parrot%20MET%20DT43.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 23
+   },
+   {
+    "qid": "Q39013",
+    "t": "The Woman in the Waves",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Woman%20in%20the%20Waves%20MET%20DT887.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 22
+   },
+   {
+    "qid": "Q3642171",
+    "t": "The Meeting, or Bonjour, Monsieur Courbet!",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20-%20Bonjour%20Monsieur%20Courbet%20-%20Mus%C3%A9e%20Fabre.jpg",
+    "y": "1854",
+    "mat": "油彩",
+    "loc": "法布爾博物館",
+    "links": 21
+   },
+   {
+    "qid": "Q2914912",
+    "t": "採石工人",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20018.jpg",
+    "y": "1849",
+    "mat": "油彩",
+    "loc": "新大師畫廊",
+    "links": 20
+   },
+   {
+    "qid": "Q1293985",
+    "t": "Young Ladies Beside the Seine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20027.jpg",
+    "y": "1857",
+    "mat": "油彩",
+    "loc": "小皇宮",
+    "links": 19
+   },
+   {
+    "qid": "Q2561558",
+    "t": "The Wheat Sifters",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Courbet%20014.jpg",
+    "y": "1854",
+    "mat": "油彩",
+    "loc": "南特美術館",
+    "links": 18
+   },
+   {
+    "qid": "Q3751961",
+    "t": "The Wounded Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20Artist%20called%20The%20Wounded%20Man%20%28L%27homme%20bless%C3%A9%29%20by%20Gustave%20Courbet.jpg",
+    "y": "1844",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 16
+   },
+   {
+    "qid": "Q3203447",
+    "t": "Killing a Deer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Courbet%20-%20L%27Hallali%20du%20cerf.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "贝桑松美术建筑博物馆",
+    "links": 15
+   }
+  ]
+ },
+ "杜米埃": {
+  "qid": "Q187506",
+  "works": [
+   {
+    "qid": "Q3228340",
+    "t": "三等车厢",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20%28French%2C%20Marseilles%201808%E2%80%931879%20Valmondois%29%20-%20The%20Third-Class%20Carriage%20-%20Google%20Art%20Project.jpg",
+    "y": "1862",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 8
+   },
+   {
+    "qid": "Q5825709",
+    "t": "The Melodrama",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20026.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "新绘画陈列馆",
+    "links": 5
+   },
+   {
+    "qid": "Q25396225",
+    "t": "The Chess players",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20032.jpg",
+    "y": "1865",
+    "mat": "木材",
+    "loc": "小皇宮",
+    "links": 5
+   },
+   {
+    "qid": "Q3796150",
+    "t": "The Third-Class Carriage",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20034.jpg",
+    "y": "1863",
+    "mat": "油彩",
+    "loc": "加拿大國立美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q5220825",
+    "t": "The Laundress",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20016.jpg",
+    "y": "1863",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q8561671",
+    "t": "Don Quijote and Sancho Panza",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Quichotte%20Honor%C3%A9%20Daumier.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "新绘画陈列馆",
+    "links": 4
+   },
+   {
+    "qid": "Q61894068",
+    "t": "Ecce homo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20019.jpg",
+    "y": "1851",
+    "mat": "油彩",
+    "loc": "弗柯望博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q5980836",
+    "t": "The Emigrants",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20012.jpg",
+    "y": "1857",
+    "mat": "木材",
+    "loc": "小皇宮",
+    "links": 2
+   },
+   {
+    "qid": "Q9323894",
+    "t": "Rue Transnonain, le 15 avril 1834",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rue%20Transnonain%2C%20le%2015%20Avril%201834.tif",
+    "y": "1834",
+    "mat": "",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q104530565",
+    "t": "Don Quijote und Sancho Panza",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20-%20Don%20Quijote%20und%20Sancho%20Panza%20-%202981%20-%20Staatliche%20Kunsthalle%20Karlsruhe.jpg",
+    "y": "1865",
+    "mat": "",
+    "loc": "Staatliche Kunsthalle Karlsruhe",
+    "links": 1
+   },
+   {
+    "qid": "Q104930614",
+    "t": "Family on the Barricades",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20-%20On%20The%20Barricades%20%28Family%20On%20The%20Barricades%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1848",
+    "mat": "油彩",
+    "loc": "Trade Fair Palace",
+    "links": 1
+   },
+   {
+    "qid": "Q130858856",
+    "t": "The Third Class Carriage",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20-%20The%20Third%20Class%20Carriage%20-%20Walters%20371226.jpg",
+    "y": "1864",
+    "mat": "",
+    "loc": "沃爾特斯藝術博物館",
+    "links": 1
+   }
+  ]
+ },
+ "马奈": {
+  "qid": "Q40599",
+  "works": [
+   {
+    "qid": "Q152509",
+    "t": "草地上的午餐",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Luncheon%20on%20the%20Grass%20-%20Google%20Art%20Project.jpg",
+    "y": "1863",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 45
+   },
+   {
+    "qid": "Q737062",
+    "t": "奥林比亚",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Olympia%20-%20Google%20Art%20Project%203.jpg",
+    "y": "1863",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 42
+   },
+   {
+    "qid": "Q1245354",
+    "t": "女神游乐厅的吧台",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Un%20bar%20aux%20Folies-Berg%C3%A8re%20d%27E.%20Manet%20%28Fondation%20Vuitton%2C%20Paris%29%20%2833539037428%29.jpg",
+    "y": "1882",
+    "mat": "油彩",
+    "loc": "考陶爾德美術館",
+    "links": 39
+   },
+   {
+    "qid": "Q775407",
+    "t": "The Balcony",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20The%20Balcony%20-%20Google%20Art%20Project.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 27
+   },
+   {
+    "qid": "Q210277",
+    "t": "杜伊勒里花园音乐会",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MANET%20-%20M%C3%BAsica%20en%20las%20Tuller%C3%ADas%20%28National%20Gallery%2C%20Londres%2C%201862%29.jpg",
+    "y": "1862",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 25
+   },
+   {
+    "qid": "Q26250",
+    "t": "吹笛子的少年",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Manet%2C%20Edouard%20-%20Young%20Flautist%2C%20or%20The%20Fifer%2C%201866%20%282%29.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 21
+   },
+   {
+    "qid": "Q1212098",
+    "t": "The Railway",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Le%20Chemin%20de%20fer%20-%20Google%20Art%20Project.jpg",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 21
+   },
+   {
+    "qid": "Q536024",
+    "t": "Nana",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1877%20Manet%20Nana%20anagoria.jpg",
+    "y": "1877",
+    "mat": "油彩",
+    "loc": "漢堡美術館",
+    "links": 19
+   },
+   {
+    "qid": "Q59815",
+    "t": "The Old Musician",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Manet%20-%20Le%20Vieux%20Musicien.jpg",
+    "y": "1862",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 18
+   },
+   {
+    "qid": "Q2899286",
+    "t": "Berthe Morisot with a Bouquet of Violets",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Berthe%20Morisot%20With%20a%20Bouquet%20of%20Violets%20-%20Google%20Art%20Project.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 18
+   },
+   {
+    "qid": "Q731639",
+    "t": "李子白兰地",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20The%20Plum%20-%20National%20Gallery%20of%20Art.jpg",
+    "y": "1878",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 17
+   },
+   {
+    "qid": "Q2529703",
+    "t": "Portrait of Emile Zola",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20049.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 17
+   }
+  ]
+ },
+ "莫奈": {
+  "qid": "Q296",
+  "works": [
+   {
+    "qid": "Q328523",
+    "t": "印象·日出",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Impression%2C%20Sunrise.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "韦基奥港",
+    "links": 52
+   },
+   {
+    "qid": "Q432253",
+    "t": "圣阿德列斯的花园",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Jardin%20%C3%A0%20Sainte-Adresse.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 23
+   },
+   {
+    "qid": "Q2395218",
+    "t": "打阳伞的女人",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Woman%20with%20a%20Parasol%20-%20Madame%20Monet%20and%20Her%20Son%20-%20Google%20Art%20Project.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 23
+   },
+   {
+    "qid": "Q2734892",
+    "t": "花园中的女人",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20024.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 23
+   },
+   {
+    "qid": "Q4429116",
+    "t": "喜鹊 (油画)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20The%20Magpie%20-%20Google%20Art%20Project.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 19
+   },
+   {
+    "qid": "Q681876",
+    "t": "Woman in the Garden",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20022.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 18
+   },
+   {
+    "qid": "Q1167912",
+    "t": "Le Déjeuner sur l'herbe",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20dejeunersurlherbe.jpg",
+    "y": "1865",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 17
+   },
+   {
+    "qid": "Q941549",
+    "t": "La Grenouillère",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20La%20Grenouill%C3%A9re.jpg",
+    "y": "1869",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 16
+   },
+   {
+    "qid": "Q3794124",
+    "t": "The artist's garden at Giverny",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monet%20-%20Monets%20Garten%20in%20Giverny.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 14
+   },
+   {
+    "qid": "Q734082",
+    "t": "Regatta at Sainte-Adresse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%2C%201867%2C%20Regatta%20at%20Sainte-Adresse%2C%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 14
+   },
+   {
+    "qid": "Q3454959",
+    "t": "Régates à Argenteuil",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet%20-%20Regattas%20at%20Argenteuil%20-%20Google%20Art%20Project.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 14
+   },
+   {
+    "qid": "Q10322900",
+    "t": "日本女人 (绘画)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Monet-Madame%20Monet%20en%20costume%20japonais.jpg",
+    "y": "1876",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 14
+   }
+  ]
+ },
+ "雷诺阿": {
+  "qid": "Q39931",
+  "works": [
+   {
+    "qid": "Q683274",
+    "t": "煎餅磨坊的舞會",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Renoir%2C%20Pierre-Auguste%20-%20Dance%20at%20Le%20Moulin%20de%20la%20Galette%2C%201876.jpg",
+    "y": "1876",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 43
+   },
+   {
+    "qid": "Q1167907",
+    "t": "船上的午宴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Luncheon%20of%20the%20Boating%20Party%20-%20Google%20Art%20Project.jpg",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "菲利普美術館",
+    "links": 29
+   },
+   {
+    "qid": "Q1118456",
+    "t": "La Balançoire",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Swing-Renoir.jpeg",
+    "y": "1876",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 24
+   },
+   {
+    "qid": "Q2501284",
+    "t": "The Great Bathers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%2C%20French%20-%20The%20Large%20Bathers%20-%20Google%20Art%20Project.jpg",
+    "y": "1884",
+    "mat": "油彩",
+    "loc": "费城艺术博物馆",
+    "links": 23
+   },
+   {
+    "qid": "Q3808227",
+    "t": "彈鋼琴的少女",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Renoir%20-%20Young%20Girls%20at%20the%20Piano%20-%20Google%20Art%20Project.jpg",
+    "y": "1892",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 23
+   },
+   {
+    "qid": "Q74339",
+    "t": "La loge",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Loge%20de%20P.-A.%20Renoir%20%28Fondation%20Vuitton%2C%20Paris%29%20%2846499625955%29.jpg",
+    "y": "1874",
+    "mat": "油彩",
+    "loc": "考陶爾德美術館",
+    "links": 21
+   },
+   {
+    "qid": "Q630121",
+    "t": "露台上的兩姐妹",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20-%20Two%20Sisters%20%28On%20the%20Terrace%29%20-%201933.455%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "y": "1881",
+    "mat": "油彩",
+    "loc": "芝加哥艺术博物馆",
+    "links": 21
+   },
+   {
+    "qid": "Q1114571",
+    "t": "The Umbrellas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%2C%20The%20Umbrellas%2C%20ca.%201881-86.jpg",
+    "y": "1881",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 21
+   },
+   {
+    "qid": "Q3633456",
+    "t": "Dance in the City",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste%20Renoir%20019.jpg",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 18
+   },
+   {
+    "qid": "Q1114718",
+    "t": "Dance in the Country",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Auguste%20Renoir%20-%20Country%20Dance%20-%20Google%20Art%20Project.jpg",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 18
+   },
+   {
+    "qid": "Q1659469",
+    "t": "In the Summer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Auguste%20Renoir%20-%20En%20%C3%A9t%C3%A9%20-%20La%20boh%C3%A9mienne%20-%20Google%20Art%20Project.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "舊國家畫廊",
+    "links": 18
+   },
+   {
+    "qid": "Q2783729",
+    "t": "Lise with a Parasol",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lise%20with%20a%20Parasol.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "弗柯望博物館",
+    "links": 18
+   }
+  ]
+ },
+ "德加": {
+  "qid": "Q46373",
+  "works": [
+   {
+    "qid": "Q1239950",
+    "t": "咖啡館裡",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20In%20a%20Caf%C3%A9%20-%20Google%20Art%20Project%202.jpg",
+    "y": "1875",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 30
+   },
+   {
+    "qid": "Q2734209",
+    "t": "Little Dancer of Fourteen Years",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Danseuse2%20degas%20Musee%20Orsay.jpg",
+    "y": "1881",
+    "mat": "青铜",
+    "loc": "奥赛博物馆",
+    "links": 21
+   },
+   {
+    "qid": "Q2622172",
+    "t": "The Bellelli Family",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Bellelli%20Family%20-%20Google%20Art%20Project.jpg",
+    "y": "1858",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 21
+   },
+   {
+    "qid": "Q3633419",
+    "t": "Blue Dancers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Germain%20Hilaire%20Degas%20076.jpg",
+    "y": "1897",
+    "mat": "粉彩",
+    "loc": "普希金造型藝術博物館",
+    "links": 18
+   },
+   {
+    "qid": "Q3821820",
+    "t": "舞蹈课",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Ballet%20Class%20-%20Google%20Art%20Project.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 14
+   },
+   {
+    "qid": "Q6046671",
+    "t": "Interior",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Interior%20-%20Google%20Art%20Project.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "费城艺术博物馆",
+    "links": 14
+   },
+   {
+    "qid": "Q3842349",
+    "t": "費爾南德馬戲團的拉拉小姐",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%2C%20Miss%20La%20La%20at%20the%20Cirque%20Fernando%2C%201879.jpg",
+    "y": "1879",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 13
+   },
+   {
+    "qid": "Q3874376",
+    "t": "女帽店",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20The%20Millinery%20Shop%20-%20Google%20Art%20Project.jpg",
+    "y": "1879",
+    "mat": "油彩",
+    "loc": "芝加哥艺术博物馆",
+    "links": 11
+   },
+   {
+    "qid": "Q1016012",
+    "t": "卢多维克·勒皮克和他的女儿",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20-%20Ludovic%20Lepic%20et%20ses%20Filles%20-%2036%20-%20Foundation%20E.G.%20B%C3%BChrle%20Collection.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "比勒收藏展览馆",
+    "links": 10
+   }
+  ]
+ },
+ "毕沙罗": {
+  "qid": "Q134741",
+  "works": [
+   {
+    "qid": "Q278722",
+    "t": "Pont Boieldieu in Rouen, Rainy Weather",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro%20-%20Pont%20Boieldieu%20in%20Rouen%2C%20Rainy%20Weather.jpg",
+    "y": "1896",
+    "mat": "油彩",
+    "loc": "安大略美术馆",
+    "links": 11
+   },
+   {
+    "qid": "Q5407253",
+    "t": "Hay Harvest at Éragny",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hay%20Harvest%20at%20%C3%89ragny%2C%201901%2C%20Camille%20Pissarro.jpg",
+    "y": "1901",
+    "mat": "油彩",
+    "loc": "加拿大國立美術館",
+    "links": 11
+   },
+   {
+    "qid": "Q2843906",
+    "t": "The Red Roofs, Côte Saint-Denis at Pontoise, Winter Effect",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20011.jpg",
+    "y": "1877",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 8
+   },
+   {
+    "qid": "Q19905366",
+    "t": "Steamboats in the Port of Rouen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Steamboats%20in%20the%20Port%20of%20Rouen.jpg",
+    "y": "1896",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 8
+   },
+   {
+    "qid": "Q4949655",
+    "t": "Boulevard Montmartre, Mardi Gras",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Boulevard%20Montmartre%2C%20Mardi%20Gras%20%281897%29.jpg",
+    "y": "1897",
+    "mat": "油彩",
+    "loc": "漢默爾美術館",
+    "links": 7
+   },
+   {
+    "qid": "Q7715565",
+    "t": "The Banks of the Oise near Pontoise",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Bords%20de%20l%C2%B4Oise%2C%20Pontoise%20-%201873.jpg",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 7
+   },
+   {
+    "qid": "Q7728560",
+    "t": "The Côte des Bœufs, Pontoise",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20The%20C%C3%B4te%20des%20B%C5%93ufs%20at%20L%27Hermitage%20-%20National%20Gallery%20London.jpg",
+    "y": "1877",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 7
+   },
+   {
+    "qid": "Q7740671",
+    "t": "The House of the Deaf Woman and the Belfry at Eragny",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20House%20of%20the%20Deaf%20Woman%20and%20the%20Belfry%20at%20Eragny%2C%20Pissarro%20-%20Indianapolis%20Museum%20of%20Art%20-%20DSC00657.JPG",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 7
+   },
+   {
+    "qid": "Q21191272",
+    "t": "Rue Saint-Honoré in the Afternoon. Effect of Rain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Rue%20Saint-Honor%C3%A9%2C%20dans%20l%27apr%C3%A8s-midi.%20Effet%20de%20pluie.jpg",
+    "y": "1897",
+    "mat": "油彩",
+    "loc": "提森-博内米萨博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q22115548",
+    "t": "Shepherdess bringing sheep in",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Berg%C3%A8re%20rentrant%20des%20moutons.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "Fred Jones Jr. Museum of Art",
+    "links": 6
+   },
+   {
+    "qid": "Q20183472",
+    "t": "The Harvest, Pontoise (La Récolte, Pontoise)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Harvest%2C%20Pontoise.jpg",
+    "y": "1881",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q16984993",
+    "t": "Boulevard Montmartre, Spring",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Pissarro%20-%20Boulevard%20Montmartre%2C%20Spring%20-%20Google%20Art%20Project.jpg",
+    "y": "1897",
+    "mat": "油彩",
+    "loc": "",
+    "links": 6
+   }
+  ]
+ },
+ "塞尚": {
+  "qid": "Q35548",
+  "works": [
+   {
+    "qid": "Q2270938",
+    "t": "Les Grandes Baigneuses",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%2C%20French%20-%20The%20Large%20Bathers%20-%20Google%20Art%20Project.jpg",
+    "y": "1906",
+    "mat": "油彩",
+    "loc": "费城艺术博物馆",
+    "links": 24
+   },
+   {
+    "qid": "Q3138984",
+    "t": "Mardi Gras",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mardi%20gras%2C%20par%20Paul%20C%C3%A9zanne%2C%20Yorck.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "普希金造型藝術博物館",
+    "links": 15
+   },
+   {
+    "qid": "Q2270805",
+    "t": "穿紅夾克的男孩",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Le%20Gar%C3%A7on%20au%20gilet%20rouge%20-%20B%C3%BChrle.jpg",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "比勒收藏展览馆",
+    "links": 14
+   },
+   {
+    "qid": "Q3956440",
+    "t": "蘋果籃",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20The%20Basket%20of%20Apples%20-%201926.252%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "y": "1893",
+    "mat": "油彩",
+    "loc": "芝加哥艺术博物馆",
+    "links": 13
+   },
+   {
+    "qid": "Q3824214",
+    "t": "Lady in Blue",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20138.jpg",
+    "y": "1904",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 12
+   },
+   {
+    "qid": "Q3929306",
+    "t": "Jeune Fille au piano (Girl at the Piano - The Overture to Tannhauser)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeune%20Fille%20au%20piano%2C%20par%20Paul%20C%C3%A9zanne.jpg",
+    "y": "1869",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 12
+   },
+   {
+    "qid": "Q2349666",
+    "t": "簾幔、壺與水果靜物",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9zanne%20-%20Rideau%2C%20Cruchon%20et%20Compotier%20%28Curtain%2C%20Pitcher%2C%20and%20a%20Fruit%20Bowl%29%201893-94%20FWN%20854.jpg",
+    "y": "1893",
+    "mat": "油彩",
+    "loc": "芝加哥",
+    "links": 11
+   },
+   {
+    "qid": "Q3210778",
+    "t": "从贝勒维可见的圣维克多山",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Mont%20Sainte-Victoire%20%28La%20Montagne%20Sainte-Victoire%29%20-%20BF13%20-%20Barnes%20Foundation.jpg",
+    "y": "1892",
+    "mat": "油彩",
+    "loc": "巴恩斯基金會",
+    "links": 11
+   },
+   {
+    "qid": "Q3821663",
+    "t": "La Maison du pendu, Auvers-sur-Oise",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Maison%20du%20pendu%2C%20Auvers-sur-Oise%2C%20par%20Paul%20C%C3%A9zanne%2C%20FWN%2081.jpg",
+    "y": "1874",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 11
+   },
+   {
+    "qid": "Q5914606",
+    "t": "Maison devant la Sainte-Victoire près de Gardanne (House in Provence)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maison%20devant%20la%20Sainte-Victoire%20pr%C3%A8s%20de%20Gardanne%2C%20par%20Paul%20C%C3%A9zanne%2C%20Indianapolis%20Museum%20of%20Art.jpg",
+    "y": "1885",
+    "mat": "油彩",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 10
+   },
+   {
+    "qid": "Q3873324",
+    "t": "Still Life with Onions",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20C%C3%A9zanne%20-%20Still%20Life%20with%20Onions%20-%20Google%20Art%20Project.jpg",
+    "y": "1898",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 9
+   },
+   {
+    "qid": "Q6903108",
+    "t": "Mont Sainte-Victoire with Large Pine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mont%20Sainte-Victoire%20with%20Large%20Pine%2C%20by%20Paul%20C%C3%A9zanne.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "考陶爾德美術館",
+    "links": 9
+   }
+  ]
+ }
+}

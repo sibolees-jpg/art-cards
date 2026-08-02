@@ -1,0 +1,380 @@
+[
+ {
+  "id": 7793,
+  "zh": "Pietà",
+  "qid": "Q21121936",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Annibale%20Carracci%201560-1609%20Pieta.jpg",
+  "y": "1599",
+  "loc": "卡波迪蒙特美術館",
+  "a": "卡拉奇"
+ },
+ {
+  "id": 7794,
+  "zh": "Martyrdom of St Catherine",
+  "qid": "Q27968048",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20-%20Martyrdom%20of%20St%20Catherine%20-%20WGA10940.jpg",
+  "y": "1653",
+  "loc": "埃尔米塔日博物馆",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7795,
+  "zh": "Jacob Blessing the Sons of",
+  "qid": "Q52830974",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20Jacob%20Ephraim%20and%20Manasseh.jpg",
+  "y": "1638",
+  "loc": "愛爾蘭國立美術館",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7796,
+  "zh": "Music in a Landscape",
+  "qid": "Q4231874",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20Concerto%20campestre.jpg",
+  "y": "1617",
+  "loc": "烏菲茲美術館",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7797,
+  "zh": "Circumcision of Christ",
+  "qid": "Q23021861",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Circoncision%20-%20Le%20Guerchin%20%28A%2065%29.jpg",
+  "y": "1646",
+  "loc": "里昂美术馆",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7798,
+  "zh": "圣母蒙召升天",
+  "qid": "Q27971970",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guercino%20-%20Assumption%20of%20Mary%20-%20Hermitage.jpg",
+  "y": "1623",
+  "loc": "Hermitage hall 237",
+  "a": "圭尔奇诺"
+ },
+ {
+  "id": 7799,
+  "zh": "Detroit Trio",
+  "qid": "Q3998923",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20The%20Appeal%20-%2026.107%20-%20Detroit%20Institute%20of%20Arts.jpg",
+  "y": "1510",
+  "loc": "Augusteum",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7800,
+  "zh": "所罗门的审判 (塞巴斯蒂亚诺·德尔·皮翁博)",
+  "qid": "Q18397535",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20del%20Piombo%20-%20The%20Judgment%20of%20Solomon%20-%20WGA21124.jpg",
+  "y": "1505",
+  "loc": "Kingston Lacy",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7801,
+  "zh": "Portrait of a Young Woman ",
+  "qid": "Q18397538",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Young%20Woman%20as%20a%20Wise%20Virgin%20A29712.jpg",
+  "y": "1510",
+  "loc": "國家藝廊",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7802,
+  "zh": "克萊門特七世肖像畫",
+  "qid": "Q69658139",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20del%20Piombo%20%E2%80%93%20Portrait%20of%20Pope%20Clement%20VII%20%28ca.%201526%29.jpg",
+  "y": "1526",
+  "loc": "卡波迪蒙特美術館",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7803,
+  "zh": "莎乐美与洗者若翰的头颅 (塞巴斯蒂亚诺·德尔·皮翁博",
+  "qid": "Q18397539",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20del%20Piombo%20-%20The%20Daughter%20of%20Herodias%20-%20Google%20Art%20Project.jpg",
+  "y": "1510",
+  "loc": "国家美术馆",
+  "a": "塞巴斯蒂亚诺"
+ },
+ {
+  "id": 7804,
+  "zh": "Saint Margaret",
+  "qid": "Q2310025",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sainte%20Marguerite%2C%20by%20Raffaello%20Sanzio%2C%20from%20C2RMF%20retouched.jpg",
+  "y": "1518",
+  "loc": "Room 710",
+  "a": "朱利奥·罗马诺"
+ },
+ {
+  "id": 7805,
+  "zh": "Portrait of Margherita Pal",
+  "qid": "Q3937616",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giulio%20Romano%20%28Rome%20c.%201499-Mantua%201546%29%20-%20Portrait%20of%20Margherita%20Paleologo%20-%20RCIN%20405777%20-%20Hampton%20Court%20Palace.jpg",
+  "y": "1531",
+  "loc": "溫莎城堡",
+  "a": "朱利奥·罗马诺"
+ },
+ {
+  "id": 7806,
+  "zh": "在聖保羅及聖凱薩琳之間的德西斯",
+  "qid": "Q21121887",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giulio%20Romano%2C%20La%20Deesis%20tra%20i%20santi%20Paolo%20e%20Caterina.jpg",
+  "y": "1520",
+  "loc": "帕尔马国家美术馆",
+  "a": "朱利奥·罗马诺"
+ },
+ {
+  "id": 7807,
+  "zh": "Crucifixion",
+  "qid": "Q3698204",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Chiesa%20di%20San%20Giovanni%20a%20Carbonara.%20%283347%29.jpg",
+  "y": "1545",
+  "loc": "卡巴拉圣若望堂",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7808,
+  "zh": "The Coronation of the Virg",
+  "qid": "Q3797776",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20Vasari%2C%20Pala%2C%20Santa%20Caterina%2C%20Livorno.jpg",
+  "y": "1550",
+  "loc": "圣加大利纳堂",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7809,
+  "zh": "Apotheosis of Cosimo I de ",
+  "qid": "Q15874377",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Florence%20-%20Apoth%C3%A9ose%20de%20Cosme%20Ier%20de%20M%C3%A9dicis.jpg",
+  "y": "1564",
+  "loc": "旧宫",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7810,
+  "zh": "St Luke Painting the Virgi",
+  "qid": "Q17354909",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20Vasari%20-%20St%20Luke%20Painting%20the%20Virgin%20-%20WGA24311.jpg",
+  "y": "1565",
+  "loc": "Chapel of San Luca",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7811,
+  "zh": "Last Supper",
+  "qid": "Q28669642",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20vasari%2C%20ultima%20cena%2C%201546%2C%20dalle%20murate%2C%2001.jpg",
+  "y": "",
+  "loc": "圣十字圣殿",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7812,
+  "zh": "The Incredulity of Saint T",
+  "qid": "Q131674398",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20Vasari%20-%20Incredulity%20of%20St%20Thomas%20-%20WGA24293.jpg",
+  "y": "",
+  "loc": "圣十字圣殿",
+  "a": "瓦萨里"
+ },
+ {
+  "id": 7813,
+  "zh": "坐在地毯上的年輕男子肖像",
+  "qid": "Q3937727",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosso%20fiorentino%2C%20ritratto%20di%20giovane%20seduto%20con%20tappetoi.jpg",
+  "y": "1525",
+  "loc": "卡波迪蒙特美術館",
+  "a": "罗索"
+ },
+ {
+  "id": 7814,
+  "zh": "Portrait of a Young Man",
+  "qid": "Q3937728",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosso%20Fiorentino%20%28Giovanni%20Battista%20di%20Jacopo%29%20%281495%20-%201540%29%20-%20Portrait%20of%20a%20Young%20Man%20-%20245A%20-%20Gem%C3%A4ldegalerie.jpg",
+  "y": "1517",
+  "loc": "畫廊",
+  "a": "罗索"
+ },
+ {
+  "id": 7815,
+  "zh": "The Holy Family with the I",
+  "qid": "Q3944488",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosso%20Fiorentino%20-%20The%20Holy%20Family%20with%20the%20Infant%20Saint%20John%20the%20Baptist%20-%20Walters%20371072.jpg",
+  "y": "1521",
+  "loc": "沃爾特斯藝術博物館",
+  "a": "罗索"
+ },
+ {
+  "id": 7816,
+  "zh": "Deposition from the Cross",
+  "qid": "Q11798846",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosso%20Fiorentino%20-%20Deposition%20from%20the%20Cross%20-%20WGA20130.jpg",
+  "y": "1528",
+  "loc": "San Lorenzo, Sansepolcro",
+  "a": "罗索"
+ },
+ {
+  "id": 7817,
+  "zh": "Gabriel de la Cueva, duke ",
+  "qid": "Q5873664",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Moroni%20-%20Don%20Gabriel%20de%20la%20Cueva%2C%201560%20-Gem%C3%A4ldegalerie%20Berlin.jpg",
+  "y": "1560",
+  "loc": "畫廊",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7818,
+  "zh": "Portrait of an Old Man, pr",
+  "qid": "Q17343139",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20oude%20man%2C%20waarschijnlijk%20Vercellino%20Olivazzi.%20Senator%20van%20Bergamo%20Rijksmuseum%20SK-C-1365.jpeg",
+  "y": "1564",
+  "loc": "阿姆斯特丹",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7819,
+  "zh": "Canon Ludovico di Terzi",
+  "qid": "Q18685851",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20battista%20moroni%2C%20il%20canonico%20ludovico%20di%20terzi%2C%201559-60%20ca.jpg",
+  "y": "1559",
+  "loc": "国家美术馆",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7820,
+  "zh": "Bartolommeo Bonghi (died 1",
+  "qid": "Q20166980",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolommeo%20Bonghi%20%28died%201584%29%20MET%20DT382.jpg",
+  "y": "1560",
+  "loc": "大都會藝術博物館",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7821,
+  "zh": "Mystical Marriage of St. C",
+  "qid": "Q43540630",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MoroniM1.jpg",
+  "y": "1578",
+  "loc": "Q3669533",
+  "a": "莫罗尼"
+ },
+ {
+  "id": 7822,
+  "zh": "佩薩羅的聖多梅尼科教堂祭壇畫",
+  "qid": "Q3889251",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savoldo%2C%20pala%20di%20pesaro.jpg",
+  "y": "1524",
+  "loc": "布雷拉画廊",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7823,
+  "zh": "Torment of St. Anthony",
+  "qid": "Q3993853",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savoldo%2C%20tormento%20di%20sant%27antonio.jpg",
+  "y": "1521",
+  "loc": "Timken Museum of Art",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7824,
+  "zh": "Transfiguration",
+  "qid": "Q3997721",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savoldo%2C%20trasfigurazione%202.jpg",
+  "y": "1530",
+  "loc": "烏菲茲美術館",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7825,
+  "zh": "Portrait of a man playing ",
+  "qid": "Q3937724",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Gerolamo%20Savoldo%20009.jpg",
+  "y": "1540",
+  "loc": "Tosio Martinengo Gallery",
+  "a": "萨沃尔多"
+ },
+ {
+  "id": 7826,
+  "zh": "與孩子的聖母",
+  "qid": "Q3842437",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pontormo%20-%20Vierge%20%C3%A0%20l%27Enfant%20avec%20sainte%20Anne%20et%20quatre%20saints%2C%201527%20-%201529%2C%20INV%20232.jpg",
+  "y": "1528",
+  "loc": "Room 712",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7827,
+  "zh": "Madonna and Child with Sai",
+  "qid": "Q3842522",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pontormo%2C%20Madonna%20and%20Child%20with%20Young%20John%20the%20Baptist%2C%201534%2C%20Uffizi.jpg",
+  "y": "1529",
+  "loc": "烏菲茲美術館",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7828,
+  "zh": "Portrait of Cosimo the Eld",
+  "qid": "Q3937502",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pontormo%20-%20Ritratto%20di%20Cosimo%20il%20Vecchio%20-%20Google%20Art%20Project.jpg",
+  "y": "1510",
+  "loc": "Uffizi Gallery - Room 83, Pontormo",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7829,
+  "zh": "Venus and Cupid",
+  "qid": "Q4009576",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pontormo%2C%20venere%20e%20amore%20da%20michelangelo%2C%201533%20ca.%2001.jpg",
+  "y": "1533",
+  "loc": "學院美術館",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7830,
+  "zh": "Pucci Altarpiece",
+  "qid": "Q596677",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Pontormo%20066.jpg",
+  "y": "1518",
+  "loc": "San Michele Visdomini",
+  "a": "蓬托尔莫"
+ },
+ {
+  "id": 7831,
+  "zh": "Penitent Magdalene",
+  "qid": "Q138777826",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Reni%20-%20Maddalena%20penitente%2C%201631-1632%20ca.%2C%20Inv%201437.png",
+  "y": "1631",
+  "loc": "巴贝里尼宫",
+  "a": "雷尼"
+ },
+ {
+  "id": 7832,
+  "zh": "Flight to Egypt",
+  "qid": "Q110866542",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guido%20Reni%20-%20Fuga%20in%20Egitto%2C%20Pinacoteca%20dei%20Girolamini.jpg",
+  "y": "1622",
+  "loc": "Picture gallery of the Girolamini",
+  "a": "雷尼"
+ },
+ {
+  "id": 7833,
+  "zh": "Saint Francis",
+  "qid": "Q16599917",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/SacrestiaGirolamini4.jpg",
+  "y": "1622",
+  "loc": "Picture gallery of the Girolamini",
+  "a": "雷尼"
+ },
+ {
+  "id": 7834,
+  "zh": "Charity",
+  "qid": "Q19911778",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Metropoliten4.JPG",
+  "y": "1630",
+  "loc": "大都會藝術博物館",
+  "a": "雷尼"
+ }
+]
