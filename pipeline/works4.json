@@ -1,0 +1,2179 @@
+{
+ "康斯太勃尔": {
+  "qid": "Q159297",
+  "works": [
+   {
+    "qid": "Q2366825",
+    "t": "乾草車",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20The%20Hay%20Wain%20%281821%29.jpg",
+    "y": "1821",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 30
+   },
+   {
+    "qid": "Q398973",
+    "t": "Salisbury Cathedral from the Bishop's Grounds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Salisbury%20Cathedral%20from%20the%20Bishop%27s%20Grounds.jpg",
+    "y": "1823",
+    "mat": "油彩",
+    "loc": "Room 87",
+    "links": 17
+   },
+   {
+    "qid": "Q2272625",
+    "t": "The Cornfield",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Constable%20-%20The%20Cornfield.jpg",
+    "y": "1826",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 12
+   },
+   {
+    "qid": "Q398126",
+    "t": "Salisbury Cathedral from the Meadows",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Constable%20Salisbury%20meadows.jpg",
+    "y": "1831",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 11
+   },
+   {
+    "qid": "Q18589150",
+    "t": "Wivenhoe Park",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Wivenhoe%20Park%2C%20Essex%20-%20Google%20Art%20Project.jpg",
+    "y": "1816",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 8
+   },
+   {
+    "qid": "Q3794919",
+    "t": "Flatford Mill",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Flatford%20Mill%20%28Scene%20on%20a%20Navigable%20River%29%20by%20John%20Constable%2C%20Tate%20Britain.JPG",
+    "y": "1816",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 6
+   },
+   {
+    "qid": "Q18685512",
+    "t": "The Vale of Dedham",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20The%20Vale%20of%20Dedham%20-%20Google%20Art%20Project.jpg",
+    "y": "1828",
+    "mat": "油彩",
+    "loc": "蘇格蘭國立美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q960383",
+    "t": "Weymouth Bay: Bowleaze Cove and Jordon Hill",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Weymouth%20Bay%20%281816-17%29%20-%20National%20Gallery%2C%20London.jpg",
+    "y": "1816",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 5
+   },
+   {
+    "qid": "Q3634799",
+    "t": "Boat-building near Flatford Mill",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Boat-building%20near%20Flatford%20Mill%20%28Constable%29.jpg",
+    "y": "1815",
+    "mat": "油彩",
+    "loc": "Room 87",
+    "links": 5
+   },
+   {
+    "qid": "Q519759",
+    "t": "Dedham Lock and Mill",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Dedham%20Lock%20and%20Mill.jpg",
+    "y": "1820",
+    "mat": "油彩",
+    "loc": "Room 87",
+    "links": 4
+   },
+   {
+    "qid": "Q7747960",
+    "t": "水闸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20The%20Lock.jpg",
+    "y": "1824",
+    "mat": "油彩",
+    "loc": "",
+    "links": 4
+   }
+  ]
+ },
+ "透纳": {
+  "qid": "Q159758",
+  "works": [
+   {
+    "qid": "Q2339059",
+    "t": "雨、蒸氣與速度——大西部鐵路",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Rain%2C%20Steam%20and%20Speed%20-%20National%20Gallery%20file.jpg",
+    "y": "1843",
+    "mat": "油彩",
+    "loc": "英国",
+    "links": 26
+   },
+   {
+    "qid": "Q257580",
+    "t": "勇莽號戰艦",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%2C%20J.%20M.%20W.%20-%20The%20Fighting%20T%C3%A9m%C3%A9raire%20tugged%20to%20her%20last%20Berth%20to%20be%20broken.jpg",
+    "y": "1839",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 23
+   },
+   {
+    "qid": "Q219344",
+    "t": "奴隸船",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Slave-ship.jpg",
+    "y": "1840",
+    "mat": "油彩",
+    "loc": "英国",
+    "links": 15
+   },
+   {
+    "qid": "Q3027255",
+    "t": "Dido building Carthage",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Dido.jpg",
+    "y": "1815",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 15
+   },
+   {
+    "qid": "Q1772871",
+    "t": "特拉法加海戰",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%2C%20The%20Battle%20of%20Trafalgar%20%281822%29.jpg",
+    "y": "1823",
+    "mat": "油彩",
+    "loc": "國家航海博物館",
+    "links": 12
+   },
+   {
+    "qid": "Q3646554",
+    "t": "Snow Storm: Hannibal and his Army Crossing the Alps",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20081.jpg",
+    "y": "1812",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 9
+   },
+   {
+    "qid": "Q16038731",
+    "t": "暴风雪：汽船驶离港口",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Snow%20Storm%20-%20Steam-Boat%20off%20a%20Harbour%27s%20Mouth%20-%20WGA23178.jpg",
+    "y": "1842",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 9
+   },
+   {
+    "qid": "Q22977128",
+    "t": "Dolbadarn Castle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/J.M.W.%20Turner%20-%20Dolbadarn%20Castle%20-%20Study%20for%20Diploma%20Picture.jpg",
+    "y": "1800",
+    "mat": "油彩",
+    "loc": "National Library of Wales",
+    "links": 8
+   },
+   {
+    "qid": "Q1652056",
+    "t": "Sunrise with Sea Monsters",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/JMWTurner%20Sunrise%20with%20Sea%20Monsters.jpg",
+    "y": "1845",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 8
+   },
+   {
+    "qid": "Q3412132",
+    "t": "Fishermen at Sea",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20-%20Fishermen%20at%20Sea%20-%20Google%20Art%20Project.jpg",
+    "y": "1796",
+    "mat": "油彩",
+    "loc": "泰特美術館",
+    "links": 8
+   },
+   {
+    "qid": "Q4003071",
+    "t": "Ulysses deriding Polyphemus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Mallord%20William%20Turner%20064.jpg",
+    "y": "1829",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 8
+   },
+   {
+    "qid": "Q28537062",
+    "t": "金枝 (繪畫)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20The%20Golden%20Bough%20-%20Joseph%20Mallord%20William%20Turner%20-%20Tate%20Britain.jpg",
+    "y": "1834",
+    "mat": "油彩",
+    "loc": "泰特美術館",
+    "links": 7
+   }
+  ]
+ },
+ "布莱克": {
+  "qid": "Q41513",
+  "works": [
+   {
+    "qid": "Q2324840",
+    "t": "亙古常在者",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20a%20Prophecy%20copy%20K%20plate%2001.jpg",
+    "y": "1794",
+    "mat": "纸",
+    "loc": "英国",
+    "links": 19
+   },
+   {
+    "qid": "Q1996494",
+    "t": "《牛頓》",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Newton-WilliamBlake.jpg",
+    "y": "1795",
+    "mat": "",
+    "loc": "泰特美術館",
+    "links": 9
+   },
+   {
+    "qid": "Q7736333",
+    "t": "跳蚤的幽灵",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20The%20Ghost%20of%20a%20Flea%20-%20Google%20Art%20Project.jpg",
+    "y": "1819",
+    "mat": "金",
+    "loc": "泰特不列顛",
+    "links": 6
+   },
+   {
+    "qid": "Q7199551",
+    "t": "Pity",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pity%20by%20William%20Blake%201795.jpg",
+    "y": "1795",
+    "mat": "纸",
+    "loc": "泰特美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q16998596",
+    "t": "尼布甲尼撒",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20Nebuchadnezzar%20%28Minneapolis%29.jpg",
+    "y": "1795",
+    "mat": "",
+    "loc": "",
+    "links": 4
+   },
+   {
+    "qid": "Q3605056",
+    "t": "The Body of Abel Found by Adam and Eve",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Blake-Abel.jpg",
+    "y": "1826",
+    "mat": "金",
+    "loc": "泰特不列顛",
+    "links": 3
+   },
+   {
+    "qid": "Q3723614",
+    "t": "Elohim creating Adam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20008.jpg",
+    "y": "1795",
+    "mat": "纸",
+    "loc": "泰特不列顛",
+    "links": 3
+   },
+   {
+    "qid": "Q4660501",
+    "t": "A Vision of the Last Judgment",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20-%20The%20Day%20of%20Judgment.jpg",
+    "y": "1808",
+    "mat": "",
+    "loc": "http://www.wikidata.org/.well-known/genid/4e181370b0113a6a0502a0734c6b67db",
+    "links": 3
+   },
+   {
+    "qid": "Q7754133",
+    "t": "The Night of Enitharmon's Joy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20006.jpg",
+    "y": "1795",
+    "mat": "",
+    "loc": "泰特美術館",
+    "links": 3
+   },
+   {
+    "qid": "Q16152096",
+    "t": "Agony in the Garden",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Blake%20%281757-1827%29%20-%20The%20Agony%20in%20the%20Garden%20-%20N05894%20-%20National%20Gallery.jpg",
+    "y": "1799",
+    "mat": "鐵",
+    "loc": "泰特美術館",
+    "links": 3
+   },
+   {
+    "qid": "Q17630850",
+    "t": "Jacob's Ladder",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Blake%20jacobsladder.jpg",
+    "y": "1805",
+    "mat": "纸",
+    "loc": "大英博物馆",
+    "links": 2
+   }
+  ]
+ },
+ "雷伯恩": {
+  "qid": "Q561916",
+  "works": [
+   {
+    "qid": "Q2146810",
+    "t": "滑冰的牧師",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Henry%20Raeburn%20-%20Reverend%20Robert%20Walker%20%281755%20-%201808%29%20Skating%20on%20Duddingston%20Loch%20-%20NG%202112%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1795",
+    "mat": "油彩",
+    "loc": "英国",
+    "links": 16
+   },
+   {
+    "qid": "Q12900141",
+    "t": "Portrait of Sir Walter Scott",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Title-%20Sir%20Walter%20Scott%2C%201771%20-%201832.PNG",
+    "y": "1822",
+    "mat": "油彩",
+    "loc": "蘇格蘭國立肖像美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q67174410",
+    "t": "Boy and Rabbit",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Henry%20Raeburn%20-%20Boy%20and%20Rabbit.jpg",
+    "y": "1814",
+    "mat": "油彩",
+    "loc": "皇家艺术研究院",
+    "links": 4
+   },
+   {
+    "qid": "Q21731022",
+    "t": "Portrait of Mrs Eleanor Bethune (1766-1848)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Raeburn%20-%20Portrait%20of%20Mrs%20E.%20Bethune%20-%20WGA18596.jpg",
+    "y": "1790",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q18685147",
+    "t": "Colonel Alastair Ranaldson Macdonell of Glengarry",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Henry%20Raeburn%20-%20Colonel%20Alastair%20Ranaldson%20Macdonell%20of%20Glengarry%20%281771%20-%201828%29%20-%20NG%20420%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1812",
+    "mat": "油彩",
+    "loc": "蘇格蘭國立美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q19912630",
+    "t": "George Harley Drummond (1783–1855)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Harley%20Drummond%20%281783%E2%80%931855%29%20MET%20DP170904.jpg",
+    "y": "1808",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q20186569",
+    "t": "William Fraser of Reelig (1784–1835)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Fraser%20of%20Reelig.jpg",
+    "y": "1801",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q116897622",
+    "t": "Dr. Mackenzie of Edinburgh",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Mackenzie%20of%20Edinburgh%20-%20Henry%20Raeburn%20-%20Augustiner%20M%20Freiburg.png",
+    "y": "1790",
+    "mat": "油彩",
+    "loc": "奧古斯蒂娜博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q20890770",
+    "t": "Portrait of Mrs. George Bell",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Henry%20Raeburn%20-%20Portrait%20of%20Mrs.%20George%20Bell%20-%2045.7%20-%20Minneapolis%20Institute%20of%20Arts.jpg",
+    "y": "1801",
+    "mat": "油彩",
+    "loc": "明尼阿波利斯美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20891073",
+    "t": "Portrait of John Baillie (1772-1833)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Henry%20Raeburn%20-%20Portrait%20of%20John%20Baillie%20%281772-1833%29%20-%2068.41.12%20-%20Minneapolis%20Institute%20of%20Arts.jpg",
+    "y": "1817",
+    "mat": "油彩",
+    "loc": "明尼阿波利斯美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20891310",
+    "t": "Portrait of Sir Patrick Inglis, Baronet of Sunnyside",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Henry%20Raeburn%20-%20Portrait%20of%20Sir%20Patrick%20Inglis%2C%20Baronet%20of%20Sunnyside%20-%2087.12%20-%20Minneapolis%20Institute%20of%20Arts.jpg",
+    "y": "1790",
+    "mat": "油彩",
+    "loc": "明尼阿波利斯美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q21674448",
+    "t": "Portrait of Alexander Edgar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Alexander%20Edgar%2C%20Henry%20Raeburn%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Gent%2C%201902-K.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "根特美術館",
+    "links": 0
+   }
+  ]
+ },
+ "罗姆尼": {
+  "qid": "Q1207547",
+  "works": []
+ },
+ "丹比": {
+  "qid": "Q709816",
+  "works": [
+   {
+    "qid": "Q119036953",
+    "t": "Sunset at Sea after a Storm",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20Sunset%20at%20Sea%20after%20a%20Storm%20-%20K5008%20-%20Bristol%20City%20Museum%20%5E%20Art%20Gallery.jpg",
+    "y": "1824",
+    "mat": "油彩",
+    "loc": "布里斯托尔城市博物馆与美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q119052178",
+    "t": "The Enchanted Castle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20The%20Enchanted%20Castle%20-%20FA.66%28O%29%20-%20Victoria%20and%20Albert%20Museum.jpg",
+    "y": "1841",
+    "mat": "油彩",
+    "loc": "维多利亚和阿尔伯特博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q119034296",
+    "t": "Disappointed Love",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20Disappointed%20Love%20-%20FA.65%28O%29%20-%20Victoria%20and%20Albert%20Museum.jpg",
+    "y": "1821",
+    "mat": "油彩",
+    "loc": "维多利亚和阿尔伯特博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q119035006",
+    "t": "View of the Avon Gorge",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20View%20of%20the%20Avon%20Gorge%20-%20K2655%20-%20Bristol%20City%20Museum%20%5E%20Art%20Gallery.jpg",
+    "y": "1822",
+    "mat": "",
+    "loc": "布里斯托尔城市博物馆与美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q119035234",
+    "t": "A Scene in Leigh Woods",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20A%20Scene%20in%20Leigh%20Woods%20-%20K2654%20-%20Bristol%20City%20Museum%20%5E%20Art%20Gallery.jpg",
+    "y": "1822",
+    "mat": "画板",
+    "loc": "布里斯托尔城市博物馆与美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q119037249",
+    "t": "The Opening of the Sixth Seal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20The%20Opening%20of%20the%20Sixth%20Seal%20-%20BATVG%20%2C%20P%20%2C%201924.110%20-%20Victoria%20Art%20Gallery.jpg",
+    "y": "1825",
+    "mat": "油彩",
+    "loc": "维多利亚艺术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q119037935",
+    "t": "The Delivery of Israel out of Egypt",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20The%20Delivery%20of%20Israel%20out%20of%20Egypt%20-%20PRSMG%20%2C%20P116%20-%20Harris%20Museum.jpg",
+    "y": "1825",
+    "mat": "油彩",
+    "loc": "哈里斯博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q119039751",
+    "t": "Sunset",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20Sunset%20-%20YORAG%20%2C%20920%20-%20York%20Art%20Gallery.jpg",
+    "y": "1827",
+    "mat": "",
+    "loc": "約克市立美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q119040486",
+    "t": "Scene from Shakespeare's 'The Merchant of Venice': Belmont, in the Garden of Portia's House, Lorenzo and Jessica, Act V, Scene 1",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20Scene%20from%20Shakespeare%27s%20%27The%20Merchant%20of%20Venice%27%2C%20Belmont%2C%20in%20the%20Garden%20of%20Portia%27s%20House%2C%20Lorenzo%20and%20Jessica%2C%20Act%20V%2C%20Scene%201%20-%20SM%20P50%20-%20Sir%20John%20Soane%27s%20Museum.jpg",
+    "y": "1827",
+    "mat": "油彩",
+    "loc": "約翰·索恩爵士博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q119041356",
+    "t": "Liensfiord",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20Liensfiord%20-%20K6503%20-%20Bristol%20City%20Museum%20%5E%20Art%20Gallery.jpg",
+    "y": "1835",
+    "mat": "油彩",
+    "loc": "布里斯托尔城市博物馆与美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q119062300",
+    "t": "Liensfiord Lake, Norway",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20Liensfiord%20Lake%2C%20Norway%20-%20FA.67%28O%29%20-%20Victoria%20and%20Albert%20Museum.jpg",
+    "y": "1841",
+    "mat": "油彩",
+    "loc": "维多利亚和阿尔伯特博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q119079169",
+    "t": "Shore Scene with Breakwater and Hulk at Low Tide",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Danby%20%281793-1861%29%20-%20Shore%20Scene%20with%20Breakwater%20and%20Hulk%20at%20Low%20Tide%20-%20K5433%20-%20Bristol%20City%20Museum%20%5E%20Art%20Gallery.jpg",
+    "y": "1855",
+    "mat": "",
+    "loc": "布里斯托尔城市博物馆与美术馆",
+    "links": 0
+   }
+  ]
+ },
+ "约翰·马丁": {
+  "qid": "Q412138",
+  "works": []
+ },
+ "埃蒂": {
+  "qid": "Q766362",
+  "works": [
+   {
+    "qid": "Q18756478",
+    "t": "吕底亚的国王坎道列斯命令大臣巨吉斯偷窥他的妻子",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Candaules%2C%20King%20of%20Lydia%2C%20Shews%20his%20Wife%20by%20Stealth%20to%20Gyges%2C%20One%20of%20his%20Ministers%2C%20as%20She%20Goes%20to%20Bed-WUS07220%20%28cropped%29.jpg",
+    "y": "1830",
+    "mat": "油彩",
+    "loc": "泰特美術館",
+    "links": 15
+   },
+   {
+    "qid": "Q20087512",
+    "t": "海妖與尤利西斯",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sirens%20and%20Ulysses%20by%20William%20Etty%2C%201837.jpg",
+    "y": "1837",
+    "mat": "油彩",
+    "loc": "曼徹斯特美術館",
+    "links": 15
+   },
+   {
+    "qid": "Q20735396",
+    "t": "克莱奥帕特拉的凯旋",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Etty%20Cleopatra.jpg",
+    "y": "1821",
+    "mat": "油彩",
+    "loc": "利弗夫人美術館",
+    "links": 12
+   },
+   {
+    "qid": "Q20919545",
+    "t": "爱之黎明",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Etty%20%E2%80%93%20The%20Dawn%20of%20Love.jpg",
+    "y": "1828",
+    "mat": "油彩",
+    "loc": "Russell-Cotes Art Gallery & Museum",
+    "links": 12
+   },
+   {
+    "qid": "Q20056406",
+    "t": "摔跤手",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Wrestlers%20by%20William%20Etty%20YORAG%2089.JPG",
+    "y": "1840",
+    "mat": "油彩",
+    "loc": "約克市立美術館",
+    "links": 10
+   },
+   {
+    "qid": "Q20638977",
+    "t": "战斗：为战败者求情的女人",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Etty%20-%20The%20Combat%2C%20Woman%20Pleading%20for%20the%20Vanquished%20-%20NG%20189%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1825",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 9
+   },
+   {
+    "qid": "Q19872639",
+    "t": "毁灭天使和恶魔打断残暴者与纵欲者的狂欢",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Destroying%20Angel%20and%20Daemons%20of%20Evil%20Interrupting%20the%20Orgies%20of%20the%20Vicious%20and%20Intemperate%2C%20William%20Etty%2C%201832.jpg",
+    "y": "1832",
+    "mat": "油彩",
+    "loc": "曼徹斯特美術館",
+    "links": 8
+   },
+   {
+    "qid": "Q20087515",
+    "t": "青春在船头快乐在掌舵",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Etty%20Youth%201832.jpg",
+    "y": "1830",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 8
+   },
+   {
+    "qid": "Q20128133",
+    "t": "The World Before the Flood",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Etty%20-%20The%20World%20Before%20the%20Flood%20%28Southampton%29.jpg",
+    "y": "1828",
+    "mat": "油彩",
+    "loc": "Southampton City Art Gallery",
+    "links": 8
+   },
+   {
+    "qid": "Q20058540",
+    "t": "为化妆舞会做准备",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Preparing%20for%20a%20Fancy%20Dress%20Ball%20by%20William%20Etty%20YORAG%202009%206.jpg",
+    "y": "1833",
+    "mat": "油彩",
+    "loc": "約克市立美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q21061719",
+    "t": "布里托玛耳提挽救阿莫雷特",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Etty%20Britomart%201833.jpg",
+    "y": "1833",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 5
+   },
+   {
+    "qid": "Q28555682",
+    "t": "Hero, Having Thrown herself from the Tower at the Sight of Leander Drowned, Dies on his Body",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Etty%20%E2%80%93%20Hero%20ExpiringFXD.jpg",
+    "y": "1829",
+    "mat": "油彩",
+    "loc": "泰特美術館",
+    "links": 2
+   }
+  ]
+ },
+ "布雷特": {
+  "qid": "Q6223097",
+  "works": []
+ },
+ "休斯": {
+  "qid": "Q1293306",
+  "works": []
+ },
+ "布朗": {
+  "qid": "Q319843",
+  "works": [
+   {
+    "qid": "Q958245",
+    "t": "英格蘭的最後",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20Madox%20Brown%20-%20The%20Last%20of%20England%20-%20Google%20Art%20Project.jpg",
+    "y": "1853",
+    "mat": "油彩",
+    "loc": "伯明翰博物館和美術館",
+    "links": 18
+   },
+   {
+    "qid": "Q4464287",
+    "t": "Work",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20Madox%20Brown%20-%20Work%20-%20Google%20Art%20Project.jpg",
+    "y": "1852",
+    "mat": "油彩",
+    "loc": "曼徹斯特美術館",
+    "links": 9
+   },
+   {
+    "qid": "Q7677949",
+    "t": "Take your Son, Sir!",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20Madox%20Brown%20-%20%60Take%20your%20Son%2C%20Sir%27%20-%20Google%20Art%20Project.jpg",
+    "y": "1851",
+    "mat": "油彩",
+    "loc": "泰特美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q98150729",
+    "t": "Pretty Baa-Lambs",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20Madox%20Brown%20-%20Pretty%20Baa-Lambs%20-%20Google%20Art%20Project.jpg",
+    "y": "1851",
+    "mat": "油彩",
+    "loc": "伯明翰博物館和美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q5187657",
+    "t": "Cromwell, Protector of the Vaudois",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cromwell%2C%20Protector%20of%20the%20Vaudois.jpg",
+    "y": "1877",
+    "mat": "油彩",
+    "loc": "曼徹斯特美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q5187680",
+    "t": "Cromwell on his Farm",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cromwell%20on%20His%20Farm.jpg",
+    "y": "1874",
+    "mat": "油彩",
+    "loc": "利弗夫人美術館",
+    "links": 3
+   },
+   {
+    "qid": "Q6748554",
+    "t": "Manfred on the Jungfrau",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Manfred%20sur%20la%20Jungfrau.jpg",
+    "y": "1842",
+    "mat": "油彩",
+    "loc": "曼徹斯特美術館",
+    "links": 3
+   },
+   {
+    "qid": "Q18162503",
+    "t": "Stages of Cruelty",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stages%20of%20Cruelty%20by%20Ford%20Madox%20Brown.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "曼徹斯特美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q9196537",
+    "t": "Crabtree watching the Transit of Venus A.D. 1639",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/BrownManchesterMuralCrabtree.jpg",
+    "y": "1903",
+    "mat": "",
+    "loc": "剑桥",
+    "links": 1
+   },
+   {
+    "qid": "Q23758722",
+    "t": "The Irish Girl",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20Madox%20Brown%20-%20The%20Irish%20Girl%20-%20Google%20Art%20Project.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 1
+   },
+   {
+    "qid": "Q26355704",
+    "t": "Dante Gabriel Rossetti Memorial",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Drinking%20fountain%20commemorating%20Dante%20Gabriel%20Rossetti%20in%20Chelsea%20Embankment%20Gardens%20%28cropped%29.jpg",
+    "y": "1877",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q95682671",
+    "t": "Work",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ford%20Madox%20Brown%20-%20Work%20-%20Google%20Art%20Project.jpg",
+    "y": "1863",
+    "mat": "油彩",
+    "loc": "伯明翰博物館和美術館",
+    "links": 1
+   }
+  ]
+ },
+ "西登斯": {
+  "qid": "Q465000",
+  "works": [
+   {
+    "qid": "Q23047632",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Siddal-self-portrait.jpg",
+    "y": "1854",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q109970762",
+    "t": "Study of Two Figures",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Siddal%20-%20Study%20of%20Two%20Figures%20-%20B1993.26.4%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "",
+    "mat": "石墨",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q110764462",
+    "t": "Clerk Saunders",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Eleanor%20Rossetti%20-%20Clerk%20Saunders%20-%20NMH%2034-2011%20-%20Nationalmuseum.jpg",
+    "y": "1854",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q113650370",
+    "t": "The Quest of the Holy Grail",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Siddal%20quest%20grail.jpg",
+    "y": "1855",
+    "mat": "水彩",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "斯坦霍普": {
+  "qid": "Q1406200",
+  "works": [
+   {
+    "qid": "Q6691716",
+    "t": "Love and the Maiden",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Roddam%20Spencer%20Stanhope%20-%20Love%20and%20the%20Maiden.jpg",
+    "y": "1877",
+    "mat": "油彩",
+    "loc": "荣勋宫（旧金山）",
+    "links": 4
+   },
+   {
+    "qid": "Q7797015",
+    "t": "Thoughts of the Past",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Roddam%20Spencer%20Stanhope%20-%20Thoughts%20of%20the%20Past%20-%20Google%20Art%20Project.jpg",
+    "y": "1859",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 2
+   },
+   {
+    "qid": "Q18686887",
+    "t": "The Wine Press",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Roddam%20Spencer%20Stanhope%20-%20The%20Wine%20Press%20-%20Google%20Art%20Project.jpg",
+    "y": "1864",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 0
+   },
+   {
+    "qid": "Q20487601",
+    "t": "\"Why seek ye the living among the dead?\" ...",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stanhope%20-%20Why%20seek%20ye%20the%20living%20among%20the%20dead%3F%20St%20Luke%2024%20v5%20-%20Google%20Art%20Project.jpg",
+    "y": "1880",
+    "mat": "",
+    "loc": "新南威爾士美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q52305152",
+    "t": "The Rescue",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Roddam%20Spencer%20Stanhope%20%281829-1908%29%20-%20The%20Rescue%20-%201288977%20-%20National%20Trust.jpg",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "Wightwick Manor",
+    "links": 0
+   },
+   {
+    "qid": "Q52305173",
+    "t": "The Gentle Music of a Bygone Day",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Roddam%20Spencer%20Stanhope%20%281829-1908%29%20-%20%27The%20gentle%20music%20of%20a%20bygone%20day%27%20%28from%20the%20poem%20%27The%20Earthly%20Paradise%27%20by%20William%20Morris%29%20-%201288981%20-%20National%20Trust.jpg",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "Wightwick Manor",
+    "links": 0
+   },
+   {
+    "qid": "Q97014869",
+    "t": "Morgan Le Fay",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Morgan%20Le%20Fay%20by%20Spencer%20Stanhope.jpg",
+    "y": "1880",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q107265958",
+    "t": "Charon and Psyche",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charon%20and%20Psyche.jpg",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q116694683",
+    "t": "Nymph",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nymph-John%20Roddam%20Spencer%20Stanhope.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q119084763",
+    "t": "John Montagu Spencer Stanhope",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Roddam%20Spencer%20Stanhope%20%281829-1908%29%20-%20John%20Montagu%20Spencer%20Stanhope%20-%20O.2009.5%20-%20Whitworth%20Art%20Gallery.jpg",
+    "y": "1862",
+    "mat": "",
+    "loc": "韋和夫藝術館",
+    "links": 0
+   },
+   {
+    "qid": "Q119122658",
+    "t": "The Waters of Lethe by the Plains of Elysium",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Roddam%20Spencer%20Stanhope%20%281829-1908%29%20-%20The%20Waters%20of%20Lethe%20by%20the%20Plains%20of%20Elysium%20-%201889.4%20-%20Manchester%20Art%20Gallery.jpg",
+    "y": "1880",
+    "mat": "tempera",
+    "loc": "曼徹斯特美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q119806922",
+    "t": "Mary Gertrude Spencer Stanhope",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Roddam%20Spencer%20Stanhope%20%281829-1908%29%20-%20Mary%20Gertrude%20Spencer%20Stanhope%20-%20O.2009.6%20-%20Whitworth%20Art%20Gallery.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "韋和夫藝術館",
+    "links": 0
+   }
+  ]
+ },
+ "奥查森": {
+  "qid": "Q8017160",
+  "works": [
+   {
+    "qid": "Q28533764",
+    "t": "Napoleon on Board the Bellerophon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Napoleon%20on%20Board%20the%20Bellerophon%20-%20Sir%20William%20Quiller%20Orchardson.jpg",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "泰特美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q18686864",
+    "t": "Master Baby",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20William%20Quiller%20Orchardson%20-%20Master%20Baby%20-%20NG%201138%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "蘇格蘭國立美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20392210",
+    "t": "The first cloud",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Quiller%20Orchardson%20-%20The%20first%20cloud%20-%20Google%20Art%20Project.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "維多利亞國立美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q23701115",
+    "t": "The Story of a Life",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Quiller%20Orchardson%20-%20The%20Story%20of%20a%20Life%20-%20Google%20Art%20Project.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q27956536",
+    "t": "Thomas Alexander Graham, 1840 - 1906. Artist",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Quiller%20Orchardson%20%281832-1910%29%20-%20Thomas%20Alexander%20Graham%20%281840%E2%80%931906%29%2C%20Artist%20-%20PG%20827%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "蘇格蘭國立肖像美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q27957416",
+    "t": "Study of the Artist's daughter Hilda Orchardson (born 1875) and one of her younger brothers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Quiller%20Orchardson%20%281832-1910%29%20-%20Study%20of%20the%20Artist%27s%20Daughter%20Hilda%20Orchardson%20%28b.1875%29%20and%20One%20of%20her%20Younger%20Brothers%20-%20NG%202841%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q27959902",
+    "t": "The Queen of the Swords",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Quiller%20Orchardson%20%281832-1910%29%20-%20The%20Queen%20of%20the%20Swords%20-%20NG%201018%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1877",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q27959914",
+    "t": "The Artist's Wife (Ellen Moxon, Lady Orchardson, 1853 - 1917)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Quiller%20Orchardson%20%281832-1910%29%20-%20The%20Artist%27s%20Wife%2C%20Ellen%20Moxon%20%28c.1854%E2%80%931917%29%2C%20Lady%20Orchardson%20-%20NG%201207%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q27959920",
+    "t": "Miss Joanna Isabella Dick",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Quiller%20Orchardson%20%281832-1910%29%20-%20Miss%20Joanna%20Isabella%20Dick%20-%20NG%201229%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q27959938",
+    "t": "Voltaire (1694 - 1778)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Quiller%20Orchardson%20-%20Voltaire%20%281883%29.jpg",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q27960043",
+    "t": "The Rivals",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Quiller%20Orchardson%20%281832-1910%29%20-%20The%20Rivals%20-%20NG%202184%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 0
+   }
+  ]
+ },
+ "赫科默": {
+  "qid": "Q644595",
+  "works": [
+   {
+    "qid": "Q113660210",
+    "t": "On Strike",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20von%20Herkomer%20%281849-1914%29%20-%20On%20Strike%20-%2003-1294%20-%20Royal%20Academy%20of%20Arts.jpg",
+    "y": "1891",
+    "mat": "油彩",
+    "loc": "皇家艺术研究院",
+    "links": 1
+   },
+   {
+    "qid": "Q28797199",
+    "t": "Eventide- A Scene at the Westminster Union",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Hubert%20von%20Herkomer%20-%20Eventide-%20A%20Scene%20at%20the%20Westminster%20Union%20-%20Google%20Art%20Project.jpg",
+    "y": "1878",
+    "mat": "油彩",
+    "loc": "沃克美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q57691158",
+    "t": "The Last Muster",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20von%20Herkomer%201875%20-%20The%20last%20Muster.jpg",
+    "y": "1875",
+    "mat": "油彩",
+    "loc": "利弗夫人美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q55020676",
+    "t": "Hubert Herkomer A.R.A. and his children",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Hubert%20von%20Herkomer%20A.R.A.%20and%20his%20children%20%284674466%29.jpg",
+    "y": "1879",
+    "mat": "",
+    "loc": "National Library of Wales",
+    "links": 0
+   },
+   {
+    "qid": "Q76342424",
+    "t": "Study of an Arab Head",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20von%20Herkomer%2C%20Study%20of%20an%20Arab%20Head%2C%201895%2C%20NGA%20119921.jpg",
+    "y": "1895",
+    "mat": "",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q76342442",
+    "t": "Max Klinger",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20von%20Herkomer%2C%20Max%20Klinger%2C%201890s%2C%20NGA%20126852.jpg",
+    "y": "1890",
+    "mat": "",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q110044753",
+    "t": "On Strike",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20von%20Herkomer%20-%20On%20Strike%20-%20B2015.18.12%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "1897",
+    "mat": "水粉画",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q110044757",
+    "t": "Rest: Aldenham Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20von%20Herkomer%20-%20Rest%2C%20Aldenham%20Church%20-%20B2015.18.16%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "1876",
+    "mat": "水粉画",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q110146971",
+    "t": "Alfred, Lord Tennyson",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20von%20Herkomer%20-%20Alfred%2C%20Lord%20Tennyson%20-%20B1994.4.513%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "1879",
+    "mat": "蚀刻技法",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q113660123",
+    "t": "A Rabbi at prayer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Herkomer%20-%20Herkomer-97896new%20-%20A%20Rabbi%20at%20prayer.jpg",
+    "y": "1891",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q113660181",
+    "t": "The distant church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Hubert%20von%20Herkomer%20-%20The%20distant%20church.jpg",
+    "y": "1912",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q113660198",
+    "t": "Porträt des Archibald Forbes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20von%20Herkomer%201881%20-%20Archibald%20Forbes.jpg",
+    "y": "1881",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "科普利": {
+  "qid": "Q316016",
+  "works": [
+   {
+    "qid": "Q1787460",
+    "t": "Watson and the Shark",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Watsonandtheshark-original.jpg",
+    "y": "1778",
+    "mat": "油彩",
+    "loc": "美國",
+    "links": 16
+   },
+   {
+    "qid": "Q20772027",
+    "t": "A Boy with a Flying Squirrel (Henry Pelham)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singleton%20Copley%20-%20A%20Boy%20with%20a%20Flying%20Squirrel%20%28Henry%20Pelham%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1765",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q5984957",
+    "t": "The Death of Major Peirson, 6 January 1781",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singleton%20Copley%20001.jpg",
+    "y": "1783",
+    "mat": "油彩",
+    "loc": "圣赫利尔",
+    "links": 5
+   },
+   {
+    "qid": "Q99541009",
+    "t": "Portrait of Mrs. Thomas Gage",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Kemble%20Gage.jpg",
+    "y": "1771",
+    "mat": "油彩",
+    "loc": "Timken Museum of Art",
+    "links": 3
+   },
+   {
+    "qid": "Q7729474",
+    "t": "The Death of the Earl of Chatham",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20the%20Earl%20of%20Chatham%20by%20John%20Singleton%20Copley.jpg",
+    "y": "1781",
+    "mat": "油彩",
+    "loc": "國家肖像館",
+    "links": 3
+   },
+   {
+    "qid": "Q20178802",
+    "t": "The Copley Family",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singleton%20Copley%20-%20The%20Copley%20Family%20-%20Google%20Art%20Project.jpg",
+    "y": "1776",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 2
+   },
+   {
+    "qid": "Q28476581",
+    "t": "Mrs Humphrey Devereux",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singleton%20Copley%20-%20Mrs%20Humphrey%20Devereux%20-%20Google%20Art%20Project.jpg",
+    "y": "1771",
+    "mat": "油彩",
+    "loc": "紐西蘭國立博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q106850711",
+    "t": "John Adams (1735-1826)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singleton%20Copley%20-%20John%20Adams%20%281735-1826%29%20-%20H74%20-%20Harvard%20Art%20Museums.jpg",
+    "y": "1783",
+    "mat": "油彩",
+    "loc": "哈佛藝術博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q38689773",
+    "t": "Portrait of Mrs. Theodore Atkinson Jr.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Mrs.%20Theodore%20Atkinson%20Jr.%20%28Frances%20Deering%20Wentworth%29.jpg",
+    "y": "1765",
+    "mat": "油彩",
+    "loc": "水晶桥美国艺术博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q69495918",
+    "t": "Portrait of Henry Addington, 1st Viscount Sidmouth",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singleton%20Copley%20-%20Henry%20Addington%2C%20First%20Viscount%20Sidmouth%20-%2026-1929%20-%20Saint%20Louis%20Art%20Museum.jpg",
+    "y": "1797",
+    "mat": "油彩",
+    "loc": "圣路易斯艺术博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q77479026",
+    "t": "Dr. Silvester Gardiner",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Silvester%20Gardiner.jpg",
+    "y": "1772",
+    "mat": "油彩",
+    "loc": "西雅圖藝術博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q20772166",
+    "t": "Paul Revere",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/J%20S%20Copley%20-%20Paul%20Revere.jpg",
+    "y": "1768",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 2
+   }
+  ]
+ },
+ "韦斯特": {
+  "qid": "Q313498",
+  "works": [
+   {
+    "qid": "Q956541",
+    "t": "沃夫將軍之死",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20005.jpg",
+    "y": "1770",
+    "mat": "油彩",
+    "loc": "加拿大國立美術館",
+    "links": 13
+   },
+   {
+    "qid": "Q2285602",
+    "t": "General Johnson Saving a Wounded French Officer from the Tomahawk of a North American Indian",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Johnson%20saving%20Dieskau.jpg",
+    "y": "1764",
+    "mat": "油彩",
+    "loc": "德比博物馆与艺术画廊",
+    "links": 12
+   },
+   {
+    "qid": "Q20655979",
+    "t": "American Commissioners of the Preliminary Peace Negotiations with Great Britain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Treaty%20of%20Paris%20by%20Benjamin%20West%201783.jpg",
+    "y": "1783",
+    "mat": "油彩",
+    "loc": "溫特瑟花園博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q7729444",
+    "t": "The Death of Nelson",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20-%20The%20Death%20of%20Nelson%20-%20Google%20Art%20Project.jpg",
+    "y": "1806",
+    "mat": "油彩",
+    "loc": "沃克美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q18683402",
+    "t": "Benjamin Franklin Drawing Electricity from the Sky",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%2C%20English%20%28born%20America%29%20-%20Benjamin%20Franklin%20Drawing%20Electricity%20from%20the%20Sky%20-%20Google%20Art%20Project.jpg",
+    "y": "1816",
+    "mat": "油彩",
+    "loc": "费城艺术博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q22977105",
+    "t": "Portrait of Dr Richard Price",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Richard%20Price%2C%20DD%2C%20FRS%20-%20Benjamin%20West%20contrasted.jpg",
+    "y": "1784",
+    "mat": "油彩",
+    "loc": "National Library of Wales",
+    "links": 4
+   },
+   {
+    "qid": "Q28028368",
+    "t": "Queen Charlotte (1744-1818)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20%281738-1820%29%20-%20Queen%20Charlotte%20%281744-1818%29%20-%20RCIN%20405405%20-%20Royal%20Collection.jpg",
+    "y": "1779",
+    "mat": "油彩",
+    "loc": "白金汉宫",
+    "links": 4
+   },
+   {
+    "qid": "Q3135552",
+    "t": "Colonel Guy Johnson and Karonghyontye",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guy%20Johnson%20by%20Benjamin%20West.jpg",
+    "y": "1776",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 3
+   },
+   {
+    "qid": "Q28024451",
+    "t": "The Oath of Hannibal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20%281738-1820%29%20-%20The%20Oath%20of%20Hannibal%20-%20RCIN%20405417%20-%20Royal%20Collection.jpg",
+    "y": "1770",
+    "mat": "油彩",
+    "loc": "",
+    "links": 3
+   },
+   {
+    "qid": "Q18683346",
+    "t": "Alexander III of Scotland Rescued from the Fury of a Stag by the Intrepidity of Colin Fitzgerald",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20-%20Alexander%20III%20of%20Scotland%20Rescued%20from%20the%20Fury%20of%20a%20Stag%20by%20the%20Intrepidity%20of%20Colin%20Fitzgerald%20%28%27The%20Death%20of%20the%20Stag%27%29%20-%20NG%202448%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1786",
+    "mat": "油彩",
+    "loc": "蘇格蘭國立美術館",
+    "links": 3
+   },
+   {
+    "qid": "Q23758891",
+    "t": "The Battle of La Hogue",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20-%20The%20Battle%20of%20La%20Hogue%20-%20Google%20Art%20Project.jpg",
+    "y": "1778",
+    "mat": "油彩",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 3
+   },
+   {
+    "qid": "Q28028376",
+    "t": "George III (1738-1820)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20%281738-1820%29%20-%20George%20III%20%281738-1820%29%20-%20RCIN%20405407%20-%20Royal%20Collection.jpg",
+    "y": "1779",
+    "mat": "油彩",
+    "loc": "白金汉宫",
+    "links": 3
+   }
+  ]
+ },
+ "斯图尔特": {
+  "qid": "Q41402",
+  "works": [
+   {
+    "qid": "Q28796116",
+    "t": "雅典娜肖像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20Stuart%20-%20George%20Washington%20%28The%20Athenaeum%20Portrait%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1796",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 11
+   },
+   {
+    "qid": "Q1760522",
+    "t": "Lansdowne Portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20Stuart%20-%20George%20Washington%20%28Lansdowne%20Portrait%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1796",
+    "mat": "油彩",
+    "loc": "美國國家肖像畫廊",
+    "links": 8
+   },
+   {
+    "qid": "Q4131769",
+    "t": "The Skater",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/GSskater.jpg",
+    "y": "1782",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 6
+   },
+   {
+    "qid": "Q75803972",
+    "t": "喬治·華盛頓 (康斯特布-漢彌爾頓肖像)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20Stuart%20-%20George%20Washington%20%28The%20Constable-Hamilton%20Portrait%29%20-%202005.27%20-%20Crystal%20Bridges%20Museum%20of%20American%20Art.jpg",
+    "y": "1797",
+    "mat": "油彩",
+    "loc": "水晶桥美国艺术博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q20179297",
+    "t": "Sir Joshua Reynolds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20Stuart%20Sir%20Joshua%20Reynolds.jpg",
+    "y": "1784",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 2
+   },
+   {
+    "qid": "Q19925349",
+    "t": "乔治·华盛顿",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Washington%201795.jpg",
+    "y": "1795",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q20180085",
+    "t": "John Jay",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Jay%20%28Gilbert%20Stuart%20portrait%29.jpg",
+    "y": "1794",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 2
+   },
+   {
+    "qid": "Q20180145",
+    "t": "George Washington (Vaughan portrait)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Washington%20%28Vaughan%20portrait%29%20A33850.jpg",
+    "y": "1795",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 2
+   },
+   {
+    "qid": "Q28048289",
+    "t": "Portrait of Benjamin West",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20by%20Gilbert%20Stuart%201783-84.jpg",
+    "y": "1785",
+    "mat": "油彩",
+    "loc": "國家肖像館",
+    "links": 2
+   },
+   {
+    "qid": "Q28796114",
+    "t": "Dolley Payne Madison",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20Stuart%20-%20Dolley%20Payne%20Madison%20%28Mrs.%20James%20Madison%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1804",
+    "mat": "油彩",
+    "loc": "白宮",
+    "links": 2
+   },
+   {
+    "qid": "Q20862998",
+    "t": "James Greenleaf",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Greenleaf%20by%20Gilbert%20Stuart%2C%20c.%201792-1828%2C%20oil%20on%20canvas%20-%20Portland%20Art%20Museum%20-%20Portland%2C%20Oregon%20-%20DSC08904.jpg",
+    "y": "1795",
+    "mat": "油彩",
+    "loc": "賓夕法尼亞美術學院",
+    "links": 1
+   },
+   {
+    "qid": "Q20184613",
+    "t": "James Madison",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/JamesMadison.jpg",
+    "y": "1821",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 1
+   }
+  ]
+ },
+ "科尔": {
+  "qid": "Q334001",
+  "works": [
+   {
+    "qid": "Q17512050",
+    "t": "The Architect's Dream",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20Architect%E2%80%99s%20Dream%20-%20Google%20Art%20Project.jpg",
+    "y": "1840",
+    "mat": "油彩",
+    "loc": "托莱多艺术博物馆",
+    "links": 16
+   },
+   {
+    "qid": "Q3172259",
+    "t": "暴雨后马萨诸塞州北安普敦圣轭山风景——牛轭湾处",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20The%20Oxbow%20%28The%20Connecticut%20River%20near%20Northampton%201836%29.jpg",
+    "y": "1836",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 12
+   },
+   {
+    "qid": "Q7769468",
+    "t": "泰坦的高腳杯",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%2C%20Thomas%20-%20Der%20Pokal%20des%20Riesen%20-%20hi%20res%20-%201833.JPG",
+    "y": "1833",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 10
+   },
+   {
+    "qid": "Q7767151",
+    "t": "The Subsiding of the Waters of the Deluge",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20Subsiding%20of%20the%20Waters%20of%20the%20Deluge%20-%20Smithsonian.jpg",
+    "y": "1829",
+    "mat": "油彩",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 9
+   },
+   {
+    "qid": "Q19900516",
+    "t": "枯樹湖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Lake%20with%20Dead%20Trees%20%28Catskill%29%201825.jpg",
+    "y": "1825",
+    "mat": "油彩",
+    "loc": "艾伦纪念艺术博物馆",
+    "links": 9
+   },
+   {
+    "qid": "Q19900658",
+    "t": "Expulsion from the Garden of Eden",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Expulsion%20from%20the%20Garden%20of%20Eden%201828.jpg",
+    "y": "1828",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 8
+   },
+   {
+    "qid": "Q19899993",
+    "t": "被縛的普羅米修斯 (油畫)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20Prometheus%20Bound%20-%20Google%20Art%20Project.jpg",
+    "y": "1847",
+    "mat": "油彩",
+    "loc": "笛洋美术馆",
+    "links": 8
+   },
+   {
+    "qid": "Q19900707",
+    "t": "日落時的十字架",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20Cross%20at%20Sunset%20%28c.%201848%29.jpg",
+    "y": "1848",
+    "mat": "油彩",
+    "loc": "提森-博内米萨博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q16934583",
+    "t": "View of Florence",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20View%20of%20Florence%20-%201961.39%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1837",
+    "mat": "油彩",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q18674639",
+    "t": "The Fountain of Vaucluse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Cole%20-%20The%20Fountain%20of%20Vaucluse%20-%201992.14%20-%20Dallas%20Museum%20of%20Art.jpg",
+    "y": "1841",
+    "mat": "油彩",
+    "loc": "达拉斯艺术博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q19900509",
+    "t": "Kaaterskill Falls",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Kaaterskill%20Falls%201826.jpg",
+    "y": "1826",
+    "mat": "油彩",
+    "loc": "沃兹沃思学会",
+    "links": 6
+   },
+   {
+    "qid": "Q19900660",
+    "t": "傑納西風景",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cole%20Thomas%20Genesee%20Scenery%201847.jpg",
+    "y": "1847",
+    "mat": "油彩",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 5
+   }
+  ]
+ },
+ "比尔施塔特": {
+  "qid": "Q77132",
+  "works": [
+   {
+    "qid": "Q6675297",
+    "t": "Looking Down Yosemite Valley, California",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Looking%20Down%20Yosemite-Valley.jpg",
+    "y": "1865",
+    "mat": "油彩",
+    "loc": "伯明翰藝術博物館",
+    "links": 9
+   },
+   {
+    "qid": "Q7761325",
+    "t": "落基山脉，兰德峰",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1863%20-%20bierstadt%20landers%20peak.jpg",
+    "y": "1863",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 9
+   },
+   {
+    "qid": "Q20189937",
+    "t": "The Last of the Buffalo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Last%20of%20the%20Buffalo%20by%20Albert%20Bierstadt%2C%201888%20-%20Corcoran%20Gallery%20of%20Art%20-%20DSC01114.JPG",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 8
+   },
+   {
+    "qid": "Q17026086",
+    "t": "A Storm in the Rocky Mountains, Mt. Rosalie",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20A%20Storm%20in%20the%20Rocky%20Mountains%2C%20Mt.%20Rosalie%20-%20Google%20Art%20Project.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "布鲁克林博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q20537247",
+    "t": "Indians in Council, California",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Indians%20in%20Council%2C%20California.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q20588033",
+    "t": "Puget Sound on the Pacific Coast",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Puget%20Sound%20on%20the%20Pacific%20Coast%20%281870%29.jpg",
+    "y": "1870",
+    "mat": "油彩",
+    "loc": "西雅圖藝術博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q20475372",
+    "t": "加利福尼亞州，內華達山脈之中",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20-%20Among%20the%20Sierra%20Nevada%20Mountains%20-%201868.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q20585638",
+    "t": "Mount Hood",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20Mount%20Hood.jpg",
+    "y": "1869",
+    "mat": "油彩",
+    "loc": "波特蘭美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q20585004",
+    "t": "Moat Mountain, Intervale, New Hampshire",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Moat%20Mountain%20Intervale%20New%20Hampshire.jpg",
+    "y": "1862",
+    "mat": "油彩",
+    "loc": "Currier Museum of Art",
+    "links": 4
+   },
+   {
+    "qid": "Q19900788",
+    "t": "Cho-looke, the Yosemite Fall",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Diego%2C%202016%20-%20410%20%28cropped%29.jpg",
+    "y": "1864",
+    "mat": "油彩",
+    "loc": "Timken Museum of Art",
+    "links": 4
+   },
+   {
+    "qid": "Q20170866",
+    "t": "Sunrise on the Matterhorn",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bierstadt%20Albert%20Sunrise%20on%20the%20Matterhorn.jpg",
+    "y": "1850",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q20199477",
+    "t": "California Spring",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bierstadt%20-%20California%20Spring%20-%20Google%20Art%20Project.jpg",
+    "y": "1875",
+    "mat": "油彩",
+    "loc": "笛洋美术馆",
+    "links": 4
+   }
+  ]
+ },
+ "因尼斯": {
+  "qid": "Q704868",
+  "works": [
+   {
+    "qid": "Q7745074",
+    "t": "The Lackawanna Valley",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Inness%20-%20The%20Lackawanna%20Valley%20-%20Google%20Art%20Project.jpg",
+    "y": "1856",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 3
+   },
+   {
+    "qid": "Q7759322",
+    "t": "The Rainbow",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Inness%2C%20George%20-%20The%20Rainbow%20-%20Google%20Art%20Project.jpg",
+    "y": "1878",
+    "mat": "油彩",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q20054586",
+    "t": "A Bit of the Roman Aqueduct",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Bit%20of%20the%20Roman%20Aqueduct%20by%20George%20Inness%2C%201852%2C%20High%20Museum%20of%20Art.jpg",
+    "y": "1852",
+    "mat": "油彩",
+    "loc": "高等藝術博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q20174865",
+    "t": "Evening at Medfield, Massachusetts",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Evening%20at%20Medfield%2C%20Massachusetts%20MET%20DT11918.jpg",
+    "y": "1875",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q19924773",
+    "t": "Spring Blossoms, Montclair, New Jersey",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Spring%20Blossoms%2C%20Montclair%2C%20New%20Jersey%20MET%20DT98.jpg",
+    "y": "1889",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q19930575",
+    "t": "Autumn Oaks",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Autumn%20Oaks%20MET%20DT264804.jpg",
+    "y": "1876",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q20054656",
+    "t": "Ariccia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariccia%20by%20George%20Inness%2C%201874%2C%20Timken%20Museum%20of%20Art.JPG",
+    "y": "1874",
+    "mat": "油彩",
+    "loc": "Timken Museum of Art",
+    "links": 1
+   },
+   {
+    "qid": "Q20054720",
+    "t": "Roman Campagna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Campagna%20by%20George%20Inness%2C%201858%2C%20oil%20on%20canvas%20-%20New%20Britain%20Museum%20of%20American%20Art%20-%20DSC09185.JPG",
+    "y": "1858",
+    "mat": "油彩",
+    "loc": "新不列顛美國藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q20054722",
+    "t": "Saint Peter's, Rome",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Peter%27s%2C%20Rome%2C%20by%20George%20Inness%2C%201857%2C%20oil%20on%20canvas%20-%20New%20Britain%20Museum%20of%20American%20Art%20-%20DSC09178.JPG",
+    "y": "1857",
+    "mat": "油彩",
+    "loc": "新不列顛美國藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q27897272",
+    "t": "In the Meadow",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Inness%20-%20In%20the%20Meadow%20-%2046.46%20-%20Indianapolis%20Museum%20of%20Art.jpg",
+    "y": "",
+    "mat": "画布",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q27898487",
+    "t": "Landscape with Farmhouse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Inness%20-%20Landscape%20with%20Farmhouse%20-%2071.208.1%20-%20Indianapolis%20Museum%20of%20Art.jpg",
+    "y": "1876",
+    "mat": "油彩",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q28039536",
+    "t": "Cattle in Pool (A Summer Landscape)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Inness%20-%20Cattle%20in%20Pool%20%28A%20Summer%20Landscape%29%20-%2099.180%20-%20Museum%20of%20Fine%20Arts.jpg",
+    "y": "1880",
+    "mat": "",
+    "loc": "休士頓美術館",
+    "links": 0
+   }
+  ]
+ },
+ "惠特勒": {
+  "qid": "Q203643",
+  "works": [
+   {
+    "qid": "Q687182",
+    "t": "惠斯勒的母亲",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Whistlers%20Mother%20high%20res.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 31
+   },
+   {
+    "qid": "Q970968",
+    "t": "白色交響曲1號：白色女孩",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Whistler%20James%20Symphony%20in%20White%20no%201%20%28The%20White%20Girl%29%201862.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 18
+   },
+   {
+    "qid": "Q646337",
+    "t": "Nocturne in Black and Gold – The Falling Rocket",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Whistler-Nocturne%20in%20black%20and%20gold.jpg",
+    "y": "1875",
+    "mat": "油彩",
+    "loc": "底特律藝術學院",
+    "links": 17
+   },
+   {
+    "qid": "Q7661687",
+    "t": "Symphony in White, No. 2: The Little White Girl",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Whistler%20James%20Symphony%20in%20White%20no%202%20%28The%20Little%20White%20Girl%29%201864.jpg",
+    "y": "1864",
+    "mat": "油彩",
+    "loc": "泰特美術館",
+    "links": 11
+   },
+   {
+    "qid": "Q720602",
+    "t": "Nocturne: Blue and Silver – Chelsea",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Abbott%20McNeill%20Whistler%20-%20Nocturne-%20Blue%20and%20Silver%20-%20Chelsea%20-%20Google%20Art%20Project.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 10
+   },
+   {
+    "qid": "Q589002",
+    "t": "Nocturne: Blue and Gold – Old Battersea Bridge",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Abbot%20McNeill%20Whistler%20006.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 9
+   },
+   {
+    "qid": "Q4290303",
+    "t": "The Princess from the Land of Porcelain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20McNeill%20Whistler%20-%20La%20Princesse%20du%20pays%20de%20la%20porcelaine%20-%20brighter.jpg",
+    "y": "1864",
+    "mat": "油彩",
+    "loc": "佛利尔美术馆",
+    "links": 8
+   },
+   {
+    "qid": "Q16738523",
+    "t": "孔雀厅",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Peacock%20Room.jpg",
+    "y": "1870",
+    "mat": "",
+    "loc": "佛利尔美术馆",
+    "links": 8
+   },
+   {
+    "qid": "Q4795850",
+    "t": "Arrangement in Grey and Black, No. 2: Portrait of Thomas Carlyle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Abbot%20McNeill%20Whistler%20003.jpg",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "开尔文格罗夫美术馆和博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q7661692",
+    "t": "Symphony in White, No. 3",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Whistler%20Symphony%20in%20white%203.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "Barber Institute of Fine Arts",
+    "links": 7
+   },
+   {
+    "qid": "Q18154688",
+    "t": "Mother of Pearl and Silver: The Andalusian",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mother%20of%20Pearl%20and%20Silver%20The%20Andalusian.jpg",
+    "y": "1800",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 3
+   },
+   {
+    "qid": "Q11829863",
+    "t": "At the Piano",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Whistler%2C%20James%20McNeill%20-%20At%20the%20Piano%20-%20Taft%20Museum%20of%20Art%20-%201962.7.jpg",
+    "y": "1858",
+    "mat": "油彩",
+    "loc": "Taft Museum of Art",
+    "links": 2
+   }
+  ]
+ },
+ "切斯": {
+  "qid": "Q265820",
+  "works": [
+   {
+    "qid": "Q20190485",
+    "t": "A Friendly Call",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Friendly%20Call.JPG",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 4
+   },
+   {
+    "qid": "Q5298283",
+    "t": "Dorothy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Chase%20William%20Merritt%20Dorothy%2C%201902.jpg",
+    "y": "1902",
+    "mat": "油彩",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q17000146",
+    "t": "Terrace at the Mall",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Chase%20William%20Merritt%20Terrace%20at%20the%20Mall%201890.jpg",
+    "y": "1890",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q17038842",
+    "t": "Idle Hours",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Chase%20William%20Merritt%20Idle%20Hours%201894.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "Amon Carter Museum of American Art",
+    "links": 1
+   },
+   {
+    "qid": "Q19924646",
+    "t": "海边",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/At%20the%20Seaside%20MET%20DT95.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q19963628",
+    "t": "Studio Interior",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Chase%20William%20Merritt%20In%20the%20Studio%201882.jpg",
+    "y": "1882",
+    "mat": "油彩",
+    "loc": "布鲁克林博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q31441958",
+    "t": "The Coast of Holland",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Chase%20coast%20holland.jpg",
+    "y": "1884",
+    "mat": "",
+    "loc": "Frye Art Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q46938295",
+    "t": "The Turkish Page (Unexpected Intrusion)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Turkish%20Page%20%28Unexpected%20Intrusion%29%20by%20William%20Merritt%20Chase%2C%201876%2C%20oil%20on%20canvas%20-%20Cincinnati%20Art%20Museum%20-%20DSC04369.JPG",
+    "y": "1876",
+    "mat": "油彩",
+    "loc": "辛辛那提艺术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q60503334",
+    "t": "Portrait of Dora Wheeler",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Merritt%20Chase%20-%20Portrait%20of%20Dora%20Wheeler%20-%201921.1239%20-%20Cleveland%20Museum%20of%20Art.tiff",
+    "y": "1882",
+    "mat": "油彩",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q30089312",
+    "t": "I Think I'm Ready Now",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Chase%2C%20I%20think%20I%27m%20ready%20now.jpg",
+    "y": "1883",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q97959451",
+    "t": "The Young Orphan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Merritt%20Chase%20-%20The%20Young%20Orphan%20%281884%29.jpg",
+    "y": "1884",
+    "mat": "油彩",
+    "loc": "國家設計學院",
+    "links": 1
+   },
+   {
+    "qid": "Q18577825",
+    "t": "Still Life with Watermelon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20Watercolor%20-%20William%20Merritt%20Chase.jpg",
+    "y": "1869",
+    "mat": "油彩",
+    "loc": "伯明翰藝術博物館",
+    "links": 0
+   }
+  ]
+ },
+ "坦纳": {
+  "qid": "Q1374436",
+  "works": [
+   {
+    "qid": "Q104836934",
+    "t": "The Thankful Poor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Thankful%20Poor%2C%201894.%20Henry%20Ossawa%20Tanner.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "",
+    "links": 5
+   },
+   {
+    "qid": "Q20180562",
+    "t": "The Annunciation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Annunciation%2C%20Philadelphia%20Museum%20of%20Art%2C%20W1899-1-1-pma%2C%20by%20Henry%20Ossawa%20Tanner.jpg",
+    "y": "1898",
+    "mat": "油彩",
+    "loc": "费城艺术博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q20054386",
+    "t": "Salome",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Ossawa%20Tanner%20-%20Salome%201900.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q20180595",
+    "t": "The Banjo Lesson",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Ossawa%20Tanner%2C%20The%20Banjo%20Lesson%20%28darker%29.jpg",
+    "y": "1893",
+    "mat": "油彩",
+    "loc": "Hampton University Museum",
+    "links": 3
+   },
+   {
+    "qid": "Q20182708",
+    "t": "The Young Sabot Maker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Ossawa%20Tanner%20-%20The%20Young%20Sabot%20Maker%20-%20Google%20Art%20Project.jpg",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "纳尔逊艺术博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q20179189",
+    "t": "Abraham's Oak",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Ossawa%20Tanner%20-%20Abraham%27s%20Oak%20-%20Google%20Art%20Project.jpg",
+    "y": "1905",
+    "mat": "油彩",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q6555920",
+    "t": "Lions in the Desert",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lions%20in%20the%20Desert%20by%20Henry%20Ossawa%20Tanner%20-%20Renwick%20Gallery%20-%20DSC08398.JPG",
+    "y": "1897",
+    "mat": "胶合板",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q17492223",
+    "t": "The Raising of Lazarus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Resurrection%20of%20Lazarus%20by%20Henry%20Ossawa%20Tanner.jpg",
+    "y": "1896",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q20182017",
+    "t": "逃往埃及",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Ossawa%20Tanner%20-%20Flight%20into%20Egypt%20-%2069.452%20-%20Detroit%20Institute%20of%20Arts.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "底特律藝術學院",
+    "links": 1
+   },
+   {
+    "qid": "Q119080529",
+    "t": "The Bagpipe Lesson",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Ossawa%20Tanner%20-%20The%20Bagpipe%20Lesson.jpg",
+    "y": "1892",
+    "mat": "油彩",
+    "loc": "Hampton University Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q119999571",
+    "t": "Woman from the West Indies",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20from%20the%20West%20Indies%2C%20by%20Henry%20Ossawa%20Tanner.webp",
+    "y": "1891",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q20180001",
+    "t": "Nicodemus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Ossawa%20Tanner%20-%20Jesus%20and%20nicodemus.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "賓夕法尼亞美術學院",
+    "links": 1
+   }
+  ]
+ }
+}
