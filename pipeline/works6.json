@@ -1,0 +1,2746 @@
+{
+ "雅各布·凡·雷斯达尔": {
+  "qid": "Q213612",
+  "works": [
+   {
+    "qid": "Q2881603",
+    "t": "The Windmill at Wijk bij Duurstede",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20molen%20bij%20Wijk%20bij%20Duurstede%20Rijksmuseum%20SK-C-211.jpeg",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "Gallery of Honour",
+    "links": 14
+   },
+   {
+    "qid": "Q5824293",
+    "t": "The Jewish Cemetery",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaackszoon%20van%20Ruisdael%20-%20The%20Jewish%20Cemetery%20%281654%20or%201655%29.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "底特律藝術學院",
+    "links": 9
+   },
+   {
+    "qid": "Q3892842",
+    "t": "A Wooded Marsh",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaaksz.%20van%20Ruisdael%20015.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 8
+   },
+   {
+    "qid": "Q3793357",
+    "t": "Castle Bentheim",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Il%20castello%20di%20Bentheim%20%28Jacob%20Van%20Ruisdael%29.jpg",
+    "y": "1653",
+    "mat": "油彩",
+    "loc": "愛爾蘭國立美術館",
+    "links": 7
+   },
+   {
+    "qid": "Q20683330",
+    "t": "The Ray of Light",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaaksz.%20van%20Ruisdael%20003.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "Room 837",
+    "links": 6
+   },
+   {
+    "qid": "Q11747757",
+    "t": "Landscape with Waterfall",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaacksz.%20van%20Ruisdael%20-%20Landschap%20met%20waterval%20-%20Google%20Art%20Project.jpg",
+    "y": "1668",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q15805700",
+    "t": "View of Haarlem with Bleaching Fields",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Haarlem%20with%20Bleaching%20Grounds%20c1665%20Ruisdael.jpg",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "蘇黎世美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q3661546",
+    "t": "A Waterfall in a Rocky Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaaksz.%20van%20Ruisdael%20006.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 6
+   },
+   {
+    "qid": "Q3888847",
+    "t": "A Landscape with a Ruined Castle and a Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaacksz.%20van%20Ruisdael%20-%20An%20Extensive%20Landscape%20with%20a%20Ruined%20Castle%20and%20a%20Village%20Church%20-%20WGA20493.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 5
+   },
+   {
+    "qid": "Q20423793",
+    "t": "The watermill",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20van%20Ruisdael%20-%20Watermill%20-%20NGV.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "維多利亞國立美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q20760413",
+    "t": "The Thicket near Haarlem",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaacksz.%20van%20Ruisdael%20-%20The%20Thicket%20%28Path%20in%20the%20Haarlem%20Dunes%29%20-%20WGA20475.jpg",
+    "y": "1649",
+    "mat": "油彩",
+    "loc": "卢浮宫博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q20789584",
+    "t": "Peasant Cottage in a Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaacksz.%20van%20Ruisdael%20-%20Landscape%20with%20a%20House%20in%20the%20Grove%20-%20WGA20472.jpg",
+    "y": "1646",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 4
+   }
+  ]
+ },
+ "扬·凡·霍延": {
+  "qid": "Q315996",
+  "works": [
+   {
+    "qid": "Q19928837",
+    "t": "River Landscape with Windmill and Ruined Castle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Goyen%20012.jpg",
+    "y": "1644",
+    "mat": "油彩",
+    "loc": "Room 836",
+    "links": 2
+   },
+   {
+    "qid": "Q70233389",
+    "t": "View of Nijmegen with a Ferry",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bemberg%20Fondation%20Toulouse%20-%20Vue%20du%20port%20de%20Nim%C3%A8gue%20-%20Jan%20Van%20Goyen%20-%20%281638-1653%29%20Inv.1088.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "本贝格基金会",
+    "links": 1
+   },
+   {
+    "qid": "Q56754802",
+    "t": "Farm on a River",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beaux-Arts%20de%20Carcassonne%20-%20Ferme%20au%20bord%20de%20la%20mer%201631%20-%20Jan%20van%20Goyen%20-%20Joconde04400000305.jpg",
+    "y": "1631",
+    "mat": "油彩",
+    "loc": "卡尔卡松美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q68697473",
+    "t": "An Evening River Landscape with a Ferry",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Goyen%2C%20Paysage%20fluvial.jpg",
+    "y": "1643",
+    "mat": "油彩",
+    "loc": "斯特拉斯堡美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q29647956",
+    "t": "Traffic on the Ice in front of a Fortified Town wall",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Goyen%20014.jpg",
+    "y": "1637",
+    "mat": "油彩",
+    "loc": "Room 903",
+    "links": 1
+   },
+   {
+    "qid": "Q29656323",
+    "t": "View of Dordrecht downstream from the Grote Kerk",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Goyen%20013.jpg",
+    "y": "1647",
+    "mat": "油彩",
+    "loc": "Room 849",
+    "links": 1
+   },
+   {
+    "qid": "Q63953308",
+    "t": "Landscape with Half-leaved Weathered Oak",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Goyen%20-%20Weathered%20Oak%20001-032-2937.jpg",
+    "y": "1638",
+    "mat": "油彩",
+    "loc": "波爾多美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q56790910",
+    "t": "River Scene",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Goyen%20-%20River%20Scene%20-%20WGA10197.jpg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "瓦爾拉夫-里夏茨博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q62566453",
+    "t": "Beach Scene",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bemberg%20Fondation%20Toulouse%20-%20Vue%20d%27une%20plage%2C%20probablement%20Egmond-Aan-Zee%20%28vers%201652%29%20-%20Jan%20van%20Goyen%20Inv.1151.jpg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "本贝格基金会",
+    "links": 1
+   },
+   {
+    "qid": "Q26521388",
+    "t": "A Cottage on a Heath",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Goyen%20%281596-1656%29%20%28attributed%20to%29%20-%20A%20Cottage%20on%20a%20Heath%20-%20NG137%20-%20National%20Gallery.jpg",
+    "y": "1629",
+    "mat": "",
+    "loc": "国家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q2604623",
+    "t": "Seascape with Duiventil and Hooiberg",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Watergezicht%20met%20Duiventil%20en%20Hooiberg%20-%20Jan%20van%20Goyen.jpg",
+    "y": "1640",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q17276108",
+    "t": "View of the Rhine near Hoog-Elten",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20the%20Rhine%20near%20Hoog-Elten%20by%20Jan%20van%20Goyen%20Mauritshuis%20838.jpg",
+    "y": "1653",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 1
+   }
+  ]
+ },
+ "萨洛蒙·凡·雷斯达尔": {
+  "qid": "Q247005",
+  "works": [
+   {
+    "qid": "Q20177276",
+    "t": "River Landscape with Ferry",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Salomon%20van%20Ruysdael%20-%20Rivierlandschap%20met%20veerpont%20%281649%29.jpg",
+    "y": "1649",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 4
+   },
+   {
+    "qid": "Q19905279",
+    "t": "Drawing the Eel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Drawing%20the%20Eel%20MET%20DP147902.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q23669197",
+    "t": "A View of Deventer seen from the North-West",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Salomon%20van%20Ruisdael%20Deventer.jpg",
+    "y": "1657",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q50892945",
+    "t": "Travellers before an Inn with the View of Beverwijck",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruysdael%20white%20swan.jpg",
+    "y": "1649",
+    "mat": "油彩",
+    "loc": "布达佩斯美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q99193131",
+    "t": "River Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruysdael%2C%20Paysage%20fluvial.jpg",
+    "y": "1642",
+    "mat": "油彩",
+    "loc": "斯特拉斯堡美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q107439316",
+    "t": "Inland Waters with a Sailboat",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Binnengew%C3%A4sser%20mit%20Segelboot%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205647051.jpg",
+    "y": "1660",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q19912595",
+    "t": "Ferry near Gorinchem",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferry%20near%20Gorinchem%20MET%20DP146477.jpg",
+    "y": "1646",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q19912782",
+    "t": "A Country Road",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Country%20Road%20MET%20DP143152.jpg",
+    "y": "1648",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q20746144",
+    "t": "Road in the Dunes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Salomon%20van%20Ruysdael%20-%20Road%20in%20the%20Dunes%20with%20a%20Passanger%20Coach%20-%20Google%20Art%20Project.jpg",
+    "y": "1631",
+    "mat": "油彩",
+    "loc": "布达佩斯美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q21615090",
+    "t": "The Ferry",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Veerpont%2C%20Salomon%20van%20Ruysdael%2C%201657%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20715.jpg",
+    "y": "1657",
+    "mat": "油彩",
+    "loc": "皇家安特衛普美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q17276230",
+    "t": "View of a lake with sailing ships",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Sailing%20Boats%20on%20a%20Lake%20by%20Salomon%20van%20Ruysdael%201044.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17347620",
+    "t": "River Landscape with Ferry",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rivierlandschap%20met%20een%20veerboot%20Rijksmuseum%20SK-C-1698.jpeg",
+    "y": "1649",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   }
+  ]
+ },
+ "西蒙·德·弗利格": {
+  "qid": "Q1093129",
+  "works": [
+   {
+    "qid": "Q17275980",
+    "t": "Beach View",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beach%20view%2C%20by%20Simon%20de%20Vlieger.jpg",
+    "y": "1643",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q21715884",
+    "t": "Arrival of William of Orange in Rotterdam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20de%20Vlieger%20-%20Arrival%20of%20William%20of%20Orange.jpg",
+    "y": "1642",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q21739936",
+    "t": "Stormy Sea with Sailing Ships",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20de%20Vlieger.%20Statenjacht%20en%20andere%20schepen%20op%20kabbelend%20water.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q26706262",
+    "t": "A Dutch Man-of-war and Various Vessels in a Breeze",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Manofwar.jpg",
+    "y": "1642",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q29542304",
+    "t": "Smallschip and frigate in stormy waters.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20de%20Vlieger%20Wzburzone%20morze%20z%20okr%C4%99tami%20XVII.jpeg",
+    "y": "1630",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q47171506",
+    "t": "Low Tide",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20de%20Vlieger-La%20Mar%C3%A9e%20basse.jpg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "斯特拉斯堡美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q17320936",
+    "t": "The battle on the Slaak between the Dutch and Spanish fleets during the night of 12-13 September 1631",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20slag%20op%20het%20Slaak%20tussen%20de%20Nederlandse%20en%20Spaanse%20vloten%20in%20de%20nacht%20van%2012%20op%2013%20september%201631%20Rijksmuseum%20SK-A-454.jpeg",
+    "y": "1633",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17324790",
+    "t": "Beach with fishermen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Strand%20met%20vissers%20Rijksmuseum%20SK-A-1777.jpeg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17325318",
+    "t": "The falconer's homecoming",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20thuiskomst%20van%20de%20valkenier%20Rijksmuseum%20SK-A-1981.jpeg",
+    "y": "1637",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17327322",
+    "t": "Rocky coast",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rotsachtige%20kust%20Rijksmuseum%20SK-A-2086.jpeg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q19912761",
+    "t": "Calm Sea",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Calm%20Sea%20MET%20DP147592.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q19928475",
+    "t": "Calm Water",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20de%20Vlieger%20-%20Kalm%20water%20-%201923%20%28OK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 0
+   }
+  ]
+ },
+ "威廉·凡·德·维尔德": {
+  "qid": "Q432266",
+  "works": [
+   {
+    "qid": "Q17342294",
+    "t": "The Cannon Shot",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20kanonschot%20Rijksmuseum%20SK-C-244.jpeg",
+    "y": "1680",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 8
+   },
+   {
+    "qid": "Q17324873",
+    "t": "A Ship on the High Seas Caught by a Squall, Known as ‘The Gust’",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Windstoot%20-%20A%20ship%20in%20need%20in%20a%20raging%20storm%20%28Willem%20van%20de%20Velde%20II%2C%201707%29.jpg",
+    "y": "1680",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q17347662",
+    "t": "Dutch Ships in a Calm",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20Dutch%20men-o%27-war%20and%20other%20shipping%20in%20a%20calm.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q19912543",
+    "t": "Entrance to a Dutch Port",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Entrance%20to%20a%20Dutch%20Port%20MET%20DP146449.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q26511270",
+    "t": "A Dutch Yacht saluting",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Yacht%20saluting.jpg",
+    "y": "1661",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 3
+   },
+   {
+    "qid": "Q26706190",
+    "t": "A Dutch Ship coming to Anchor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Ship%20coming%20to%20Anchor.jpg",
+    "y": "1657",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q26708460",
+    "t": "A Dutch Ship, a Yacht and Smaller Vessels in a Breeze",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Ship%2C%20a%20Yacht%20and%20Smaller%20Vessels%20in%20a%20Breeze.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q26713950",
+    "t": "A Dutch Ship and Other Small Vessels in a Strong Breeze",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Ship%20and%20Other%20Small%20Vessels%20in%20a%20Strong%20Breeze.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q23916721",
+    "t": "A Calm with a States Yacht, A Barge and many other Vessels under Sail",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20the%20Younger%20%281633-1707%29%20-%20A%20Calm%2C%20A%20States%20Yacht%2C%20A%20Barge%20and%20many%20other%20Vessels%20under%20Sail%20-%20RCIN%20407275%20-%20Royal%20Collection.jpg",
+    "y": "1659",
+    "mat": "油彩",
+    "loc": "卡爾頓宮",
+    "links": 2
+   },
+   {
+    "qid": "Q23929355",
+    "t": "A Brisk Breeze",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20de%20Velde%2C%20Willem%20the%20younger%20-%20A%20Brisk%20Breeze%20-%20Google%20Art%20Project.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "达利奇美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q26492836",
+    "t": "A Dutch Vessel in a Strong Breeze",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Vessel%20in%20a%20Strong%20Breeze.jpg",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q28031007",
+    "t": "A Calm: an English Three-Decker Drying Sails with two Galliots near her",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20the%20Younger%20%281633-1707%29%20-%20A%20Calm%2C%20an%20English%20Three-Decker%20Drying%20Sails%20with%20two%20Galliots%20near%20her%20-%20RCIN%20405503%20-%20Royal%20Collection.jpg",
+    "y": "1690",
+    "mat": "油彩",
+    "loc": "皇室收藏",
+    "links": 2
+   }
+  ]
+ },
+ "扬·波尔切利斯": {
+  "qid": "Q640415",
+  "works": [
+   {
+    "qid": "Q17276218",
+    "t": "Shipwreck off the Coast",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Porcellis%20-%20Shipwreck%20off%20the%20Coast%20-%20969%20-%20Mauritshuis.jpg",
+    "y": "1631",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17331712",
+    "t": "Fishing boats in choppy waters",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vissersboten%20in%20onrustig%20water%20Rijksmuseum%20SK-A-3111.jpeg",
+    "y": "1630",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q18573643",
+    "t": "Fishing Boats at Sea",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Porcellis%20-%20Vissersboten%20op%20zee%20-%20NM%201101%20-%20Nationalmuseum.jpg",
+    "y": "1615",
+    "mat": "油彩",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q18688227",
+    "t": "Ships in a Storm on a Rocky Coast",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Porcellis%20-%20Ships%20in%20a%20Storm%20on%20a%20Rocky%20Coast%20-%20Google%20Art%20Project.jpg",
+    "y": "1615",
+    "mat": "油彩",
+    "loc": "哈瓦立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q19925003",
+    "t": "An Estuary in Stormy Weather",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Porcellis%20-%20Riviermond%20met%20schepen%20bij%20stormachtig%20weer%20-%201675%20%28OK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+    "y": "1630",
+    "mat": "油彩",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q20854674",
+    "t": "Dutch Vessels in a Strong Breeze",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Porcellis%20-%20Dutch%20Vessels%20in%20a%20Strong%20Breeze.jpg",
+    "y": "1618",
+    "mat": "油彩",
+    "loc": "國家航海博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q20854678",
+    "t": "Vessels in a Strong Wind",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Porcellis%20-%20Vessels%20in%20a%20Strong%20Wind%20-%20WGA18157.jpg",
+    "y": "1630",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q20855778",
+    "t": "Three Damloopers in a Fresh Breeze",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Porcellis%20-%20Three%20Damloopers%20in%20a%20Fresh%20Breeze.jpg",
+    "y": "1620",
+    "mat": "油彩",
+    "loc": "阿須摩林博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q20880024",
+    "t": "Vessels in a Moderate Breeze",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vessels%20in%20a%20Moderate%20Breeze%20LACMA%20M.2009.106.10.jpg",
+    "y": "1629",
+    "mat": "",
+    "loc": "洛杉磯郡藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q21715843",
+    "t": "Seascape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Porcellis%20-%20Seascape%20-%20WGA18153.jpg",
+    "y": "1630",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27302082",
+    "t": "Shipping on an inland lake with a coast in the distance",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Porcellis%20-%20Schepen%20op%20een%20binnenwater%20met%20op%20de%20achtergrond%20kuststrook%2C%201629.jpg",
+    "y": "1629",
+    "mat": "油彩",
+    "loc": "莱顿布料厅市立博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27302086",
+    "t": "Q27302086",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20Porcellis%20-%20Boten%20voor%20de%20kust%20op%20een%20woelige%20zee%20-%20NK1874%20-%20Museum%20De%20Lakenhal.jpg",
+    "y": "1632",
+    "mat": "油彩",
+    "loc": "莱顿布料厅市立博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "阿尔特·凡·德·内尔": {
+  "qid": "Q381801",
+  "works": [
+   {
+    "qid": "Q17334097",
+    "t": "River View by Moonlight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Riviergezicht%20bij%20maanlicht%20Rijksmuseum%20SK-A-3245.jpeg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q26693082",
+    "t": "A Frozen River by a Town at Evening",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Neer1.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q66839254",
+    "t": "Dutch Village on a Canal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beaux-Arts%20de%20Carcassonne%20-%20Village%20hollandais%20au%20bord%20d%27un%20canal%20-%20Aert%20Van%20Der%20Neer%20-%20Joconde04400000297.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "卡尔卡松美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q134785246",
+    "t": "Q134785246",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Winterlandschaft%20mit%20Eisvergn%C3%BCgen%20-%20Aert%20van%20der%20Neer%20-%20Wallraf-Richartz-Museum%20%26%20Fondation%20Corboud-0198%20%28without%20frame%29.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "瓦爾拉夫-里夏茨博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q17276075",
+    "t": "Winter landscape with houses",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aert%20van%20der%20Neer%20-%20Winter%20Landscape%20with%20Houses%20-%20787%20-%20Mauritshuis.jpg",
+    "y": "1635",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17276188",
+    "t": "River Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/River%20Landscape%20by%20Aert%20van%20der%20Neer%20Mauritshuis%20912.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17276190",
+    "t": "River Landscape at Sunset",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/River%20Landscape%20at%20Sunset%20by%20Aert%20van%20der%20Neer%20Mauritshuis%20913.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17320038",
+    "t": "River view in the winter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Riviergezicht%20bij%20winter%20Rijksmuseum%20SK-A-290.jpeg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17325050",
+    "t": "Landscape with watering place",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Landschap%20met%20pleisterplaats%20Rijksmuseum%20SK-A-1948.jpeg",
+    "y": "1639",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17327430",
+    "t": "Landscape by moonlight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Landschap%20bij%20maanlicht%20Rijksmuseum%20SK-A-2128.jpeg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17334113",
+    "t": "River view in the winter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Riviergezicht%20bij%20winter%20Rijksmuseum%20SK-A-3256.jpeg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17334190",
+    "t": "River view by moonlight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Riviergezicht%20bij%20maanlicht%20Rijksmuseum%20SK-A-3328.jpeg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "卡雷尔·杜雅尔丹": {
+  "qid": "Q719666",
+  "works": [
+   {
+    "qid": "Q17319903",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20Rijksmuseum%20SK-A-190.jpeg",
+    "y": "1662",
+    "mat": "銅",
+    "loc": "hall 2.17",
+    "links": 1
+   },
+   {
+    "qid": "Q17341387",
+    "t": "St Paul Healing the Cripple at Lystra",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Dujardin%20-%20Paulus%20geneest%20de%20kreupele%20te%20Lystra%20-%20Google%20Art%20Project.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17342017",
+    "t": "Portrait of a man, possibly Jacob de Graeff, alderman of Amsterdam in 1672",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20man%2C%20mogelijk%20Jacob%20de%20Graeff%2C%20schepen%20van%20Amsterdam%20in%201672%20Rijksmuseum%20SK-C-157.jpeg",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28016195",
+    "t": "A Boy Loading an Ass in an Italian Village Street",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20du%20Jardin%20%28Amsterdam%20c.1626-Venice%201678%29%20-%20A%20Boy%20Loading%20an%20Ass%20in%20an%20Italian%20Village%20Street%20-%20RCIN%20404616%20-%20Royal%20Collection.jpg",
+    "y": "1662",
+    "mat": "",
+    "loc": "卡爾頓宮",
+    "links": 1
+   },
+   {
+    "qid": "Q28026365",
+    "t": "A Herdsman with an Ox, an Ass and Sheep in the Campagna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20du%20Jardin%20%28Amsterdam%20c.1626-Venice%201678%29%20-%20A%20Herdsman%20with%20an%20Ox%2C%20an%20Ass%20and%20Sheep%20in%20the%20Campagna%20-%20RCIN%20404808%20-%20Royal%20Collection.jpg",
+    "y": "1662",
+    "mat": "油彩",
+    "loc": "卡爾頓宮",
+    "links": 1
+   },
+   {
+    "qid": "Q59771330",
+    "t": "Hagar and Ishmael in the Wilderness",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Dujardin%20-%20Hagar%20and%20Ishmael%20in%20the%20Wilderness.jpg",
+    "y": "1662",
+    "mat": "油彩",
+    "loc": "約翰與及梅波·瑞霖藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q139603777",
+    "t": "Pallas Athena Visits Invidia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pallas%20Athene%20besucht%20Invidia%20%28Ovid%2C%20Metamorphosen%202%E2%81%84715%29%20-%201652.jpg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "维也纳美术学院",
+    "links": 1
+   },
+   {
+    "qid": "Q17275775",
+    "t": "The Waterfalls at Tivoli",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Dujardin%20-%20The%20Waterfalls%20at%20Tivoli%20-%2073%20-%20Mauritshuis.jpg",
+    "y": "1673",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17276065",
+    "t": "Italian Landscape with a Young Shepherd Playing with his Dog",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Dujardin%20-%20Italian%20Landscape%20with%20a%20Young%20Shepherd%20Playing%20with%20his%20Dog%20-%20760%20-%20Mauritshuis.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17276263",
+    "t": "Italianate Landscape with Cattle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Dujardin%20-%20Italianate%20Landscape%20with%20Cattle%20-%201095%20-%20Mauritshuis.jpg",
+    "y": "1631",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17319904",
+    "t": "Joan Reynst (1636-1695), lord of Drakestein and the Vuursche. Captain of the Amsterdam militia in 1672",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20Reynst%20%281636-95%29.%20Heer%20van%20Drakenstein%20en%20de%20Vuursche.%20Kapitein%20der%20burgerij%20te%20Amsterdam%20in%201672%20Rijksmuseum%20SK-A-191.jpeg",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17319905",
+    "t": "Italian Landscape with Girl Milking a Goat",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Italiaans%20landschap%20met%20geitenmelkster%20Rijksmuseum%20SK-A-192.jpeg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "菲利普斯·科宁克": {
+  "qid": "Q166379",
+  "works": [
+   {
+    "qid": "Q116246036",
+    "t": "The Feast of Bacchus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20Koninck%20-%20The%20Feast%20of%20Bacchus%20-%20Museum%20Bredius.jpg",
+    "y": "1654",
+    "mat": "油彩",
+    "loc": "布雷迪乌斯博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q110776260",
+    "t": "Portrait of one of the brothers Van der Burch, probably Arent van der Burch (1621-1691), 1656",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20de%20Koninck%20-%20Portrait%20of%20a%20gentleman%20of%20the%20Van%20der%20Burch%20family%20of%20Delft%202015%20CKS%2010392%200122.jpg",
+    "y": "1656",
+    "mat": "画布",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q110799900",
+    "t": "Adam and Eve after the Fall",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adam%20och%20Eva%20efter%20syndafallet%20%28Philip%20de%20Koninck%29%20-%20Nationalmuseum%20-%20216301.tif",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110799902",
+    "t": "The Samaritan Woman at the Well",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Den%20samariska%20kvinnan%20vid%20brunnen%20%28Philip%20de%20Koninck%29%20-%20Nationalmuseum%20-%20216299.tif",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q114808240",
+    "t": "Portrait of Joost van den Vondel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Joost%20van%20den%20Vondel%2C%20dichter%20Icones%2073.tiff",
+    "y": "1601",
+    "mat": "油彩",
+    "loc": "萊頓大學",
+    "links": 0
+   },
+   {
+    "qid": "Q114808241",
+    "t": "Q114808241",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Joost%20van%20den%20Vondel%2C%20dichter%20Icones%2074.tiff",
+    "y": "1667",
+    "mat": "油彩",
+    "loc": "萊頓大學",
+    "links": 0
+   },
+   {
+    "qid": "Q116912721",
+    "t": "Self-portrait of Philips Koninck (1619-1688)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20Koninck%20-%20Self%20Portrait%20-%20Uffizi%20Gallery.jpg",
+    "y": "1661",
+    "mat": "油彩",
+    "loc": "烏菲茲美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q118895856",
+    "t": "A Dutch Landscape: View of a Flat District (probably Rheden)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20de%20Koninck%20%281619-1688%29%20-%20A%20Dutch%20Landscape%2C%20View%20of%20a%20Flat%20District%20%28probably%20Rheden%29%20-%20CAI.86%20-%20Victoria%20and%20Albert%20Museum.jpg",
+    "y": "1647",
+    "mat": "油彩",
+    "loc": "维多利亚和阿尔伯特博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q118895910",
+    "t": "Flat Landscape with a View to Distant Hills",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20de%20Koninck%20%281619-1688%29%20-%20Flat%20Landscape%20with%20a%20View%20to%20Distant%20Hills%20-%201979.469%20-%20Manchester%20Art%20Gallery.jpg",
+    "y": "1648",
+    "mat": "油彩",
+    "loc": "曼徹斯特美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q118895912",
+    "t": "A Woman with a Glass of Wine and a Man Looking at Her",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20de%20Koninck%20%281619-1688%29%20-%20A%20Woman%20with%20a%20Glass%20of%20Wine%20and%20a%20Man%20Looking%20at%20Her%20-%201979.470%20-%20Manchester%20Art%20Gallery.jpg",
+    "y": "1649",
+    "mat": "油彩",
+    "loc": "曼徹斯特美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q118984691",
+    "t": "A View over flat Country",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20de%20Koninck%20%281619-1688%29%20-%20A%20View%20over%20flat%20Country%20-%20WA1946.197%20-%20Ashmolean%20Museum.jpg",
+    "y": "1657",
+    "mat": "油彩",
+    "loc": "阿須摩林博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q118984833",
+    "t": "Landscape in Holland",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20de%20Koninck%20%281619-1688%29%20-%20Landscape%20in%20Holland%20-%20GLAHA%2043744%20-%20Hunterian%20Museum%20and%20Art%20Gallery.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "亨特博物館",
+    "links": 0
+   }
+  ]
+ },
+ "梅因德尔特·霍贝玛": {
+  "qid": "Q336908",
+  "works": [
+   {
+    "qid": "Q9210889",
+    "t": "The Avenue at Middelharnis",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Meindert%20Hobbema%20001.jpg",
+    "y": "1689",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 7
+   },
+   {
+    "qid": "Q47014962",
+    "t": "Village Street under Trees",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dorfstra%C3%9Fe%20unter%20B%C3%A4umen%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205402085.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 2
+   },
+   {
+    "qid": "Q17276271",
+    "t": "Wooded landscape with cottages",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Meindert%20Hobbema%20-%20Wooded%20Landscape%20with%20Cottages%20-%201105%20-%20Mauritshuis.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17341985",
+    "t": "A Watermill",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Meindert%20Hobbema%20-%20Een%20watermolen%20-%20Google%20Art%20Project.jpg",
+    "y": "1664",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q18760450",
+    "t": "The Watermill",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Meindert%20Hobbema%20004.jpg",
+    "y": "1692",
+    "mat": "油彩",
+    "loc": "Room 837",
+    "links": 1
+   },
+   {
+    "qid": "Q19911942",
+    "t": "Woodland Road",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Woodland%20Road%20MET%20DP252576.jpg",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q20177621",
+    "t": "A Farm in the Sunlight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Farm%20in%20the%20Sunlight%20A11401.jpg",
+    "y": "1668",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 1
+   },
+   {
+    "qid": "Q17276182",
+    "t": "Landscape near Deventer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20near%20Deventer%20by%20Meindert%20Hobbema%20Mauritshuis%20899.jpg",
+    "y": "1662",
+    "mat": "",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17276243",
+    "t": "Cottages in a Forest",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cottages%20in%20a%20Forest%20by%20Meindert%20Hobbema%20Mauritshuis%201061.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q20177639",
+    "t": "Village near a Pool",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Village%20near%20a%20Pool%20A15474.jpg",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q20179834",
+    "t": "A Wooded Landscape with Travelers on a Path through a Hamlet",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Meindert%20Hobbema%2C%20and%20Abraham%20Storck%20-%20A%20Wooded%20Landscape%20with%20Travelers%20on%20a%20Path%20through%20a%20Hamlet%20-%202002.17%20-%20J.%20Paul%20Getty%20Museum.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "盖蒂中心",
+    "links": 0
+   },
+   {
+    "qid": "Q20182871",
+    "t": "A Wooded Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Meindert%20Hobbema%20-%20A%20Wooded%20Landscape%20-%2084.PB.43%20-%20J.%20Paul%20Getty%20Museum.jpg",
+    "y": "1667",
+    "mat": "油彩",
+    "loc": "盖蒂中心",
+    "links": 0
+   }
+  ]
+ },
+ "埃马纽埃尔·德·维特": {
+  "qid": "Q711203",
+  "works": [
+   {
+    "qid": "Q19925864",
+    "t": "Interior with a Woman at the Virginal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/E.%20de%20Witte%20-%20Interieur%20met%20een%20vrouw%20die%20op%20een%20virginaal%20speelt%20-%202313%20%28OK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+    "y": "1667",
+    "mat": "油彩",
+    "loc": "林茨美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q17334812",
+    "t": "Interior of the Portuguese synagogue in Amsterdam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interieur%20van%20de%20Portugese%20synagoge%20te%20Amsterdam%20Rijksmuseum%20SK-A-3738.jpeg",
+    "y": "1680",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17342382",
+    "t": "Interior of a Protestant Gothic Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interieur%20van%20een%20protestantse%20gotische%20kerk%20Rijksmuseum%20SK-C-270.jpeg",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q18638418",
+    "t": "Courtyard of the Exchange in Amsterdam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20courtyard%20of%20the%20Beurs%20in%20Amsterdam%2C%20by%20Emanuel%20de%20Witte.jpg",
+    "y": "1653",
+    "mat": "油彩",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q19928791",
+    "t": "Interior of a Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20de%20Witte%20-%20Interior%20of%20a%20Church%20-%20Google%20Art%20Project.jpg",
+    "y": "1668",
+    "mat": "油彩",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q26708023",
+    "t": "Adriana van Heusden and Daughter at the Fishmarket",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20de%20Witte%2020171219%20007.jpg",
+    "y": "1662",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28674690",
+    "t": "Church Service in Delft",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Church%20Service%20in%20Delft%20by%20Emanuel%20de%20Witte.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "弗羅茨瓦夫國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q99540807",
+    "t": "Interior of the Nieuwe Kerk, Amsterdam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20the%20Nieuwe%20Kerk%2C%20Amsterdam%20by%20Emanuel%20de%20Witte%201657.jpg",
+    "y": "1657",
+    "mat": "油彩",
+    "loc": "Timken Museum of Art",
+    "links": 1
+   },
+   {
+    "qid": "Q17275965",
+    "t": "Interior of an Imaginary Catholic Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20de%20Witte%20-%20Interior%20of%20an%20Imaginary%20Catholic%20Church%20-%20473%20-%20Mauritshuis.jpg",
+    "y": "1668",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17276099",
+    "t": "The Oude Kerk in Amsterdam during a Service",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Oude%20Kerk%20in%20Amsterdam%20during%20a%20Service%20by%20Emanuel%20de%20Witte%20Mauritshuis%20824.jpg",
+    "y": "1654",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17320963",
+    "t": "Interior of a Protestant Gothic church with motifs of the Oude and the Nieuwe Kerk in Amsterdam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interieur%20van%20een%20protestantse%20gotische%20kerk%20met%20motieven%20van%20de%20Oude%20en%20de%20Nieuwe%20Kerk%20te%20Amsterdam%20Rijksmuseum%20SK-A-474.jpeg",
+    "y": "1677",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17324424",
+    "t": "The Tomb of Michiel de Ruyter in the Nieuwe Kerk, Amsterdam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20praalgraf%20van%20De%20Ruyter%20in%20de%20Nieuwe%20Kerk%20te%20Amsterdam%20Rijksmuseum%20SK-A-1642.jpeg",
+    "y": "1683",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "赫拉德·豪克海斯特": {
+  "qid": "Q1935857",
+  "works": [
+   {
+    "qid": "Q17324364",
+    "t": "Interior of the Old Church in Delft",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interieur%20van%20de%20Oude%20Kerk%20in%20Delft%20Rijksmuseum%20SK-A-1584.jpeg",
+    "y": "1654",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q17275761",
+    "t": "The Tomb of William the Silent in the Nieuwe Kerk in Delft",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Houckgeest%20-%20The%20Tomb%20of%20William%20the%20Silent%20in%20the%20Nieuwe%20Kerk%20in%20Delft%20-%2058%20-%20Mauritshuis.jpg",
+    "y": "1651",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28071131",
+    "t": "A gothic church interior with elegant figures",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Houckgeest%20%281600-1661%29%20-%20Inneres%20einer%20Kirche%20-%201266%20-%20F%C3%BChrermuseum.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "林茨美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q17275760",
+    "t": "Choir of the Nieuwe Kerk in Delft with the tomb of William the Silent",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Houckgeest%20-%20Ambulatory%20of%20the%20Nieuwe%20Kerk%20in%20Delft%2C%20with%20the%20Tomb%20of%20William%20the%20Silent%20-%2057%20-%20Mauritshuis.jpg",
+    "y": "1651",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17325225",
+    "t": "Interior of the Oude Kerk, Delft, with the tomb of Pieter Pietersz Heijn (15881629), vice admiral of Holland",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interieur%20van%20de%20Oude%20Kerk%20te%20Delft%20met%20de%20graftombe%20van%20Pieter%20Pietersz%20Heijn%2C%20luitenant-admiraal%20van%20Holland%20Rijksmuseum%20SK-A-1971.jpeg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q18599698",
+    "t": "Interior of Nieuwe Kerk in Delft with the Tomb of William I",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20Nieuwe%20Kerk%20in%20Delft%20with%20the%20Tomb%20of%20William%20I%20%28Gerard%20Houckgeest%29%20-%20Nationalmuseum%20-%2017467.tif",
+    "y": "",
+    "mat": "油彩",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q20270166",
+    "t": "Interior of a Catholic Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Houckgeest%20-%20Interior%20of%20a%20Catholic%20Church%20-%20KMSsp426%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "1638",
+    "mat": "",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20477082",
+    "t": "Interior of Sint Gertrudiskerk in Bergen op Zoom",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Houckgeest%20-%20Interior%20of%20Sint%20Gertrudiskerk%20in%20Bergen%20op%20Zoom%20-%20KMSsp425%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q21722634",
+    "t": "Interior of a Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Houckgeest%20-%20Kerkinterieur%20met%20kerkbezoekers%20en%20biddende%20boer%20-%20%D0%93%D0%AD-2883%20-%20Hermitage%20Museum.jpg",
+    "y": "1648",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q22288647",
+    "t": "Interior of the Old Church in Delft.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Houckgeest%20Old%20Church%20in%20Delft.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q27966011",
+    "t": "An Architectural Fantasy with Figures",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Houckgeest%20-%20An%20Architectural%20Fantasy%20with%20Figures%20-%20NG%2046%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1638",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q28028651",
+    "t": "Charles I, Queen Henrietta Maria, and Charles II when Prince of Wales Dining in Public",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Houckgeest%20%28The%20Hague%20c.%201600-Bergen%20op%20Zoom%201661%29%20-%20Charles%20I%2C%20Queen%20Henrietta%20Maria%2C%20and%20Charles%20II%20when%20Prince%20of%20Wales%20Dining%20in%20Public%20-%20RCIN%20402966%20-%20Royal%20Collection.jpg",
+    "y": "1635",
+    "mat": "油彩",
+    "loc": "溫莎城堡",
+    "links": 0
+   }
+  ]
+ },
+ "尼古拉斯·马斯": {
+  "qid": "Q505150",
+  "works": [
+   {
+    "qid": "Q8198677",
+    "t": "An Old Woman Dozing",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maes%20Old%20Woman%20Dozing.jpg",
+    "y": "1656",
+    "mat": "油彩",
+    "loc": "Oldmasters Museum",
+    "links": 6
+   },
+   {
+    "qid": "Q24284159",
+    "t": "The Listening Housewife",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20listening%20Housewife%2C%20by%20Nicolaes%20Maes.jpg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "皇室收藏",
+    "links": 5
+   },
+   {
+    "qid": "Q17276269",
+    "t": "The Old Lacemaker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20The%20Old%20Lacemaker%20-%201101%20-%20Mauritshuis.jpg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 4
+   },
+   {
+    "qid": "Q19905462",
+    "t": "The Lacemaker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lacemaker%20MET%20DP145402.jpg",
+    "y": "1656",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q24283841",
+    "t": "Bathing children",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20Children%20bathing.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "Room 845",
+    "links": 3
+   },
+   {
+    "qid": "Q17342882",
+    "t": "Old Woman Saying Grace, Known as ‘The Prayer without End’",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oude%20vrouw%20in%20gebed%2C%20bekend%20als%20%E2%80%98Het%20gebed%20zonder%20end%E2%80%99%20Rijksmuseum%20SK-C-535.jpeg",
+    "y": "1656",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q19904878",
+    "t": "Abraham Dismissing Hagar and Ishmael",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20Dismissal%20of%20Hagar%20and%20Ishmael.jpg",
+    "y": "1653",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q21617414",
+    "t": "Portrait of a Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20Portret%20van%20een%20vrouw%20-%20888%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff",
+    "y": "1676",
+    "mat": "油彩",
+    "loc": "皇家安特衛普美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q24283890",
+    "t": "The Idle Servant",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20idle%20servant.png",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q24283961",
+    "t": "Christ Blessing the Children",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20Christ%20Blessing%20the%20Children%20-%20WGA13814.jpg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q60186817",
+    "t": "Portrait of a Lady",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portait%20of%20a%20Lady%20by%20Nicolaes%20Maes%2C%20Timken%20Museum%20of%20Art.JPG",
+    "y": "1677",
+    "mat": "油彩",
+    "loc": "Timken Museum of Art",
+    "links": 2
+   },
+   {
+    "qid": "Q60198486",
+    "t": "A young Woman with a Child riding on a Goat",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Spanish%20Gipsy.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "Leiden Collection",
+    "links": 1
+   }
+  ]
+ },
+ "彼得·德·霍赫": {
+  "qid": "Q314889",
+  "works": [
+   {
+    "qid": "Q7727872",
+    "t": "The Courtyard of a House in Delft",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20The%20Courtyard%20of%20a%20House%20in%20Delft.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 11
+   },
+   {
+    "qid": "Q6025982",
+    "t": "A Woman Peeling Apples",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20A%20Woman%20Peeling%20Apples.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 10
+   },
+   {
+    "qid": "Q17319893",
+    "t": "Woman with a Child in a Pantry",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20007.jpg",
+    "y": "1656",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 9
+   },
+   {
+    "qid": "Q1214931",
+    "t": "Mother Lacing Her Bodice beside a Cradle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20%281629%20-%20in%20oder%20nach%201679%29%20-%20The%20Mother%20-%20820B%20-%20Gem%C3%A4ldegalerie.jpg",
+    "y": "1661",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 7
+   },
+   {
+    "qid": "Q1451497",
+    "t": "A Woman with a Basket of Beans in a Garden",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20Frau%20mit%20Bohnenkorb%20im%20Gem%C3%BCseg%C3%A4rtchen.jpg",
+    "y": "1651",
+    "mat": "油彩",
+    "loc": "巴塞爾美術館",
+    "links": 7
+   },
+   {
+    "qid": "Q4655597",
+    "t": "A Boy Bringing Bread",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Boy%20Bringing%20Bread%20Pieter%20de%20Hooch.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 7
+   },
+   {
+    "qid": "Q5968050",
+    "t": "The Council Chamber in Amsterdam Town Hall",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20The%20Council%20Chamber%20in%20Amsterdam%20Town%20Hall%20-%20WGA11710.jpg",
+    "y": "1664",
+    "mat": "油彩",
+    "loc": "提森-博内米萨博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q19939031",
+    "t": "A Dutch Courtyard",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20012.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "荷蘭",
+    "links": 7
+   },
+   {
+    "qid": "Q19960421",
+    "t": "Cardplayers in a Sunlit Room",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20%28Rotterdam%201629-Amsterdam%201684%29%20-%20Cardplayers%20in%20a%20sunlit%20Room%20-%20RCIN%20405951%20-%20Royal%20Collection.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "皇室收藏",
+    "links": 7
+   },
+   {
+    "qid": "Q19989799",
+    "t": "A Woman Preparing Bread and Butter for a Boy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hooch%2C%20Pieter%20de%20-%20A%20Woman%20Preparing%20Bread%20and%20Butter%20for%20a%20Boy%20-%20Google%20Art%20Project.jpg",
+    "y": "1661",
+    "mat": "油彩",
+    "loc": "盖蒂中心",
+    "links": 7
+   },
+   {
+    "qid": "Q6126670",
+    "t": "Woman and a maid with a pail of fish in a courtyard",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20002.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q9376181",
+    "t": "Interior with Women beside a Linen Cupboard",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20At%20the%20Linen%20Closet.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 6
+   }
+  ]
+ },
+ "赫拉德·特·博尔赫": {
+  "qid": "Q346808",
+  "works": [
+   {
+    "qid": "Q5227835",
+    "t": "The Gallant Conversation, known as Paternal Admonition",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20ter%20Borch%20-%20Interieur%20met%20drie%20figuren%20die%20met%20elkaar%20in%20gesprek%20zijn%3B%20bekend%20als%20%27De%20vaderlijke%20vermaning%27%20-%20Google%20Art%20Project.jpg",
+    "y": "1654",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 12
+   },
+   {
+    "qid": "Q2410044",
+    "t": "Portrait of Helena van der Schalcke",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Helena%20van%20der%20Schalcke%20Rijksmuseum%20SK-A-1786.jpeg",
+    "y": "1648",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 8
+   },
+   {
+    "qid": "Q18655546",
+    "t": "The Letter by Gerard ter Borch",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20ter%20Borch%20-%20The%20Letter%20-%20Google%20Art%20Project.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "白金汉宫",
+    "links": 7
+   },
+   {
+    "qid": "Q21716705",
+    "t": "Glass of Lemonade",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20ter%20Borch%20%28II%29%20-%20The%20Glass%20of%20Lemonade%20-%20WGA22118.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 5
+   },
+   {
+    "qid": "Q19911961",
+    "t": "A Woman Playing the Theorbo-Lute and a Cavalier",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Woman%20Playing%20the%20Theorbo-Lute%20and%20a%20Cavalier%20MET%20DP145907.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q22662436",
+    "t": "The Concert",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20ter%20Borch%20%28II%29%20-%20The%20Concert%20-%20WGA22142.jpg",
+    "y": "1675",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 4
+   },
+   {
+    "qid": "Q11907348",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20ter%20Borch%20-%20Self-Portrait%20-%20177%20-%20Mauritshuis.jpg",
+    "y": "1668",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 4
+   },
+   {
+    "qid": "Q17276080",
+    "t": "Woman writing a letter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20ter%20Borch%20-%20Woman%20Writing%20a%20Letter%20-%20797%20-%20Mauritshuis.jpg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 4
+   },
+   {
+    "qid": "Q17335985",
+    "t": "Seated Girl in Peasant Costume",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20ter%20Borch.Zittende%20jonge%20vrouw.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q28030254",
+    "t": "A Gentleman pressing a Lady to drink",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Homme%20incitant%20une%20femme%20%C3%A0%20boire%20-%20Gerard%20ter%20Borch.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "皇室收藏",
+    "links": 3
+   },
+   {
+    "qid": "Q18608272",
+    "t": "The Ratification of the Treaty of Münster",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Westfaelischer%20Friede%20in%20Muenster%20%28Gerard%20Terborch%201648%29.jpg",
+    "y": "1648",
+    "mat": "銅",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q20539832",
+    "t": "Man on Horseback",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20ter%20Borch%20-%20Man%20on%20Horseback.jpg",
+    "y": "1634",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 3
+   }
+  ]
+ },
+ "加布里埃尔·梅曲": {
+  "qid": "Q355213",
+  "works": [
+   {
+    "qid": "Q948277",
+    "t": "寫信的男人",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Man%20Writing%20a%20Letter%20by%20Gabri%C3%ABl%20Metsu.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "愛爾蘭國立美術館",
+    "links": 10
+   },
+   {
+    "qid": "Q8888208",
+    "t": "Woman Reading a Letter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20Reading%20a%20Letter%20by%20Gabri%C3%ABl%20Metsu.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "愛爾蘭國立美術館",
+    "links": 7
+   },
+   {
+    "qid": "Q9019441",
+    "t": "病童",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabri%C3%ABl%20Metsu%20-%20Het%20zieke%20kind%20-%20Google%20Art%20Project.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q29654585",
+    "t": "The Lace-Maker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Metsu%20-%20The%20Lacemaker.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "历代大师画廊",
+    "links": 5
+   },
+   {
+    "qid": "Q17275787",
+    "t": "A young Woman Writing Music",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabri%C3%ABl%20Metsu%20-%20A%20Young%20Woman%20Composing%20a%20Piece%20of%20Music%20-%2094%20-%20Mauritshuis.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "Q112457145",
+    "links": 4
+   },
+   {
+    "qid": "Q27346819",
+    "t": "The Vegetable Market in Amsterdam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20March%C3%A9%20aux%20herbes%20d%27Amsterdam%20-%20Gabriel%20Metsu%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%201460.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "Room 838",
+    "links": 4
+   },
+   {
+    "qid": "Q29654516",
+    "t": "A Girl Receiving a Letter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Girl%20Receiving%20a%20Letter%20by%20Gabriel%20Metsu%2C%20Timken%20Museum%20of%20Art.JPG",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "Timken Museum of Art",
+    "links": 4
+   },
+   {
+    "qid": "Q2151645",
+    "t": "Portrait of the Family Hinlopen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Metsu%20%281629%20-%201667%29%20-%20Jan%20Jacobsz%20Hinlopen%20and%20his%20Family%20-%20792%20-%20Gem%C3%A4ldegalerie.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 3
+   },
+   {
+    "qid": "Q12900359",
+    "t": "Self-portrait of the artist with his wife Isabella de Wolff in the inn",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Metsu%20Self-Portrait...%201661.jpg",
+    "y": "1661",
+    "mat": "油彩",
+    "loc": "历代大师画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q15883617",
+    "t": "Woman Holding a Herring",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Metsu-Marchand%20de%20harengs.JPG",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "法布爾博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q22694080",
+    "t": "Woman washing textiles in a tub",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Metsu%20Washerwoman.JPG",
+    "y": "1656",
+    "mat": "油彩",
+    "loc": "瓦津基宮",
+    "links": 2
+   },
+   {
+    "qid": "Q27750604",
+    "t": "Dead Cockdkg",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gallo%20muerto%20%28Metsu%29.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   }
+  ]
+ },
+ "弗兰斯·凡·米里斯": {
+  "qid": "Q959236",
+  "works": [
+   {
+    "qid": "Q17189254",
+    "t": "Brothel Scene",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20van%20Mieris%20de%20Oude%20-%20Brothel%20Scene%20-%20860%20-%20Mauritshuis.jpg",
+    "y": "1659",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 6
+   },
+   {
+    "qid": "Q30150849",
+    "t": "A Cavalier",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Mieris%20a%20Cavalier.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "http://www.wikidata.org/.well-known/genid/3d254a81dd33e4ad998f86473fb0db2a",
+    "links": 6
+   },
+   {
+    "qid": "Q14922848",
+    "t": "Young Woman threading Pearls",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mieris%201%2C%20Frans%20van%20-%20The%20Woman%20threading%20pearls%20-%201658.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "法布爾博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q20184860",
+    "t": "Pictura (An Allegory of Painting)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20van%20Mieris%20the%20Elder%20%28Dutch%20-%20Pictura%20%28An%20Allegory%20of%20Painting%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1661",
+    "mat": "銅",
+    "loc": "盖蒂中心",
+    "links": 2
+   },
+   {
+    "qid": "Q51161714",
+    "t": "The interrupted song",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20interrupted%20song%2C%20by%20Frans%20van%20Mieris%20the%20elder.jpg",
+    "y": "1671",
+    "mat": "油彩",
+    "loc": "巴黎",
+    "links": 2
+   },
+   {
+    "qid": "Q51283788",
+    "t": "Wife of Jeroboam and the Prophet Ahijah",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20mieris%20femme%20de%20jeroboam.jpg",
+    "y": "1671",
+    "mat": "油彩",
+    "loc": "里爾美術宮",
+    "links": 2
+   },
+   {
+    "qid": "Q50325417",
+    "t": "The Painter in his Studio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20van%20Mieris%20%28I%29%20-%20The%20Painter%27s%20Studio%20-%20WGA15638.jpg",
+    "y": "1656",
+    "mat": "油彩",
+    "loc": "历代大师画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q17275791",
+    "t": "A Boy Blowing Bubbles",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20van%20Mieris%20de%20Oude%20-%20A%20Boy%20Blowing%20Bubbles%20-%20106%20-%20Mauritshuis.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17342100",
+    "t": "A gentleman and a lady",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Een%20heer%20en%20een%20dame%20Rijksmuseum%20SK-C-184.jpeg",
+    "y": "1678",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q21711632",
+    "t": "Portrait of a Lady with a Lapdog",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20van%20mieris-dama-thyssen.jpg",
+    "y": "1672",
+    "mat": "油彩",
+    "loc": "提森-博内米萨博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27982747",
+    "t": "Officer in a Cloth Shop",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20van%20Mieris%20the%20Elder%20-%20Cavalier%20in%20the%20Shop%20-%20Google%20Art%20Project.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28030259",
+    "t": "A Girl selling Grapes to an old Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20van%20Mieris%20the%20Elder%20%28Leiden%201635-Leiden%201681%29%20-%20A%20Girl%20selling%20Grapes%20to%20an%20old%20Woman%20-%20RCIN%20406607%20-%20Royal%20Collection.jpg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "卡爾頓宮",
+    "links": 1
+   }
+  ]
+ },
+ "赫里特·道": {
+  "qid": "Q335927",
+  "works": [
+   {
+    "qid": "Q11787973",
+    "t": "The Young Mother",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Dou%20-%20%27The%20Young%20Mother%27%20-%2032%20-%20Mauritshuis.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 10
+   },
+   {
+    "qid": "Q16913580",
+    "t": "Portrait of an old woman reading",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20005.jpg",
+    "y": "1631",
+    "mat": "油彩",
+    "loc": "Gallery of Honour",
+    "links": 7
+   },
+   {
+    "qid": "Q18654843",
+    "t": "The Quack",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20-%20The%20Quack%20-%20Google%20Art%20Project.jpg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 6
+   },
+   {
+    "qid": "Q19911869",
+    "t": "Self-Portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20MET%20DP145902.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q19544603",
+    "t": "The Dropsical Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Dou%20-%20De%20waterzuchtige%20vrouw.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "Room 839",
+    "links": 5
+   },
+   {
+    "qid": "Q29940222",
+    "t": "A Hermit",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20-%20A%20Hermit%20WLC%20WLC%20P170.jpg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 5
+   },
+   {
+    "qid": "Q110401366",
+    "t": "The Physician",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20-%20The%20Physician%20-%20Christchurch%20Art%20Gallery.jpg",
+    "y": "1653",
+    "mat": "銅",
+    "loc": "基督城艺术馆",
+    "links": 5
+   },
+   {
+    "qid": "Q23900361",
+    "t": "Girl chopping Onions",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Dou%20-%20Girl%20Chopping%20Onions%20-%20Google%20Art%20Project.jpg",
+    "y": "1646",
+    "mat": "油彩",
+    "loc": "皇室收藏",
+    "links": 4
+   },
+   {
+    "qid": "Q29656439",
+    "t": "The Tooth Puller",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20-%20The%20Dentist.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "Room 839",
+    "links": 3
+   },
+   {
+    "qid": "Q21495736",
+    "t": "Anna and the Blind Tobit",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20Harmensz.%20van%20Rijn%20160.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q23890828",
+    "t": "Young Lady Playing a Clavichord",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Dou%20-%20Young%20Lady%20Playing%20the%20Clavichord.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q20734938",
+    "t": "Globe, Books and Lute",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20-%20Still%20life%20with%20a%20globe%2C%20books%2C%20and%20a%20lute%20-%20c.%201635.jpg",
+    "y": "1635",
+    "mat": "油彩",
+    "loc": "",
+    "links": 2
+   }
+  ]
+ },
+ "扬·斯特恩": {
+  "qid": "Q205863",
+  "works": [
+   {
+    "qid": "Q764831",
+    "t": "圣尼古拉斯节的盛宴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Havicksz.%20Steen%20%E2%80%93%20Het%20Sint-Nicolaasfeest%20%E2%80%93%20Google%20Art%20Project.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 12
+   },
+   {
+    "qid": "Q653607",
+    "t": "Girl eating oysters",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Steen%20008.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 9
+   },
+   {
+    "qid": "Q4028318",
+    "t": "A Mayor of Delft and his Daughter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20en%20Catharina%20Croeser%2C%20bekend%20als%20%E2%80%98De%20burgemeester%20van%20Delft%20en%20zijn%20dochter%E2%80%99%20Rijksmuseum%20SK-A-4981.jpeg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 9
+   },
+   {
+    "qid": "Q17342250",
+    "t": "The Happy Family",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Havicksz.%20Steen%20-%20Het%20vrolijke%20huisgezin%20-%20Google%20Art%20Project.jpg",
+    "y": "1668",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 9
+   },
+   {
+    "qid": "Q4014797",
+    "t": "The Doctor's Visit in a Rich Interior",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/JanSteen-Doctor%27sVisit%281658-1662%29.jpg",
+    "y": "1661",
+    "mat": "油彩",
+    "loc": "阿普斯利邸宅",
+    "links": 8
+   },
+   {
+    "qid": "Q1856045",
+    "t": "Wine is a Mocker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20wine%20is%20a%20mocker%201663-1664%20Jan%20Steen.jpg",
+    "y": "1668",
+    "mat": "油彩",
+    "loc": "諾頓西蒙博物館",
+    "links": 7
+   },
+   {
+    "qid": "Q3874439",
+    "t": "Beware of Luxury (“In Weelde Siet Toe”)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Steen%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20%22Die%20verkehrte%20Welt%22%20-%20GG%20791%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q17276053",
+    "t": "'As the Old Sing, So Pipe the Young'",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Steen%20-%20%27As%20the%20Old%20Sing%2C%20So%20Pipe%20the%20Young%27%20-%20742%20-%20Mauritshuis.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 7
+   },
+   {
+    "qid": "Q2016399",
+    "t": "Twelfth-Night Feast",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Twelfth-Night%20Feast%20-%20Jan%20Steen%20-%20MFA.jpg",
+    "y": "1662",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q3720153",
+    "t": "The Effects of Intemperance",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20steen%2C%20effetti%20dell%27intemperanza.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 6
+   },
+   {
+    "qid": "Q17322404",
+    "t": "Children Teaching a Cat to Dance, Known as ‘The Dancing Lesson’",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kinderen%20leren%20een%20poes%20dansen%2C%20bekend%20als%20%E2%80%98De%20dansles%E2%80%99%20Rijksmuseum%20SK-A-718.jpeg",
+    "y": "1669",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q29353421",
+    "t": "The Bean Feast",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Steen%20-%20The%20Bean%20Feast%20-%20WGA21734.jpg",
+    "y": "1668",
+    "mat": "油彩",
+    "loc": "Gemäldegalerie Alte Meister",
+    "links": 6
+   }
+  ]
+ },
+ "保卢斯·莫雷尔瑟": {
+  "qid": "Q59620",
+  "works": [
+   {
+    "qid": "Q17320023",
+    "t": "A Shepherdess",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Een%20herderin%20Rijksmuseum%20SK-A-276.jpeg",
+    "y": "1630",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q29856248",
+    "t": "Portrait of a Young Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paulus%20Moreelse%20-%20Portret%20van%20een%20jonge%20vrouw%20-%201548%20%28OK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+    "y": "1615",
+    "mat": "油彩",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q106767470",
+    "t": "Beaux-Arts de Carcassonne - Madame Van Schurman 1617 - Paulus Moreelse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beaux-Arts%20de%20Carcassonne%20-%20Madame%20Van%20Schurman%201617%20-%20Paulus%20Moreelse%20-%20Jodonde04400000233.jpg",
+    "y": "1617",
+    "mat": "油彩",
+    "loc": "卡尔卡松美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17275803",
+    "t": "Self-Portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paulus%20Moreelse%20-%20Zelfportret.jpg",
+    "y": "1630",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17276011",
+    "t": "Portrait of a Lady",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paulus%20Moreelse%20-%20Portrait%20of%20a%20Lady%20-%20655%20-%20Mauritshuis.jpg",
+    "y": "1627",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17320022",
+    "t": "Portrait of Maria van Utrecht (c. 1552/53-1629)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20van%20Utrecht%20by%20Paulus%20Moreelse%20-%201615.jpg",
+    "y": "1615",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17320024",
+    "t": "Portrait of a girl, known as 'The Little Princess'",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20meisje%2C%20bekend%20als%20%27Het%20prinsesje%27%20Rijksmuseum%20SK-A-277.jpeg",
+    "y": "1623",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17321071",
+    "t": "Portrait of Anthonis van Utenhove (?-1625), Lord of Rijnesteyn",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Anthonis%20van%20Utenhove%20%28%3F-1625%29%2C%20heer%20van%20Rijnesteyn%20Rijksmuseum%20SK-A-556.jpeg",
+    "y": "1619",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17324111",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20Rijksmuseum%20SK-A-1423.jpeg",
+    "y": "1623",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17328358",
+    "t": "Girl at the mirror",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20at%20a%20mirror%2C%20by%20Paulus%20Moreelse.jpg",
+    "y": "1632",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17334360",
+    "t": "Esau selling his birthright",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ezau%20verkoopt%20zijn%20eerstgeboorterecht%20Rijksmuseum%20SK-A-3455.jpeg",
+    "y": "1609",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17342965",
+    "t": "Officers and other civic guardsmen of the IIIrd District of Amsterdam, under the command of Captain Jacob Gerritsz Hoyngh and Lieutenant Nanningh Florisz Cloeck",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Officieren%20en%20andere%20schutters%20van%20wijk%20III%20in%20Amsterdam%20onder%20leiding%20van%20kapitein%20Jacob%20Gerritsz%20Hoyngh%20en%20luitenant%20Nanningh%20Florisz%20Cloeck%20Rijksmuseum%20SK-C-623.jpeg",
+    "y": "1616",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "米希尔·凡·米里维尔特": {
+  "qid": "Q864092",
+  "works": [
+   {
+    "qid": "Q17319999",
+    "t": "Maurice, Prince of Orange",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Maurits%2C%20prins%20van%20Oranje%20Rijksmuseum%20SK-A-255.jpeg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "Rijksmuseum hall 2.1",
+    "links": 3
+   },
+   {
+    "qid": "Q106767911",
+    "t": "Portrait of a man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beaux-Arts%20de%20Carcassonne%20-%20Portrait%20d%27homme%20-%20Michiel%20Jansz.%20van%20Mierevelt.jpg",
+    "y": "1700",
+    "mat": "油彩",
+    "loc": "林茨美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q106767959",
+    "t": "Portrait of a woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beaux-Arts%20de%20Carcassonne%20-%20Portrait%20de%20femme%20-%20Michiel%20Jansz.%20van%20Mierevelt.jpg",
+    "y": "1700",
+    "mat": "油彩",
+    "loc": "卡尔卡松美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17335624",
+    "t": "Portrait of Ambrogio Spinola (1569-1630)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Ambrogio%20Spinola%20%281569-1630%29%20Rijksmuseum%20SK-A-3953.jpeg",
+    "y": "1609",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27003162",
+    "t": "Portrait of Hugo de Groot (Delft 1583 – Rostock 1645)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michiel%20Jansz.%20van%20Mierevelt%20-%20Portret%20van%20Hugo%20de%20Groot%20%28Delft%201583%20%E2%80%93%20Rostock%201645%29%20-%2081054%20A%20B%20-%20Museum%20Rotterdam.jpg",
+    "y": "1608",
+    "mat": "油彩",
+    "loc": "斯希兰住宅",
+    "links": 1
+   },
+   {
+    "qid": "Q125578163",
+    "t": "Anatomy Lesson of Dr. Willem van der Meer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michiel%20Jansz.%20van%20Mierevelt%20-%20Anatomy%20Lesson%20of%20Dr.%20Willem%20van%20der%20Meer%20-%20WGA15617.jpg",
+    "y": "1617",
+    "mat": "油彩",
+    "loc": "王子宮",
+    "links": 1
+   },
+   {
+    "qid": "Q131731827",
+    "t": "Q131731827",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Museum%20der%20Museen.%20Eine%20Zeitreise%20durch%20die%20Kunst%20des%20Ausstellens%20und%20Sehens%20-%20Bildnis%20einer%20Frau%20-%20Michiel%20van%20Mierevelt-7428%20%28without%20frame%29.jpg",
+    "y": "1633",
+    "mat": "",
+    "loc": "瓦爾拉夫-里夏茨博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q62749104",
+    "t": "Portrait of a Lady",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michiel%20Jansz.%20van%20Miereveld%20%281567-1641%29%20-%20Portrait%20of%20a%20Lady%20-%20P66%20-%20The%20Wallace%20Collection.jpg",
+    "y": "1628",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 0
+   },
+   {
+    "qid": "Q63433720",
+    "t": "Portrait of a gentleman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michiel%20van%20Mierevelt%20-%20Portrait%20of%20a%20man%2C%201616.jpg",
+    "y": "1616",
+    "mat": "油彩",
+    "loc": "布雷迪乌斯博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q63438774",
+    "t": "Portrait of a Man with a Maltese cross",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michiel%20van%20Mierevelt%20-%20Portrait%20of%20a%20Man%20with%20a%20Maltese%20cross%203979%2010666579%200.jpg",
+    "y": "1629",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q63440922",
+    "t": "Portrait of Maerten Ruychaver",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michiel%20van%20Mierevelt%20-%20Portret%20van%20Maerten%20Ruychaver%20%281540-1626%29%20-%206%20-%20Museum%20Van%20Loon.jpg",
+    "y": "1618",
+    "mat": "油彩",
+    "loc": "範隆博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q63440930",
+    "t": "Portrait of Alida van der Laen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michiel%20van%20Mierevelt%20-%20Portret%20van%20Alida%20van%20der%20Laen%20%281542-1626%29%20-%207%20-%20Museum%20Van%20Loon.jpg",
+    "y": "1616",
+    "mat": "油彩",
+    "loc": "範隆博物館",
+    "links": 0
+   }
+  ]
+ },
+ "巴托洛梅乌斯·凡·德·赫尔斯特": {
+  "qid": "Q380704",
+  "works": [
+   {
+    "qid": "Q17341692",
+    "t": "Banquet at the Crossbowmen’s Guild in Celebration of the Treaty of Münster",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Schuttersmaaltijd%20ter%20viering%20van%20de%20Vrede%20van%20Munster%20Rijksmuseum%20SK-C-2.jpeg",
+    "y": "1648",
+    "mat": "油彩",
+    "loc": "Hall 2.8",
+    "links": 4
+   },
+   {
+    "qid": "Q19912036",
+    "t": "The Musician",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Musician%20MET%20ep73.2.R.jpg",
+    "y": "1662",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q17319852",
+    "t": "Portrait of Andries Bicker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Andries%20Bicker%20Rijksmuseum%20SK-A-146.jpeg",
+    "y": "1642",
+    "mat": "油彩",
+    "loc": "hall 2.18",
+    "links": 2
+   },
+   {
+    "qid": "Q17319853",
+    "t": "Portrait of Gerard Andriesz Bicker, son of Andries Bicker and lord of Muiden",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20der%20Helst%20-%20Gerard%20Andriesz%20Bicker.jpg",
+    "y": "1642",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q17342554",
+    "t": "Militia Company of District VIII under the Command of Captain Roelof Bicker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Officieren%20en%20andere%20schutters%20van%20wijk%20VIII%20in%20Amsterdam%20onder%20leiding%20van%20kapitein%20Roelof%20Bicker%20en%20luitenant%20Jan%20Michielsz%20Blaeuw%20Rijksmuseum%20SK-C-375.jpeg",
+    "y": "1641",
+    "mat": "油彩",
+    "loc": "Nightwatch hall",
+    "links": 2
+   },
+   {
+    "qid": "Q24406253",
+    "t": "A Boy as Cupid - 1644",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20der%20Helst%20-%20A%20Boy%20as%20Cupid%20-%201644.jpg",
+    "y": "1644",
+    "mat": "油彩",
+    "loc": "私人收藏",
+    "links": 1
+   },
+   {
+    "qid": "Q24410141",
+    "t": "A child's deathbed portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/B.%20van%20der%20Helst%20-%20Doodsbed%20van%20een%20kind%20-%20AB21482%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg",
+    "y": "1645",
+    "mat": "油彩",
+    "loc": "豪达博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q30224331",
+    "t": "Portrait of Anna du Pire as Granida",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20der%20Helst.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "施瓦岑贝格宫",
+    "links": 1
+   },
+   {
+    "qid": "Q30301656",
+    "t": "Portrait of a Young Woman with a Small Book",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Young%20Woman%20by%20Bartholomeus%20van%20der%20Helst%2C%20c.%201640%20-%20Fogg%20Art%20Museum%20-%20DSC02334.JPG",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "福格藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q17319846",
+    "t": "Mary Stuart, Princess of Orange, as Widow of William II",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Stuart%20als%20weduwe%20van%20Willem%20II%20Rijksmuseum%20SK-A-142.jpeg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q19928809",
+    "t": "Abraham del Court and His Wife Maria de Kaersgieter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20der%20Helst%20-%20Abraham%20del%20Court%20and%20his%20wife%20Maria%20de%20Kaersgieter%20-%20Google%20Art%20Project.jpg",
+    "y": "1654",
+    "mat": "油彩",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28796177",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20der%20Helst%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg",
+    "y": "1655",
+    "mat": "油彩",
+    "loc": "托莱多艺术博物馆",
+    "links": 1
+   }
+  ]
+ },
+ "托马斯·德·凯泽": {
+  "qid": "Q932263",
+  "works": [
+   {
+    "qid": "Q17342563",
+    "t": "Officers and other civic guardsmen of the IIIrd District of Amsterdam, under the command of Captain Allaert Cloeck and Lieutenant Lucas Jacobsz Rotgans",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Officieren%20en%20andere%20schutters%20van%20wijk%20III%20in%20Amsterdam%20onder%20leiding%20van%20kapitein%20Allaert%20Cloeck%20en%20luitenant%20Lucas%20Jacobsz%20Rotgans%20Rijksmuseum%20SK-C-381.jpeg",
+    "y": "1632",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q17322223",
+    "t": "Pieter Schout on Horseback",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Schout%20te%20paard%20Rijksmuseum%20SK-A-697.jpeg",
+    "y": "1660",
+    "mat": "銅",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q18689376",
+    "t": "Portrait of a Lady",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20de%20Keyser%20%281596%20-%201667%29%20-%20Portrait%20of%20a%20Lady%20-%2082.1%20-%20Gem%C3%A4ldegalerie.jpg",
+    "y": "1621",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 1
+   }
+  ]
+ },
+ "费迪南德·博尔": {
+  "qid": "Q374039",
+  "works": [
+   {
+    "qid": "Q24953164",
+    "t": "A Lady with a Fan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Bol%20-%20A%20Lady%20with%20a%20Fan.jpg",
+    "y": "1647",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 4
+   },
+   {
+    "qid": "Q17319700",
+    "t": "Portrait of a man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20man%20Rijksmuseum%20SK-A-43.jpeg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q17319701",
+    "t": "Michiel de Ruyter as Lieutenant-Admiral",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Michiel%20de%20Ruyter%20by%20Ferdinand%20Bol%20Rijksmuseum%20Amsterdam%20SK-A-44.jpg",
+    "y": "1667",
+    "mat": "油彩",
+    "loc": "hall 2.15",
+    "links": 3
+   },
+   {
+    "qid": "Q17319702",
+    "t": "Caritas: Johanna de Geer (1629-91) with her children Cecilia Trip (1660-1728) and Laurens Trip (b 1662)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Johanna%20de%20Geer%20with%20Her%20Two%20Children%20Cecilia%20and%20Laurens%20Trip%20as%20Caritas%20by%20Ferdinand%20Bol.jpg",
+    "y": "1664",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q17319703",
+    "t": "Margarita Trip as Minerva, Instructing her Sister Anna Maria Trip",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Margarita%20Trip%20die%20als%20Minerva%20haar%20zuster%20Anna%20Maria%20Trip%20onderwijst%20Rijksmuseum%20SK-A-46.jpeg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q17319699",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Bol.Self-portrait.jpg",
+    "y": "1669",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q17322369",
+    "t": "Portrait of an Old Lady, Possibly Elisabeth Bas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20oude%20dame%2C%20mogelijk%20Elisabeth%20Bas%20Rijksmuseum%20SK-A-714.jpeg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q17342535",
+    "t": "Portrait of the Three Regentesses of the Leprozenhuis, Amsterdam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portretten%20van%20drie%20regentessen%20van%20het%20leprozenhuis%20in%20Amsterdam%20Drie%20regentessen%20van%20het%20Leprozenhuis%20te%20Amsterdam%2C%201668%2C%20SK-C-367.jpg",
+    "y": "1668",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q22337524",
+    "t": "An Astronomer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Bol%20-%20An%20Astronomer.jpg",
+    "y": "1652",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q21716860",
+    "t": "Esther and Mordecai",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Esther%20and%20Mordecai%27%20by%20Ferdinand%20Bol%2C%201654%2C%20The%20Hermitage.JPG",
+    "y": "1654",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28073503",
+    "t": "Portrait of Marie Louise Gonzaga de Nevers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Bol%20-%20Portrait%20of%20a%20lady%2C%20traditionally%20identified%20as%20Maria%20Louise%20Gonzaga%20%281611-1667%29%2C%20Queen%20of%20Poland%202015%20NYR%2003747%200015.jpg",
+    "y": "1650",
+    "mat": "油彩",
+    "loc": "林茨美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q28797715",
+    "t": "Moses descends from Mount Siniai with the Ten Commandments",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Bol%20-%20Moses%20descends%20from%20Mount%20Siniai%20with%20the%20Ten%20Commandments%20-%20Google%20Art%20Project.jpg",
+    "y": "1662",
+    "mat": "油彩",
+    "loc": "Council Chamber in the Royal Palace of Amsterdam",
+    "links": 1
+   }
+  ]
+ },
+ "霍弗特·弗林克": {
+  "qid": "Q550401",
+  "works": [
+   {
+    "qid": "Q13107392",
+    "t": "Isaac Blessing Jacob",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Isaak%20zegent%20Jakob%20Rijksmuseum%20SK-A-110.jpeg",
+    "y": "1638",
+    "mat": "油彩",
+    "loc": "Hall 2.8",
+    "links": 7
+   },
+   {
+    "qid": "Q18353368",
+    "t": "與方尖碑的風景",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20with%20an%20Obelisk%2C%20Govaert%20Flinck%2C%201638%2C%20Isabella%20Stewart%20Gardner%20Museum%2C%20Boston.jpg",
+    "y": "1638",
+    "mat": "木材",
+    "loc": "伊莎貝拉·史都華·嘉納藝術博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q21559244",
+    "t": "Marcus Curius Dentatus refuses the gifts of the Samnites",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Govaert%20Flinck%20-%20The%20incorruptible%20Consul%20Marcus%20Curius%20Dentatus%20-%20Google%20Art%20Project.jpg",
+    "y": "1656",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹王宫",
+    "links": 3
+   },
+   {
+    "qid": "Q17026334",
+    "t": "A Young Archer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Young%20Archer%20by%20Govaert%20Flinck.jpg",
+    "y": "1639",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 2
+   },
+   {
+    "qid": "Q17276021",
+    "t": "Girl by a High Chair",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Govert%20Flinck%20010.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q134884643",
+    "t": "Lamentation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lamentation%20by%20Govaert%20Flinck%2C%201637%2C%20oil%20on%20canvas%20-%20National%20Museum%20of%20Western%20Art%2C%20Tokyo%20-%20DSC08229.JPG",
+    "y": "1637",
+    "mat": "",
+    "loc": "日本國立西洋美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q17334355",
+    "t": "Rembrandt as sheperd with staff and flute",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20als%20herder%20met%20staf%20en%20fluit%20Rijksmuseum%20SK-A-3451.jpeg",
+    "y": "1636",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17342545",
+    "t": "The Company of Captain Albert Bas and Lieutenant Lucas Conijn",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Schutters%20van%20Wijk%20XVIII%20onder%20kapiteint%20Albert%20Bas%20en%20luitenant%20Lucas%20Conijn%2C%20objectnr%20SA%207317.jpg",
+    "y": "1645",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q21697276",
+    "t": "A boy in fanciful costume",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20A%20Boy%20in%20Fanciful%20Costume.jpg",
+    "y": "1633",
+    "mat": "油彩",
+    "loc": "華勒斯典藏館",
+    "links": 1
+   },
+   {
+    "qid": "Q24403848",
+    "t": "A Girl as Flora - c. 1640",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Govert%20Flinck%20-%20A%20Girl%20as%20Flora%20-%20c.%201640.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "南特美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q112626747",
+    "t": "Portrait of a Man in Profile",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Govaert%20Flinck%20-%20Portrait%20of%20a%20Man%20in%20Profile%20%28Previously%20%E2%80%9CPortrait%20of%20a%20Jew%20in%20Profile%E2%80%9D%29%20-%20RR-121%20-%20Leiden%20Collection.jpg",
+    "y": "1637",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q114771082",
+    "t": "Solomon prays for wisdom (1 Kings 3)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Flinck%2C%20Govert%20-%20Salomon%20bidt%20om%20wijsheid%20-%20Paleis%20op%20de%20Dam%2C%20Amsterdam.jpg",
+    "y": "1658",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹王宫",
+    "links": 1
+   }
+  ]
+ }
+}

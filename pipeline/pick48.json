@@ -1,0 +1,614 @@
+[
+ {
+  "id": 8104,
+  "zh": "Interior with a Woman at t",
+  "qid": "Q19925864",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/E.%20de%20Witte%20-%20Interieur%20met%20een%20vrouw%20die%20op%20een%20virginaal%20speelt%20-%202313%20%28OK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+  "y": "1667",
+  "loc": "林茨美術館",
+  "a": "埃马纽埃尔·德·维特"
+ },
+ {
+  "id": 8105,
+  "zh": "The Cannon Shot",
+  "qid": "Q17342294",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Het%20kanonschot%20Rijksmuseum%20SK-C-244.jpeg",
+  "y": "1680",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 8106,
+  "zh": "A Ship on the High Seas Ca",
+  "qid": "Q17324873",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20Windstoot%20-%20A%20ship%20in%20need%20in%20a%20raging%20storm%20%28Willem%20van%20de%20Velde%20II%2C%201707%29.jpg",
+  "y": "1680",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 8107,
+  "zh": "Dutch Ships in a Calm",
+  "qid": "Q17347662",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20Dutch%20men-o%27-war%20and%20other%20shipping%20in%20a%20calm.jpg",
+  "y": "1665",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 8108,
+  "zh": "Entrance to a Dutch Port",
+  "qid": "Q19912543",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Entrance%20to%20a%20Dutch%20Port%20MET%20DP146449.jpg",
+  "y": "1665",
+  "loc": "大都會藝術博物館",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 8109,
+  "zh": "A Dutch Yacht saluting",
+  "qid": "Q26511270",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Yacht%20saluting.jpg",
+  "y": "1661",
+  "loc": "国家美术馆",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 8110,
+  "zh": "A Dutch Ship coming to Anc",
+  "qid": "Q26706190",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Ship%20coming%20to%20Anchor.jpg",
+  "y": "1657",
+  "loc": "国家美术馆",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 8111,
+  "zh": "An Old Woman Dozing",
+  "qid": "Q8198677",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maes%20Old%20Woman%20Dozing.jpg",
+  "y": "1656",
+  "loc": "Oldmasters Museum",
+  "a": "尼古拉斯·马斯"
+ },
+ {
+  "id": 8112,
+  "zh": "The Listening Housewife",
+  "qid": "Q24284159",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20listening%20Housewife%2C%20by%20Nicolaes%20Maes.jpg",
+  "y": "1655",
+  "loc": "皇室收藏",
+  "a": "尼古拉斯·马斯"
+ },
+ {
+  "id": 8113,
+  "zh": "The Old Lacemaker",
+  "qid": "Q17276269",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20The%20Old%20Lacemaker%20-%201101%20-%20Mauritshuis.jpg",
+  "y": "1655",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "尼古拉斯·马斯"
+ },
+ {
+  "id": 8114,
+  "zh": "The Lacemaker",
+  "qid": "Q19905462",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lacemaker%20MET%20DP145402.jpg",
+  "y": "1656",
+  "loc": "大都會藝術博物館",
+  "a": "尼古拉斯·马斯"
+ },
+ {
+  "id": 8115,
+  "zh": "Bathing children",
+  "qid": "Q24283841",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20Children%20bathing.jpg",
+  "y": "1650",
+  "loc": "Room 845",
+  "a": "尼古拉斯·马斯"
+ },
+ {
+  "id": 8116,
+  "zh": "Old Woman Saying Grace, Kn",
+  "qid": "Q17342882",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oude%20vrouw%20in%20gebed%2C%20bekend%20als%20%E2%80%98Het%20gebed%20zonder%20end%E2%80%99%20Rijksmuseum%20SK-C-535.jpeg",
+  "y": "1656",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "尼古拉斯·马斯"
+ },
+ {
+  "id": 8117,
+  "zh": "Banquet at the Crossbowmen",
+  "qid": "Q17341692",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Schuttersmaaltijd%20ter%20viering%20van%20de%20Vrede%20van%20Munster%20Rijksmuseum%20SK-C-2.jpeg",
+  "y": "1648",
+  "loc": "Hall 2.8",
+  "a": "巴托洛梅乌斯·凡·德·赫尔斯特"
+ },
+ {
+  "id": 8118,
+  "zh": "The Musician",
+  "qid": "Q19912036",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Musician%20MET%20ep73.2.R.jpg",
+  "y": "1662",
+  "loc": "大都會藝術博物館",
+  "a": "巴托洛梅乌斯·凡·德·赫尔斯特"
+ },
+ {
+  "id": 8119,
+  "zh": "Portrait of Andries Bicker",
+  "qid": "Q17319852",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Andries%20Bicker%20Rijksmuseum%20SK-A-146.jpeg",
+  "y": "1642",
+  "loc": "hall 2.18",
+  "a": "巴托洛梅乌斯·凡·德·赫尔斯特"
+ },
+ {
+  "id": 8120,
+  "zh": "Portrait of Gerard Andries",
+  "qid": "Q17319853",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20der%20Helst%20-%20Gerard%20Andriesz%20Bicker.jpg",
+  "y": "1642",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "巴托洛梅乌斯·凡·德·赫尔斯特"
+ },
+ {
+  "id": 8121,
+  "zh": "Militia Company of Distric",
+  "qid": "Q17342554",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Officieren%20en%20andere%20schutters%20van%20wijk%20VIII%20in%20Amsterdam%20onder%20leiding%20van%20kapitein%20Roelof%20Bicker%20en%20luitenant%20Jan%20Michielsz%20Blaeuw%20Rijksmuseum%20SK-C-375.jpeg",
+  "y": "1641",
+  "loc": "Nightwatch hall",
+  "a": "巴托洛梅乌斯·凡·德·赫尔斯特"
+ },
+ {
+  "id": 8122,
+  "zh": "Brothel Scene",
+  "qid": "Q17189254",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20van%20Mieris%20de%20Oude%20-%20Brothel%20Scene%20-%20860%20-%20Mauritshuis.jpg",
+  "y": "1659",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "弗兰斯·凡·米里斯"
+ },
+ {
+  "id": 8123,
+  "zh": "A Cavalier",
+  "qid": "Q30150849",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Mieris%20a%20Cavalier.jpg",
+  "y": "1658",
+  "loc": "http://www.wikidata.org/.well-known/genid/3d254a81dd33e4ad998f86473fb0db2a",
+  "a": "弗兰斯·凡·米里斯"
+ },
+ {
+  "id": 8124,
+  "zh": "Young Woman threading Pear",
+  "qid": "Q14922848",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mieris%201%2C%20Frans%20van%20-%20The%20Woman%20threading%20pearls%20-%201658.jpg",
+  "y": "1658",
+  "loc": "法布爾博物館",
+  "a": "弗兰斯·凡·米里斯"
+ },
+ {
+  "id": 8125,
+  "zh": "Pictura (An Allegory of Pa",
+  "qid": "Q20184860",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20van%20Mieris%20the%20Elder%20%28Dutch%20-%20Pictura%20%28An%20Allegory%20of%20Painting%29%20-%20Google%20Art%20Project.jpg",
+  "y": "1661",
+  "loc": "盖蒂中心",
+  "a": "弗兰斯·凡·米里斯"
+ },
+ {
+  "id": 8126,
+  "zh": "The interrupted song",
+  "qid": "Q51161714",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20interrupted%20song%2C%20by%20Frans%20van%20Mieris%20the%20elder.jpg",
+  "y": "1671",
+  "loc": "巴黎",
+  "a": "弗兰斯·凡·米里斯"
+ },
+ {
+  "id": 8127,
+  "zh": "Wife of Jeroboam and the P",
+  "qid": "Q51283788",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20mieris%20femme%20de%20jeroboam.jpg",
+  "y": "1671",
+  "loc": "里爾美術宮",
+  "a": "弗兰斯·凡·米里斯"
+ },
+ {
+  "id": 8128,
+  "zh": "Woman with a Child in a Pa",
+  "qid": "Q17319893",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20007.jpg",
+  "y": "1656",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 8129,
+  "zh": "Mother Lacing Her Bodice b",
+  "qid": "Q1214931",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20%281629%20-%20in%20oder%20nach%201679%29%20-%20The%20Mother%20-%20820B%20-%20Gem%C3%A4ldegalerie.jpg",
+  "y": "1661",
+  "loc": "畫廊",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 8130,
+  "zh": "A Woman with a Basket of B",
+  "qid": "Q1451497",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20Frau%20mit%20Bohnenkorb%20im%20Gem%C3%BCseg%C3%A4rtchen.jpg",
+  "y": "1651",
+  "loc": "巴塞爾美術館",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 8131,
+  "zh": "A Boy Bringing Bread",
+  "qid": "Q4655597",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Boy%20Bringing%20Bread%20Pieter%20de%20Hooch.jpg",
+  "y": "1663",
+  "loc": "華勒斯典藏館",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 8132,
+  "zh": "The Council Chamber in Ams",
+  "qid": "Q5968050",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20The%20Council%20Chamber%20in%20Amsterdam%20Town%20Hall%20-%20WGA11710.jpg",
+  "y": "1664",
+  "loc": "提森-博内米萨博物馆",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 8133,
+  "zh": "A Dutch Courtyard",
+  "qid": "Q19939031",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20012.jpg",
+  "y": "1658",
+  "loc": "荷蘭",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 8134,
+  "zh": "Officers and other civic g",
+  "qid": "Q17342563",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Officieren%20en%20andere%20schutters%20van%20wijk%20III%20in%20Amsterdam%20onder%20leiding%20van%20kapitein%20Allaert%20Cloeck%20en%20luitenant%20Lucas%20Jacobsz%20Rotgans%20Rijksmuseum%20SK-C-381.jpeg",
+  "y": "1632",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "托马斯·德·凯泽"
+ },
+ {
+  "id": 8135,
+  "zh": "River Landscape with Windm",
+  "qid": "Q19928837",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20Goyen%20012.jpg",
+  "y": "1644",
+  "loc": "Room 836",
+  "a": "扬·凡·霍延"
+ },
+ {
+  "id": 8136,
+  "zh": "Girl eating oysters",
+  "qid": "Q653607",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Steen%20008.jpg",
+  "y": "1658",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 8137,
+  "zh": "A Mayor of Delft and his D",
+  "qid": "Q4028318",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolf%20en%20Catharina%20Croeser%2C%20bekend%20als%20%E2%80%98De%20burgemeester%20van%20Delft%20en%20zijn%20dochter%E2%80%99%20Rijksmuseum%20SK-A-4981.jpeg",
+  "y": "1655",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 8138,
+  "zh": "The Happy Family",
+  "qid": "Q17342250",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Havicksz.%20Steen%20-%20Het%20vrolijke%20huisgezin%20-%20Google%20Art%20Project.jpg",
+  "y": "1668",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 8139,
+  "zh": "The Doctor's Visit in a Ri",
+  "qid": "Q4014797",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/JanSteen-Doctor%27sVisit%281658-1662%29.jpg",
+  "y": "1661",
+  "loc": "阿普斯利邸宅",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 8140,
+  "zh": "Wine is a Mocker",
+  "qid": "Q1856045",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20wine%20is%20a%20mocker%201663-1664%20Jan%20Steen.jpg",
+  "y": "1668",
+  "loc": "諾頓西蒙博物館",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 8141,
+  "zh": "Beware of Luxury (“In Weel",
+  "qid": "Q3874439",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Steen%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20%22Die%20verkehrte%20Welt%22%20-%20GG%20791%20-%20Kunsthistorisches%20Museum.jpg",
+  "y": "1663",
+  "loc": "艺术史博物馆",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 8144,
+  "zh": "Maurice, Prince of Orange",
+  "qid": "Q17319999",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Maurits%2C%20prins%20van%20Oranje%20Rijksmuseum%20SK-A-255.jpeg",
+  "y": "1613",
+  "loc": "Rijksmuseum hall 2.1",
+  "a": "米希尔·凡·米里维尔特"
+ },
+ {
+  "id": 8145,
+  "zh": "The Feast of Bacchus",
+  "qid": "Q116246036",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philips%20Koninck%20-%20The%20Feast%20of%20Bacchus%20-%20Museum%20Bredius.jpg",
+  "y": "1654",
+  "loc": "布雷迪乌斯博物馆",
+  "a": "菲利普斯·科宁克"
+ },
+ {
+  "id": 8146,
+  "zh": "River Landscape with Ferry",
+  "qid": "Q20177276",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Salomon%20van%20Ruysdael%20-%20Rivierlandschap%20met%20veerpont%20%281649%29.jpg",
+  "y": "1649",
+  "loc": "國家藝廊",
+  "a": "萨洛蒙·凡·雷斯达尔"
+ },
+ {
+  "id": 8147,
+  "zh": "Drawing the Eel",
+  "qid": "Q19905279",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Drawing%20the%20Eel%20MET%20DP147902.jpg",
+  "y": "1650",
+  "loc": "大都會藝術博物館",
+  "a": "萨洛蒙·凡·雷斯达尔"
+ },
+ {
+  "id": 8148,
+  "zh": "A View of Deventer seen fr",
+  "qid": "Q23669197",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Salomon%20van%20Ruisdael%20Deventer.jpg",
+  "y": "1657",
+  "loc": "国家美术馆",
+  "a": "萨洛蒙·凡·雷斯达尔"
+ },
+ {
+  "id": 8149,
+  "zh": "A Lady with a Fan",
+  "qid": "Q24953164",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Bol%20-%20A%20Lady%20with%20a%20Fan.jpg",
+  "y": "1647",
+  "loc": "国家美术馆",
+  "a": "费迪南德·博尔"
+ },
+ {
+  "id": 8150,
+  "zh": "Portrait of a man",
+  "qid": "Q17319700",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20man%20Rijksmuseum%20SK-A-43.jpeg",
+  "y": "1663",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "费迪南德·博尔"
+ },
+ {
+  "id": 8151,
+  "zh": "Michiel de Ruyter as Lieut",
+  "qid": "Q17319701",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Michiel%20de%20Ruyter%20by%20Ferdinand%20Bol%20Rijksmuseum%20Amsterdam%20SK-A-44.jpg",
+  "y": "1667",
+  "loc": "hall 2.15",
+  "a": "费迪南德·博尔"
+ },
+ {
+  "id": 8152,
+  "zh": "Caritas: Johanna de Geer (",
+  "qid": "Q17319702",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Johanna%20de%20Geer%20with%20Her%20Two%20Children%20Cecilia%20and%20Laurens%20Trip%20as%20Caritas%20by%20Ferdinand%20Bol.jpg",
+  "y": "1664",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "费迪南德·博尔"
+ },
+ {
+  "id": 8153,
+  "zh": "Margarita Trip as Minerva,",
+  "qid": "Q17319703",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Margarita%20Trip%20die%20als%20Minerva%20haar%20zuster%20Anna%20Maria%20Trip%20onderwijst%20Rijksmuseum%20SK-A-46.jpeg",
+  "y": "1663",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "费迪南德·博尔"
+ },
+ {
+  "id": 8154,
+  "zh": "Portrait of an Old Lady, P",
+  "qid": "Q17322369",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20een%20oude%20dame%2C%20mogelijk%20Elisabeth%20Bas%20Rijksmuseum%20SK-A-714.jpeg",
+  "y": "1640",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "费迪南德·博尔"
+ },
+ {
+  "id": 8161,
+  "zh": "Interior of the Old Church",
+  "qid": "Q17324364",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interieur%20van%20de%20Oude%20Kerk%20in%20Delft%20Rijksmuseum%20SK-A-1584.jpeg",
+  "y": "1654",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "赫拉德·豪克海斯特"
+ },
+ {
+  "id": 8162,
+  "zh": "Portrait of an old woman r",
+  "qid": "Q16913580",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20005.jpg",
+  "y": "1631",
+  "loc": "Gallery of Honour",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 8163,
+  "zh": "The Quack",
+  "qid": "Q18654843",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20-%20The%20Quack%20-%20Google%20Art%20Project.jpg",
+  "y": "1652",
+  "loc": "博伊曼斯·范伯宁恩美术馆",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 8164,
+  "zh": "Self-Portrait",
+  "qid": "Q19911869",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20MET%20DP145902.jpg",
+  "y": "1665",
+  "loc": "大都會藝術博物館",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 8165,
+  "zh": "The Dropsical Woman",
+  "qid": "Q19544603",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Dou%20-%20De%20waterzuchtige%20vrouw.jpg",
+  "y": "1663",
+  "loc": "Room 839",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 8166,
+  "zh": "A Hermit",
+  "qid": "Q29940222",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20-%20A%20Hermit%20WLC%20WLC%20P170.jpg",
+  "y": "1655",
+  "loc": "華勒斯典藏館",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 8167,
+  "zh": "The Physician",
+  "qid": "Q110401366",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20-%20The%20Physician%20-%20Christchurch%20Art%20Gallery.jpg",
+  "y": "1653",
+  "loc": "基督城艺术馆",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 8168,
+  "zh": "The Jewish Cemetery",
+  "qid": "Q5824293",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaackszoon%20van%20Ruisdael%20-%20The%20Jewish%20Cemetery%20%281654%20or%201655%29.jpg",
+  "y": "1650",
+  "loc": "底特律藝術學院",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 8169,
+  "zh": "A Wooded Marsh",
+  "qid": "Q3892842",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaaksz.%20van%20Ruisdael%20015.jpg",
+  "y": "1660",
+  "loc": "埃尔米塔日博物馆",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 8170,
+  "zh": "Castle Bentheim",
+  "qid": "Q3793357",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Il%20castello%20di%20Bentheim%20%28Jacob%20Van%20Ruisdael%29.jpg",
+  "y": "1653",
+  "loc": "愛爾蘭國立美術館",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 8171,
+  "zh": "The Ray of Light",
+  "qid": "Q20683330",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaaksz.%20van%20Ruisdael%20003.jpg",
+  "y": "1665",
+  "loc": "Room 837",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 8172,
+  "zh": "Landscape with Waterfall",
+  "qid": "Q11747757",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaacksz.%20van%20Ruisdael%20-%20Landschap%20met%20waterval%20-%20Google%20Art%20Project.jpg",
+  "y": "1668",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 8173,
+  "zh": "View of Haarlem with Bleac",
+  "qid": "Q15805700",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Haarlem%20with%20Bleaching%20Grounds%20c1665%20Ruisdael.jpg",
+  "y": "1670",
+  "loc": "蘇黎世美術館",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 8174,
+  "zh": "Isaac Blessing Jacob",
+  "qid": "Q13107392",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Isaak%20zegent%20Jakob%20Rijksmuseum%20SK-A-110.jpeg",
+  "y": "1638",
+  "loc": "Hall 2.8",
+  "a": "霍弗特·弗林克"
+ },
+ {
+  "id": 8175,
+  "zh": "與方尖碑的風景",
+  "qid": "Q18353368",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20with%20an%20Obelisk%2C%20Govaert%20Flinck%2C%201638%2C%20Isabella%20Stewart%20Gardner%20Museum%2C%20Boston.jpg",
+  "y": "1638",
+  "loc": "伊莎貝拉·史都華·嘉納藝術博物館",
+  "a": "霍弗特·弗林克"
+ },
+ {
+  "id": 8176,
+  "zh": "Marcus Curius Dentatus ref",
+  "qid": "Q21559244",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Govaert%20Flinck%20-%20The%20incorruptible%20Consul%20Marcus%20Curius%20Dentatus%20-%20Google%20Art%20Project.jpg",
+  "y": "1656",
+  "loc": "阿姆斯特丹王宫",
+  "a": "霍弗特·弗林克"
+ },
+ {
+  "id": 8177,
+  "zh": "A Young Archer",
+  "qid": "Q17026334",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Young%20Archer%20by%20Govaert%20Flinck.jpg",
+  "y": "1639",
+  "loc": "華勒斯典藏館",
+  "a": "霍弗特·弗林克"
+ },
+ {
+  "id": 8178,
+  "zh": "Girl by a High Chair",
+  "qid": "Q17276021",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Govert%20Flinck%20010.jpg",
+  "y": "1640",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "霍弗特·弗林克"
+ },
+ {
+  "id": 8179,
+  "zh": "Lamentation",
+  "qid": "Q134884643",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lamentation%20by%20Govaert%20Flinck%2C%201637%2C%20oil%20on%20canvas%20-%20National%20Museum%20of%20Western%20Art%2C%20Tokyo%20-%20DSC08229.JPG",
+  "y": "1637",
+  "loc": "日本國立西洋美術館",
+  "a": "霍弗特·弗林克"
+ }
+]

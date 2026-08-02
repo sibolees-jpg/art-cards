@@ -12,6 +12,8 @@ titles={cc.convert(t) for t in re.findall(r'(?<![A-Za-z])t:"([^"]+)"',s)}
 clean=lambda t: re.sub(r'[\s·:：,，。、_\-—]','',re.sub(r'[（(【\[].*?[）)】\]]','',t))
 libset={clean(t) for t in titles}; libsort={''.join(sorted(clean(t))) for t in titles}
 used=set()
+if os.path.exists(f'{SP}/used_qids.json'):
+    used|=set(json.load(open(f'{SP}/used_qids.json')))   # 持久账本:所有历史批次的 qid
 for f in os.listdir(SP):
     if f.startswith('pick') and f.endswith('.json'):
         try: used|={x['qid'] for x in json.load(open(f'{SP}/{f}'))}

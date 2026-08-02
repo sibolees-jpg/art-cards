@@ -23,10 +23,18 @@ def valid(p):
     if not(os.path.exists(p) and os.path.getsize(p)>8000): return False
     with open(p,'rb') as f: h=f.read(12)
     return h[:4]==b'RIFF' and h[8:12]==b'WEBP'
+# 归属账本:记录每个 id 对应的 qid,防止不同批次复用 id 导致图文错位
+LEDGER=f'{SP}/img_owner.json'
+owner=json.load(open(LEDGER)) if os.path.exists(LEDGER) else {}
 ok=[];bad=[]
 for b in spec:
     dst=f"{REPO}/imgs/{b['id']}.webp"
-    if valid(dst): ok.append(b['id']); continue
+    sid=str(b['id'])
+    if valid(dst):
+        if owner.get(sid)==b.get('qid'):
+            ok.append(b['id']); continue        # 确认是同一件作品,跳过
+        os.remove(dst)                           # 归属不符:是别批留下的,删掉重下
+        print('清理错位图',b['id'],flush=True)
     urls=[]
     tu=thumb(b['img'])
     if tu: urls.append(tu)
@@ -43,6 +51,8 @@ for b in spec:
                 if sc<1: im=im.resize((int(w*sc),int(h*sc)),Image.LANCZOS)
                 im.save(dst,'WEBP',quality=76)
                 print('OK',b['id'],b['zh'],'%dKB'%(os.path.getsize(dst)//1024),flush=True)
+                owner[str(b['id'])]=b.get('qid')
+                json.dump(owner,open(LEDGER,'w'))
                 ok.append(b['id']); done=True; break
             except Exception: pass
         time.sleep(1)
