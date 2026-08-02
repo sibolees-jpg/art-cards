@@ -1,0 +1,2802 @@
+{
+ "霍尔拜因": {
+  "qid": "Q49987",
+  "works": [
+   {
+    "qid": "Q99337614",
+    "t": "Portrait of a Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20l%27Ancien%2C%20Portrait%20de%20femme.jpg",
+    "y": "1515",
+    "mat": "油彩",
+    "loc": "恩特林登博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q29480612",
+    "t": "St. Sebastian Altar: St. Barbara",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20d.%20%C3%84.%20-%20St%20Barbara%20-%20WGA11485.jpg",
+    "y": "1516",
+    "mat": "lime panel",
+    "loc": "巴伐利亚国家绘画收藏馆中，不公开展示作品的位置",
+    "links": 1
+   },
+   {
+    "qid": "Q29480614",
+    "t": "St. Sebastian Altar: St. Elizabeth of Hungary",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Elisabeth%20Hans%20Holbein%20d.%20%C3%84.%20ca1516.jpg",
+    "y": "1516",
+    "mat": "lime panel",
+    "loc": "老绘画陈列馆",
+    "links": 1
+   },
+   {
+    "qid": "Q29946136",
+    "t": "St. Sebastian Altar: The Martyrdom of St. Sebastian",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Martyrium%20Des%20Hl.%20Sebastian%20%28Detail%29%20Hans%20Holbein.jpg",
+    "y": "1516",
+    "mat": "lime panel",
+    "loc": "老绘画陈列馆",
+    "links": 1
+   },
+   {
+    "qid": "Q29952692",
+    "t": "Mary with the Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20d.%20%C3%84.%20004.jpg",
+    "y": "1499",
+    "mat": "涂料",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q64787068",
+    "t": "Frankfurt Dominican Altarpiece: Sunday view",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Inside%20of%20the%20Outer%20Wings%2C%20Passion%20of%20Christ%20%28High%20Altarpiece%20of%20the%20Dominican%20Church%29%20%28SM%20hm10-16%29.png",
+    "y": "1501",
+    "mat": "",
+    "loc": "施泰德艺术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q64800194",
+    "t": "Frankfurt Dominican Altarpiece: Workday view",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1501%20Holbein%20d.%C3%84.%20Frankfurter%20Dominikaneraltar%20anagoria.JPG",
+    "y": "1501",
+    "mat": "",
+    "loc": "施泰德艺术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q96151001",
+    "t": "Virgin with Child by Hans Holbein the Elder, Museu Nacional de Arte Antiga",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Virgem%20com%20o%20Menino%20e%20entre%20Santos%20e%20Anjos%20-%20Hans%20Holbein.jpg",
+    "y": "1519",
+    "mat": "油彩",
+    "loc": "國立古代美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q107445429",
+    "t": "The Virgin and Sleeping Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20mit%20dem%20schlafenden%20Christuskind%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205100561.jpg",
+    "y": "1520",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q114036433",
+    "t": "耶稣基督的介绍寺庙的",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1501%20Holbein%20d.%C3%84.%20Presentation%20of%20Jesus%20at%20the%20Temple%20anagoria.JPG",
+    "y": "1500",
+    "mat": "spruce",
+    "loc": "漢堡美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q29511123",
+    "t": "Kaisheim Altarpiece",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Holbein%20d.%20%C3%84.%20-%20Wings%20of%20the%20Kaisheim%20Altarpiece%20-%20WGA11478.jpg",
+    "y": "1502",
+    "mat": "木材",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q64787006",
+    "t": "High Altar of the Dominican Church in Frankfurt",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Inside%20of%20the%20Outer%20Wings%2C%20Passion%20of%20Christ%20%28High%20Altarpiece%20of%20the%20Dominican%20Church%29%20%28SM%20hm10-16%29.png",
+    "y": "1501",
+    "mat": "",
+    "loc": "施泰德艺术馆",
+    "links": 0
+   }
+  ]
+ },
+ "维茨": {
+  "qid": "Q313183",
+  "works": [
+   {
+    "qid": "Q9019507",
+    "t": "The Miraculous Draft of Fishes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz.%20Der%20Wunderbare%20Fischzug%20%281444%29.jpg",
+    "y": "1444",
+    "mat": "木材",
+    "loc": "瑞士",
+    "links": 7
+   },
+   {
+    "qid": "Q40043807",
+    "t": "Saints Catherine and Mary Magdalene",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20007.jpg",
+    "y": "1440",
+    "mat": "油彩",
+    "loc": "圣母院博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q21589123",
+    "t": "The Queen of Sheba before Solomon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20-%20The%20Queen%20of%20Sheba%20before%20Solomon%20%28c.%201435%29.jpg",
+    "y": "1435",
+    "mat": "oak panel",
+    "loc": "German painting of the 13th-16th century, Hall I",
+    "links": 1
+   },
+   {
+    "qid": "Q47014921",
+    "t": "Christ on the Cross",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zuschreibung%20unsicher%2C%20Konrad%20Witz%20%281400-10%20-%201444-46%29%20-%20The%20Crucifixion%20of%20Christ%20-%201656%20-%20Gem%C3%A4ldegalerie.jpg",
+    "y": "1440",
+    "mat": "油彩",
+    "loc": "German paintings 13th-16.th century room 4",
+    "links": 1
+   },
+   {
+    "qid": "Q99938195",
+    "t": "Heilsspiegelaltar - Augustus and Sibyl of Tibur",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20-%20Emperor%20Augustus%20and%20the%20Tiburtine%20Sibyl%20%28c.%201435%29.jpg",
+    "y": "1435",
+    "mat": "油彩",
+    "loc": "第戎美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q99943072",
+    "t": "Abishai before David",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20-%20Abisai%20vor%20David%20-%20Heilsspiegelaltar%20Basel.jpg",
+    "y": "1435",
+    "mat": "油彩",
+    "loc": "巴塞爾美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q117228209",
+    "t": "The Annunciation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20-%20The%20Annunciation%20to%20Mary%20%28ca.%201440%29.jpg",
+    "y": "1442",
+    "mat": "油彩",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q126717878",
+    "t": "Saint Christopher",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20-%20Der%20hl.%20Christophorus%20%28Kunstmuseum%20Basel%29.jpg",
+    "y": "1440",
+    "mat": "混合技法",
+    "loc": "巴塞爾美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q19857406",
+    "t": "Pietà",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20-%20Lamentation.jpg",
+    "y": "1440",
+    "mat": "油彩",
+    "loc": "弗里克收藏",
+    "links": 0
+   },
+   {
+    "qid": "Q99940051",
+    "t": "St Augustine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20-%20Augustinus%20-%20Heilsspiegelaltar%20Basel.jpg",
+    "y": "1435",
+    "mat": "油彩",
+    "loc": "第戎美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q99941980",
+    "t": "Abraham before Melchizedek",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20-%20Abraham%20et%20Melchis%C3%A9dech%20%28c.%201435%29.jpg",
+    "y": "1435",
+    "mat": "油彩",
+    "loc": "巴塞爾美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q99942195",
+    "t": "Sibbecai and Benaiah",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Witz%20-%20Sibbechai%20und%20Benaja%20-%20Heilsspiegelaltar%20Basel.jpg",
+    "y": "1435",
+    "mat": "油彩",
+    "loc": "巴塞爾美術館",
+    "links": 0
+   }
+  ]
+ },
+ "洛赫纳": {
+  "qid": "Q290812",
+  "works": [
+   {
+    "qid": "Q320328",
+    "t": "Madonna of the Rose Bower",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Lochner%20Madonna%20im%20Rosenhag.jpg",
+    "y": "1440",
+    "mat": "tempera",
+    "loc": "瓦爾拉夫-里夏茨博物館",
+    "links": 10
+   },
+   {
+    "qid": "Q21084037",
+    "t": "Presentation of Christ in the Temple",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Lochner%20Presentation%20at%20the%20Temple%2C%20c%201447.jpg",
+    "y": "1445",
+    "mat": "",
+    "loc": "C·古爾本基安基金會",
+    "links": 4
+   },
+   {
+    "qid": "Q22329904",
+    "t": "Annunciation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dreikoenigsaltar%20Verkundigung.jpg",
+    "y": "1440",
+    "mat": "",
+    "loc": "科隆主教座堂",
+    "links": 3
+   },
+   {
+    "qid": "Q11684478",
+    "t": "Adoration of the Child Jesus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Lochner%20-%20Adoration%20of%20the%20Child%20Jesus%20-%20WGA13343.jpg",
+    "y": "1445",
+    "mat": "木材",
+    "loc": "老绘画陈列馆",
+    "links": 2
+   },
+   {
+    "qid": "Q119407162",
+    "t": "Q119407162",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Lochner%20Darmstadt%20Presentation.jpg",
+    "y": "",
+    "mat": "金",
+    "loc": "黑森州立博物馆 达姆施塔特",
+    "links": 2
+   },
+   {
+    "qid": "Q137604499",
+    "t": "Madonna with the Violet",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/2025-26%20Kolumba%20Jahresausstellung%2C%20Madonna%20mit%20dem%20Veilchen%2C%20Stefan%20Lochner%20%28rahmenlos%29.jpg",
+    "y": "1450",
+    "mat": "混合技法",
+    "loc": "Kolumba",
+    "links": 2
+   },
+   {
+    "qid": "Q60469905",
+    "t": "The Virgin Crowned by Angels",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Lochner%20-%20The%20Virgin%20Crowned%20by%20Angels%20-%201968.20%20-%20Cleveland%20Museum%20of%20Art.tiff",
+    "y": "1450",
+    "mat": "油彩",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q116295018",
+    "t": "Saints Ambrose, Cecilia and Augustine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lochner%20Ambroise%20Augustin%20et%20Cecile.jpg",
+    "y": "1447",
+    "mat": "油彩",
+    "loc": "瓦爾拉夫-里夏茨博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q117228192",
+    "t": "The crucifixion of Christ with Saints",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crucifixion%20by%20Stefan%20Lochner%2C%20Cologne%2C%20c.%201440%2C%20paining%20on%20oak%2C%20view%201%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC02956.jpg",
+    "y": "1440",
+    "mat": "油彩",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q19925784",
+    "t": "John the Evangelist",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lochner%20Saint%20Jean%20l%27evangeliste.jpg",
+    "y": "1440",
+    "mat": "木材",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q19926040",
+    "t": "Mary Magdalen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lochner%20Marie%20Madeleine.jpg",
+    "y": "1400",
+    "mat": "木材",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q26678244",
+    "t": "Three Saints",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Lochner%20-%20Drei%20Heilige%2C%20ca.1450%20%28London%29.jpg",
+    "y": "1450",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 0
+   }
+  ]
+ },
+ "莫泽": {
+  "qid": "Q464867",
+  "works": [
+   {
+    "qid": "Q1883842",
+    "t": "Altars in St. Maria Magdalena",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Moser%20001.jpg",
+    "y": "1432",
+    "mat": "",
+    "loc": "St. Mary Magdalene Church",
+    "links": 2
+   },
+   {
+    "qid": "Q28060324",
+    "t": "H. John of crucifixion",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L.%20Moser%20-%20Sint%20Johannes%20de%20Doper%20-%20NK1553%20-%20Cultural%20Heritage%20Agency%20of%20the%20Netherlands%20Art%20Collection.jpg",
+    "y": "1431",
+    "mat": "油彩",
+    "loc": "林茨美術館",
+    "links": 0
+   }
+  ]
+ },
+ "穆尔切": {
+  "qid": "Q663122",
+  "works": [
+   {
+    "qid": "Q1523608",
+    "t": "Wurzach Altar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Gem%C3%A4ldegalerie%20008%20%28cropped%29.jpg",
+    "y": "1437",
+    "mat": "",
+    "loc": "German painting of the 13th-16th century, Hall I",
+    "links": 3
+   },
+   {
+    "qid": "Q60838767",
+    "t": "Q60838767",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20Dreifaltigkeit%20Liebieghaus%20StP401%20image%2001.jpg",
+    "y": "",
+    "mat": "雪花石膏",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q127038444",
+    "t": "John the Baptist",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20Johannes%20der%20T%C3%A4ufer.jpg",
+    "y": "1450",
+    "mat": "willow wood",
+    "loc": "巴伐利亞國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q136283745",
+    "t": "Man of Sorrows (Ulm Minster)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulm-Muenster-SchmerzensMann-061104.jpg",
+    "y": "1429",
+    "mat": "砂岩",
+    "loc": "乌尔姆主教座堂",
+    "links": 1
+   },
+   {
+    "qid": "Q18685976",
+    "t": "Christ on the Mount of Olives (Wurzach altarpiece)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20-%20Innenseite%20des%20Wurzacher%20Altars%20%28links%20oben%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1437",
+    "mat": "油彩",
+    "loc": "German painting of the 13th-16th century, Hall I",
+    "links": 0
+   },
+   {
+    "qid": "Q18685977",
+    "t": "Christ before Pilate",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20-%20Fl%C3%BCgel-Innenseite%20des%20Wurzacher%20Altars%20%28rechts%20oben%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1437",
+    "mat": "油彩",
+    "loc": "German painting of the 13th-16th century, Hall I",
+    "links": 0
+   },
+   {
+    "qid": "Q18685978",
+    "t": "The Death of Mary (Wurzach altarpiece)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20-%20Au%C3%9Fenfl%C3%BCgel%20des%20Wurzacher%20Altars%20%28rechts%20unten%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1437",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q18685981",
+    "t": "The Resurrection (Wurzach altarpiece)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20-%20Fl%C3%BCgel-Innenseite%20des%20Wurzacher%20Altars%20%28rechts%20unten%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1437",
+    "mat": "油彩",
+    "loc": "German painting of the 13th-16th century, Hall I",
+    "links": 0
+   },
+   {
+    "qid": "Q18685983",
+    "t": "The descent of the Holy Spirit",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20-%20Au%C3%9Fenfl%C3%BCgel%20des%20Wurzacher%20Altars%20%28links%20unten%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1437",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q18685985",
+    "t": "Jesus Christ carrying the Cross, inner wing",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20-%20Fl%C3%BCgel-Innenseite%20des%20Wurzacher%20Altars%20%28links%20unten%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1437",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q21587176",
+    "t": "Adoration of the Kings (Wurzach altarpiece)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20-%20Au%C3%9Fenfl%C3%BCgel%20des%20Wurzacher%20Altars%20-%20Google%20Art%20Project.jpg",
+    "y": "1437",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q21588512",
+    "t": "耶稣降生",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Multscher%20-%20The%20Wings%20of%20the%20Wurzach%20Altar%20-%20Google%20Art%20Project.jpg",
+    "y": "1437",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 0
+   }
+  ]
+ },
+ "帕赫尔": {
+  "qid": "Q463922",
+  "works": [
+   {
+    "qid": "Q1544976",
+    "t": "帕赫祭坛画",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Wolfgang%20%28St.%20Wolfgang%29%2C%20Hauptaltar%2C%202024-10-17.jpg",
+    "y": "1471",
+    "mat": "油彩",
+    "loc": "萨尔茨卡默古特圣沃尔夫冈天主教教区朝圣教堂",
+    "links": 2
+   },
+   {
+    "qid": "Q4062968",
+    "t": "Altarpiece of the Church Fathers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Pacher%20001.jpg",
+    "y": "1483",
+    "mat": "木材",
+    "loc": "意大利",
+    "links": 2
+   },
+   {
+    "qid": "Q26692927",
+    "t": "The Virgin and Child Enthroned with Angels and Saints",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Toegeschreven%20aan%20Michael%20Pacher%20-%20Maria%20en%20kind%20met%20heiligen%20en%20engelen%20-%20NG5786%20-%20National%20Gallery.jpg",
+    "y": "1475",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28949653",
+    "t": "Q28949653",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pacher%20Crucifix.jpg",
+    "y": "1490",
+    "mat": "stone pine wood",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q29512947",
+    "t": "Q29512947",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Pacher%20-%20Annunciation%20-%20WGA16807.jpg",
+    "y": "1467",
+    "mat": "木材",
+    "loc": "老绘画陈列馆",
+    "links": 0
+   },
+   {
+    "qid": "Q29512948",
+    "t": "The Martyrdom of St. Lawrence",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Pacher%20-%20Martyrium%20des%20Hl.%20Laurentius.jpg",
+    "y": "1480",
+    "mat": "oakwood",
+    "loc": "老绘画陈列馆",
+    "links": 0
+   },
+   {
+    "qid": "Q29512951",
+    "t": "Q29512951",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Pacher%20-%20St%20Lawrence%20Distributing%20the%20Alms%20-%20WGA16808.jpg",
+    "y": "1467",
+    "mat": "木材",
+    "loc": "老绘画陈列馆",
+    "links": 0
+   },
+   {
+    "qid": "Q29838310",
+    "t": "Q29838310",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Pacher%20004.jpg",
+    "y": "1471",
+    "mat": "木材",
+    "loc": "老绘画陈列馆",
+    "links": 0
+   },
+   {
+    "qid": "Q29838311",
+    "t": "Saint Ambrose from Milan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Pacher%20005.jpg",
+    "y": "1480",
+    "mat": "木材",
+    "loc": "老绘画陈列馆",
+    "links": 0
+   },
+   {
+    "qid": "Q29838316",
+    "t": "Altarpiece of the Church Fathers: Vision of St Sigisbert",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Pacher%20-%20Altarpiece%20of%20the%20Church%20Fathers%20-%20Vision%20of%20St%20Sigisbert%20-%20WGA16813.jpg",
+    "y": "1450",
+    "mat": "画板",
+    "loc": "老绘画陈列馆",
+    "links": 0
+   },
+   {
+    "qid": "Q29838317",
+    "t": "Q29838317",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Pacher%20003.jpg",
+    "y": "1471",
+    "mat": "木材",
+    "loc": "老绘画陈列馆",
+    "links": 0
+   },
+   {
+    "qid": "Q29919606",
+    "t": "Q29919606",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Pacher%20-%20Kirchenv%C3%A4teraltar%2C%20Hl.%20Augustinus%20-%202597%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+    "y": "1480",
+    "mat": "",
+    "loc": "老绘画陈列馆",
+    "links": 0
+   }
+  ]
+ },
+ "里门施奈德": {
+  "qid": "Q44723",
+  "works": [
+   {
+    "qid": "Q11801545",
+    "t": "Holy Blood altar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rothenburg%20ob%20der%20Tauber%20023.JPG",
+    "y": "1270",
+    "mat": "木材",
+    "loc": "德國",
+    "links": 3
+   },
+   {
+    "qid": "Q97324458",
+    "t": "The Four Evangelists of Münnerstadt altar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Evangelisten.jpg",
+    "y": "1490",
+    "mat": "椴木",
+    "loc": "博德博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q245206",
+    "t": "Zwölfbotenaltar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bad%20Windsheim-007.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q6780673",
+    "t": "Mary Salome and Zebedee",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20salome.jpg",
+    "y": "1505",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   }
+  ]
+ },
+ "施托斯": {
+  "qid": "Q163800",
+  "works": [
+   {
+    "qid": "Q963460",
+    "t": "克拉科夫圣母大殿祭坛画",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Mary%27s%20Church%2C%20Krakow%202014-08-12-180.jpg",
+    "y": "1477",
+    "mat": "椴木",
+    "loc": "圣母圣殿",
+    "links": 21
+   },
+   {
+    "qid": "Q1342757",
+    "t": "Angelic Salutation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%BCrnberg%20St%20Lorenz%20Veit%20Sto%C3%9F%20Engelsgru%C3%9F.jpg",
+    "y": "1518",
+    "mat": "椴木",
+    "loc": "圣劳伦斯堂",
+    "links": 4
+   },
+   {
+    "qid": "Q11801526",
+    "t": "Veit Stoss altar in Bamberger Dom",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bamberger%20Dom%20BW%2013.JPG",
+    "y": "",
+    "mat": "",
+    "loc": "班贝格主教座堂",
+    "links": 3
+   },
+   {
+    "qid": "Q71650951",
+    "t": "Saint Roque",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Veit%20Stoss%2C%20san%20rocco%2C%201510-20%20ca.%2003.jpg",
+    "y": "",
+    "mat": "木材",
+    "loc": "Resurrection Chapel",
+    "links": 3
+   },
+   {
+    "qid": "Q9158958",
+    "t": "Archangel Raphael and Young Tobias",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Germanisches%20Nationalmuseum%2C%20Veit%20Stoss%20%2842258452864%29.jpg",
+    "y": "1516",
+    "mat": "椴属",
+    "loc": "日耳曼國家博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q9191562",
+    "t": "Q9191562",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Creator-Veit%20Stoss%20-%20Christ%20Praying%20in%20Gethsemane%20-%20MNK%20I-303%20%28223435%29.jpg",
+    "y": "1480",
+    "mat": "",
+    "loc": "Bishop Ciolek Palace",
+    "links": 1
+   },
+   {
+    "qid": "Q115405473",
+    "t": "Saint Vitus in the Cauldron",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Veit%20im%20%C3%96lkessel%2C%20Veit%20Sto%C3%9F%2C%20Germanisches%20Nationalmuseum.jpg",
+    "y": "1520",
+    "mat": "椴木",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q115411735",
+    "t": "Madonna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Muttergottes%20Veit%20Stoss%20Nuernberg%20um%201500%20Lindenholz%20GNM%20Nuernberg-2.jpg",
+    "y": "1500",
+    "mat": "椴木",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q115474821",
+    "t": "Christ on the Cross",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christus%20am%20Kreuz%20Veit%20Stoss%20Nuernberg%20um%201500%20Lindenholz%20GNM%20Nuernberg-1.jpg",
+    "y": "1500",
+    "mat": "椴木",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q115474911",
+    "t": "Rosary Retable",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosenkranztafel.jpg",
+    "y": "1518",
+    "mat": "椴木",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q125390231",
+    "t": "Madonna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Scuola%20di%20veit%20stoss%2C%20madonna%20sulla%20mezzaluna%2C%201516%20ca.JPG",
+    "y": "1500",
+    "mat": "砂岩",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q128508167",
+    "t": "Münnerstädter altar: Legend of Saint Kilian",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnnerstadt%20Stadtpfarrkirche%20Kilianslegende%20Veit%20Sto%C3%9F.jpg",
+    "y": "1500",
+    "mat": "tempera",
+    "loc": "St. Maria Magdalena",
+    "links": 1
+   }
+  ]
+ },
+ "埃拉斯穆斯": {
+  "qid": "Q896013",
+  "works": [
+   {
+    "qid": "Q20827332",
+    "t": "Q20827332",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Moriskent%C3%A4nzer%20Hochzeiterer.jpg",
+    "y": "1480",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   }
+  ]
+ },
+ "斯吕特": {
+  "qid": "Q372367",
+  "works": [
+   {
+    "qid": "Q1541884",
+    "t": "摩西之井",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Well%20of%20Moses%2C%20Champmol%2C%202010.JPG",
+    "y": "1000",
+    "mat": "石灰岩",
+    "loc": "Champmol",
+    "links": 14
+   },
+   {
+    "qid": "Q15124523",
+    "t": "Mourners of Dijon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dijon%20Philippe%20le%20Hardi%20Tombeau6.jpg",
+    "y": "1406",
+    "mat": "雪花石膏",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q29136934",
+    "t": "Q29136934",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dijon%20%28C%C3%B4te-d%27Or%29%20-%20Chartreuse%20de%20Champmol%20-%20Porte%20de%20la%20chapelle.jpg",
+    "y": "",
+    "mat": "石灰岩",
+    "loc": "Champmol",
+    "links": 1
+   },
+   {
+    "qid": "Q20743047",
+    "t": "Christ crowned with Thorns",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dijon%20%2821%29%20Mus%C3%A9e%20arch%C3%A9ologique%20-%20Buste%20du%20Christ%20crucifi%C3%A9%20par%20Claus%20Sluter.jpg",
+    "y": "1396",
+    "mat": "石灰岩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q60757403",
+    "t": "Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364–1404)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201958.67.jpg",
+    "y": "1404",
+    "mat": "",
+    "loc": "法國",
+    "links": 0
+   }
+  ]
+ },
+ "林堡兄弟": {
+  "qid": "Q217816",
+  "works": [
+   {
+    "qid": "Q5856992",
+    "t": "February",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20f%C3%A9vrier.jpg",
+    "y": "1410",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q19321218",
+    "t": "Pietà with Saint John Evangelist and Two Angels",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Christ%20de%20piti%C3%A9%20soutenu%20par%20saint%20Jean%20l%27%C3%89vang%C3%A9liste%20en%20pr%C3%A9sence%20de%20la%20Vierge%20et%20de%20deux%20anges%20-%20proposition%20d%27attribution%20aux%20fr%C3%A8res%20de%20Limbourg%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%202012%201.jpg",
+    "y": "1400",
+    "mat": "油彩",
+    "loc": "Room 834",
+    "links": 2
+   },
+   {
+    "qid": "Q16941150",
+    "t": "January",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20Janvier.jpg",
+    "y": "1410",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q16941154",
+    "t": "March",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20mars.jpg",
+    "y": "1440",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q16941157",
+    "t": "April",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20avril.jpg",
+    "y": "1412",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q16941162",
+    "t": "June",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20juin.jpg",
+    "y": "1440",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q16941164",
+    "t": "July",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20juillet.jpg",
+    "y": "1440",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q16941167",
+    "t": "August",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20aout.jpg",
+    "y": "1412",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q16941169",
+    "t": "September",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20septembre.jpg",
+    "y": "1440",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q16941171",
+    "t": "October",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20octobre.jpg",
+    "y": "1440",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q16941160",
+    "t": "May",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%A8res%20Limbourg%20-%20Tr%C3%A8s%20Riches%20Heures%20du%20duc%20de%20Berry%20-%20mois%20de%20mai%20-%20Google%20Art%20Project.jpg",
+    "y": "1410",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q16941195",
+    "t": "Anatomical Man.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anatomical%20Man.jpg",
+    "y": "1411",
+    "mat": "上等皮紙",
+    "loc": "孔蒂博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "富凯": {
+  "qid": "Q311398",
+  "works": [
+   {
+    "qid": "Q3399420",
+    "t": "Charles VII, King of France",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/KarlVII.jpg",
+    "y": "1444",
+    "mat": "油彩",
+    "loc": "Room 820",
+    "links": 6
+   },
+   {
+    "qid": "Q3937425",
+    "t": "Portrait of the court jester Gonella",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Der%20ferraresische%20Hofnarr%20Gonella%20-%20GG%201840%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1447",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 5
+   },
+   {
+    "qid": "Q3937560",
+    "t": "Portrait of Guillaume Jouvenel des Ursins",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%20-%20Portrait%20of%20Guillaume%20Jouvenel%20des%20Ursins%20-%20WGA8042.jpg",
+    "y": "1460",
+    "mat": "油彩",
+    "loc": "Room 820",
+    "links": 5
+   },
+   {
+    "qid": "Q16038693",
+    "t": "Pietà",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%2C%20Piet%C3%A0%2C%20Nouans-les-Fontaine.jpg",
+    "y": "1460",
+    "mat": "油彩",
+    "loc": "Église Saint-Martin de Nouans-les-Fontaines",
+    "links": 4
+   },
+   {
+    "qid": "Q29585674",
+    "t": "Virgin and Child Surrounded by Angels",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20omringd%20door%20serafijnen%20en%20cherubijnen%2C%20Jean%20Fouquet%2C%20%281454-1456%29%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20132.jpg",
+    "y": "1450",
+    "mat": "油彩",
+    "loc": "皇家安特衛普美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q29585693",
+    "t": "Etienne Chevalier with St. Stephen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%20-%20Etienne%20Chevalier%20with%20St.%20Stephen%20-%20Google%20Art%20Project.jpg",
+    "y": "1450",
+    "mat": "油彩",
+    "loc": "默倫",
+    "links": 1
+   },
+   {
+    "qid": "Q50881105",
+    "t": "Autoportrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%20-%20Self-portrait%20-%20WGA08041.jpg",
+    "y": "1453",
+    "mat": "銅",
+    "loc": "Room 505",
+    "links": 1
+   },
+   {
+    "qid": "Q20186352",
+    "t": "The Right Hand of God Protecting the Faithful against the Demons",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Right%20Hand%20of%20God%20Protecting%20the%20Faithful%20against%20the%20Demons%20MET%20DT738.jpg",
+    "y": "1456",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q29384779",
+    "t": "Portrait of an Ecclesiastic",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20an%20Ecclesiastic%20MET%20dp49.38.R.jpg",
+    "y": "1461",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q51340068",
+    "t": "Saint Margaret and Olibrius",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sainte%20Marguerite%20et%20Olibrius.jpg",
+    "y": "1453",
+    "mat": "金",
+    "loc": "Q115788118",
+    "links": 0
+   },
+   {
+    "qid": "Q51340932",
+    "t": "Charity of saint Martin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20charit%C3%A9%20de%20saint%20Martin.jpg",
+    "y": "1453",
+    "mat": "金",
+    "loc": "Q115788118",
+    "links": 0
+   },
+   {
+    "qid": "Q67203057",
+    "t": "illumination Grandes Chroniques de France, BnF, Ms fr. 6465, fol. 442v",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%20empereur%20Charles%20IV.jpg",
+    "y": "1457",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "夏隆东": {
+  "qid": "Q966851",
+  "works": [
+   {
+    "qid": "Q521671",
+    "t": "阿维尼翁的哀悼基督图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/F0082%20Louvre%20Piet%C3%A0%20de%20Villeneuve-l%C3%A8s-Avignon%20RF%201569%20rwk.jpg",
+    "y": "1455",
+    "mat": "金",
+    "loc": "Room 833",
+    "links": 9
+   },
+   {
+    "qid": "Q2252360",
+    "t": "The Virgin of Mercy of the Cadard Family",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vierge%20de%20mis%C3%A9ricorde%20-%20Enguerrand%20Quarton%20-%20Mus%C3%A9e%20Cond%C3%A9.jpg",
+    "y": "1452",
+    "mat": "油彩",
+    "loc": "孔蒂博物馆",
+    "links": 5
+   },
+   {
+    "qid": "Q29231046",
+    "t": "Coronation of the Virgin, altar of the Charterhouse of Villeneuve-lès-Avignon.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Enguerrand%20QUARTON%20-%20Le%20couronnement%20de%20la%20Vierge%20-%201454%20-%20Mus%C3%A9e%20Pierre-de-Luxembourg%20%28Villeneuve-l%C3%A8s-Avignon%29.jpg",
+    "y": "1454",
+    "mat": "木材",
+    "loc": "Pierre de Luxembourg museum",
+    "links": 3
+   },
+   {
+    "qid": "Q120136097",
+    "t": "Q120136097",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Enguerrand%20Quarton%20-%20La%20Vierge%20et%20l%27enfant.jpg",
+    "y": "1445",
+    "mat": "油彩",
+    "loc": "小宫博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q64514334",
+    "t": "Saint Robert of Molesmes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Enguerrand%20Quarton%20-%20Saint%20Robert%20of%20Molesmes%20-%2046.299%20-%20Detroit%20Institute%20of%20Arts.jpg",
+    "y": "1440",
+    "mat": "",
+    "loc": "底特律藝術學院",
+    "links": 0
+   },
+   {
+    "qid": "Q140628666",
+    "t": "Virgin and Child and St. John the Baptist",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Diptych%20Altenburg%20-%20Enguerrand%20Quarton.jpg",
+    "y": "",
+    "mat": "木材",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "贝勒沙斯": {
+  "qid": "Q932136",
+  "works": [
+   {
+    "qid": "Q55646948",
+    "t": "Triptych of the mystic bath",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bellegambe%20-%20Triptyque%20du%20Bain%20mystique%2C%201520%20vers%2C%20P%20832.jpg",
+    "y": "1525",
+    "mat": "油彩",
+    "loc": "里爾美術宮",
+    "links": 3
+   },
+   {
+    "qid": "Q19911759",
+    "t": "The Le Cellier Altarpiece",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Le%20Cellier%20Altarpiece%20MET%20DT11783.jpg",
+    "y": "1509",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q21600962",
+    "t": "最后的审判",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bellegambe%20The%20Last%20Judgment.jpg",
+    "y": "1522",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q116160988",
+    "t": "Virgin and Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20bellegambe%2C%20pannello%20centrale%20di%20un%20trittico%20con%20la%20madonna%20col%20bambino%2C%2001.JPG",
+    "y": "1519",
+    "mat": "油彩",
+    "loc": "Oldmasters Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q121502473",
+    "t": "Triptych of the Immaculate Conception by Jean Bellegambe",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20de%20bellambe%20immacul%C3%A9e%20conception.JPG",
+    "y": "1526",
+    "mat": "油彩",
+    "loc": "Musée de la Chartreuse de Douai",
+    "links": 1
+   },
+   {
+    "qid": "Q18748934",
+    "t": "Annunciation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bellegambe%20-%20Annunciation%20-%20Walters%2037288.jpg",
+    "y": "1517",
+    "mat": "油彩",
+    "loc": "沃爾特斯藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q19912093",
+    "t": "Charles Coguin, Abbot of Anchin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Coguin%2C%20Abbot%20of%20Anchin%20MET%20EP713.jpg",
+    "y": "1509",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q20270338",
+    "t": "Saint Catherine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bellegambe%20-%20Saint%20Catherine%20-%201983.376%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "y": "1520",
+    "mat": "",
+    "loc": "芝加哥艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q20270359",
+    "t": "Saint Barbara",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bellegambe%20-%20Saint%20Barbara%20-%201983.377%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "y": "1520",
+    "mat": "",
+    "loc": "芝加哥艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27653285",
+    "t": "Conversion of St. Paul on the way to Damascus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bellegambe%20-%20Conversion%20of%20St.%20Paul%20on%20the%20way%20to%20Damascus.jpg",
+    "y": "1520",
+    "mat": "油彩",
+    "loc": "私人收藏",
+    "links": 0
+   },
+   {
+    "qid": "Q29649267",
+    "t": "Saint Adrian",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bellegambe%2C%20Jean%2C%20Atelier%20de%20-%20Saint%20Adrien%2C%20MI%20817.jpg",
+    "y": "1514",
+    "mat": "油彩",
+    "loc": "Room 817",
+    "links": 0
+   },
+   {
+    "qid": "Q49399764",
+    "t": "Saint Bernard; Virgin and Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bellegambe%20-%20Saint%20Bernard%2C%20Virgin%20and%20Child%20-%201956.29.1.a-b%20-%20Yale%20University%20Art%20Gallery.jpg",
+    "y": "1530",
+    "mat": "",
+    "loc": "耶鲁大学美术馆",
+    "links": 0
+   }
+  ]
+ },
+ "马斯特": {
+  "qid": "Q80442",
+  "works": [
+   {
+    "qid": "Q615851",
+    "t": "耶稣降生",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Nativit%C3%A9%2C%20par%20Robert%20Campin.jpg",
+    "y": "1430",
+    "mat": "油彩",
+    "loc": "第戎美術館",
+    "links": 11
+   },
+   {
+    "qid": "Q3136106",
+    "t": "Werl Triptych",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Werl-Triptychons.jpg",
+    "y": "1438",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 11
+   },
+   {
+    "qid": "Q18719519",
+    "t": "Triptych with the Entombment of Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Triptych-with-the-entombment-of-christ-1822.jpg",
+    "y": "1415",
+    "mat": "油彩",
+    "loc": "科陶德藝術學院",
+    "links": 9
+   },
+   {
+    "qid": "Q18508779",
+    "t": "Marriage of the Virgin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Los%20Desposorios%20de%20la%20Virgen%2C%20por%20Robert%20Campin.jpg",
+    "y": "1420",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 8
+   },
+   {
+    "qid": "Q18508785",
+    "t": "Portrait of a Stout Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Campin%20Bildnis%20eines%20feisten%20Mannes%20ca.%201425.jpg",
+    "y": "1425",
+    "mat": "油彩",
+    "loc": "提森-博内米萨博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q18508776",
+    "t": "The Annunciation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Campin%20-%20Annunciation%20-%20WGA14402.jpg",
+    "y": "1420",
+    "mat": "油彩",
+    "loc": "Oldmasters Museum",
+    "links": 3
+   },
+   {
+    "qid": "Q18508794",
+    "t": "The Bad Thief to the Left of Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Bad%20Thief%20to%20the%20Left%20of%20Christ%3B%20former%20exterior%20wing%20of%20the%20triptych-%20Saint%20John%20the%20Baptist%20%28fragment%29%20%28SM%20886%29.png",
+    "y": "1430",
+    "mat": "混合技法",
+    "loc": "施泰德艺术馆",
+    "links": 3
+   },
+   {
+    "qid": "Q3998895",
+    "t": "The Trinity",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20campin%2C%20trinity.jpg",
+    "y": "1429",
+    "mat": "油彩",
+    "loc": "施泰德艺术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q50880027",
+    "t": "Virgin in Glory surrounded by St. Peter and St. Augustine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vierge%20en%20gloire%20entre%20saint%20Pierre%20et%20saint%20Augustin%20v%C3%A9n%C3%A9r%C3%A9e%20par%20un%20donateur%2C%20par%20Robert%20Campin.jpg",
+    "y": "1437",
+    "mat": "油彩",
+    "loc": "格拉内博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q18508773",
+    "t": "Mass of St. Gregory",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mass%20of%20Saint%20Gregory%20%281440%29%20by%20Robert%20Campin.jpg",
+    "y": "1440",
+    "mat": "油彩",
+    "loc": "Oldmasters Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q18508788",
+    "t": "Portrait of a Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Campin%20012.jpg",
+    "y": "1435",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q18508793",
+    "t": "Madonna and child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna-and-child-1823.jpg",
+    "y": "1429",
+    "mat": "油彩",
+    "loc": "施泰德艺术馆",
+    "links": 1
+   }
+  ]
+ },
+ "科隆贝": {
+  "qid": "Q2275572",
+  "works": [
+   {
+    "qid": "Q1026644",
+    "t": "弗朗索瓦二世墓",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nantes%20-%20cath%C3%A9drale%20-%20tombeau%20de%20Fran%C3%A7ois%20II%20ter.jpg",
+    "y": "1502",
+    "mat": "大理岩",
+    "loc": "南特主教座堂",
+    "links": 7
+   },
+   {
+    "qid": "Q87456676",
+    "t": "Saint Georges terrassant le dragon - 1509 - Marbre - Michel Colombe - Louvre - M.R. 1645",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Georges%20dragon%20louvre%20Michel%20Colombe.jpg",
+    "y": "1508",
+    "mat": "大理岩",
+    "loc": "Room 211",
+    "links": 1
+   },
+   {
+    "qid": "Q114956920",
+    "t": "Entombment of Christ of Église Saint-Pierre-et-Saint-Paul",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jouarre%20%2877%29%2C%20%C3%A9glise%20St-Pierre-et-St-Paul%2C%20Mise%20au%20tombeau%2C%20vers%201510%201.jpg",
+    "y": "1510",
+    "mat": "石頭",
+    "loc": "Saint-Pierre-et-Saint-Paul church in Jouarre",
+    "links": 1
+   },
+   {
+    "qid": "Q60761632",
+    "t": "Head of a Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Colombe%20-%20Head%20of%20a%20Man%20-%201921.1003%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1520",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60779690",
+    "t": "Head of a Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Colombe%20-%20Head%20of%20a%20Woman%20-%201921.1004%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1500",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q117246785",
+    "t": "Q117246785",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vierge%20et%20l%27Enfant%20-%20Michel%20Colombe%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20RFML.SC.2022.39.1.jpg",
+    "y": "1500",
+    "mat": "陶瓦",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "古戎": {
+  "qid": "Q551643",
+  "works": [
+   {
+    "qid": "Q10468825",
+    "t": "Den vilande Diana",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vilande%20Diana%202007.JPG",
+    "y": "1964",
+    "mat": "青铜",
+    "loc": "Diplomatstaden",
+    "links": 1
+   },
+   {
+    "qid": "Q28837305",
+    "t": "Q28837305",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9ploration%20du%20Christ%20-%20Jean%20Goujon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20MR%201731%20%3B%20N%2015099.jpg",
+    "y": "1544",
+    "mat": "石頭",
+    "loc": "Room 213",
+    "links": 0
+   },
+   {
+    "qid": "Q87451930",
+    "t": "Q87451930",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Matthieu%20-%20Jean%20Goujon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20ML%2019%20%3B%20N%2015100.jpg",
+    "y": "1544",
+    "mat": "石頭",
+    "loc": "Room 213",
+    "links": 0
+   },
+   {
+    "qid": "Q87455227",
+    "t": "Q87455227",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Jean%20-%20Jean%20Goujon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20ML%2016%20%3B%20N%2015101.jpg",
+    "y": "1544",
+    "mat": "石頭",
+    "loc": "Room 213",
+    "links": 0
+   },
+   {
+    "qid": "Q87456691",
+    "t": "Q87456691",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Marc%20-%20Jean%20Goujon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20ML%2018%20%3B%20N%2015102.jpg",
+    "y": "1550",
+    "mat": "石頭",
+    "loc": "Room 213",
+    "links": 0
+   },
+   {
+    "qid": "Q87459316",
+    "t": "Q87459316",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Luc%20-%20Jean%20Goujon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20ML%2017%20%3B%20N%2015103.jpg",
+    "y": "1544",
+    "mat": "石頭",
+    "loc": "Room 213",
+    "links": 0
+   },
+   {
+    "qid": "Q115566327",
+    "t": "Q115566327",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nymphe%20et%20petit%20g%C3%A9nie%20mont%C3%A9%20sur%20un%20cheval%20marin%20-%20Jean%20Goujon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20MR%201737%20%3B%20N%2015106%20%3B%20MR%201738.jpg",
+    "y": "1547",
+    "mat": "石頭",
+    "loc": "Room 213",
+    "links": 0
+   },
+   {
+    "qid": "Q115566343",
+    "t": "Q115566343",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nymphe%20et%20Triton%20entour%C3%A9s%20de%20deux%20petits%20g%C3%A9nies%20-%20Jean%20Goujon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20MR%201738%20%3B%20N%2015105%20%3B%20MR%201737.jpg",
+    "y": "1547",
+    "mat": "石頭",
+    "loc": "Room 213",
+    "links": 0
+   },
+   {
+    "qid": "Q115682123",
+    "t": "Q115682123",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nymphe%20et%20petit%20g%C3%A9nie%20mont%C3%A9%20sur%20un%20dragon%20marin%20-%20Jean%20Goujon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20MR%201736%20%3B%20N%2015104.jpg",
+    "y": "1547",
+    "mat": "石頭",
+    "loc": "Room 213",
+    "links": 0
+   }
+  ]
+ },
+ "皮隆": {
+  "qid": "Q554943",
+  "works": [
+   {
+    "qid": "Q97910090",
+    "t": "Tomb of Valentina Balbiani (1518-1572)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tombeau%20Valentine%20Balbiani%20details%20Pilon%20LP397%20MR1643.png",
+    "y": "1573",
+    "mat": "大理岩",
+    "loc": "Room 214",
+    "links": 2
+   },
+   {
+    "qid": "Q24575444",
+    "t": "Virgin of Sorrow by Germain Pilon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Germain%20pilon%2C%20madonna%20dolente%2C%201586%2C%2001.JPG",
+    "y": "1586",
+    "mat": "大理岩",
+    "loc": "圣保禄圣路易教堂",
+    "links": 1
+   },
+   {
+    "qid": "Q87458684",
+    "t": "Funerary monument of the heart of Henry II",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20du%20coeur%20d%27Henri%20II.jpg",
+    "y": "1550",
+    "mat": "大理岩",
+    "loc": "Room 214",
+    "links": 1
+   },
+   {
+    "qid": "Q87460184",
+    "t": "Resurrection of Christ by Germain Pilon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Resurrection%20Pilon%20Louvre%20MR1592.jpg",
+    "y": "1501",
+    "mat": "大理岩",
+    "loc": "Room 214",
+    "links": 1
+   },
+   {
+    "qid": "Q87451620",
+    "t": "Q87451620",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vierge%20de%20douleur%20-%20Germain%20Pilon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20RF%203147.jpg",
+    "y": "1586",
+    "mat": "陶瓦",
+    "loc": "Room 214",
+    "links": 0
+   },
+   {
+    "qid": "Q87452720",
+    "t": "Q87452720",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tombeau%20Valentine%20Balbiani%20details%20Pilon%20LP397%20MR1643.png",
+    "y": "1573",
+    "mat": "大理岩",
+    "loc": "Room 214",
+    "links": 0
+   },
+   {
+    "qid": "Q87453052",
+    "t": "Q87453052",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Cardinal%20Ren%C3%A9%20de%20Birague%20-%20Germain%20Pilon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20LP%20396%20%3B%20N%2015131.jpg",
+    "y": "1584",
+    "mat": "黃銅",
+    "loc": "Room 214",
+    "links": 0
+   },
+   {
+    "qid": "Q87456311",
+    "t": "Q87456311",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Esquisse%20pour%20le%20gisant%20du%20roi%20Henri%20II%20-%20Attribu%C3%A9%20%C3%A0%20Germain%20Pilon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20ML%2023.jpg",
+    "y": "1550",
+    "mat": "陶瓦",
+    "loc": "Room 214",
+    "links": 0
+   },
+   {
+    "qid": "Q87458349",
+    "t": "Q87458349",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20D%C3%A9ploration%20du%20Christ%20-%20Germain%20Pilon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20LP%2044%20%3B%20N%2015144.jpg",
+    "y": "1550",
+    "mat": "青铜",
+    "loc": "Room 214",
+    "links": 0
+   },
+   {
+    "qid": "Q87458350",
+    "t": "Q87458350",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Soldat%20romain%2C%20gardien%20du%20tombeau%20du%20Christ%20-%20Germain%20Pilon%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20MR%201592%20%3B%20N%2015276.jpg",
+    "y": "1550",
+    "mat": "大理岩",
+    "loc": "Room 214",
+    "links": 0
+   },
+   {
+    "qid": "Q87458973",
+    "t": "Q87458973",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Soubassement%20du%20monument%20du%20coeur%20du%20roi%20Henri%20II%20%281519-1559%29%20-%20Germain%20Pilon%20%3B%20Domenico%20del%20Barbiere%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20MR%201591%20B%20%3B%20N%2015166.jpg",
+    "y": "1561",
+    "mat": "大理岩",
+    "loc": "Room 214",
+    "links": 0
+   },
+   {
+    "qid": "Q87459591",
+    "t": "Q87459591",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Trois%20Gr%C3%A2ces%20-%20Germain%20Pilon%20%3B%20Domenico%20del%20Barbiere%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20MR%201591%20A%20%3B%20N%2015165.jpg",
+    "y": "1550",
+    "mat": "大理岩",
+    "loc": "Room 214",
+    "links": 0
+   }
+  ]
+ },
+ "普里马蒂乔": {
+  "qid": "Q333366",
+  "works": [
+   {
+    "qid": "Q17354988",
+    "t": "Holy Family with St Elizabeth",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20The%20Holy%20Family%20with%20Sts%20Elisabeth%20and%20John%20the%20Baptist%20-%20WGA18410.jpg",
+    "y": "1541",
+    "mat": "板岩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q64512399",
+    "t": "Andromache Learning of the Death of Hector",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20Francesco%20Primaticcio%20-%20Andromache%20Learning%20of%20the%20Death%20of%20Hector%20-%2056.083%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "y": "1570",
+    "mat": "",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q110750814",
+    "t": "Kvinna sittande på enhörning",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20Kvinna%20sittande%20p%C3%A5%20enh%C3%B6rning%20-%20NMH%20860-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110751029",
+    "t": "Gammal man bärande baldakin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20Gammal%20man%20b%C3%A4rande%20baldakin%20-%20NMH%20868-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110751598",
+    "t": "Agamemnon dödas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20Agamemnon%20d%C3%B6das%20-%20NMH%20824-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110763090",
+    "t": "Odysseus skjuter med sin båge i närvaro av Penelopes friare",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20Odysseus%20skjuter%20med%20sin%20b%C3%A5ge%20i%20n%C3%A4rvaro%20av%20Penelopes%20friare%20-%20NMH%20831-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110763568",
+    "t": "The two-headed Janus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20The%20two-headed%20Janus%20-%20NMH%20855-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110764049",
+    "t": "Apollo, with laurel wreath and laurel twigs in one hand",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20Apollo%2C%20with%20laurel%20wreath%20and%20laurel%20twigs%20in%20one%20hand%20-%20NMH%20857-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110778053",
+    "t": "Juno leaning on a low carriage",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20Juno%20leaning%20on%20a%20low%20carriage%20-%20NMH%20876-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110778057",
+    "t": "Två häroldrar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20Tv%C3%A5%20h%C3%A4roldrar%20-%20NMH%20875-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110778062",
+    "t": "March carrying the front part of a litter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20March%20carrying%20the%20front%20part%20of%20a%20litter%20-%20NMH%20874-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110778065",
+    "t": "Satyr",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Primaticcio%20-%20Satyr%20-%20NMH%20873-1863%20-%20Nationalmuseum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   }
+  ]
+ },
+ "尼科洛": {
+  "qid": "Q333563",
+  "works": [
+   {
+    "qid": "Q21121924",
+    "t": "The Death of Eurydice",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abbate%20-%20Orpheus%20and%20Eurydice.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 3
+   },
+   {
+    "qid": "Q9404348",
+    "t": "The Rape of Proserpine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Enl%C3%A8vement%20de%20Proserpine%20-%20Nicol%C3%B2%20dell%27Abbate%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%203772%20-%20photo%202.jpg",
+    "y": "1560",
+    "mat": "油彩",
+    "loc": "Room 712",
+    "links": 2
+   },
+   {
+    "qid": "Q19820083",
+    "t": "The Continence of Scipio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Niccol%C3%B2%20dell%27abate%2C%20contingenza%20di%20scipione%2C%201555%20ca..JPG",
+    "y": "1555",
+    "mat": "油彩",
+    "loc": "Room 823",
+    "links": 2
+   },
+   {
+    "qid": "Q3224375",
+    "t": "The Massacre of the Triumvirs",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Massacre%20des%20Triumvirs%20mus%C3%A9e%20dep%20beauvais.JPG",
+    "y": "1562",
+    "mat": "画布",
+    "loc": "瓦兹省博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q18572272",
+    "t": "Moses Rescued from the Nile",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Niccol%C3%B2%20dell%27%20Abbate%20003.jpg",
+    "y": "1575",
+    "mat": "油彩",
+    "loc": "Room 712",
+    "links": 1
+   },
+   {
+    "qid": "Q19820084",
+    "t": "Winnowing of Grain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Niccol%C3%B2%20dell%27abate%2C%20vagliatura%20del%20grano%2C%201560-1570%20ca.%2001.JPG",
+    "y": "1565",
+    "mat": "油彩",
+    "loc": "Room 823",
+    "links": 1
+   },
+   {
+    "qid": "Q59926729",
+    "t": "Pandora",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pandora%20%28Louvre%2C%20RF%202016-4%29.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "Room 823",
+    "links": 1
+   },
+   {
+    "qid": "Q98923690",
+    "t": "Portrait of a Couple",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20deux%20%C3%A9poux.jpg",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "斯特拉斯堡美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q20537391",
+    "t": "Portrait of a gentleman with a falcon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicol%C3%B2%20dell%27Abate%20-%20Portrait%20of%20a%20gentleman%20with%20a%20falcon%20-%20Google%20Art%20Project.jpg",
+    "y": "1548",
+    "mat": "油彩",
+    "loc": "新南威爾士美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q21996572",
+    "t": "The Dance of the Cupids.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abbate%20Dance%20of%20the%20Cupids.jpg",
+    "y": "1600",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q22235790",
+    "t": "Mythological scène",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mythologisch%20tafereel%2C%20circa%201512%20-%20circa%201571%2C%20Groeningemuseum%2C%200041952000.jpg",
+    "y": "1512",
+    "mat": "",
+    "loc": "格罗宁格博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27978333",
+    "t": "Man with Parrot",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NdellAbateViennaportrait.jpg",
+    "y": "1540",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "科内利斯": {
+  "qid": "Q442484",
+  "works": [
+   {
+    "qid": "Q5966108",
+    "t": "泰坦陨落 (科内利斯·范·哈勒姆)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20Cornelisz.%20van%20Haarlem%20002.jpg",
+    "y": "1588",
+    "mat": "油彩",
+    "loc": "國立丹麥美術館",
+    "links": 10
+   },
+   {
+    "qid": "Q15934397",
+    "t": "The Baptism of Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Bapt%C3%AAme%20du%20Christ%20-%20Cornelis%20Cornelisz%20van%20Haarlem%20-%20Mus%C3%A9e%20du%20Louvre%20-%20Peintures%20RF%201983-25.jpg",
+    "y": "1588",
+    "mat": "油彩",
+    "loc": "Room 806",
+    "links": 3
+   },
+   {
+    "qid": "Q26705746",
+    "t": "Two Followers of Cadmus devoured by a Dragon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20van%20Haarlem%20-%20Two%20Followers%20of%20Cadmus%20devoured%20by%20a%20Dragon%2C%201588.jpg",
+    "y": "1588",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q47412198",
+    "t": "Allegory of Vanity and Repentance",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Strasbourg%20rohan%20van%20haarlem%20repentir.JPG",
+    "y": "1616",
+    "mat": "油彩",
+    "loc": "斯特拉斯堡美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q16860460",
+    "t": "A Monk With a Beguine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20cornelisz%20van%20haarlem%2C%20monaco%20che%20tocca%20una%20suora%2C%201591.jpg",
+    "y": "1591",
+    "mat": "油彩",
+    "loc": "弗蘭斯·哈爾斯博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q17319827",
+    "t": "諸聖嬰孩慶日",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20van%20Haarlem%20-%20Bethlehemse%20kindermoord.jpg",
+    "y": "1590",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q17319828",
+    "t": "The Fall of Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20Cornelisz%20van%20Haarlem%20-%20The%20Fall%20of%20Man.jpg",
+    "y": "1592",
+    "mat": "油彩",
+    "loc": "Rijksmuseum hall 2.1",
+    "links": 2
+   },
+   {
+    "qid": "Q17582457",
+    "t": "The depravity of mankind before the flood (Genesis 6:5-8; Matt. 24:37-39)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelisz%20Humanit%C3%A9%20%282004%201%2058%29.jpg",
+    "y": "1615",
+    "mat": "油彩",
+    "loc": "奧古斯丁博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q19926181",
+    "t": "The Fall of Ixion",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20Cornelisz.%20van%20Haarlem%20-%20The%20Fall%20of%20Ixion%20-%20Google%20Art%20Project.jpg",
+    "y": "1588",
+    "mat": "油彩",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28091312",
+    "t": "The Massacre of the Innocents",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20Cornelisz%20van%20Haarlem%20-%20The%20Massacre%20of%20the%20Innocents%20-%2022%20-%20Rijksmuseum.jpg",
+    "y": "1591",
+    "mat": "油彩",
+    "loc": "弗蘭斯·哈爾斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q106768233",
+    "t": "A Courting Couple and Woman with a Songbook",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20Cornelisz.%20van%20Haarlem%20-%20A%20Courting%20Couple%20and%20Woman%20with%20a%20Songbook%20-%201997-102%20-%20Princeton%20University%20Art%20Museum.jpg",
+    "y": "1594",
+    "mat": "油彩",
+    "loc": "普林斯頓大學美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q113455583",
+    "t": "The Flaying of Marsyas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20Cornelisz.%20van%20Haarlem%20-%20The%20Flaying%20of%20Marsyas.jpg",
+    "y": "1638",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   }
+  ]
+ },
+ "戈尔奇乌斯": {
+  "qid": "Q165367",
+  "works": [
+   {
+    "qid": "Q20176961",
+    "t": "The Fall of Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Fall%20of%20Man-1616-Hendrik%20Goltzius.jpg",
+    "y": "1616",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 2
+   },
+   {
+    "qid": "Q20809060",
+    "t": "Sine Cerere et Libero friget Venus (Without Ceres and Bacchus, Venus Would Freeze)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hendrick%20Goltzius%2C%20Dutch%20%28active%20Haarlem%29%20-%20Sine%20Cerere%20et%20Libero%20friget%20Venus%20%28Without%20Ceres%20and%20Bacchus%2C%20Venus%20Would%20Freeze%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1602",
+    "mat": "墨水",
+    "loc": "费城艺术博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q25206623",
+    "t": "Clio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clio%20LACMA%20M.88.91.271d.jpg",
+    "y": "1592",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q25384165",
+    "t": "Q25384165",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Dragon%20Devouring%20the%20Companions%20of%20Cadmus%20LACMA%20M.81.158.jpg",
+    "y": "1588",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q9372103",
+    "t": "Vertumnus and Pomona",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vertumnus%20en%20Pomona%20Rijksmuseum%20SK-A-2217.jpeg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17341200",
+    "t": "Lot and his Daughters",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lot%20en%20zijn%20dochters%20Rijksmuseum%20SK-A-4866.jpeg",
+    "y": "1616",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q19925375",
+    "t": "Juno Receiving the Eyes of Argus from Mercury",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hendrick%20Goltzius%20019.jpg",
+    "y": "1615",
+    "mat": "油彩",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q26958187",
+    "t": "Jupiter en Antiope",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Jupiter%20and%20Antiope%27%2C%20oil%20on%20canvas%20painting%20by%20Hendrick%20Goltzius.Jpg",
+    "y": "1612",
+    "mat": "",
+    "loc": "格罗宁格博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28061580",
+    "t": "Diana and her nymphs discover Callisto's pregnancy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maastricht%20goltzius%20diana.JPG",
+    "y": "1599",
+    "mat": "油彩",
+    "loc": "柏恩芳坦博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q28100365",
+    "t": "Minerva",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Goltzius%2C%20Hendrick%20-%20Minerva%20-%20Google%20Cultural%20Project.jpg",
+    "y": "1611",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28100372",
+    "t": "墨丘利",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Goltzius%2C%20Hendrick%20-%20Mercury%20as%20personification%20of%20painting%20-%20Google%20Art%20Project.jpg",
+    "y": "1611",
+    "mat": "油彩",
+    "loc": "弗蘭斯·哈爾斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q28100376",
+    "t": "Hercules and Cacus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Goltzius%2C%20Hendrick%20-%20Hercules%20and%20Cacus%20-%20Google%20Art%20Project.jpg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 1
+   }
+  ]
+ },
+ "斯普朗格": {
+  "qid": "Q447682",
+  "works": [
+   {
+    "qid": "Q9332933",
+    "t": "Hermaphroditus and the nymph Salmacis",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hermaphroditos%20and%20Salmacis%20by%20Bartholom%C3%A4us%20Spranger.jpg",
+    "y": "1580",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q119409605",
+    "t": "Venus and Cupid‘’",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A9nus%20et%20l%27Amour%20%28Spranger%29.jpg",
+    "y": "1590",
+    "mat": "油彩",
+    "loc": "Musée des Beaux-Arts de Troyes",
+    "links": 2
+   },
+   {
+    "qid": "Q137602065",
+    "t": "Q137602065",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Ingres-Bourdelle%20-%20Le%20Christ%20sauveur%20du%20monde%20-%20Bartholomeus%20Spranger%20-%20Joconde06070000256.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "安格尔博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q17335114",
+    "t": "Epitaph of Goldsmith Nicolas Müller of Prague",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomaeus%20Spranger%20-%20Epitaph%20of%20Goldsmith%20Nicolas%20M%C3%BCller%20of%20Prague%20-%20Google%20Art%20Project.jpg",
+    "y": "1592",
+    "mat": "油彩",
+    "loc": "施瓦岑贝格宫",
+    "links": 2
+   },
+   {
+    "qid": "Q105296723",
+    "t": "Baptism of Christ.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Spranger%20Baptism.jpg",
+    "y": "1603",
+    "mat": "油彩",
+    "loc": "弗羅茨瓦夫國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q117228229",
+    "t": "Venus and Mercury put a blindfold over Cupid's eyes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1597%20Venus%20und%20Merkur%20verbinden%20Amor%20die%20Augen%20anagoria.JPG",
+    "y": "1597",
+    "mat": "油彩",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q131398303",
+    "t": "Noli me tangere",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Spranger%20-%20Metzler%2C%20059.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立羅馬尼亞藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q9372004",
+    "t": "Venus and Adonis",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholom%C3%A4us%20Spranger%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Venus%20und%20Adonis%20-%20GG%202526%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1597",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q12094987",
+    "t": "Herakles and Omphale",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholom%C3%A4us%20Spranger%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Herkules%20und%20Omphale%20-%20GG%201126%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1600",
+    "mat": "銅",
+    "loc": "艺术史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27980514",
+    "t": "Vulcan &#32; and&#32; Maia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholom%C3%A4us%20Spranger%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Vulkan%20und%20Maia%20-%20GG%201128%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1585",
+    "mat": "銅",
+    "loc": "艺术史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28839175",
+    "t": "Study of a female nude (Venus in a drapery) (detail).",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Spranger%20Study%20of%20a%20female%20nude.jpg",
+    "y": "1605",
+    "mat": "纸",
+    "loc": "museum storage",
+    "links": 1
+   },
+   {
+    "qid": "Q29871351",
+    "t": "Angelica and Medoro",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20Spranger%20-%20Angelica%20and%20Medoro.jpg",
+    "y": "1600",
+    "mat": "顏色",
+    "loc": "老绘画陈列馆",
+    "links": 1
+   }
+  ]
+ },
+ "维特瓦尔": {
+  "qid": "Q541644",
+  "works": [
+   {
+    "qid": "Q9092966",
+    "t": "Mars and Venus Surprised by Vulcan.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joachem%20Wtewael%20-%20Venus%20en%20Mars%20verrast%20door%20Vulcanus.jpg",
+    "y": "1601",
+    "mat": "銅",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 5
+   },
+   {
+    "qid": "Q27557223",
+    "t": "Perseus and Andromeda",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Persus%20and%20Andromeda%20by%20Joachim%20Wtewael.jpg",
+    "y": "1611",
+    "mat": "油彩",
+    "loc": "Room 806",
+    "links": 4
+   },
+   {
+    "qid": "Q19911770",
+    "t": "The Golden Age",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Golden%20Age%2C%20by%20Joachim%20Wtewael%2C%20MET%20DP145413%2C%20edited.jpg",
+    "y": "1605",
+    "mat": "銅",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q20180042",
+    "t": "Mars and Venus Surprised by Vulcan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joachim%20Anthonisz.%20Wtewael%20-%20Mars%20and%20Venus%20Surprised%20by%20Vulcan%20-%2083.PC.274%20-%20J.%20Paul%20Getty%20Museum.jpg",
+    "y": "1606",
+    "mat": "銅",
+    "loc": "盖蒂中心",
+    "links": 1
+   },
+   {
+    "qid": "Q29654769",
+    "t": "Jupiter and Danaë",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joachim%20wtewael%2C%20giove%20entra%20nella%20camera%20di%20danae%2C%201595-1605%20ca..JPG",
+    "y": "1587",
+    "mat": "銅",
+    "loc": "Room 808",
+    "links": 1
+   },
+   {
+    "qid": "Q107438827",
+    "t": "Loth and His Daughters",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Loth%20und%20seine%20T%C3%B6chter%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205455006.jpg",
+    "y": "1610",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q17323646",
+    "t": "Meeting between David and Abigail",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20ontmoeting%20tussen%20David%20en%20Abigail%20Rijksmuseum%20SK-A-988.jpeg",
+    "y": "1597",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17324580",
+    "t": "The Evangelist Saint Luke",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20evangelist%20Lucas%20Rijksmuseum%20SK-A-1696.jpeg",
+    "y": "1610",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17324581",
+    "t": "The Evangelist Saint Mark",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20evangelist%20Marcus%20Rijksmuseum%20SK-A-1697.jpeg",
+    "y": "1610",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17324867",
+    "t": "Annunciation to the Shepherds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20verkondiging%20aan%20de%20herders%20Rijksmuseum%20SK-A-1843.jpeg",
+    "y": "1599",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17347734",
+    "t": "Mars and Venus Surprised by Vulcan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joachim%20Wtewael%20-%20Mars%20and%20Venus%20Surprised%20by%20Vulcan%2C%201610.jpg",
+    "y": "1610",
+    "mat": "銅",
+    "loc": "hall 2.3",
+    "links": 0
+   },
+   {
+    "qid": "Q18748943",
+    "t": "Saint Matthew",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joachim%20Antonisz%20Wtewael%20-%20Saint%20Matthew%20-%20Walters%20372617.jpg",
+    "y": "1616",
+    "mat": "油彩",
+    "loc": "沃爾特斯藝術博物館",
+    "links": 0
+   }
+  ]
+ },
+ "布洛马特": {
+  "qid": "Q329811",
+  "works": [
+   {
+    "qid": "Q9291475",
+    "t": "Hercules Kicking Faunus out of Omfale's Bed",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Janssen%20and%20Haracles.jpg",
+    "y": "1607",
+    "mat": "油彩",
+    "loc": "國立丹麥美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q28775787",
+    "t": "The Four Evangelists",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Bloemaert%20-%20The%20Four%20Evangelists%20-%20y1991-41%20-%20Princeton%20University%20Art%20Museum.jpg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "普林斯頓大學美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q111821827",
+    "t": "Emmaus Disciples",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Bloemaert%20-%20The%20Emmaus%20Disciples%20-%20WGA02276.jpg",
+    "y": "1622",
+    "mat": "油彩",
+    "loc": "比利时皇家美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q19911618",
+    "t": "Moses Striking the Rock",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Moses%20Striking%20the%20Rock%20MET%20DP145411.jpg",
+    "y": "1596",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q20277902",
+    "t": "Apollo and Diana Punishing Niobe by Killing her Children",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Blomaert%2C%20Apollon%20og%20Diana%20straffer%20Niobe%20ved%20at%20dr%C3%A6be%20hendes%20b%C3%B8rn%20%28KMSsp342%29.jpg",
+    "y": "1591",
+    "mat": "油彩",
+    "loc": "國立丹麥美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q27089143",
+    "t": "The Adoration of the Shepherds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Bloemaert%20-%20Adoration%20of%20the%20Shepherds%20-%20WGA2272.jpg",
+    "y": "1612",
+    "mat": "油彩",
+    "loc": "Room 806",
+    "links": 1
+   },
+   {
+    "qid": "Q29656534",
+    "t": "Allegory of Winter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Bloemaert%20-%20Allegory%20of%20Winter%20-%20WGA2273.jpg",
+    "y": "1622",
+    "mat": "油彩",
+    "loc": "Room 841 - Utrecht et Dordrecht",
+    "links": 1
+   },
+   {
+    "qid": "Q65161537",
+    "t": "Apollo and Daphne",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Historia%20Apolla%20i%20Dafne%20Abraham%20Bloemaert%201592.jpg",
+    "y": "1592",
+    "mat": "油彩",
+    "loc": "弗羅茨瓦夫國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q92797970",
+    "t": "Adoration of the Magi",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Bloemaert%20-%20Adoration%20des%20mages%201.jpg",
+    "y": "1624",
+    "mat": "油彩",
+    "loc": "格勒諾布爾美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q96359419",
+    "t": "Landscape with farmstead, peasants and the exodus of Tobias with the angel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Landschaft%20mit%20Bauerngeh%C3%B6ft%2C%20Bauern%20und%20dem%20Auszug%20des%20Tobias%20mit%20dem%20Engel%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205415163.jpg",
+    "y": "1630",
+    "mat": "涂料",
+    "loc": "畫廊",
+    "links": 1
+   }
+  ]
+ },
+ "兰贝特": {
+  "qid": "Q1357759",
+  "works": [
+   {
+    "qid": "Q2609585",
+    "t": "Portrait of Charles V",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Charles%20V%2C%20Holy%20Roman%20Emperor%2C%20seated%20%281500%E2%80%931558%29%2C%20formerly%20attributed%20to%20Titian%20%28Alte%20Pinakothek%2C%20Munich%29.jpg",
+    "y": "1548",
+    "mat": "油彩",
+    "loc": "Alte Pinakothek, upper floor, gallery V",
+    "links": 11
+   },
+   {
+    "qid": "Q2513064",
+    "t": "Venus and Cupid",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mars%2C%20V%C3%A9nus%20et%20l%27amour%20-%20Lambert%20Sustris%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%201978%20%3B%20MR%201129.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "蒙娜丽莎厅",
+    "links": 8
+   },
+   {
+    "qid": "Q48449918",
+    "t": "Noli me tangere",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20Pdba%20sustris%20noli%20me%20tangere.JPG",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "里爾美術宮",
+    "links": 4
+   },
+   {
+    "qid": "Q6057315",
+    "t": "Landscape with Jupiter and Io",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Schiavone%20%28Andrea%20Meldolla%29%20-%20Landscape%20with%20Jupiter%20and%20Io%20-%20WGA20993.jpg",
+    "y": "1557",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q72932291",
+    "t": "Judith",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20Sustris%20Judith.JPG",
+    "y": "1600",
+    "mat": "油彩",
+    "loc": "里爾美術宮",
+    "links": 3
+   },
+   {
+    "qid": "Q133571103",
+    "t": "Volcano with Venus arming Love",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Treviso%29%20Volcano%20with%20Venus%20arming%20Love%20-%20Treviso%2C%20Museo%20Civico.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "Complesso di santa Caterina",
+    "links": 1
+   },
+   {
+    "qid": "Q17334264",
+    "t": "Nessus and Deianira",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nessus%20en%20Deianeira%20Rijksmuseum%20SK-A-3374.jpeg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17334325",
+    "t": "Woman with Water Jug",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lambert%20Sustris%20-%20Vrouw%20met%20waterkruik.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17334326",
+    "t": "Woman with Shield",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lambert%20Sustris%20-%20Vrouw%20met%20schild.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17334327",
+    "t": "Woman with Text Panel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lambert%20Sustris%20-%20Vrouw%20met%20schrijftafeltje.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17334328",
+    "t": "Woman with Mirror",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lambert%20Sustris%20-%20Vrouw%20met%20spiegel.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17334394",
+    "t": "Reclining Venus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liggende%20Venus%20Rijksmuseum%20SK-A-3479.jpeg",
+    "y": "1100",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "巴托洛梅乌斯": {
+  "qid": "Q613336",
+  "works": [
+   {
+    "qid": "Q21121902",
+    "t": "Interior of St Cunerakerk, Rhenen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/BASSEN%20Bartholomeus%20Interior%20of%20the%20Cunerakerk%20Rhenen.jpg",
+    "y": "1638",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17275735",
+    "t": "The Great Assembly of 1651",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Toegeschreven%20aan%20Bartholomeus%20van%20Bassen%20-%20Interieur%20van%20de%20Grote%20Zaal%20op%20het%20Binnenhof%20te%20Den%20Haag%2C%20tijdens%20de%20Grote%20Vergadering%20van%20de%20Staten-Generaal%20in%201651%20-%2026%20-%20Rijksmuseum.jpg",
+    "y": "1651",
+    "mat": "油彩",
+    "loc": "hall 2.18",
+    "links": 0
+   },
+   {
+    "qid": "Q17323498",
+    "t": "Interior with a Company",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gezelschap%20in%20een%20interieur%20Rijksmuseum%20SK-A-864.jpeg",
+    "y": "1622",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q17338831",
+    "t": "Five ladies in an interior",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20Bassen%2C%20A%20Company%20in%20an%20Interior.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q18600280",
+    "t": "Interior of a Baroque Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20a%20Baroque%20Church%20%28Bartholomeus%20van%20Bassen%29%20-%20Nationalmuseum%20-%2017651.tif",
+    "y": "1602",
+    "mat": "油彩",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q20268612",
+    "t": "Sumptuous renaissance interior with a banquet",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20Bassen%20-%20Sumptuous%20renaissance%20interior%20with%20a%20banquet%20-%20KMS1969%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "1628",
+    "mat": "油彩",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20354203",
+    "t": "Party Scene",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20Bassen%20-%20Party%20Scene%20-%20KMSsp353%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "1628",
+    "mat": "",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20354238",
+    "t": "Square in front of a Magnificent Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20Bassen%20-%20Square%20in%20front%20of%20a%20Magnificent%20Church%20-%20KMSsp355%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "1623",
+    "mat": "油彩",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20491403",
+    "t": "Church Interior",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20Bassen%20-%20Church%20Interior%20-%20KMS6787%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20544721",
+    "t": "Interior of a Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20Bassen%20-%20Interior%20of%20a%20Church%20-%20KMSsp354%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "1625",
+    "mat": "",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20877320",
+    "t": "Interior of a Catholic Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20Bassen%20-%20Interior%20of%20a%20Catholic%20Church%20-%209%20-%20Mauritshuis.jpg",
+    "y": "1626",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27025570",
+    "t": "Q27025570",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomeus%20van%20Bassen%20-%20Interieur%20met%20figuren%20-%20DM-993-722%20-%20Dordrechts%20Museum.jpg",
+    "y": "1628",
+    "mat": "油彩",
+    "loc": "多德雷赫特博物館",
+    "links": 0
+   }
+  ]
+ },
+ "尼夫": {
+  "qid": "Q596352",
+  "works": [
+   {
+    "qid": "Q17320037",
+    "t": "A church interior by candlelight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Een%20kerkinterieur%20bij%20kaarslicht%20Rijksmuseum%20SK-A-289.jpeg",
+    "y": "1636",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q29656597",
+    "t": "Interior of a Church, Inspired by the Antwerp Cathedral",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Neefs%20%28I%29%2C%20View%20of%20the%20interior%20of%20a%20church.JPG",
+    "y": "1644",
+    "mat": "油彩",
+    "loc": "Room 803",
+    "links": 1
+   },
+   {
+    "qid": "Q17320036",
+    "t": "Interior of the Saint Paul's church of Antwerp",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Neefs%20%28I%29%20002.jpg",
+    "y": "1636",
+    "mat": "油彩",
+    "loc": "阿姆斯特丹国家博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q18600953",
+    "t": "Interior of a Gothic Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20a%20Gothic%20Church%20%28Peeter%20Neeffs%20d.%C3%A4.%29%20-%20Nationalmuseum%20-%2017539.tif",
+    "y": "1604",
+    "mat": "銅",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q19912775",
+    "t": "Interior of a Gothic Church by Day",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20a%20Gothic%20Church%20by%20Day%20MET%20ep30.58.20.bw.R.jpg",
+    "y": "1637",
+    "mat": "銅",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q19912901",
+    "t": "Interior of a Gothic Church at Night",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20a%20Gothic%20Church%20at%20Night%20MET%20ep30.58.21.bw.R.jpg",
+    "y": "1637",
+    "mat": "銅",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q19924994",
+    "t": "Interior of a Gothic Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Neefs%20%28I%29%20-%20Interieur%20van%20een%20gotische%20kerk%20-%201581%20%28OK%29%20-%20Museum%20Boijmans%20Van%20Beuningen.jpg",
+    "y": "1650",
+    "mat": "銅",
+    "loc": "博伊曼斯·范伯宁恩美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q20177048",
+    "t": "Interior of a Church",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20a%20church%20-%20peeter%20neeffs.PNG",
+    "y": "1625",
+    "mat": "銅",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q20177283",
+    "t": "Antwerp Cathedral",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antwerp%20Cathedral%20C10078.jpg",
+    "y": "1650",
+    "mat": "銅",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q20391267",
+    "t": "Interior of a Gothic Church by Night",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peeter%20Neeffs%20d.%C3%86.%20-%20Interior%20of%20a%20Gothic%20Church%20by%20Night%20-%20KMSsp204%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "1636",
+    "mat": "",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20421227",
+    "t": "Interior of a Three-Aisled Gothic Church during a Sermon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peeter%20Neeffs%20d.%C3%86.%20-%20Interior%20of%20a%20Three-Aisled%20Gothic%20Church%20during%20a%20Sermon%20-%20KMSst6%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "1630",
+    "mat": "",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q20556704",
+    "t": "Interior of Antwerp Cathedral at Night",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Neeffs%20-%20Interior%20of%20Antwerp%20Cathedral%20at%20Night%20-%2021.1456%20-%20Museum%20of%20Fine%20Arts.jpg",
+    "y": "1638",
+    "mat": "油彩",
+    "loc": "波士頓美術館",
+    "links": 0
+   }
+  ]
+ },
+ "范·代伦": {
+  "qid": "Q553273",
+  "works": [
+   {
+    "qid": "Q12109360",
+    "t": "Flower still life with a watch",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20-%20Flower%20Still%20Life%20with%20a%20Timepiece%20-%202%20-%20Mauritshuis.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 3
+   },
+   {
+    "qid": "Q11770768",
+    "t": "Still life with fruits and dishes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Still-Life%20with%20Fruit%2C%20Parrot%2C%20and%20Nautilus%20Pitcher%201653%20Willem%20van%20Aelst.jpg",
+    "y": "1653",
+    "mat": "油彩",
+    "loc": "彼提宫",
+    "links": 1
+   },
+   {
+    "qid": "Q17583751",
+    "t": "Flowers in a Vase",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aelst%20Vase%20fleurs%20%282004%201%20372%29.jpg",
+    "y": "1651",
+    "mat": "油彩",
+    "loc": "奧古斯丁博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q21615107",
+    "t": "Fruit and Wine Glass",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20-%20Vruchten%20en%20wijnglas%20-%20729%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff",
+    "y": "1659",
+    "mat": "油彩",
+    "loc": "皇家安特衛普美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q118985751",
+    "t": "Still Life with Dead Game",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20%281627-after%201687%29%20-%20Still%20Life%20with%20Dead%20Game%20-%20LEEAG.PA.1931.0016%20-%20Temple%20Newsam.jpg",
+    "y": "1673",
+    "mat": "油彩",
+    "loc": "紐塞姆莊園",
+    "links": 0
+   },
+   {
+    "qid": "Q118986098",
+    "t": "Still Life: Herring, Cherries and Glassware",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20%281627-after%201687%29%20-%20Still%20Life%2C%20Herring%2C%20Cherries%20and%20Glassware%20-%20307%20-%20Kelvingrove%20Art%20Gallery%20and%20Museum.jpg",
+    "y": "1680",
+    "mat": "油彩",
+    "loc": "开尔文格罗夫美术馆和博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q118986143",
+    "t": "Still Life of a Silver Tazza with a Wine Glass, Crab, Herring, Bread and Onion on Pewter Dishes with Grapes Arranged on a Ledge",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20%281627-after%201687%29%20-%20Still%20Life%20of%20a%20Silver%20Tazza%20with%20a%20Wine%20Glass%2C%20Crab%2C%20Herring%2C%20Bread%20and%20Onion%20on%20Pewter%20Dishes%20with%20Grapes%20Arranged%20on%20a%20Ledge%20-%20237%20-%20Chequers.jpg",
+    "y": "1682",
+    "mat": "油彩",
+    "loc": "契克斯",
+    "links": 0
+   },
+   {
+    "qid": "Q118986151",
+    "t": "Still Life with Carnations",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20%281627-after%201687%29%20-%20Still%20Life%20with%20Carnations%20-%20FA000108%20-%20Brighton%20Museum%20%5E%20Art%20Gallery.jpg",
+    "y": "1682",
+    "mat": "油彩",
+    "loc": "Brighton Museum & Art Gallery",
+    "links": 0
+   },
+   {
+    "qid": "Q119499587",
+    "t": "Still Life with a dead Jay",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20%281627-after%201687%29%20%28style%20of%29%20-%20Still%20Life%20with%20a%20dead%20Jay%20-%20WA1940.2.1%20-%20Ashmolean%20Museum.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "阿須摩林博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q119499590",
+    "t": "A Vase of Flowers with a Watch",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20%281627-after%201687%29%20%28after%29%20-%20A%20Vase%20of%20Flowers%20with%20a%20Watch%20-%20WA1940.2.3%20-%20Ashmolean%20Museum.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "阿須摩林博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q119631745",
+    "t": "Still Life with Fruit, Lobster and Silver Vessels",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20%281627-after%201687%29%20-%20Still%20Life%20with%20Fruit%2C%20Lobster%20and%20Silver%20Vessels%20-%20521-1870%20-%20Victoria%20and%20Albert%20Museum.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "维多利亚和阿尔伯特博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q119631755",
+    "t": "Roses and Poppies and a Snail",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20Aelst%20%281627-after%201687%29%20-%20Roses%20and%20Poppies%20and%20a%20Snail%20-%20537645%20-%20Croft%20Castle.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "克罗夫特城堡",
+    "links": 0
+   }
+  ]
+ }
+}

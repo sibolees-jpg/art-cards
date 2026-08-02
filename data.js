@@ -7749,5 +7749,8 @@ wiki:["Meredith Monk"],q:"Meredith Monk Dolmen Music"},
 {id:8346,img:"imgs/8346.webp",cr:"Amedeo Modigliani / Public domain",cat:"西方绘画",kind:"art",t:"小农夫",a:"莫迪利亚尼",y:"约1918",bg:"南法养病期间,他画当地的少年。",how:"脖颈拉长,眼睛画成没有瞳孔的杏仁。",why:"他说「我画眼睛,是为了看见灵魂——所以不需要瞳孔」。",more:"现藏伦敦泰特现代美术馆。"},
 {id:8347,img:"imgs/8347.webp",cr:"Amedeo Modigliani / Public domain",cat:"西方绘画",kind:"art",t:"卢尼娅·切霍夫斯卡像",a:"莫迪利亚尼",y:"1919",bg:"友人的妻子,他画了她多次。",how:"椭圆的脸、细长的鼻,轮廓像非洲面具。",why:"他的人像来自非洲雕刻与意大利文艺复兴的混血。",more:"现藏意大利私人收藏。"},
 {id:8350,img:"imgs/8350.webp",cr:"Andrei Ryabushkin / Public domain",cat:"西方绘画",kind:"art",t:"莫斯科的婚礼车队",a:"安德烈·里亚布什金",y:"1901",bg:"十七世纪的莫斯科街头,婚礼队伍走过,一个姑娘在旁失落地看着。",how:"鲜艳的俄式长袍与雪地,构图像一幅年画。",why:"他画古俄罗斯,不画沙皇,只画街上的人。",more:"现藏莫斯科特列季亚科夫画廊。"},
-{id:8351,img:"imgs/8351.webp",cr:"Andrei Ryabushkin / Public domain",cat:"西方绘画",kind:"art",t:"十七世纪的莫斯科街头",a:"安德烈·里亚布什金",y:"1895",bg:"泥泞的街道上,行人深一脚浅一脚地走。",how:"人物动作真实滑稽,毫无历史画的庄严。",why:"他考据服饰极严,却拒绝把过去画得体面。",more:"现藏莫斯科特列季亚科夫画廊。"}
+{id:8351,img:"imgs/8351.webp",cr:"Andrei Ryabushkin / Public domain",cat:"西方绘画",kind:"art",t:"十七世纪的莫斯科街头",a:"安德烈·里亚布什金",y:"1895",bg:"泥泞的街道上,行人深一脚浅一脚地走。",how:"人物动作真实滑稽,毫无历史画的庄严。",why:"他考据服饰极严,却拒绝把过去画得体面。",more:"现藏莫斯科特列季亚科夫画廊。"},
+{id:8278,img:"imgs/8278.webp",cr:"Natalia Goncharova / Public domain",cat:"西方绘画",kind:"art",t:"骑车人",a:"娜塔莉娅·冈察洛娃",y:"1913",bg:"骑车人穿过街道,商店招牌的俄文字母散落画面。",how:"重复的轮廓表现运动,借用了未来主义的手法。",why:"俄国的「辐射主义」——她与拉里奥诺夫共同发明。",more:"现藏圣彼得堡俄罗斯博物馆。"},
+{id:8285,img:"imgs/8285.webp",cr:"Pierre Bonnard / Public domain",cat:"西方绘画",kind:"art",t:"诺曼底风景",a:"皮埃尔·博纳尔",y:"约1920",bg:"法国北部乡野的一片田与树。",how:"色彩被推到极限,绿里有紫,黄里有红。",why:"他说自己「不是画风景,是画记忆里的风景」。",more:"现藏法国私人收藏。"},
+{id:8288,img:"imgs/8288.webp",cr:"Henri Rousseau / Public domain",cat:"西方绘画",kind:"art",t:"某先生的肖像",a:"亨利·卢梭",y:"约1906",bg:"据说画的是诗人皮埃尔·洛蒂。",how:"猫、烟斗与烟囱,每样东西都被画得同样认真。",why:"他不懂透视,却把每件东西都当主角。",more:"现藏瑞士苏黎世美术馆。"}
 ];
