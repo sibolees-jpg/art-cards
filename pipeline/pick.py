@@ -16,6 +16,13 @@ for f in os.listdir(SP):
     if f.startswith('pick') and f.endswith('.json'):
         try: used|={x['qid'] for x in json.load(open(f'{SP}/{f}'))}
         except Exception: pass
+EN2ZH={'psyche':'穿衣镜','mirror':'镜','lorient':'洛里昂','sunflower':'向日葵','loge':'包厢',
+'toilette':'梳妆','blanchisseuse':'洗衣','equestrienne':'女骑手','hangover':'宿醉',
+'death and the maiden':'死神与少女','dead city':'死城','the family':'家庭','embrace':'拥抱',
+'hermits':'隐士','composition':'构成','on white':'白之上','yellow-red-blue':'黄·红·蓝',
+'senecio':'塞内西奥','sumpflegende':'沼泽传说','villa r':'别墅','ashes':'灰烬','evolution':'进化',
+'flooding':'洪水','chestnut':'栗树','gravelines':'格拉沃利讷','courbevoie':'库尔伯瓦',
+'broadway':'百老汇','red, yellow':'红黄蓝','mother and sister':'母亲与姐姐'}
 pool=[]
 for src in srcs:
     j=json.load(open(f'{SP}/{src}'))
@@ -26,6 +33,13 @@ for src in srcs:
             t=clean(cc.convert(w['t']))
             if not t or re.match(r'^Q\d+$',t): continue
             if t in libset or ''.join(sorted(t)) in libsort: continue
+            # 跨语言:英文标题里的关键词若命中库内中文标题,判为重复
+            tl=w['t'].lower()
+            hit=False
+            for en,zh in EN2ZH.items():
+                if en in tl and any(zh in x for x in libset):
+                    hit=True; break
+            if hit: continue
             pool.append({'a':a,**w})
 pool.sort(key=lambda x:(x['a'],-x['links']))
 per={};sel=[]
