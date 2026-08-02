@@ -1,0 +1,748 @@
+{
+ "利皮": {
+  "qid": "Q205148",
+  "works": [
+   {
+    "qid": "Q3531531",
+    "t": "三博士來朝",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Angelico%20Adoration.jpg",
+    "y": "1430",
+    "mat": "tempera",
+    "loc": "國家藝廊",
+    "links": 13
+   },
+   {
+    "qid": "Q1055111",
+    "t": "聖母子與天使 (利皮)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20and%20Child%20with%20two%20Angels%20%28by%20Filippo%20Lippi%29%20%E2%80%93%20Galleria%20degli%20Uffizi%2C%20Florence.jpg",
+    "y": "1460",
+    "mat": "tempera",
+    "loc": "Room A9 Paolo Uccello - Filippo Lippi - Piero della Francesca",
+    "links": 12
+   },
+   {
+    "qid": "Q291189",
+    "t": "Adoration in the Forest",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%2C%20das%20Kind%20verehrend%2C%20mit%20dem%20Johannesknaben%20und%20dem%20Heiligen%20Bernhard%20-%20Die%20Anbetung%20im%20Walde%2C%20Die%20Anbetung%20im%20Walde%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205223451.jpg",
+    "y": "1459",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 8
+   },
+   {
+    "qid": "Q1056007",
+    "t": "Annunciation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Filippo%20Lippi%20-%20Annunciation%20-%20WGA13231.jpg",
+    "y": "1450",
+    "mat": "tempera",
+    "loc": "泰特美術館",
+    "links": 8
+   },
+   {
+    "qid": "Q1056043",
+    "t": "Annunciation with Two Kneeling Donors",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Filippo%20Lippi%20011.jpg",
+    "y": "1445",
+    "mat": "油彩",
+    "loc": "國立古代藝術美術館",
+    "links": 8
+   },
+   {
+    "qid": "Q3797764",
+    "t": "Coronation of the Virgin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Filippo%20Lippi%20007.jpg",
+    "y": "1441",
+    "mat": "tempera",
+    "loc": "烏菲茲美術館",
+    "links": 8
+   },
+   {
+    "qid": "Q3842743",
+    "t": "Madonna and Child Enthroned",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lippi%2C%20madonna%20di%20tarquinia%2C%201437.jpg",
+    "y": "1437",
+    "mat": "油彩",
+    "loc": "國立古代藝術美術館",
+    "links": 8
+   },
+   {
+    "qid": "Q3889196",
+    "t": "Barbadori Altarpiece and Predella",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pala%20Barbadori%20-%20Fra%20Filippo%20Lippi%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20339.jpg",
+    "y": "1437",
+    "mat": "油彩",
+    "loc": "Salon Carré",
+    "links": 8
+   },
+   {
+    "qid": "Q3538918",
+    "t": "Saint Lawrence Enthroned with Saints and Donors",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lawrence%20Enthroned%20with%20Saints%20and%20Donors%20MET%20Filippo%20Lippi%20nocap.jpg",
+    "y": "1453",
+    "mat": "tempera",
+    "loc": "大都會藝術博物館",
+    "links": 7
+   },
+   {
+    "qid": "Q3618193",
+    "t": "Martelli Annunciation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lippi%2C%20annunciazione%20Martelli.jpg",
+    "y": "1445",
+    "mat": "木材",
+    "loc": "佛罗伦萨圣老楞佐大殿",
+    "links": 7
+   },
+   {
+    "qid": "Q3889222",
+    "t": "Madonna and Child with Saints Francis, Damian, Cosmas and Anthony of Padua",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20Filippo%20Lippi%20-%20Madonna%20Enthroned%20with%20Saints%20-%20WGA13224.jpg",
+    "y": "1445",
+    "mat": "tempera",
+    "loc": "烏菲茲美術館",
+    "links": 7
+   },
+   {
+    "qid": "Q3958339",
+    "t": "Seven Saints",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lippi%2C%20sette%20santi.png",
+    "y": "1449",
+    "mat": "tempera",
+    "loc": "国家美术馆",
+    "links": 7
+   }
+  ]
+ },
+ "菲利皮诺·利皮": {
+  "qid": "Q296265",
+  "works": [
+   {
+    "qid": "Q3605532",
+    "t": "三博士来朝 (利皮)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20Lippi%20-%20Adorazione%20dei%20Magi%20-%20Google%20Art%20Project.jpg",
+    "y": "1496",
+    "mat": "油彩",
+    "loc": "Q112158047",
+    "links": 10
+   },
+   {
+    "qid": "Q2735676",
+    "t": "圣母向圣伯纳德的显现",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20claraval%20filippino%20lippi.jpg",
+    "y": "1486",
+    "mat": "油彩",
+    "loc": "巴迪亚教堂",
+    "links": 9
+   },
+   {
+    "qid": "Q3618195",
+    "t": "Annunciation with Saints John the Baptist and Andrew",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%2C%20annunciazione%20e%20santi%2C%20capodimonte.jpg",
+    "y": "1485",
+    "mat": "油彩",
+    "loc": "卡波迪蒙特美術館",
+    "links": 8
+   },
+   {
+    "qid": "Q3213780",
+    "t": "Madonna and Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sandro%20botticelli%2C%20madonna%20col%20bambino%20%28avignone%29%2C%201467-70%20ca.%2001.jpg",
+    "y": "1467",
+    "mat": "tempera",
+    "loc": "小宫博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q3620835",
+    "t": "基督向圣母显现",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20lippi%2C%20Apparizione%20di%20Cristo%20alla%20Madonna%2001.JPG",
+    "y": "1493",
+    "mat": "油彩",
+    "loc": "老绘画陈列馆",
+    "links": 6
+   },
+   {
+    "qid": "Q7811679",
+    "t": "Tobias and the Angel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tobias%20and%20the%20Angel%20-%20Filippino%20Lippi.jpg",
+    "y": "1475",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 6
+   },
+   {
+    "qid": "Q655093",
+    "t": "三位天使和多俾亞",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20lippi%2C%20tobiolo%20e%20i%20tre%20arcangeli%2C%201485%2C%20torino%2C%20galleria%20sabauda.jpg",
+    "y": "1485",
+    "mat": "",
+    "loc": "薩包達美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q3360743",
+    "t": "Madonna with Child and Saints",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20Lippi%20Santo%20Spirito.jpg",
+    "y": "1493",
+    "mat": "油彩",
+    "loc": "佛罗伦萨圣神大殿",
+    "links": 5
+   },
+   {
+    "qid": "Q3831650",
+    "t": "圣伯多禄从监牢得自由",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20lippi%2C%20liberazione%20di%20san%20pietro%2C%20cappella%20brancacci%2C%201482-85.jpg",
+    "y": "1482",
+    "mat": "fresco",
+    "loc": "布兰卡契小堂",
+    "links": 5
+   },
+   {
+    "qid": "Q3851964",
+    "t": "圣加大肋纳的神秘婚姻 (菲利皮诺·利皮)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%2C%20matrimonio%20mistico%20di%20santa%20caterina%2001.jpg",
+    "y": "1503",
+    "mat": "画板",
+    "loc": "圣多明我大殿",
+    "links": 5
+   },
+   {
+    "qid": "Q1119782",
+    "t": "与术士西门的争执和圣伯多禄倒钉十字架",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filippino%20lippi%2C%20crocifissione%20di%20san%20pietro%2C%20cappella%20brancacci%2C%201482-85.jpg",
+    "y": "1481",
+    "mat": "灰泥",
+    "loc": "布兰卡契小堂",
+    "links": 4
+   },
+   {
+    "qid": "Q3933568",
+    "t": "提阿非罗的儿子复活和圣伯多禄登宝座",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20brancacci%2C%20Resurrezione%20del%20figlio%20di%20Teofilo%20e%20San%20Pietro%20in%20cattedra%20%28restaurato%29%2C%20Masaccio.jpg",
+    "y": "1427",
+    "mat": "fresco",
+    "loc": "布兰卡契小堂",
+    "links": 4
+   }
+  ]
+ },
+ "安东内洛": {
+  "qid": "Q5594",
+  "works": [
+   {
+    "qid": "Q2715353",
+    "t": "書房中的聖傑洛姆",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonello%20da%20Messina%20-%20St%20Jerome%20in%20his%20study%20-%20National%20Gallery%20London.jpg",
+    "y": "1474",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 16
+   },
+   {
+    "qid": "Q3332564",
+    "t": "Virgin Annunciate",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonello%20da%20Messina%2C%20Annunciata%20di%20Palermo%2C%20circa%201475-77%20-FG2.jpg",
+    "y": "1475",
+    "mat": "油彩",
+    "loc": "Galleria Regionale della Sicilia",
+    "links": 16
+   },
+   {
+    "qid": "Q444078",
+    "t": "Saint Sebastian",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonello%20da%20Messina%20-%20St.%20Sebastian%20-%20Google%20Art%20Project.jpg",
+    "y": "1478",
+    "mat": "油彩",
+    "loc": "意大利",
+    "links": 9
+   },
+   {
+    "qid": "Q1750739",
+    "t": "San Cassiano Altarpiece",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pala%20di%20San%20Cassiano-Messina%20reconstruction.jpg",
+    "y": "1475",
+    "mat": "油彩",
+    "loc": "圣加西盎堂",
+    "links": 9
+   },
+   {
+    "qid": "Q3698180",
+    "t": "Calvary",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Calvarieberg%2C%20Antonello%20da%20Messina%2C%201475%2C%20Koninlijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%204.jpg",
+    "y": "1475",
+    "mat": "油彩",
+    "loc": "皇家安特衛普美術館",
+    "links": 9
+   },
+   {
+    "qid": "Q3937397",
+    "t": "男子肖像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonello%20da%20Messina%20-%20Portrait%20of%20a%20Man%20-%20National%20Gallery%20London.jpg",
+    "y": "1475",
+    "mat": "油彩",
+    "loc": "意大利",
+    "links": 9
+   },
+   {
+    "qid": "Q3842430",
+    "t": "Madonna with Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonello%20da%20messina%2C%20madonna%20salting.jpg",
+    "y": "1460",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 8
+   },
+   {
+    "qid": "Q15935001",
+    "t": "Portrait of a Man, called condottiere",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonello%20da%20Messina%20-%20Portrait%20of%20a%20Man%20%28Il%20Condottiere%29%20cleaned%20version.jpg",
+    "y": "1475",
+    "mat": "油彩",
+    "loc": "Room 710",
+    "links": 8
+   },
+   {
+    "qid": "Q5108945",
+    "t": "Christ at the Column",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20at%20the%20Column%20by%20Antonello%20da%20Messina%20%28Louvre%20RF%201992-10%29.jpg",
+    "y": "1477",
+    "mat": "油彩",
+    "loc": "Doughty House",
+    "links": 7
+   }
+  ]
+ },
+ "科西莫": {
+  "qid": "Q280851",
+  "works": [
+   {
+    "qid": "Q2633689",
+    "t": "西蒙内塔·韦斯普奇肖像画",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20Cosimo%20-%20Portrait%20de%20femme%20dit%20de%20Simonetta%20Vespucci%20-%20Google%20Art%20Project.jpg",
+    "y": "1480",
+    "mat": "tempera",
+    "loc": "孔蒂博物馆",
+    "links": 15
+   },
+   {
+    "qid": "Q2457026",
+    "t": "The Death of Procris",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20Cosimo%20013.jpg",
+    "y": "1495",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 13
+   },
+   {
+    "qid": "Q3558043",
+    "t": "珀耳修斯解救安朵美達",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20Cosimo%20-%20Liberazione%20di%20Andromeda%20-%20Google%20Art%20Project.jpg",
+    "y": "1510",
+    "mat": "油彩",
+    "loc": "烏菲茲美術館",
+    "links": 9
+   },
+   {
+    "qid": "Q4009550",
+    "t": "Venus, Mars and Cupid",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20Cosimo%20-%20Venus%2C%20Mars%20und%20Amor%20-%20Gem%C3%A4ldegalerie%20Berlin.jpg",
+    "y": "1505",
+    "mat": "油彩",
+    "loc": "Italian painting 13. - 15th-century, hall XVIII",
+    "links": 9
+   },
+   {
+    "qid": "Q3204084",
+    "t": "Incarnation of Jesus by Piero di Cosimo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20Cosimo%20Incarnation%20of%20Jesus%2001.jpg",
+    "y": "1500",
+    "mat": "egg tempera",
+    "loc": "烏菲茲美術館",
+    "links": 7
+   },
+   {
+    "qid": "Q4014808",
+    "t": "拜訪聖尼古拉及聖安東尼",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20Cosimo%20023.jpg",
+    "y": "1490",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 7
+   },
+   {
+    "qid": "Q3709937",
+    "t": "山中圣训及治愈癞病人",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cosimo%20Rosselli%20Sermone%20della%20Montagna.jpg",
+    "y": "1481",
+    "mat": "fresco",
+    "loc": "西斯汀小堂",
+    "links": 6
+   },
+   {
+    "qid": "Q3797599",
+    "t": "The Forest Fire",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20Cosimo%20%E2%80%94%20The%20Forest%20Fire.jpg",
+    "y": "1505",
+    "mat": "油彩",
+    "loc": "阿須摩林博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q3952722",
+    "t": "Discovery of Honey by Piero di Cosimo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20Cosimo%20-%20Bacco%20scoperto%20miele.jpg",
+    "y": "1499",
+    "mat": "油彩",
+    "loc": "伍斯特艺术博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q28229479",
+    "t": "Saint Mary Magdalene",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa%20Magdalena%20leyendo%2C%20por%20Piero%20di%20Cosimo.jpg",
+    "y": "1490",
+    "mat": "tempera",
+    "loc": "巴贝里尼宫",
+    "links": 6
+   },
+   {
+    "qid": "Q3558023",
+    "t": "Madonna and Child with a Dove - Piero di Cosimo - Louvre INV 817",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vierge%20et%20l%27Enfant%20%C3%A0%20la%20colombe%20-%20Piero%20di%20Cosimo%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20817%20%3B%20MR%20241.jpg",
+    "y": "1490",
+    "mat": "油彩",
+    "loc": "Room 710",
+    "links": 5
+   },
+   {
+    "qid": "Q3649298",
+    "t": "狩猎图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20di%20cosimo%2C%20scena%20di%20caccia%202.jpg",
+    "y": "1500",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 5
+   }
+  ]
+ },
+ "西尼奥雷利": {
+  "qid": "Q7031",
+  "works": [
+   {
+    "qid": "Q3985203",
+    "t": "梅瑟的遗嘱及梅瑟之死",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Signorelli%2C%20Luca%20-%20Moses%27s%20Testament%20and%20Death%20-%201481-82.jpg",
+    "y": "1482",
+    "mat": "fresco",
+    "loc": "西斯汀小堂",
+    "links": 9
+   },
+   {
+    "qid": "Q3207989",
+    "t": "Crucifixion of Christ with saints",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pietro%20Perugino%20cat18.jpg",
+    "y": "1484",
+    "mat": "",
+    "loc": "烏菲茲美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q3685129",
+    "t": "Lamentation over the dead Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20signorelli%2C%20compianto%2C%20cortona%2C%20e%20predella.jpg",
+    "y": "1502",
+    "mat": "tempera",
+    "loc": "Diocesan Museum in Cortona",
+    "links": 6
+   },
+   {
+    "qid": "Q3698237",
+    "t": "受難耶穌與瑪達萊娜",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Signorelli-crucifixion.jpg",
+    "y": "1502",
+    "mat": "油彩",
+    "loc": "烏菲茲美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q3907497",
+    "t": "阿尔切维亚祭坛画",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20signorelli%2C%20polittico%20di%20arcevia.jpg",
+    "y": "1507",
+    "mat": "",
+    "loc": "布雷拉画廊",
+    "links": 6
+   },
+   {
+    "qid": "Q3973082",
+    "t": "Crucifixion of Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20signorelli%2C%20crocifissione%20di%20san%20sepolcro.jpg",
+    "y": "1502",
+    "mat": "",
+    "loc": "Museo Civico di Sansepolcro",
+    "links": 6
+   },
+   {
+    "qid": "Q3677599",
+    "t": "The Circumcision",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Circumcision%2C%20by%20Luca%20Signorelli.jpg",
+    "y": "1490",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 5
+   },
+   {
+    "qid": "Q3685501",
+    "t": "Communion of the Apostles (Signorelli)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20signorelli%2C%20comunione%20con%20gli%20apostoli%2C%20cortona.jpg",
+    "y": "1512",
+    "mat": "油彩",
+    "loc": "Diocesan Museum in Cortona",
+    "links": 5
+   },
+   {
+    "qid": "Q3842491",
+    "t": "與孩子的聖母",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20Signorelli-Maria%20mit%20dem%20Kinde.JPG",
+    "y": "1492",
+    "mat": "tempera",
+    "loc": "老绘画陈列馆",
+    "links": 5
+   },
+   {
+    "qid": "Q3873242",
+    "t": "The Birth of St. John the Baptist",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Signorelli%2C%20birth%20of%20st.%20john%20the%20baptist.jpg",
+    "y": "1483",
+    "mat": "tempera",
+    "loc": "Room 709",
+    "links": 5
+   },
+   {
+    "qid": "Q3889269",
+    "t": "Sant'Onofrio Altarpiece",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pala-sant-onofrio%20luca-signorelli.jpg",
+    "y": "1484",
+    "mat": "画板",
+    "loc": "Museo dell'Opera del Duomo",
+    "links": 5
+   },
+   {
+    "qid": "Q3937404",
+    "t": "Portrait of a Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bildnis%20eines%20%C3%A4lteren%20Mannes%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205132435.jpg",
+    "y": "1492",
+    "mat": "tempera",
+    "loc": "Paintings of the Italian Renaissance - Room 39",
+    "links": 5
+   }
+  ]
+ },
+ "平图里基奥": {
+  "qid": "Q5591",
+  "works": [
+   {
+    "qid": "Q3889268",
+    "t": "Madonna and Crucifixion and Saints",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20pala%20di%20santa%20maria%20dei%20fossi.jpg",
+    "y": "1496",
+    "mat": "",
+    "loc": "國立翁布里亞美術館",
+    "links": 7
+   },
+   {
+    "qid": "Q3698268",
+    "t": "在聖傑洛姆及聖克里斯多福之間的受難耶穌",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20crocifissione%20con%20san%20girolamo%20e%20san%20cristoforo.jpg",
+    "y": "1475",
+    "mat": "",
+    "loc": "鮑格才美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q3818579",
+    "t": "Madonna with Writing Child and Bishop",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20de%20Borja.jpg",
+    "y": "1495",
+    "mat": "油彩",
+    "loc": "瓦倫西亞美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q3842558",
+    "t": "Madonna and Child with Saint Jerome",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pintoricchio%2C%20Maria%20mit%20dem%20Kind%20und%20dem%20Heiligen%20Hieronymus.jpg",
+    "y": "1480",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 5
+   },
+   {
+    "qid": "Q3937370",
+    "t": "Penelope with the Suitors",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20Return%20of%20Odysseus.jpg",
+    "y": "1508",
+    "mat": "fresco",
+    "loc": "国家美术馆",
+    "links": 5
+   },
+   {
+    "qid": "Q3963943",
+    "t": "Semi-Gods Ceiling",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20soffitto%20dei%20semidei%2C%201490%2C%20roma%2C%20palazzo%20dei%20penitenzieri.jpg",
+    "y": "1490",
+    "mat": "",
+    "loc": "罗马",
+    "links": 5
+   },
+   {
+    "qid": "Q3842554",
+    "t": "Madonna and Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20madonna%20col%20bambino%20leggente%2C%201494-98%2C%2033%2C7x25%2C4%20cm%2C%20raleigh%2C%20north%20carolina%20museum%20of%20art.jpg",
+    "y": "1494",
+    "mat": "tempera",
+    "loc": "Q1459878",
+    "links": 4
+   },
+   {
+    "qid": "Q3842560",
+    "t": "Madonna with Writing Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20madonna%20col%20bambino%20scrivente%2C%201494-98%2C%2061x41%2C6%20cm%2C%20philadelphia%2C%20museum%20of%20art.jpg",
+    "y": "1494",
+    "mat": "油彩",
+    "loc": "费城艺术博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q3948667",
+    "t": "Saint Augustine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20sant%27agostino%20tra%20i%20flagellanti.jpg",
+    "y": "1500",
+    "mat": "",
+    "loc": "國立翁布里亞美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q3842673",
+    "t": "Madonna with child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%2C%20madonna%20della%20pace%2C%201490%20circa.%20143x70%20cm%2C%20sanseverino%20marche%2C%20pinacoteca%20civica.jpg",
+    "y": "1490",
+    "mat": "tempera",
+    "loc": "Pinacoteca civica Tacchi-Venturi",
+    "links": 3
+   },
+   {
+    "qid": "Q3947305",
+    "t": "Saint Jerome in the Wilderness",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernardino%20Pinturicchio%20-%20Saint%20Jerome%20in%20the%20Wilderness%20-%20Walters%20371089.jpg",
+    "y": "1477",
+    "mat": "油彩",
+    "loc": "沃爾特斯藝術博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q12764744",
+    "t": "St Catherine's Disputation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinturicchio%20-%20St%20Catherine%27s%20Disputation%20-%20WGA17820.jpg",
+    "y": "1469",
+    "mat": "",
+    "loc": "",
+    "links": 3
+   }
+  ]
+ },
+ "弗朗切斯卡": {
+  "qid": "Q5822",
+  "works": [
+   {
+    "qid": "Q1212920",
+    "t": "Flagellation of Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20della%20Francesca%20Flagellazione-gndm-full.jpg",
+    "y": "1459",
+    "mat": "tempera",
+    "loc": "马尔凯国家美术馆",
+    "links": 22
+   },
+   {
+    "qid": "Q1796098",
+    "t": "蒙特費爾特羅祭壇畫",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20della%20Francesca%20046.jpg",
+    "y": "1472",
+    "mat": "tempera",
+    "loc": "布雷拉画廊",
+    "links": 18
+   },
+   {
+    "qid": "Q2632688",
+    "t": "The Baptism of Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20della%20Francesca%20-%20Battesimo%20di%20Cristo%20%28National%20Gallery%2C%20London%29.jpg",
+    "y": "1448",
+    "mat": "木材",
+    "loc": "意大利",
+    "links": 18
+   },
+   {
+    "qid": "Q430293",
+    "t": "基督复活 (弗朗切斯卡)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Resurrection.JPG",
+    "y": "1463",
+    "mat": "胶彩颜料",
+    "loc": "意大利",
+    "links": 17
+   },
+   {
+    "qid": "Q1227359",
+    "t": "烏爾比諾公爵雙聯畫",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20della%20Francesca%20044.jpg",
+    "y": "1470",
+    "mat": "tempera",
+    "loc": "Room A9 Paolo Uccello - Filippo Lippi - Piero della Francesca",
+    "links": 17
+   },
+   {
+    "qid": "Q723479",
+    "t": "Madonna del Parto",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20del%20parto%20piero%20della%20Francesca.jpg",
+    "y": "1455",
+    "mat": "fresco",
+    "loc": "蒙特尔基",
+    "links": 11
+   },
+   {
+    "qid": "Q3211055",
+    "t": "The Nativity",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20della%20Francesca%20041.jpg",
+    "y": "1480",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 11
+   },
+   {
+    "qid": "Q2755121",
+    "t": "Portrait of Sigismondo Pandolfo Malatesta",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%2C%20ritratto%20di%20sigismondo%20malatesta.jpg",
+    "y": "1450",
+    "mat": "tempera",
+    "loc": "Room 709",
+    "links": 10
+   },
+   {
+    "qid": "Q2247307",
+    "t": "Polyptych of the Misericordia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20della%20Francesca%20-%20Polyptych%20of%20the%20Misericordia%20-%20WGA17446.jpg",
+    "y": "1460",
+    "mat": "",
+    "loc": "意大利",
+    "links": 9
+   },
+   {
+    "qid": "Q1092638",
+    "t": "Madonna di Senigallia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20di%20Senigallia.jpg",
+    "y": "1476",
+    "mat": "tempera",
+    "loc": "洛迦诺",
+    "links": 8
+   }
+  ]
+ }
+}
