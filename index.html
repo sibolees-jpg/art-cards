@@ -2651,8 +2651,6 @@ function renderWorld(){
     const o=stat[k]=stat[k]||{n:0,lit:0};
     o.n+=ws.length; o.lit+=ws.filter(w=>explored.has(w.id)).length;
   });
-  // 海底
-  ctx.fillStyle='#0d1f26'; ctx.fillRect(0,0,P.cssW,P.cssH);
   const path=(ring)=>{
     ctx.beginPath();
     for(let i=0;i<ring.length;i++){
@@ -2666,20 +2664,19 @@ function renderWorld(){
     const dim = wview.level!=='world' && o.n!==wview.country;
     o.r.forEach(ring=>{
       path(ring);
-      if(s&&s.lit){                       // 已踏足:亮青
+      if(s&&s.lit){                       // 已踏足:砖红,踏满描金边
         const full = s.lit>=s.n;
-        ctx.fillStyle = dim?'#1b4650':(full?'#3fd0e0':'#2a9db0');
-        ctx.globalAlpha = dim?.5:.92;
-        ctx.fill();
-        ctx.globalAlpha=1;
-        ctx.strokeStyle = dim?'#2a6b78':(full?'#8ff0ff':'#6fe3f2');
-        ctx.lineWidth = dim?.6:1.2; ctx.stroke();
-      }else if(s){                        // 有藏品未刷:半亮
-        ctx.fillStyle='#1e4d58'; ctx.globalAlpha=dim?.45:.85; ctx.fill(); ctx.globalAlpha=1;
-        ctx.strokeStyle='#2f7d8c'; ctx.lineWidth=.8; ctx.stroke();
-      }else{                              // 无藏品:未知的暗陆地
-        ctx.fillStyle='#16323a'; ctx.globalAlpha=.9; ctx.fill(); ctx.globalAlpha=1;
-        ctx.strokeStyle='#1d4049'; ctx.lineWidth=.6; ctx.stroke();
+        ctx.fillStyle = full?'#b3543e':'#cd9280';
+        ctx.globalAlpha = dim?.3:.92;
+        ctx.fill(); ctx.globalAlpha=1;
+        ctx.strokeStyle = full?'#c9a227':'#a8674f';
+        ctx.lineWidth = dim?.5:(full?1.5:1); ctx.stroke();
+      }else if(s){                        // 有藏品未刷:待点亮的浅陆地
+        ctx.fillStyle='#e2ddd0'; ctx.globalAlpha=dim?.4:1; ctx.fill(); ctx.globalAlpha=1;
+        ctx.strokeStyle='#c4bda9'; ctx.lineWidth=.8; ctx.stroke();
+      }else{                              // 无藏品:更淡的底
+        ctx.fillStyle='#edeae0'; ctx.globalAlpha=dim?.4:1; ctx.fill(); ctx.globalAlpha=1;
+        ctx.strokeStyle='#dcd7c8'; ctx.lineWidth=.6; ctx.stroke();
       }
     });
   });
@@ -2701,12 +2698,12 @@ function renderWorld(){
       const [x,y]=P.fx(o.sx/o.m,o.sy/o.m);
       const r=Math.max(4,Math.min(11,2.5+Math.sqrt(o.n)*0.8));
       ctx.beginPath(); ctx.arc(x,y,r,0,7);
-      if(o.lit){ litC++; ctx.fillStyle='#ffd45e'; ctx.globalAlpha=.95; }
-      else{ ctx.fillStyle='#6b8f99'; ctx.globalAlpha=.7; }
+      if(o.lit){ litC++; ctx.fillStyle='#8c3a26'; ctx.globalAlpha=.95; }
+      else{ ctx.fillStyle='#a8a294'; ctx.globalAlpha=.75; }
       ctx.fill(); ctx.globalAlpha=1;
       ctx.font='10px sans-serif'; ctx.textAlign='center';
-      ctx.lineWidth=3; ctx.strokeStyle='rgba(6,20,26,.85)'; ctx.strokeText(k,x,y-r-4);
-      ctx.fillStyle=o.lit?'#eafcff':'#8fb3bd'; ctx.fillText(k,x,y-r-4);
+      ctx.lineWidth=3; ctx.strokeStyle='rgba(250,248,242,.9)'; ctx.strokeText(k,x,y-r-4);
+      ctx.fillStyle=o.lit?'#3d2b22':'#6b675e'; ctx.fillText(k,x,y-r-4);
       _wcityPts.push({x,y,r:r+4,country:k});
     }
     document.getElementById('wCrumb').textContent='世界';
@@ -2726,13 +2723,13 @@ function renderWorld(){
       const [x,y]=P.fx(c[1],c[2]);
       const r=Math.max(6,Math.min(17,4+Math.sqrt(ws.length)*1.4));
       ctx.beginPath(); ctx.arc(x,y,r,0,7);
-      ctx.fillStyle=lit?'#ffd45e':'#4a7684'; ctx.globalAlpha=.92; ctx.fill(); ctx.globalAlpha=1;
-      if(lit>=ws.length){ ctx.strokeStyle='#fff3c4'; ctx.lineWidth=1.8; ctx.stroke(); }
+      ctx.fillStyle=lit?'#8c3a26':'#a8a294'; ctx.globalAlpha=.92; ctx.fill(); ctx.globalAlpha=1;
+      if(lit>=ws.length){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=1.8; ctx.stroke(); }
       ctx.font='9.5px sans-serif'; ctx.textAlign='center';
-      if(r>=10){ ctx.fillStyle=lit?'#3a2b00':'#cfe8ef'; ctx.fillText(lit+'/'+ws.length,x,y+3); }
+      if(r>=10){ ctx.fillStyle='#fff'; ctx.fillText(lit+'/'+ws.length,x,y+3); }
       ctx.font='10.5px sans-serif';
-      ctx.lineWidth=3; ctx.strokeStyle='rgba(6,20,26,.85)'; ctx.strokeText(c[0],x,y-r-4);
-      ctx.fillStyle='#eafcff'; ctx.fillText(c[0],x,y-r-4);
+      ctx.lineWidth=3; ctx.strokeStyle='rgba(250,248,242,.9)'; ctx.strokeText(c[0],x,y-r-4);
+      ctx.fillStyle='#3d2b22'; ctx.fillText(c[0],x,y-r-4);
       _wcityPts.push({x,y,r:r+5,ci});
     });
     document.getElementById('wCrumb').textContent='世界 · '+wview.country;
