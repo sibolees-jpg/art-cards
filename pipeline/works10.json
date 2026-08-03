@@ -1,0 +1,3116 @@
+{
+ "雅各布·德·巴尔巴里": {
+  "qid": "Q927350",
+  "works": [
+   {
+    "qid": "Q2349652",
+    "t": "Still-Life with Partridge and Iron Gloves",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20de%27%20Barbari%20-%20Dead%20Partridge%20with%20Iron%20Gauntlets%20and%20Crossbow%20Arrows%20%281504%29.jpg",
+    "y": "1504",
+    "mat": "油彩",
+    "loc": "Alte Pinakothek, upper floor, small gallery 5",
+    "links": 10
+   },
+   {
+    "qid": "Q732821",
+    "t": "盧卡·帕喬利肖像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20de%27%20Barbari%20%28attributed%20to%29%20Portrait%20of%20Luca%20Pacioli%20%281445%201517%29%20with%20a%20student%20%28Guidobaldo%20da%20Montefeltro%29%20%282%29.jpg",
+    "y": "1497",
+    "mat": "油彩",
+    "loc": "卡波迪蒙特美術館",
+    "links": 9
+   },
+   {
+    "qid": "Q26106449",
+    "t": "威尼斯全景圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20de%27%20Barbari%20-%20View%20of%20Venice%20-%20Minneapolis%20Institute%20of%20Art.jpg",
+    "y": "1500",
+    "mat": "纸",
+    "loc": "",
+    "links": 6
+   },
+   {
+    "qid": "Q21121980",
+    "t": "A Sparrowhawk",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20de%27%20Barbari%20-%20Un%20sparviero.jpg",
+    "y": "1510",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 5
+   },
+   {
+    "qid": "Q107442161",
+    "t": "Portrait of a German",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zugeschrieben%2C%20Jacopo%20de%27%20Barbari%20%28um%201470%20-%201516%20%28oder%20fr%C3%BCher%29%29%20-%20Portrait%20of%20a%20German%20-%20Naked%20Couple%20-%201664%20-%20Gem%C3%A4ldegalerie.jpg",
+    "y": "1500",
+    "mat": "涂料",
+    "loc": "Italian paintings 13 - 15th-century, room 37",
+    "links": 3
+   },
+   {
+    "qid": "Q18565877",
+    "t": "The Virgin at the Fountain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20de%27%20Barbari%20-%20Virgin%20and%20Child%20Flanked%20by%20St%20John%20the%20Baptist%20and%20St%20Anthony%20Abbot%20-%20WGA1268.jpg",
+    "y": "1512",
+    "mat": "油彩",
+    "loc": "Room 710",
+    "links": 2
+   },
+   {
+    "qid": "Q20808360",
+    "t": "An Old Man and a Young Woman (The Nymph Agapes and Her Old Husband)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20de%27%20Barbari%20-%20An%20old%20man%20and%20a%20young%20woman%20%28Philadelphia%29.jpg",
+    "y": "1503",
+    "mat": "油彩",
+    "loc": "费城艺术博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q60781196",
+    "t": "View of Venice",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201949.565.jpg",
+    "y": "1500",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q65073835",
+    "t": "The Risen Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20de%27%20Barbari%2C%20The%20Risen%20Christ%2C%20c.%201503-1504%2C%20NGA%2034659.jpg",
+    "y": "1503",
+    "mat": "",
+    "loc": "國家藝廊",
+    "links": 1
+   },
+   {
+    "qid": "Q98078181",
+    "t": "View of Venice",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20View%20of%20Venice%20by%20Jacopo%20de%27%20Barbari%20-%20Museo%20Correr.jpg",
+    "y": "1500",
+    "mat": "",
+    "loc": "科雷尔博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q107435940",
+    "t": "Virgin and Child with Saint Barbara, Saint John the Baptist and a female donor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20de%27%20Barbari%20%28um%201470%20-%201516%20%28oder%20fr%C3%BCher%29%29%20-%20The%20Virgin%20and%20Child%20with%20Saints%20and%20a%20Donor%20-%2026A%20-%20Gem%C3%A4ldegalerie.jpg",
+    "y": "1498",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q17276181",
+    "t": "Portrait of Henri V. of Mecklenburg",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20de%20Barbari%20%28toegeschreven%29%20-%20Portret%20van%20Hendrik%2C%20graaf%20van%20Mecklenburg%20%281479-1552%29.jpg",
+    "y": "1507",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   }
+  ]
+ },
+ "巴尔东": {
+  "qid": "Q164696",
+  "works": [
+   {
+    "qid": "Q4462828",
+    "t": "The Ages and Death",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Baldung%20009.jpg",
+    "y": "1541",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 11
+   },
+   {
+    "qid": "Q104715170",
+    "t": "The Seven Ages of Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Leipzig%2C%20Museum%20der%20bildenden%20K%C3%BCnste%2C%20Hans%20Baldung%2C%20die%20sieben%20Lebensalter%20des%20Weibes.JPG",
+    "y": "1544",
+    "mat": "木材",
+    "loc": "萊比錫造型美術館",
+    "links": 8
+   },
+   {
+    "qid": "Q1621646",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Freiburg%20Minster%202008%20%2815%29.jpg",
+    "y": "1516",
+    "mat": "油彩",
+    "loc": "弗赖堡主教座堂",
+    "links": 7
+   },
+   {
+    "qid": "Q18685962",
+    "t": "The Trinity and Mystic Pietà",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Baldung%20Grien%20-%20The%20Trinity%20and%20Mystic%20Piet%C3%A0%20-%20Google%20Art%20Project.jpg",
+    "y": "1512",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 7
+   },
+   {
+    "qid": "Q5416129",
+    "t": "Eve, the Serpent and Death",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Baldung%20Grien%20-%20Eve%2C%20Serpent%20and%20Death.JPG",
+    "y": "1510",
+    "mat": "油彩",
+    "loc": "加拿大國立美術館",
+    "links": 6
+   },
+   {
+    "qid": "Q3605052",
+    "t": "亚当和夏娃",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20baldus%20grien%2C%20copia%20da%20durer%2C%20adamo%20ed%20eva.jpg",
+    "y": "1507",
+    "mat": "油彩",
+    "loc": "烏菲茲美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q18685963",
+    "t": "Portrait of a Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Baldung%20022.jpg",
+    "y": "1514",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 5
+   },
+   {
+    "qid": "Q40706278",
+    "t": "Heracles and Antaeus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Heracles%20and%20Antaeus%20%281531%29%20by%20Hans%20Baldung.jpg",
+    "y": "1531",
+    "mat": "油彩",
+    "loc": "Gemäldegalerie Alte Meister",
+    "links": 5
+   },
+   {
+    "qid": "Q97097631",
+    "t": "Death and the Maiden (Baldung)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gw11%200001031%2020170619%20001%20Baldung%20Der%20Tod%20und%20das%20Maedchen.jpg",
+    "y": "1517",
+    "mat": "tempera",
+    "loc": "巴塞爾美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q27978197",
+    "t": "The three ages and death",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Baldung%2C%20gen.%20Grien%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Die%20drei%20Lebensalter%20und%20der%20Tod%20-%20GG%202636%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1509",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q20012502",
+    "t": "Death and the Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gw11%200001030%2020170619%20001%20Baldung%20Der%20Tod%20und%20die%20Frau.jpg",
+    "y": "1519",
+    "mat": "tempera",
+    "loc": "巴塞爾美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q110846785",
+    "t": "Judith with the Head of Holophernes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1525%20Baldung%20Judith%20mit%20dem%20Haupt%20des%20Holofernes%20anagoria.JPG",
+    "y": "1525",
+    "mat": "油彩",
+    "loc": "日耳曼國家博物館",
+    "links": 4
+   }
+  ]
+ },
+ "布格迈尔": {
+  "qid": "Q313163",
+  "works": [
+   {
+    "qid": "Q125024685",
+    "t": "Maria with the child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%BCrnberg%20%E2%80%94%20GNM%202013-09-07%20Mattes%20%2860%29.JPG",
+    "y": "1509",
+    "mat": "涂料",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q125413778",
+    "t": "The 21-Year-Old Fraud Anna Laminit",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Laminit1502.JPG",
+    "y": "1502",
+    "mat": "涂料",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q131875017",
+    "t": "Q131875017",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Burgkmair%20d.%20%C3%84.%20003.jpg",
+    "y": "1505",
+    "mat": "lime panel",
+    "loc": "瓦爾拉夫-里夏茨博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q131876090",
+    "t": "Q131876090",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wallraf%20richartz%20museumsnacht%202016%201.jpg",
+    "y": "1507",
+    "mat": "lime panel",
+    "loc": "瓦爾拉夫-里夏茨博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q3937791",
+    "t": "Portrait of a man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20burgmakir%2C%20ritratto%20virile.jpg",
+    "y": "1506",
+    "mat": "",
+    "loc": "烏菲茲美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q27981120",
+    "t": "Portrait of Frederick III, Holy Roman Emperor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Burgkmair%20d.%20%C3%84.%20%28zugeschr.%29%20-%20Bildnis%20Kaiser%20Friedrich%20III.jpg",
+    "y": "1450",
+    "mat": "画板",
+    "loc": "艺术史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q29951076",
+    "t": "Maria with the child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Burgkmair%20d.%20%C5%BD.%20-%20Madonna%20with%20Grape%20-%20WGA03698.jpg",
+    "y": "1510",
+    "mat": "涂料",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q117074894",
+    "t": "The Visitation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Burgkmair%20the%20Elder%20-%20The%20Visitation%2C%20c1488-1531%20-%20British%20Museum%201929%2C0416.2.jpg",
+    "y": "1500",
+    "mat": "墨水",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q117075114",
+    "t": "Portrait of an unknown man wearing a sheepskin hat",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Burgkmair%20the%20Elder%20-%20Portrait%20of%20an%20unknown%20man%20wearing%20a%20sheepskin%20hat%2C%20c1520%20-%20British%20Museum%20SL%2C5218.28%20recto.jpg",
+    "y": "1520",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q117075119",
+    "t": "Head of a child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Burgkmair%20the%20Elder%20-%20Head%20of%20a%20child%2C%20c1520%20-%20British%20Museum%20SL%2C5218.28%20verso.jpg",
+    "y": "1520",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q117075137",
+    "t": "Standing black youth dressed holding a club and shield",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Burgkmair%20the%20Elder%20-%20Standing%20black%20youth%20dressed%20holding%20a%20club%20and%20shield%2C%20c1520-1530%20-%20British%20Museum%20SL%2C5218.128%20recto.jpg",
+    "y": "1550",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q117075151",
+    "t": "Five musicians",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Burgkmair%20the%20Elder%20%28after%29%20-%20Five%20musicians%2C%2016th%20century%20-%20British%20Museum%20SL%2C5236.119.jpg",
+    "y": "1550",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "朔伊费莱因": {
+  "qid": "Q675272",
+  "works": [
+   {
+    "qid": "Q137909060",
+    "t": "Christgartner Altar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Sch%C3%A4ufelein%20-%20Christgartner%20Altar%2C%20Hl.%20Johannes%20Chrysostomos%20R%C3%BCckseite%2C%20Fall%20Christi%20unter%20dem%20Kreuz%20-%20WAF%20933%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+    "y": "1510",
+    "mat": "涂料",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q125127338",
+    "t": "Head of a bearded man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1511%20Schaeufelein%20Head%20of%20a%20bearded%20man%20anagoria.JPG",
+    "y": "1511",
+    "mat": "涂料",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q78632682",
+    "t": "Christ Carrying the Cross (reverse)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Sch%C3%A4ufelein%20-%20Die%20Kreuztragung%20Christi.jpg",
+    "y": "1510",
+    "mat": "",
+    "loc": "Gallery 643, Metropolitan Museum of Art",
+    "links": 1
+   },
+   {
+    "qid": "Q110539334",
+    "t": "Eitel Friedrich II of Hohenzollern by Hans Schäufelin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1525%20Sch%C3%A4ufelein%20Eitelfriedrich%20II.%20Graf%20zu%20Zollern%20Jagdschloss%20Grunewald%20anagoria.jpg",
+    "y": "1525",
+    "mat": "",
+    "loc": "Jagdschloss Grunewald",
+    "links": 1
+   },
+   {
+    "qid": "Q137212735",
+    "t": "Pilate washes his hands",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pilate%20Washing%20his%20Hands%2C%20from%20Speculum%20passionis%20domini%20nostri%20Ihesu%20Christi%20MET%20DP849008.jpg",
+    "y": "1507",
+    "mat": "sheet",
+    "loc": "地球",
+    "links": 0
+   },
+   {
+    "qid": "Q139007519",
+    "t": "The Phlegmatic",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bellezza%20e%20Bruttezza%209%20%28cropped%29.jpg",
+    "y": "1511",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q139007787",
+    "t": "The Choleric",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Choleric%20Temperament%20by%20Hans%20Sch%C3%A4ufelein%201511.%20Oil%20on%20limewood%2C%2030.5%20%C3%97%2020.3%20cm.jpg",
+    "y": "1511",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q140459846",
+    "t": "Christ in the garden of Gethsemane",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%A4ufelein%2C%20Hans%20-%20Christ%20in%20the%20garden%20of%20Gethsemane%20-%20Hamburger%20Kunsthalle.jpg",
+    "y": "1508",
+    "mat": "木材",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q20175057",
+    "t": "Portrait of a Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Sch%C3%A4ufelein%20-%20Bildnis%20eines%20Mannes%20%28c.1507%29.jpg",
+    "y": "1507",
+    "mat": "油彩",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q21998766",
+    "t": "Portrait of a man in a yellow jerkin.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%A4ufelein%20Portrait%20of%20a%20man.jpg",
+    "y": "1507",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q27895595",
+    "t": "Portrait of a Young Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%A4ufelein%2C%20Hans%2C%20the%20elder%20-%20Portrait%20of%20a%20Young%20Man%20-%20Google%20Art%20Project.jpg",
+    "y": "1504",
+    "mat": "油彩",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q27980285",
+    "t": "Q27980285",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hans%20Sch%C3%A4ufelin%20%28auch%2C%20Sch%C3%A4ufelein%29%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Melancholiker%20%28sog.%20J%C3%BCnglingskopf%29%20-%20GG%20829%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1511",
+    "mat": "",
+    "loc": "艺术史博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "胡贝尔": {
+  "qid": "Q610556",
+  "works": [
+   {
+    "qid": "Q29654700",
+    "t": "Lamentation of Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolf%20Huber%20-%20The%20Lamentation%20of%20Christ%20-%20WGA11789.jpg",
+    "y": "1524",
+    "mat": "油彩",
+    "loc": "Room 809",
+    "links": 1
+   },
+   {
+    "qid": "Q105728734",
+    "t": "Q105728734",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Feldkircher%20Dom%20Annenaltar.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "Saint Nicholas church Feldkirch",
+    "links": 1
+   },
+   {
+    "qid": "Q18689528",
+    "t": "Christ taking leave of his Mother",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolf%20Huber%20-%20Christ%20taking%20leave%20of%20his%20Mother%20%28National%20Gallery%2C%20London%29.jpg",
+    "y": "1520",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q20809178",
+    "t": "Portrait of Margaret Hundertpfundt",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolf%20Huber%20-%20Bildnis%20der%20Margarete%20Hundertpfundt%20%281526%29.jpg",
+    "y": "1526",
+    "mat": "油彩",
+    "loc": "费城艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21595861",
+    "t": "逃往埃及",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolf%20Huber%20003.jpg",
+    "y": "1527",
+    "mat": "",
+    "loc": "German painting of the 13th-16th century, room 2",
+    "links": 0
+   },
+   {
+    "qid": "Q21808517",
+    "t": "Saint Sebastian",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Huber%20Saint%20Sebastian.jpg",
+    "y": "1525",
+    "mat": "油彩",
+    "loc": "儲存",
+    "links": 0
+   },
+   {
+    "qid": "Q23936173",
+    "t": "Portrait of a Woman of the Reuss Family",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolf%20Huber%20-%20Bildnis%20einer%20Frau%20der%20Reuss-Familie%20%28Colecci%C3%B3n%20Thyssen-Bornemisza%29.jpg",
+    "y": "1524",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27982258",
+    "t": "Christ taking leave of his Mother.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang%20Huber%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Abschied%20Christi%20von%20den%20Frauen%20-%20GG%20A135%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1519",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27982259",
+    "t": "Crucifixion of Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang%20Huber%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Kreuzerh%C3%B6hung%20Christi%20-%20GG%20921%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1522",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27982261",
+    "t": "Q27982261",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang%20Huber%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Erl%C3%B6sungsallegorie%20-%20GG%20971%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1543",
+    "mat": "",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27982263",
+    "t": "The Humanist Jacob Ziegler (1470/1471-1549)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang%20Huber%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Der%20Humanist%20Jacob%20Ziegler%20%281470-1471-1549%29%20-%20GG%201942%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1540",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28127673",
+    "t": "Portrait of a Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang%20Huber%20-%20Portrait%20of%20a%20Man%20-%20BF827%20-%20Barnes%20Foundation.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "巴恩斯基金會",
+    "links": 0
+   }
+  ]
+ },
+ "阿姆贝格": {
+  "qid": "Q653163",
+  "works": [
+   {
+    "qid": "Q21595878",
+    "t": "The Cosmographer Sebastien Münster",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20Kosmograph%20Sebastian%20M%C3%BCnster%20%281489-1552%29%20-%20Gem%C3%A4ldegalerie%20Berlin%20-%205407070.jpg",
+    "y": "1552",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q27978828",
+    "t": "Portrait of the wife of Ulrich Ehinger, Ursula Meuting",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula%20Ehinger%2C%20Gem%C3%A4lde%20von%20Christoph%20Amberger.jpg",
+    "y": "1532",
+    "mat": "椴木",
+    "loc": "艺术史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q47009576",
+    "t": "Portrait of Charles V (1500-1558)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20V.%20%28HRR%29.jpg",
+    "y": "1532",
+    "mat": "油彩",
+    "loc": "畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q21713231",
+    "t": "Portrait of Matthäus Schwarz",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Amberger%20-%20Bildnis%20Matth%C3%A4us%20Schwarz%20%281542%29.jpg",
+    "y": "1542",
+    "mat": "油彩",
+    "loc": "提森-博内米萨博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21716767",
+    "t": "Portrait of a Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Amberger%20-%20Portrait%20of%20a%20Young%20Man%20-%20WGA0259.jpg",
+    "y": "1548",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27697675",
+    "t": "The Augsburg Goldsmith Jörg Zörer (?)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Amberger%20-%20Der%20Augsburger%20Goldschmied%20J%C3%B6rg%20Z%C3%B6rer%20%281531%29.jpg",
+    "y": "1531",
+    "mat": "油彩",
+    "loc": "Prado Hall 055B",
+    "links": 0
+   },
+   {
+    "qid": "Q27697689",
+    "t": "Jorg Zörer’s Wife (?)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20esposa%20de%20J%C3%B6rg%20Z%C3%B6rer%2C%20con%2028%20a%C3%B1os%20%28Amberger%29.jpg",
+    "y": "1531",
+    "mat": "油彩",
+    "loc": "Prado Hall 055B",
+    "links": 0
+   },
+   {
+    "qid": "Q27966530",
+    "t": "Portrait of a Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Amberger%20-%20Portrait%20of%20a%20Young%20Woman%20-%20WGA0260.jpg",
+    "y": "1548",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27978827",
+    "t": "Ulrich Ehinger as Knight of the Order of Santiago",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulrich%20Ehinger%20as%20Knight%20of%20the%20Order%20of%20Santiago%2C%20by%20Christoph%20Amberger.jpg",
+    "y": "1530",
+    "mat": "椴木",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27978830",
+    "t": "Q27978830",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Amberger%20-%20Der%20Augsburger%20Patrizier%20Ulrich%20Sulzer%20%281463-1545%29%20-%20GG%205608%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1538",
+    "mat": "",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27978832",
+    "t": "Portrait of Stephan Eiselin (d. 1549)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Amberger%20-%20Bildnis%20des%20Stephan%20Eiselin%20%28gest.%201549%29%20-%20GG%20999%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1539",
+    "mat": "椴木",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27978834",
+    "t": "Portrait of Sibilla Eiselin aged 29",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christoph%20Amberger%20-%20Bildnis%20der%20Sibilla%20Eiselin%20-%20GG%201000%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1539",
+    "mat": "",
+    "loc": "艺术史博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "塞森埃格": {
+  "qid": "Q617467",
+  "works": [
+   {
+    "qid": "Q19802104",
+    "t": "Portrait of Charles V with a Dog",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Seisenegger%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Kaiser%20Karl%20V.%20%281500-1558%29%20mit%20seinem%20Englischen%20Wasserhund%20-%20GG%20A114%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1532",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27981203",
+    "t": "Q27981203",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Seisenegger%2C%20Schloss%20Ambras%20Innsbruck%20-%20Erzherzogin%20Anna%20%281528-1590%29%2C%20Anna%20von%20%C3%96sterreich%2C%20Anna%2C%20Herzogin%20von%20Bayern%2C%20Tochter%20Kaiser%20Ferdinands%20I.%20-%20GG%203236%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1545",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q66378149",
+    "t": "Portrait of Mary of Pernstein",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Seisenegger%20Mary%20of%20Pernstein.jpg",
+    "y": "1540",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q118825880",
+    "t": "Portrait of Elizabeth of Austria (1526-1545) aged four.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Seisenegger%20Elizabeth%20of%20Austria%20aged%20four.jpg",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "巴伐利亞國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q18686272",
+    "t": "Portrait of a girl",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Seisenegger%20-%20Portrait%20of%20a%20Girl%20-%20Google%20Art%20Project.jpg",
+    "y": "1500",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q24063830",
+    "t": "Portrait of Elizabeth of Austria (1526–1545)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Seisenegger%20-%20Portrait%20of%20Elisabeth%20of%20Austria%20%281526-1545%29%2C%20Aged%20Four%20-%20269%20-%20Mauritshuis.jpg",
+    "y": "1530",
+    "mat": "油彩",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27980424",
+    "t": "Q27980424",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Seisenegger%20003.jpg",
+    "y": "1548",
+    "mat": "画布",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27981197",
+    "t": "Q27981197",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Seisenegger%20007.jpg",
+    "y": "1539",
+    "mat": "",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27981214",
+    "t": "Q27981214",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Seisenegger%20005.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27981218",
+    "t": "Q27981218",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Seisenegger%20-%20Erzherzogin%20Eleonore%20%281534-1594%29%2C%20Herzogin%20von%20Mantua%20als%20Zweij%C3%A4hrige%20-%20GG%20872%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1536",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28113295",
+    "t": "Portrait of Anna of Austria (1528-1590), Aged Two",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Seisenegger%20-%20Portrait%20of%20Anna%20of%20Austria%20%281528-1590%29%2C%20Aged%20Two%20-%20270%20-%20Mauritshuis.jpg",
+    "y": "1530",
+    "mat": "",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28113296",
+    "t": "Portrait of Maximilian of Austria (1527-1576), Aged Three",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Maximilian%20of%20Austria%20%281527-1576%29%2C%20Aged%20Three%20by%20Jacob%20Seisenegger%20Mauritshuis%20271.jpg",
+    "y": "1530",
+    "mat": "",
+    "loc": "莫瑞泰斯皇家美术馆",
+    "links": 0
+   }
+  ]
+ },
+ "布赫勒": {
+  "qid": "Q323971",
+  "works": [
+   {
+    "qid": "Q18043178",
+    "t": "Portrait of Nuremberg Master Johann Neudörffer and a Student",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Neufch%C3%A2tel%20-%20Bildnis%20des%20N%C3%BCrnberger%20Schreibmeisters%20Johann%20Neud%C3%B6rffer%20und%20eines%20Sch%C3%BClers.jpg",
+    "y": "1561",
+    "mat": "油彩",
+    "loc": "日耳曼國家博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q18599928",
+    "t": "Portrait of a sculptor, possibly Johan Gregor van der Schardt",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Sculptor%2C%20possibly%20Johan%20Gregor%20van%20der%20Schardt%20%28Nicolas%20de%20Neufchatel%29%20-%20Nationalmuseum%20-%2017350.tif",
+    "y": "1575",
+    "mat": "油彩",
+    "loc": "瑞典國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q18688228",
+    "t": "Young Lady",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20de%20Neufch%C3%A2tel%20-%20Portrait%20of%20a%20Young%20Lady%20-%20Google%20Art%20Project.jpg",
+    "y": "1561",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q20276063",
+    "t": "Portrait of the Nuremberg Goldsmith Hans Lencker (1523-1585) and his 9-year old son Elisius the Younger",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Neufch%C3%A2tel%20-%20Portrait%20of%20the%20Nuremberg%20Goldsmith%20Hans%20Lencker%20%281523-1585%29%20and%20his%209-year%20old%20son%20Elisius%20the%20Younger%20-%20DEP8%20-%20Statens%20Museum%20for%20Kunst.jpg",
+    "y": "1570",
+    "mat": "油彩",
+    "loc": "國立丹麥美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q22006744",
+    "t": "Portrait of Lady de Haerlefels of the Buzelaer Castle.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Neufch%C3%A2tel%20Lady%20de%20Haerlefels.jpg",
+    "y": "1545",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q22006786",
+    "t": "Portrait of a patrician lady",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20z%20Neufch%C3%A2tel%20%28fl.%201539-ca%201573%29%20-%20Portrait%20of%20a%20patrician%20woman%20-%20M.Ob.1767%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1590",
+    "mat": "油彩",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q26705887",
+    "t": "A Man with a Skull",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michiel%20Coxie%20-%20Man%20with%20a%20skull.jpg",
+    "y": "1549",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27981202",
+    "t": "Q27981202",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Kaiser%20Maximilian%20II.%20%281527-1576%29%20als%20etwa%20Vierzigj%C3%A4hriger%2C%20Brustbild%20-%20GG%209080%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1566",
+    "mat": "油彩",
+    "loc": "Schloss Ambras Innsbruck",
+    "links": 0
+   },
+   {
+    "qid": "Q28061810",
+    "t": "Q28061810",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20a%20Man%20by%20Nicolas%20de%20Neufch%C3%A2tel%20Rijksdienst%20voor%20het%20Cultureel%20Erfgoed%20NK1457.jpg",
+    "y": "1545",
+    "mat": "油彩",
+    "loc": "depot RCE",
+    "links": 0
+   },
+   {
+    "qid": "Q29916322",
+    "t": "Q29916322",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Neufch%C3%A2tel%20-%20Bildnis%20eines%20Mannes%20im%20Alter%20von%2066%20Jahren%20-%201445%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+    "y": "1564",
+    "mat": "",
+    "loc": "老绘画陈列馆",
+    "links": 0
+   },
+   {
+    "qid": "Q30096471",
+    "t": "Q30096471",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Neufch%C3%A2tel%20-%20Bildnis%20der%20Gemahlin%20des%20%22graub%C3%A4rtigen%20Mannes%22%20-%206265%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+    "y": "1558",
+    "mat": "",
+    "loc": "巴伐利亚国家绘画收藏馆",
+    "links": 0
+   },
+   {
+    "qid": "Q30098343",
+    "t": "Q30098343",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Neufch%C3%A2tel%20-%20Graub%C3%A4rtiger%20Mann%20-%20538%20-%20Bavarian%20State%20Painting%20Collections.jpg",
+    "y": "1558",
+    "mat": "",
+    "loc": "巴伐利亚国家绘画收藏馆",
+    "links": 0
+   }
+  ]
+ },
+ "莫尔": {
+  "qid": "Q176694",
+  "works": [
+   {
+    "qid": "Q6106764",
+    "t": "Portrait of Mary Tudor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20Mor%20001.jpg",
+    "y": "1554",
+    "mat": "油彩",
+    "loc": "Prado Hall 056",
+    "links": 7
+   },
+   {
+    "qid": "Q15934387",
+    "t": "Cardinal Granvelle's Dwarf",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20du%20nain%20du%20cardinal%20de%20Granvelle%20tenant%20un%20chien%20-%20Antonio%20Moro%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%201583%20%3B%20MR%20527.jpg",
+    "y": "1560",
+    "mat": "油彩",
+    "loc": "Paintings Southern Netherlands, Antwerp, 1550-1580, Room 811",
+    "links": 3
+   },
+   {
+    "qid": "Q21121940",
+    "t": "Portrait of Alexander Farnese",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20Mor%20-%20Ritratto%20del%20duca%20Alessandro%20Farnese%20%281557%2C%20Galleria%20Nazionale%2C%20Parma%29.jpg",
+    "y": "1557",
+    "mat": "油彩",
+    "loc": "帕尔马国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q50894841",
+    "t": "Self-portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20Mor%20Self%20Portrait%201558.jpg",
+    "y": "1558",
+    "mat": "油彩",
+    "loc": "烏菲茲美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q17331729",
+    "t": "Portrait of Sir Thomas Gresham, pendant to portrait of Anne Fernely",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portretten%20van%20Sir%20Thomas%20Gresham%20en%20Anne%20Fernely%20Rijksmuseum%20SK-A-3118.jpeg",
+    "y": "1563",
+    "mat": "油彩",
+    "loc": "hall 0.6",
+    "links": 1
+   },
+   {
+    "qid": "Q18683342",
+    "t": "Portrait of Philip II of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20King%20Philip%20II%20of%20Spain%20%281527%E2%80%931598%29%2C%20by%20Antonis%20Mor%20%28Bilbao%20Fine%20Arts%20Museum%29.jpg",
+    "y": "1549",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q25384136",
+    "t": "Von Sachsen vs. a Spaniard",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20mor%20022.jpg",
+    "y": "1548",
+    "mat": "",
+    "loc": "弗里登施泰因宫",
+    "links": 1
+   },
+   {
+    "qid": "Q27698050",
+    "t": "Catherine of Hapsburg, the Wife of King John III of Portugal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Infanta%20Caterina%20of%20Spain.jpg",
+    "y": "1552",
+    "mat": "油彩",
+    "loc": "Prado Hall 056",
+    "links": 1
+   },
+   {
+    "qid": "Q27698135",
+    "t": "Perejon, the Buffoon of the Count of Benavente and of the Grand Duke of Alba",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pejeron%20Mor.jpg",
+    "y": "1560",
+    "mat": "油彩",
+    "loc": "Prado Hall 056",
+    "links": 1
+   },
+   {
+    "qid": "Q27698476",
+    "t": "Portrait of a Seated Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20Mor%20002.jpg",
+    "y": "1554",
+    "mat": "油彩",
+    "loc": "Prado Hall 056",
+    "links": 1
+   },
+   {
+    "qid": "Q50943979",
+    "t": "Portrait of Philip II of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Philip%20II%2C%20King%20of%20Spain%20%28by%20Antonis%20Mor%29.jpg",
+    "y": "1554",
+    "mat": "油彩",
+    "loc": "布达佩斯美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q55843105",
+    "t": "Portrait of William I of Nassau",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20I.%20von%20Oranien-Nassau%2C%20Anthonis%20Mor.jpg",
+    "y": "1555",
+    "mat": "油彩",
+    "loc": "Gemäldegalerie Alte Meister",
+    "links": 1
+   }
+  ]
+ },
+ "科埃略": {
+  "qid": "Q503386",
+  "works": [
+   {
+    "qid": "Q5966425",
+    "t": "Lady in a Fur Wrap",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%2C%20Dam%20i%20p%C3%A4ls.jpg",
+    "y": "1577",
+    "mat": "油彩",
+    "loc": "波洛克庄园",
+    "links": 12
+   },
+   {
+    "qid": "Q27698578",
+    "t": "The Infantas Isabel Clara Eugenia and Catalina Micaela",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Isabel%20Clara%20Eugenia%20y%20Catalina%20Micaela.jpg",
+    "y": "1575",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q6106782",
+    "t": "Infanta Isabel Clara Eugenia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alonso%20S%C3%A1nchez%20Coello%20001.jpg",
+    "y": "1577",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q17994180",
+    "t": "Don John of Austria",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alonso%20S%C3%A1nchez%20Coello%20-%20Don%20Juan%20de%20Austria%20a%20los%20catorce%20a%C3%B1os%20-%20c%201560.JPG",
+    "y": "1560",
+    "mat": "油彩",
+    "loc": "索馬亞博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q27698072",
+    "t": "Prince Don Carlos",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alonso%20S%C3%A1nchez%20Coello%20-%20Prince%20Don%20Carlos%20of%20Austria%20-%20WGA20718.jpg",
+    "y": "1555",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q28032788",
+    "t": "Isabella Clara Eugenia and Catharina, Daughters of Philip II, King of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20artist%20and%20workshop%20of%20Alonso%20S%C3%A1nchez%20Coello%20%281531-88%29%20-%20Isabella%20Clara%20Eugenia%20and%20Catharina%2C%20Daughters%20of%20Philip%20II%2C%20King%20of%20Spain%20-%20RCIN%20404331%20-%20Royal%20Collection.jpg",
+    "y": "1569",
+    "mat": "油彩",
+    "loc": "白金汉宫",
+    "links": 3
+   },
+   {
+    "qid": "Q16588136",
+    "t": "Lady with a Fan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20dama%20del%20abanico.jpg",
+    "y": "1570",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q131164737",
+    "t": "Portrait of Maria of Austria",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/PM%20158551%20B%20Brussel.jpg",
+    "y": "1550",
+    "mat": "油彩",
+    "loc": "比利时皇家美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q21086161",
+    "t": "Portrait of Don Diego, Son of King Philip II of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prinzen%20Don%20Diego%2C%20Sohn%20K%C3%B6nig%20Philipps%20II.%20von%20Spanien%20und%20K%C3%B6nigin%20Annas%20von%20%C3%96sterreich.jpg",
+    "y": "1577",
+    "mat": "油彩",
+    "loc": "列支敦士登博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27698809",
+    "t": "The Infanta Isabel Clara Eugenia and Magdalena Ruiz",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alonso%20S%C3%A1nchez%20Coello%20011.jpg",
+    "y": "1585",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27966215",
+    "t": "Portrait of the Infanta Catalina Michaela of Austria",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alonso%20S%C3%A1nchez%20Coello%20-%20Portrait%20of%20the%20Infanta%20Catalina%20Micaela%20-%20WGA20716.jpg",
+    "y": "1582",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27980179",
+    "t": "Infante Don Carlos (1545-1568)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alonso%20S%C3%A1nchez%20Coello%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Infant%20Don%20Carlos%20%281545-1568%29%20-%20GG%203235%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1564",
+    "mat": "油彩",
+    "loc": "艺术史博物馆",
+    "links": 1
+   }
+  ]
+ },
+ "潘托哈": {
+  "qid": "Q1380081",
+  "works": [
+   {
+    "qid": "Q6424875",
+    "t": "Portrait of Diego de Villamayor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20de%20Villamayor%20%282%29.jpg",
+    "y": "0160",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q18687783",
+    "t": "Prince Philip Emmanuel of Savoy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Pantoja%20de%20la%20Cruz%20-%20Portrait%20of%20Prince%20Philip%20Emmanuel%20of%20Savoy%20-%20Google%20Art%20Project.jpg",
+    "y": "1604",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q23010343",
+    "t": "Portrait of Elisabeth of Valois (1545-1568), Queen consort of Spain and her daughter Isabella Clara Eugenia (1566-1633)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/DianedAndouins1565.jpg",
+    "y": "1565",
+    "mat": "油彩",
+    "loc": "巴斯克和巴约讷历史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q24255050",
+    "t": "Isabella Clara Eugenia by Juan Pantoja de la Cruz",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Pantoja%20de%20la%20Cruz%20-%20Infanta%20Isabella%20Clara%20Eugenia%20of%20Spain.jpg",
+    "y": "1599",
+    "mat": "油彩",
+    "loc": "老绘画陈列馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27698896",
+    "t": "Queen Elisabeth of Valois, third wife of Philip II",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Isabel%20de%20Valois2..jpg",
+    "y": "1605",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27699366",
+    "t": "The Emperor Charles V",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Holy%20Roman%20Emperor%20Charles%20V%20%281500%E2%80%931558%29%2C%20by%20Juan%20Pantoja%20de%20la%20Cruz%20%28Museo%20del%20Prado%2C%20Madrid%29.jpg",
+    "y": "1605",
+    "mat": "油彩",
+    "loc": "Royal Collections Gallery",
+    "links": 1
+   },
+   {
+    "qid": "Q29654440",
+    "t": "Philip III of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Castres%29%20Portrait%20de%20Philippe%20III%20-%20Juan%20Pantoja%20de%20la%20Cruz%20-%20Mus%C3%A9e%20Goya.jpg",
+    "y": "1608",
+    "mat": "油彩",
+    "loc": "Goya Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q124365330",
+    "t": "Q124365330",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Jovem%20Cavaleiro%20da%20Ordem%20de%20Calatrava%2C%20c.%201592-1608%2C%20Juan%20Pantoja%20de%20la%20Cruz%2C%20PNSintra%2001.jpg",
+    "y": "1592",
+    "mat": "",
+    "loc": "辛特拉宫",
+    "links": 1
+   },
+   {
+    "qid": "Q130345406",
+    "t": "Portrait of Charles V in Armour",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Pantoja%20de%20la%20Cruz%20%281553-1608%29%20-%20Retrato%20de%20Carlos%20V%20armado%20-%2010034482%20-%20Royal%20Monastery%20of%20San%20Lorenzo%20de%20El%20Escorial.jpg",
+    "y": "1608",
+    "mat": "油彩",
+    "loc": "Library of the Monastery of San Lorenzo de El Escorial",
+    "links": 1
+   },
+   {
+    "qid": "Q23935707",
+    "t": "Philip III, Prince",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Pantoja%20de%20la%20Cruz%20-%20Philip%20III%2C%20Prince%20-%20Google%20Art%20Project.jpg",
+    "y": "1590",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27698881",
+    "t": "Q27698881",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juana%20de%20Austria%2C%20por%20Juan%20Pantoja%20de%20la%20Cruz.jpg",
+    "y": "1585",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27698921",
+    "t": "Portrait of a Knight of the Order of Santiago",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Pantoja%20de%20la%20Cruz%20022.jpg",
+    "y": "1601",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "卡尔杜乔": {
+  "qid": "Q369521",
+  "works": [
+   {
+    "qid": "Q18719664",
+    "t": "The Victory of Fleurus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Batalla%20Fleurus%20%281622%29.jpg",
+    "y": "1634",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q59684560",
+    "t": "The Relief of Constance",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20Carducho%2C%20Socorro%20de%20la%20plaza%20de%20Constanza..jpg",
+    "y": "1634",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q59684565",
+    "t": "The Storming of Rheinfelden",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20expugnaci%C3%B3n%20de%20Rheinfelden%20por%20Vicente%20Carducho.jpg",
+    "y": "1634",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q108586542",
+    "t": "main altarpiece of the church of the convent of the Carboneras del Corpus Christi, Madrid",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madrid%20-%20Convento%20del%20Corpus%20Christi%20%28%27Carboneras%27%20Jer%C3%B3nimas%29%2006.jpg",
+    "y": "1622",
+    "mat": "",
+    "loc": "Monastery of Corpus Christi las Carboneras",
+    "links": 1
+   },
+   {
+    "qid": "Q107139328",
+    "t": "Q107139328",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Narbonne%29%20Saint%20Joseph%20portant%20l%27enfant%20J%C3%A9sus%20-%20Vicente%20Carducho%20-%20Mus%C3%A9e%20des%20Beaux-Arts%20de%20Narbonne.jpg",
+    "y": "1632",
+    "mat": "油彩",
+    "loc": "Musée d'art et d'histoire de Narbonne",
+    "links": 1
+   },
+   {
+    "qid": "Q18915190",
+    "t": "The Ecstasy of Father Jean Birelle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20Carducho%2C%20%C3%89xtasis%20de%20Jean%20Birelle%2C%20Museo%20del%20Louvre%2C%20Par%C3%ADs.png",
+    "y": "1626",
+    "mat": "油彩",
+    "loc": "Room 732",
+    "links": 0
+   },
+   {
+    "qid": "Q19261502",
+    "t": "The Death of Saint Bruno",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mort%20de%20Saint%20Bruno.jpg",
+    "y": "1632",
+    "mat": "油彩",
+    "loc": "Room 732",
+    "links": 0
+   },
+   {
+    "qid": "Q21724110",
+    "t": "Vision of St Antony of Padua",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20Carducho%20-%20The%20Vision%20of%20St%20Anthony%20of%20Padua%20-%20WGA4211.jpg",
+    "y": "1631",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q24260539",
+    "t": "Portrait of Saint Simon of Rojas dead",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/SimonRojasVelazquez.jpg",
+    "y": "1624",
+    "mat": "油彩",
+    "loc": "瓦倫西亞美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q27964769",
+    "t": "The Dream of Saint Hugh, Bishop of Grenoble",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20Carducho%20-%20The%20Dream%20of%20Saint%20Hugh%2C%20Bishop%20of%20Grenoble%20-%20NG%20459%20-%20National%20Galleries%20of%20Scotland.jpg",
+    "y": "1629",
+    "mat": "油彩",
+    "loc": "蘇格蘭國家畫廊",
+    "links": 0
+   },
+   {
+    "qid": "Q28042645",
+    "t": "The Apparition of the Virgin to the Dying Pedro Faverio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20Carducho%20-%20The%20Apparition%20of%20the%20Virgin%20to%20the%20Dying%20Pedro%20Faverio%20-%2070.13%20-%20Museum%20of%20Fine%20Arts.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "休士頓美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q50324704",
+    "t": "Saint Gonzalo between Saint Francis and Saint Bernardino of Siena",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dresden%2C%20Gem%C3%A4ldegalerie%20Alte%20Meister%2C%20Vicente%20Carducho%2C%20der%20heilige%20Gonzalo.jpg",
+    "y": "1630",
+    "mat": "油彩",
+    "loc": "历代大师画廊",
+    "links": 0
+   }
+  ]
+ },
+ "马伊诺": {
+  "qid": "Q2555566",
+  "works": [
+   {
+    "qid": "Q11930405",
+    "t": "The conversion of Saint Paul",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%C3%ADno-%20La%20conversi%C3%B3%20de%20Sant%20Pau-%20Obra%20conservada%20al%20MNAC.jpg",
+    "y": "1614",
+    "mat": "",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q9067298",
+    "t": "奪回巴伊亞",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20recuperaci%C3%B3n%20de%20Bah%C3%ADa%2C%20Ma%C3%ADno.jpg",
+    "y": "1634",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q16625043",
+    "t": "Portrait of a Gentleman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maino-retrato%20de%20caballero.jpg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q27699409",
+    "t": "The Adoration of the Magi",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maino-adoracion%20reyes.jpg",
+    "y": "1612",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q23505719",
+    "t": "Portrait of Fray Alonso de Santo Tomás",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Bautista%20Ma%C3%ADno%20-%20Friar%20Alonso%20de%20Sant%20Tom%C3%A0s%20-%20Google%20Art%20Project.jpg",
+    "y": "1648",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q19165402",
+    "t": "Q19165402",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/BMVB%20-%20Juan%20Bautista%20Ma%C3%ADno%20-%20Santa%20Caterina%20de%20Siena%20-%209218.jpg",
+    "y": "1612",
+    "mat": "繪圖桌",
+    "loc": "Biblioteca Museu Víctor Balaguer",
+    "links": 0
+   },
+   {
+    "qid": "Q19165433",
+    "t": "St. Dominic",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/BMVB%20-%20Juan%20Bautista%20Ma%C3%ADno%20-%20Sant%20Dom%C3%A8nec%20de%20Guzm%C3%A1n%20-%209219.jpg",
+    "y": "1612",
+    "mat": "繪圖桌",
+    "loc": "Biblioteca Museu Víctor Balaguer",
+    "links": 0
+   },
+   {
+    "qid": "Q20017491",
+    "t": "Magdalena penitente en la gruta de Sainte-Baume",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maino%20La%20Magdalena%20penitente.%201612.%20Museo%20del%20Prado.jpg",
+    "y": "1612",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q20964207",
+    "t": "The Tears of Saint Peter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Larmes%20de%20Saint%20Pierre%20-%20Juan%20Bautista%20Ma%C3%ADno%20-%20Q20964207.jpg",
+    "y": "1612",
+    "mat": "油彩",
+    "loc": "Piazzetta",
+    "links": 0
+   },
+   {
+    "qid": "Q21716460",
+    "t": "Adoration of the Shepherds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fray%20Juan%20Bautista%20Maino%20-%20Adoration%20of%20the%20Shepherds%20-%20WGA13871.jpg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21726395",
+    "t": "Appearance of the Virgin to a Monk of Dominican Order in Soriano",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Appearance%20of%20the%20Virgin%20to%20St%20Dominic%20in%20Soriano.jpg",
+    "y": "1635",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27699425",
+    "t": "Adoration of the Shepherds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adoraci%C3%B3n%20de%20los%20pastores%20%28Ma%C3%ADno%29.jpg",
+    "y": "1611",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "特里斯坦": {
+  "qid": "Q1336030",
+  "works": [
+   {
+    "qid": "Q18611992",
+    "t": "The Vision of St Francis of Assisi",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vision%20of%20St%20Francis%20of%20Assisi%2C%20Tristan%20%28Louvre%20RF%20240%29%2002.jpg",
+    "y": "1610",
+    "mat": "油彩",
+    "loc": "Piazzetta",
+    "links": 1
+   },
+   {
+    "qid": "Q35478076",
+    "t": "聖三位一體",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lu%C3%ADs%20Trist%C3%A1n%20%E2%80%93%20Holy%20Trinity%20%E2%80%93%20Catedral%20de%20Sevilla.jpg",
+    "y": "1624",
+    "mat": "油彩",
+    "loc": "塞维利亚主教座堂",
+    "links": 1
+   },
+   {
+    "qid": "Q18925766",
+    "t": "Saint Louis Giving Alms",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Louis%20aumones.JPG",
+    "y": "1620",
+    "mat": "油彩",
+    "loc": "Piazzetta",
+    "links": 0
+   },
+   {
+    "qid": "Q20891199",
+    "t": "Holy Family",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Trist%C3%A1n%20-%20Holy%20Family%20-%2074.2%20-%20Minneapolis%20Institute%20of%20Arts.jpg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "明尼阿波利斯美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q21739113",
+    "t": "Portrait of Lope de Vega (1562-1635)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Trist%C3%A1n%20de%20Escamilla%20-%20Portrait%20of%20F%C3%A9lix%20Lope%20de%20Vega%20-%20WGA23068.jpg",
+    "y": "1614",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q24260452",
+    "t": "The Tears of Saint Peter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Larmes%20de%20saint%20Pierre%20-%20Luis%20Trist%C3%A1n%20-%20Q24260452.jpg",
+    "y": "1612",
+    "mat": "油彩",
+    "loc": "國立波茲南博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q27698920",
+    "t": "Saint John the Baptist in the Desert",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Juan%20Bautista%20en%20el%20desierto%2C%20de%20Luis%20Trist%C3%A1n%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1601",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27699391",
+    "t": "The Crucifixion",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Calvario%2C%20de%20Luis%20Trist%C3%A1n%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1613",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27699451",
+    "t": "Saint Monica",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Trist%C3%A1n%20de%20Escamilla%20-%20St%20Monica%20-%20WGA23069.jpg",
+    "y": "1616",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27699456",
+    "t": "Portrait of an elderly Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20un%20anciano%2C%20de%20Luis%20Trist%C3%A1n%20de%20Escamilla%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1620",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27699458",
+    "t": "Portrait of a Carmelite Friar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20un%20carmelita%2C%20de%20Luis%20Trist%C3%A1n%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1620",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27699464",
+    "t": "The Last Supper",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20%C3%9Altima%20Cena%2C%20de%20Luis%20Trist%C3%A1n%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1620",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "奥兰特": {
+  "qid": "Q5700275",
+  "works": [
+   {
+    "qid": "Q84951208",
+    "t": "Briganti Magdalen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Magdalenapenitente.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q112794930",
+    "t": "The Olive oil vendor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Castres%29%20Antonio%20Puga%20-%20Le%20Marchand%20d%27huile%20-%20Mus%C3%A9e%20Goya.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "Goya Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q20260934",
+    "t": "Man in Armour",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Puga%20-%20Man%20in%20Armour%20-%201975.213%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "y": "1625",
+    "mat": "油彩",
+    "loc": "芝加哥艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21716168",
+    "t": "Old Man Teaching a Boy to Read",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Puga-anciano%20y%20ni%C3%B1o.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28020508",
+    "t": "Q28020508",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Puga%20-%20Lachender%20Bursche%20mit%20Orangenbl%C3%BCte%20-%20GG%20346%20-%20Kunsthistorisches%20Museum.jpg",
+    "y": "1640",
+    "mat": "",
+    "loc": "艺术史博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q50684177",
+    "t": "Boy with Orange Blossom",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Puga%20-%20Boy%20with%20Orange%20Blossom%20-%20O%20349%20-%20Slovak%20National%20Gallery.jpg",
+    "y": "1600",
+    "mat": "油彩",
+    "loc": "斯洛伐克國家美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q59780000",
+    "t": "Old Woman Seated",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20de%20Puga%20001.jpg",
+    "y": "1601",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q110768149",
+    "t": "Q110768149",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Puga-afilador.jpg",
+    "y": "1640",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q118890551",
+    "t": "Saint Jerome",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Puga%20-%20St%20Jerome%20-%20WGA18473.jpg",
+    "y": "1636",
+    "mat": "油彩",
+    "loc": "博斯博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q122362587",
+    "t": "The Tavern",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Puga%20-%20The%20Tavern%20-%20Museo%20de%20Pontevedra.jpg",
+    "y": "1620",
+    "mat": "油彩",
+    "loc": "Pontevedra Museum",
+    "links": 0
+   }
+  ]
+ },
+ "卡雷尼奥": {
+  "qid": "Q833224",
+  "works": [
+   {
+    "qid": "Q24951450",
+    "t": "Charles II in armour",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Carreno%20de%20Miranda%20023.jpg",
+    "y": "1681",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 9
+   },
+   {
+    "qid": "Q2890595",
+    "t": "Eugenia Martinez Valleji, called La Monstrua",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Carre%C3%B1o%20de%20Miranda%20-%20Eugenia%20Martinez%20Valleji%2C%20called%20La%20Monstrua%20-%20WGA4482.jpg",
+    "y": "1680",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q5967380",
+    "t": "Eugenia Martínez Vallejo, desnuda",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20monstrua%20desnuda%20%281680%29%2C%20de%20Juan%20Carre%C3%B1o%20de%20Miranda..jpg",
+    "y": "1680",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q5967989",
+    "t": "Queen Mariana de Austria as a Widow",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20CARRE%C3%91O%20DE%20MIRANDA%20-%20Queen%20Mariana%20de%20Austria%20as%20a%20Widow.JPG",
+    "y": "1669",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q27753116",
+    "t": "Charles II of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20II%20de%20Espa%C3%B1a%2C%20por%20Juan%20Carre%C3%B1o%20de%20Miranda%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1680",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q18811444",
+    "t": "The Foundation Mass of the Trinitarian Order",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Fondation%20de%20l%27ordre%20des%20Trinitaires%20-%20Juan%20Carre%C3%B1o%20de%20Miranda%20%3B%20Francisco%20Rizi%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%201964%2036.jpg",
+    "y": "1666",
+    "mat": "油彩",
+    "loc": "Piazzetta",
+    "links": 2
+   },
+   {
+    "qid": "Q24314449",
+    "t": "Charles II as Grandmaster of the Golden Fleece",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20II%20Schloss%20Rohrau.jpg",
+    "y": "1676",
+    "mat": "油彩",
+    "loc": "Schloss Rohrau",
+    "links": 1
+   },
+   {
+    "qid": "Q27752349",
+    "t": "Charles II as a child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20II%20por%20Juan%20Carre%C3%B1o%20de%20Miranda.jpg",
+    "y": "1675",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27753204",
+    "t": "The Duke of Pastrana",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carreno%20de%20Miranda%20Pastrana.jpg",
+    "y": "1679",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28796847",
+    "t": "The Assumption of the Virgin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Carre%C3%B1o%20de%20Miranda%20-%20The%20Assumption%20of%20the%20Virgin%20-%20Google%20Art%20Project.jpg",
+    "y": "1657",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28797833",
+    "t": "Inés de Zúñiga, Countess of Monterrey",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Carre%C3%B1o%20de%20Miranda%20-%20In%C3%A9s%20de%20Z%C3%BA%C3%B1iga%2C%20Countess%20of%20Monterrey%20-%20Google%20Art%20Project.jpg",
+    "y": "1660",
+    "mat": "油彩",
+    "loc": "拉扎罗·加尔迪亚诺博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q59979839",
+    "t": "Charles II",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20II%20de%20Espa%C3%B1a%2C%20de%20Juan%20Carre%C3%B1o%20de%20Miranda%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1673",
+    "mat": "油彩",
+    "loc": "Biblioteca Museu Víctor Balaguer",
+    "links": 1
+   }
+  ]
+ },
+ "克劳迪奥·科埃略": {
+  "qid": "Q332466",
+  "works": [
+   {
+    "qid": "Q18684020",
+    "t": "Teresa Francisca Mudarra y Herrera",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20Coello%20-%20Portrait%20of%20Teresa%20Francisca%20Mudarra%20y%20Herrera%20-%20Google%20Art%20Project.jpg",
+    "y": "1690",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27751801",
+    "t": "The Triumph of Saint Augustine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20Coello%20-%20The%20Triumph%20of%20St%20Augustine%20-%20WGA5127.jpg",
+    "y": "1664",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27753796",
+    "t": "Saint Dominic of Guzmán",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/SaintDominic.jpg",
+    "y": "1685",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q110619952",
+    "t": "Q110619952",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cl.Coello.La%20Sagrada%20Forma.1685-90.Sacristy%2C%20El%20Escorial.jpg",
+    "y": "1687",
+    "mat": "油彩",
+    "loc": "埃斯科里亚尔修道院",
+    "links": 1
+   },
+   {
+    "qid": "Q115773742",
+    "t": "Mariana of Austria (1634–1696), Queen of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Mariana%20of%20Austria%20%281634%E2%80%931696%29%2C%20Queen%20of%20Spain%2C%20depicted%20as%20a%20widow%2C%20by%20Claudio%20Coello.jpg",
+    "y": "1688",
+    "mat": "油彩",
+    "loc": "博斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q21727972",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20Coello%20-%20Self-Portrait%20-%20WGA5134.jpg",
+    "y": "1680",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q23935695",
+    "t": "Portrait of Charles II",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20Coello%20-%20Charles%20II%20-%20Google%20Art%20Project.jpg",
+    "y": "1680",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q23936472",
+    "t": "Juan Francisco de la Cerda, VIII Duke of Medinaceli",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20Coello%20-%20Juan%20Francisco%20de%20la%20Cerda%2C%20VIII%20Duke%20of%20Medinaceli%20-%20Google%20Art%20Project.jpg",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27749089",
+    "t": "Saint Anthony of Padua",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20coello-san%20antonio%20de%20padua.jpg",
+    "y": "1651",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27749116",
+    "t": "The Immaculate Conception",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20coello-inmaculada-prado.jpg",
+    "y": "1651",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27751109",
+    "t": "The Virgin and Child adored by Saint Louis, King of France",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20Coello%20-%20Virgin%20and%20Child%20Adored%20by%20St%20Louis%2C%20King%20of%20France%20-%20WGA5135.jpg",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27752013",
+    "t": "The Virgin and Child between the Theological Virtues and Saints",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20Coello-la%20virgen%20el%20ni%C3%B1o%20virtudes%20teologales-prado.jpg",
+    "y": "1669",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "瓦尔德斯": {
+  "qid": "Q518898",
+  "works": [
+   {
+    "qid": "Q28220571",
+    "t": "In Ictu Oculi",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valdes%20Leal%20-%20In%20Ictu%20Oculi.jpg",
+    "y": "1671",
+    "mat": "油彩",
+    "loc": "慈善医院",
+    "links": 4
+   },
+   {
+    "qid": "Q42189928",
+    "t": "Finis Gloriae Mundi",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Finis%20gloriae%20mundi%20from%20Juan%20Valdez%20Leal.png",
+    "y": "1670",
+    "mat": "油彩",
+    "loc": "慈善医院",
+    "links": 4
+   },
+   {
+    "qid": "Q21190346",
+    "t": "Virgin of the Silversmiths",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Virgen%20de%20los%20Plateros%20-%20Juan%20de%20Vald%C3%A9s%20Leal%20-%20MBACO.jpg",
+    "y": "1654",
+    "mat": "油彩",
+    "loc": "Museum of Fine Arts of Córdoba",
+    "links": 2
+   },
+   {
+    "qid": "Q135457829",
+    "t": "Inmaculada Concepción",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valdes%20leal-inmaculada-sevilla.JPG",
+    "y": "1665",
+    "mat": "油彩",
+    "loc": "塞维利亚美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q19912239",
+    "t": "Pietà",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piedad%20de%20Vald%C3%A9s%20Leal.jpg",
+    "y": "1657",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q56703179",
+    "t": "Christ Served by the Angels",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Castres%29%20Le%20Christ%20servi%20par%20les%20anges%20par%20Juan%20de%20Vald%C3%A9s%20Leal%20-%20Mus%C3%A9e%20Goya.jpg",
+    "y": "1663",
+    "mat": "油彩",
+    "loc": "Goya Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q71827790",
+    "t": "Jesus Christ Carrying the Cross",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20de%20Vald%C3%A9s%20Leal%20-%20Carrying%20the%20Cross%20-%20WGA24218.jpg",
+    "y": "1661",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q114039620",
+    "t": "Visión de San Francisco en la Porciúncula",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Visi%C3%B3n%20de%20San%20Francisco%20en%20la%20Porci%C3%BAncula%20%28Vald%C3%A9s%20Leal%29.jpg",
+    "y": "1672",
+    "mat": "",
+    "loc": "Castillo de los Duques de Sessa",
+    "links": 1
+   },
+   {
+    "qid": "Q115128423",
+    "t": "Q115128423",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valdes%20leal-san%20andres-quinta%20angustia.jpg",
+    "y": "1659",
+    "mat": "画布",
+    "loc": "圣玛利亚玛达肋纳堂 (塞维利亚)",
+    "links": 0
+   },
+   {
+    "qid": "Q116780061",
+    "t": "Q116780061",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valdes%20leal-jesus%20disputando%20con%20los%20doctores-sevilla.JPG",
+    "y": "1661",
+    "mat": "油彩",
+    "loc": "塞维利亚美术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q116780067",
+    "t": "Q116780067",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valdes%20leal-san%20ambrosio%20y%20el%20milagro%20de%20las%20abejas-mbasevilla.JPG",
+    "y": "1673",
+    "mat": "油彩",
+    "loc": "塞维利亚美术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q116780079",
+    "t": "Q116780079",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valdes%20leal-retrato%20de%20enrique%20vaca.jpg",
+    "y": "1654",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "安东尼奥·帕洛米诺": {
+  "qid": "Q604011",
+  "works": [
+   {
+    "qid": "Q21685104",
+    "t": "Flight into Egypt",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Huida%20a%20Egipto%20-%20Antonio%20Palomino.JPG",
+    "y": "1712",
+    "mat": "油彩",
+    "loc": "Museum of Fine Arts of Córdoba",
+    "links": 1
+   },
+   {
+    "qid": "Q26715016",
+    "t": "Saint Acisclus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Acisclo%20-%20Antonio%20Palomino.jpg",
+    "y": "1712",
+    "mat": "油彩",
+    "loc": "Museum of Fine Arts of Córdoba",
+    "links": 1
+   },
+   {
+    "qid": "Q27755051",
+    "t": "The Immaculate Conception",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Inmaculada%20Concepci%C3%B3n%2C%20de%20Antonio%20Palomino%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1712",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27754163",
+    "t": "Air",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Palomino%20-%20Alegor%C3%ADa%20del%20Aire%2C%201700.jpg",
+    "y": "1700",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27754425",
+    "t": "Fire",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Palomino-fuego.jpg",
+    "y": "1700",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27754624",
+    "t": "Saint Joseph’s Dream",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20sue%C3%B1o%20de%20San%20Jos%C3%A9%2C%20de%20Antonio%20Palomino.jpg",
+    "y": "1697",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27755337",
+    "t": "The Infant Saint John the Baptist",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Juan%20Bautista%2C%20ni%C3%B1o%2C%20de%20Antonio%20Palomino.jpg",
+    "y": "1701",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28791006",
+    "t": "The Battle of Oran",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Acisclo%20Palomino%20y%20Velasco%20-%20The%20Battle%20of%20Oran%20-%20Google%20Art%20Project.jpg",
+    "y": "1699",
+    "mat": "油彩",
+    "loc": "Fundación Banco Santander",
+    "links": 0
+   },
+   {
+    "qid": "Q59710270",
+    "t": "Q59710270",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Bernardo%20Abad%2C%20de%20Antonio%20Palomino%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1601",
+    "mat": "油彩",
+    "loc": "Museu de Menorca",
+    "links": 0
+   },
+   {
+    "qid": "Q59772868",
+    "t": "Q59772868",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pentecost%C3%A9s%2C%20de%20Antonio%20Palomino.jpg",
+    "y": "1696",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q64541471",
+    "t": "The Archangel Michael Defeating Satan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Acisclo%20antonio%20palomino%20de%20castro%20y%20velasco%2C%20l%27arcangelo%20michele%20sconfigge%20satana%2C%201692-1705%20ca.%2001.jpg",
+    "y": "1692",
+    "mat": "油彩",
+    "loc": "底特律藝術學院",
+    "links": 0
+   },
+   {
+    "qid": "Q65530903",
+    "t": "Niño Jesús dormido",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%C3%B1o%20Jes%C3%BAs%20dormido%2C%20Antonio%20Palomino.jpg",
+    "y": "1713",
+    "mat": "油彩",
+    "loc": "Museum of Fine Arts of Córdoba",
+    "links": 0
+   }
+  ]
+ },
+ "路易斯·梅伦德斯": {
+  "qid": "Q707478",
+  "works": [
+   {
+    "qid": "Q5731132",
+    "t": "Still-Life",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Melendez%2C%20Still%20Life%20with%20Salmon%2CLemon%20and%20three%20Vessels%2C1772%20Museo%20del%20Prado%20Madrid.jpg",
+    "y": "1772",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q19911689",
+    "t": "下午茶",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Afternoon%20Meal%20%28La%20Merienda%29%20MET%20DT1570.jpg",
+    "y": "1772",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q18810379",
+    "t": "Self-portrait Holding an Academic Study",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20Holding%20an%20Academic%20Study%20by%20Luis%20Mel%C3%A9ndez.jpg",
+    "y": "1746",
+    "mat": "油彩",
+    "loc": "Room 719",
+    "links": 3
+   },
+   {
+    "qid": "Q26699645",
+    "t": "Still Life with Oranges and Walnuts",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Egidio%20Mel%C3%A9ndez%20-%20Still-Life%20with%20Oranges%20and%20Walnuts%2C%201772.jpg",
+    "y": "1772",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 3
+   },
+   {
+    "qid": "Q27765779",
+    "t": "Still Life with Breams, Oranges, Garlic, Condiments, and Kitchen Utensils",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Egidio%20Mel%C3%A9ndez%20-%20Still-Life%20-%20WGA14755.jpg",
+    "y": "1772",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q59710194",
+    "t": "Still Life with Plums Figs Bread Barrel Jug and Other Vessels",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Natura%20morta%20amb%20prunes%2C%20figues%20i%20pa.jpg",
+    "y": "1750",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q18688130",
+    "t": "Still Life with Fruit and Jug",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Mel%C3%A9ndez%20-%20Still%20Life%20with%20Fruit%20and%20Jug%20-%20Google%20Art%20Project.jpg",
+    "y": "1773",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q18915242",
+    "t": "Still Life with Figs",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nature%20morte%20aux%20figues%2C%20par%20Luis%20Mel%C3%A9ndez.jpg",
+    "y": "1760",
+    "mat": "油彩",
+    "loc": "Room 719",
+    "links": 2
+   },
+   {
+    "qid": "Q27758698",
+    "t": "Limes, a Box of Jelly, butterfly and recipients",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bodeg%C3%B3n%20-%20limas%2C%20caja%20de%20dulce%20y%20recipientes%20%28Luis%20Mel%C3%A9ndez%29.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q28809016",
+    "t": "Still Life with Oranges, Jars, and Boxes of Sweets",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Mel%C3%A9ndez%20-%20Still%20Life%20with%20Oranges%2C%20Jars%2C%20and%20Boxes%20of%20Sweets%20-%20Google%20Art%20Project.jpg",
+    "y": "1760",
+    "mat": "油彩",
+    "loc": "金貝爾美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q59710181",
+    "t": "Still Life with Ham Eggs and Vessels",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bodegonconjamonhuevosyrecipientes-mel%C3%A9ndez.jpg",
+    "y": "1750",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   }
+  ]
+ },
+ "帕雷特": {
+  "qid": "Q283412",
+  "works": [
+   {
+    "qid": "Q18688145",
+    "t": "View of El Arenal in Bilbao",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Paret%20-%20View%20of%20El%20Arenal%20in%20Bilbao%20-%20Google%20Art%20Project.jpg",
+    "y": "1783",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q26699636",
+    "t": "View of El Arenal de Bilbao",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Paret%20y%20Alc%C3%A1zar%20-%20Vista%20de%20El%20Arenal%20de%20Bilbao.jpg",
+    "y": "1784",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27760099",
+    "t": "Baile en máscara",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Baile%20en%20m%C3%A1scara%20por%20Luis%20Paret%20y%20Alc%C3%A1zar.jpg",
+    "y": "1767",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27760349",
+    "t": "Charles III dining before the Court",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20III%20comiendo%20ante%20su%20corte.jpg",
+    "y": "1775",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27760593",
+    "t": "Royal Couples",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20parejas%20reales%201770%20Luis%20Paret%20y%20Alc%C3%A1zar.jpg",
+    "y": "1770",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27765755",
+    "t": "Rehearsal for a Play",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ensayo%20de%20una%20comedia%20por%20Luis%20Paret%20y%20Alc%C3%A1zar.jpg",
+    "y": "1772",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766006",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Paret%20Y%20Alcaz%C3%A1r%20-%20Self-Portrait%20in%20the%20Studio%20-%20WGA17020.jpg",
+    "y": "1775",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766018",
+    "t": "María de las Nieves Micaela Fourdinier, the Painter's Wife",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa%20de%20las%20Nieves%20Micaela%20Fourdinier%20por%20Luis%20Paret%20y%20Alc%C3%A1zar.jpg",
+    "y": "1782",
+    "mat": "銅",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766413",
+    "t": "Ferdinand VII swears the Oath as Prince of Asturias",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jura%20de%20Fernando%20VII%20como%20Pr%C3%ADncipe%20de%20Asturias.jpg",
+    "y": "1791",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28796890",
+    "t": "Scene with Villagers (fragment)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Paret%20-%20Scene%20with%20Villagers%20%28fragment%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1786",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28796891",
+    "t": "View of Fuenterrabía (fragment)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Paret%20-%20View%20of%20Fuenterrab%C3%ADa%20%28fragment%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1786",
+    "mat": "油彩",
+    "loc": "毕尔巴鄂美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28798007",
+    "t": "The Shop",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Paret%20y%20Alc%C3%A1zar%20-%20The%20Shop%20-%20Google%20Art%20Project.jpg",
+    "y": "1772",
+    "mat": "",
+    "loc": "拉扎罗·加尔迪亚诺博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "巴尤": {
+  "qid": "Q2571452",
+  "works": [
+   {
+    "qid": "Q5801212",
+    "t": "Olympus: The Fall of the Giants",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Olimpo%20batalla%20con%20los%20gigantes.jpg",
+    "y": "1764",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q21121962",
+    "t": "Saint James being visited by the Virgin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bayeu%20-%20San%20Giacomo%20visitato%20dalla%20Vergine.jpg",
+    "y": "1760",
+    "mat": "油彩",
+    "loc": "国家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27766332",
+    "t": "The Paseo de las Delicias",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20paseo%20de%20las%20Delicias%2C%20en%20Madrid%20%28Francisco%20Bayeu%2C%20Museo%20del%20Prado%29.jpg",
+    "y": "1784",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q18925963",
+    "t": "Q18925963",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Allegory%20of%20Spanish%20State.jpg",
+    "y": "1763",
+    "mat": "油彩",
+    "loc": "Room 719",
+    "links": 0
+   },
+   {
+    "qid": "Q27758498",
+    "t": "The Assumption of the Virgin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Bayeu%20Asunci%C3%B3n%20de%20la%20Virgen.jpg",
+    "y": "1760",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27760879",
+    "t": "The Holy Family",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sagrada%20Familia%20%28Francisco%20Bayeu%29.jpg",
+    "y": "1776",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766133",
+    "t": "Thirteen sketches for Tapestry Cartoons",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Trece%20bocetos%20para%20cartones%20de%20tapices.jpg",
+    "y": "1750",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766198",
+    "t": "Bridge over the Madrid Canal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20puente%20del%20canal%20de%20Madrid.jpg",
+    "y": "1784",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766341",
+    "t": "The Country Picnic",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Bayeu%20-%20Lunch%20on%20the%20Field%20-%20WGA01518.jpg",
+    "y": "1750",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "马埃利亚": {
+  "qid": "Q662397",
+  "works": [
+   {
+    "qid": "Q60368157",
+    "t": "San Francisco de Borja before the body of Empress Isabel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Borgia%20-%20Mariano%20Salvador%20Maella%20%281787%29.jpg",
+    "y": "1787",
+    "mat": "",
+    "loc": "巴伦西亚主教座堂",
+    "links": 1
+   },
+   {
+    "qid": "Q20882000",
+    "t": "Saint Francis of Assisi Receiving the Stigmata",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%27St.%20Francis%20of%20Assisi%20Receiving%20the%20Stigmata%27%20by%20Salvador%20Maella%2C%20LACMA.JPG",
+    "y": "1787",
+    "mat": "油彩",
+    "loc": "洛杉磯郡藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q27755244",
+    "t": "The Assumption of the Virgin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Asunci%C3%B3n%20de%20la%20Virgen%2C%20de%20Mariano%20Salvador%20Maella%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1701",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27765873",
+    "t": "Saint Leocadia before the Praetor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Leocadia%20ante%20el%20pretor%2C%20de%20Mariano%20Salvador%20Maella%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1774",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766003",
+    "t": "The Immaculate Conception",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mariano%20Salvador%20Maella%20-%20Immaculate%20Conception%20-%20WGA13810.jpg",
+    "y": "1781",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766117",
+    "t": "Fisherfolk",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pescadores%2C%20de%20Mariano%20Salvador%20Maella%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1784",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766136",
+    "t": "Harbour Scene",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Marina%2C%20de%20Mariano%20Salvador%20Maella%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1784",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766326",
+    "t": "The Vision of the Blessed Sebastián Aparicio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20visi%C3%B3n%20de%20Sebasti%C3%A1n%20de%20Aparicio%2C%20de%20Mariano%20Salvador%20Maella%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1789",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766344",
+    "t": "The Embarkation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mariano%20Salvador%20Maella%20-%20Seascape%20-%20WGA13811.jpg",
+    "y": "1750",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766365",
+    "t": "Carlota Joaquina, Infanta of Spain and Queen of Portugal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maella%20-%20Infanta%20Carlota%20Joaquina%2C%20Prado.jpg",
+    "y": "1785",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766389",
+    "t": "María Luisa de Parma, Queen of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maella%20-%20Maria%20Luisa%20of%20Parma%2C%20oval%2C%20Prado.jpg",
+    "y": "1789",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766395",
+    "t": "The Last Supper",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20%C3%9Altima%20Cena%2C%20de%20Mariano%20Salvador%20Maella%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1794",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "埃斯基维尔": {
+  "qid": "Q593642",
+  "works": [
+   {
+    "qid": "Q19961234",
+    "t": "The Contemporary Poets. A Reading of Zorrilla in the Artist's Studio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Los%20poetas%20contempor%C3%A1neos.jpg",
+    "y": "1846",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q47603159",
+    "t": "El escritor José de Espronceda",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20de%20Espronceda.jpg",
+    "y": "1842",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q20266769",
+    "t": "Portrait of a Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Maria%20Esquivel%20-%20Portrait%20of%20a%20Man%20-%201956.134%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "y": "1843",
+    "mat": "油彩",
+    "loc": "芝加哥艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q23935670",
+    "t": "Self-portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Mar%C3%ADa%20Esquivel%20-%20Self-portrait%20-%20Google%20Art%20Project.jpg",
+    "y": "1824",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q23936484",
+    "t": "Portrait of Manuel Mª Gutiérrez",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Mar%C3%ADa%20Esquivel%20-%20Portrait%20of%20Manuel%20M%C2%AA%20Guti%C3%A9rrez%20-%20Google%20Art%20Project.jpg",
+    "y": "1834",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766924",
+    "t": "Manuel Flores Calderón",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Flores%20Calder%C3%B3n%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1842",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766930",
+    "t": "Rafaela Flores Calderón",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafaela%20Flores%20Calder%C3%B3n%20%281846%29.jpg",
+    "y": "1842",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27766939",
+    "t": "The Fall of Lucifer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20ca%C3%ADda%20de%20Luzbel%2C%20de%20Antonio%20Mar%C3%ADa%20Esquivel%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1840",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27780640",
+    "t": "The Virgin and Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Virgen%20con%20el%20Ni%C3%B1o%2C%20de%20Antonio%20Mar%C3%ADa%20Esquivel%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1856",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27950819",
+    "t": "Portrait of Don Manuel José de Guerrico",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Don%20Manuel%20Jos%C3%A9%20de%20Guerrico%20-%20Antonio%20Mar%C3%ADa%20Esquivel.jpg",
+    "y": "1842",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q28791011",
+    "t": "Portrait of a Gentleman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Mar%C3%ADa%20Esquivel%20-%20Portrait%20of%20a%20Gentleman%20-%20Google%20Art%20Project.jpg",
+    "y": "1835",
+    "mat": "油彩",
+    "loc": "Fundación Banco Santander",
+    "links": 0
+   },
+   {
+    "qid": "Q59206738",
+    "t": "Portrait of Josefa García Solís",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Maria%20Esquivel%20001.jpg",
+    "y": "1852",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "马德拉索": {
+  "qid": "Q1345186",
+  "works": [
+   {
+    "qid": "Q18719620",
+    "t": "Amelia de Vilanova y Nadal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Retrat%20d%27Am%C3%A8lia%20de%20Vilanova%20i%20Nadal%20-%20Federico%20de%20Madrazo%20y%20Kuntz%20-%20Museu%20Nacional%20d%27Art%20de%20Catalunya.jpg",
+    "y": "1853",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q23073062",
+    "t": "Carolina Coronado",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carolina%20Coronado%2C%20por%20Federico%20de%20Madrazo.jpg",
+    "y": "1855",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q115621185",
+    "t": "Portrait of Isabella II of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/F.%20de%20Madrazo%20-%201850%2C%20Isabel%20II%20%28Palazzo%20di%20Spagna%2C%20Roma%2C%20223%20x%20146%20cm%29.jpg",
+    "y": "1850",
+    "mat": "油彩",
+    "loc": "Embassy of Spain to the Holy See",
+    "links": 1
+   },
+   {
+    "qid": "Q133310569",
+    "t": "Self-portrait of de Federico de Madrazo y Kunz",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Castres%29%20Autoportrait%20de%20Frederico%20de%20Madrazo%20y%20Kunz%20-%20Mus%C3%A9e%20Goya.jpg",
+    "y": "1837",
+    "mat": "油彩",
+    "loc": "Goya Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q5967309",
+    "t": "Q5967309",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/In%C3%A9s%20Francisca%20de%20Silva-Baz%C3%A1n%20y%20T%C3%A9llez%20Gir%C3%B3n%20by%20Federico%20de%20Madrazo%20y%20Kuntz.jpg",
+    "y": "1863",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q23499014",
+    "t": "Portrait of Marià Fortuny",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Federico%20de%20Madrazo%20-%20Portrait%20of%20Mari%C3%A0%20Fortuny%20-%20Google%20Art%20Project.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27766935",
+    "t": "Federico Flórez y Márquez",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Federico%20Fl%C3%B3rez%2C%20por%20Federico%20de%20Madrazo.jpg",
+    "y": "1842",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q59941283",
+    "t": "Carlos Ortiz de Taranco",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Ortiz%20de%20Taranco%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1849",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q105608516",
+    "t": "Teodora Lamadrid",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Federico%20de%20Madrazo%20y%20Kuntz%20-%20Teodora%20Lamadrid%20-%20A279%20-%20Hispanic%20Society%20of%20America.jpg",
+    "y": "1852",
+    "mat": "油彩",
+    "loc": "美國西班牙裔協會",
+    "links": 0
+   },
+   {
+    "qid": "Q105608579",
+    "t": "Isabel the Second, Queen of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Federico%20de%20Madrazo%20y%20Kuntz%20-%20Isabel%20the%20Second%2C%20Queen%20of%20Spain%20-%20A248%20-%20Hispanic%20Society%20of%20America.jpg",
+    "y": "1851",
+    "mat": "",
+    "loc": "美國西班牙裔協會",
+    "links": 0
+   },
+   {
+    "qid": "Q105609163",
+    "t": "Francisco de Asís, King Consort of Spain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Federico%20de%20Madrazo%20y%20Kuntz%20-%20Francisco%20de%20As%C3%ADs%2C%20King%20Consort%20of%20Spain%20-%20A247%20-%20Hispanic%20Society%20of%20America.jpg",
+    "y": "1851",
+    "mat": "",
+    "loc": "美國西班牙裔協會",
+    "links": 0
+   },
+   {
+    "qid": "Q114346052",
+    "t": "Q114346052",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/F.%20de%20Madrazo%20-%201831%2C%20La%20Continencia%20de%20Escipi%C3%B3n%20%28Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Fernando%2C%20139%20x%20196%20cm%29.jpg",
+    "y": "1831",
+    "mat": "油彩",
+    "loc": "皇家聖費爾南多美術學院",
+    "links": 0
+   }
+  ]
+ },
+ "罗萨莱斯": {
+  "qid": "Q615701",
+  "works": [
+   {
+    "qid": "Q3155095",
+    "t": "Queen Isabel la Católica dictating her last will and testament",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Do%C3%B1a%20Isabel%20la%20Cat%C3%B3lica%20dictando%20su%20testamento%20%28Rosales%29.jpg",
+    "y": "1864",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q16621762",
+    "t": "Juan de Austria's presentation to Emperor Carlos V in Yuste",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Rosales%20-%20Juan%20de%20Austria%27s%20presentation%20to%20Emperor%20Carlos%20V%20in%20Yuste.jpg",
+    "y": "1869",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q27780836",
+    "t": "The Death of Lucretia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Rosales%20Gallinas%20-%20La%20muerte%20de%20Lucrecia.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27780250",
+    "t": "Tobias and the Angel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Rosales%20Gallinas%20-%20Tob%C3%ADas%20y%20el%20%C3%A1ngel.jpg",
+    "y": "1858",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27780646",
+    "t": "Maximina Martínez de la Pedrosa, the Artist's Wife",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maximina%20Mart%C3%ADnez%20de%20la%20Pedrosa%2C%20esposa%20del%20artista%2C%20por%20Eduardo%20Rosales.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27780651",
+    "t": "Ciocciara",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Rosales%20Gallinas%20-%20Ciocciara.jpg",
+    "y": "1850",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27780677",
+    "t": "Female Nude or After the bath",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Rosales%20Gallinas%20-%20Desnudo%20femenino%2C%20o%20Al%20salir%20del%20ba%C3%B1o.jpg",
+    "y": "1869",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27780689",
+    "t": "Ophelia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Rosales%20Gallinas%20-%20Ofelia.jpg",
+    "y": "1865",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27780737",
+    "t": "An Episode from the Battle of Tetuán",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Rosales%20Gallinas%20-%20Episodio%20de%20la%20Batalla%20de%20Tetu%C3%A1n.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27780820",
+    "t": "Ettore Pinelli, the Violinist",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Rosales%20Gallinas%20-%20El%20violinista%20Pinelli.jpg",
+    "y": "1869",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27780840",
+    "t": "Concepción Serrano, later Countess of Santovenia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Conchita%20Serrano%20Dominguez%20Eduardo%20Rosales%201871.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27954706",
+    "t": "Naked woman asleep",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mujer%20desnuda%20dormida%20-%20Eduardo%20Rosales.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   }
+  ]
+ },
+ "普拉迪利亚": {
+  "qid": "Q553258",
+  "works": [
+   {
+    "qid": "Q3038406",
+    "t": "疯女胡安娜",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Do%C3%B1a%20Juana%20%22la%20Loca%22%20%28Pradilla%29.jpg",
+    "y": "1877",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 12
+   },
+   {
+    "qid": "Q19032360",
+    "t": "La rendición de Granada",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Rendici%C3%B3n%20de%20Granada%20-%20Pradilla.jpg",
+    "y": "1882",
+    "mat": "油彩",
+    "loc": "參議院宮",
+    "links": 5
+   },
+   {
+    "qid": "Q51881559",
+    "t": "The Sigh of the Moor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20suspiro%20del%20moro%2C%20por%20Francisco%20Pradilla.jpg",
+    "y": "1885",
+    "mat": "油彩",
+    "loc": "",
+    "links": 3
+   },
+   {
+    "qid": "Q19031505",
+    "t": "La reina doña Juana la Loca, recluida en Tordesillas con su hija, la infanta doña Catalina",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juana%20la%20Loca%20recluida%20en%20Tordesillas.jpg",
+    "y": "1906",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q19824363",
+    "t": "Q19824363",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Pradilla%20%E2%80%94%20Do%C3%B1a%20Juana%20la%20Loca%20%28esb%C3%B3s%29.jpg",
+    "y": "1877",
+    "mat": "画布",
+    "loc": "佐米·莫雷拉博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27781462",
+    "t": "The Baptismal procession of Prince Juan, son of the Catholic Kings, through the streets of Seville",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Pradilla%20y%20Ortiz%20-%20Cortejo%20del%20bautizo%20del%20Pr%C3%ADncipe%20Don%20Juan%2C%20hijo%20de%20los%20Reyes%20Cat%C3%B3licos%2C%20por%20las%20calles%20de%20Sevilla.jpg",
+    "y": "1910",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27954526",
+    "t": "Doña Juana la loca",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Do%C3%B1a%20Juana%20la%20loca%20-%20Francisco%20Pradilla%20y%20Ortiz.jpg",
+    "y": "1878",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q59827199",
+    "t": "Q59827199",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A1ufragos%2C%20de%20Francisco%20Pradilla%20%28Museo%20del%20Prado%29.jpg",
+    "y": "1876",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q59828483",
+    "t": "Q59828483",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%20de%20Francisco%20Pradilla.jpg",
+    "y": "1917",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q59974583",
+    "t": "Q59974583",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20de%20Murga%20y%20Reolid%2C%20I%20marqu%C3%A9s%20de%20Linares%2C%20por%20Francisco%20Pradilla.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q59974604",
+    "t": "Q59974604",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Raimunda%20Ossorio%20y%20Ortega%2C%20marquesa%20de%20Linares%2C%20por%20Francisco%20Pradilla.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "普拉多博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q98538602",
+    "t": "Galician Washerwomen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Pradilla%20y%20Ortiz%20-%20Lavanderas%20gallegas.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "卡门·提森博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "卡萨斯": {
+  "qid": "Q725681",
+  "works": [
+   {
+    "qid": "Q4889277",
+    "t": "Ramon Casas and Pere Romeu on a Tandem",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/15-10-27-Els%20Quatre%20Gats-RalfR-WMA%202740a.jpg",
+    "y": "1897",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 7
+   },
+   {
+    "qid": "Q9015019",
+    "t": "Q9015019",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jove%20decadent.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "Museum of Montserrat",
+    "links": 6
+   },
+   {
+    "qid": "Q9018943",
+    "t": "La Sargantaine (Portrait of Júlia Peraire)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Sargantain.JPG",
+    "y": "1907",
+    "mat": "油彩",
+    "loc": "Círculo del Liceo",
+    "links": 6
+   },
+   {
+    "qid": "Q9019132",
+    "t": "La Carrega",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Casas%20Charge.jpg",
+    "y": "1903",
+    "mat": "油彩",
+    "loc": "Museu de la Garrotxa",
+    "links": 6
+   },
+   {
+    "qid": "Q5811810",
+    "t": "Garrote vil (Garrotte)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Garrote%20vil%2C%20de%20Ram%C3%B3n%20Casas.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "索菲亚王后国家艺术中心博物馆",
+    "links": 5
+   },
+   {
+    "qid": "Q8208907",
+    "t": "Au Moulin de la Galette",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Au%20Moulin%20de%20la%20Galette.jpg",
+    "y": "1892",
+    "mat": "油彩",
+    "loc": "Museum of Montserrat",
+    "links": 5
+   },
+   {
+    "qid": "Q3202358",
+    "t": "Plein air",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Plein%20air%20by%20Ramon%20Casas%20-%20Museu%20Nacional%20d%27Art%20de%20Catalunya.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q6745856",
+    "t": "The Corpus Christi Procession Leaving the Church of Santa Maria del Mar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Corpus.%20Sortida%20de%20la%20process%C3%B3%20de%20l%27esgl%C3%A9sia%20de%20Santa%20Maria%20by%20Ramon%20Casas%20-%20MNAC.jpg",
+    "y": "1897",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q8240370",
+    "t": "Bal du Moulin de la Galette",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Casas%20i%20Carb%C3%B3%2C%201890-91%20-%20Baile%20en%20el%20Moulin%20de%20la%20Galette.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "Cau Ferrat Museum",
+    "links": 4
+   },
+   {
+    "qid": "Q17276493",
+    "t": "Moulin de la Galette Interior",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Interior%20del%20Moulin%20de%20la%20Galette%20-%20Ramon%20Casas%20-%20MNAC.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q609986",
+    "t": "Portrait of Elisa Casas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrat%20d%27Elisa%20Casas.jpg",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "",
+    "links": 3
+   },
+   {
+    "qid": "Q5863175",
+    "t": "Flors desfullades",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Flores%20deshojadas%20%28Ram%C3%B3n%20Casas%29.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "",
+    "links": 3
+   }
+  ]
+ },
+ "鲁西尼奥尔": {
+  "qid": "Q366930",
+  "works": []
+ }
+}
