@@ -289,6 +289,26 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .gtab b{font-weight:600}
 #gMapView{flex:1;display:flex;flex-direction:column;overflow:hidden;position:relative}
 #gRevView{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding-bottom:40px}
+#courseBar{padding:2px 0 10px;border-bottom:1px solid rgba(0,0,0,.07);margin-bottom:12px}
+#courseChips{display:flex;gap:7px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px}
+#courseChips::-webkit-scrollbar{display:none}
+.cchip{flex:0 0 auto;border:1px solid var(--line);background:#fff;border-radius:999px;
+  padding:7px 13px;font-size:13px;cursor:pointer;white-space:nowrap;color:#55534c}
+.cchip.on{background:#1d1d22;color:#fff;border-color:#1d1d22}
+.cchip small{opacity:.6;margin-left:4px;font-size:11px}
+#courseInfo{margin-top:9px;font-size:12.5px;color:#6b675e;line-height:1.65}
+#courseInfo .cnote{opacity:.8}
+#courseInfo .cprog{margin-top:7px;display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+#courseInfo .cbar{flex:1;min-width:120px;height:6px;background:rgba(0,0,0,.08);border-radius:99px;overflow:hidden}
+#courseInfo .cbar i{display:block;height:100%;background:var(--acc);border-radius:99px}
+#courseInfo button{border:1px solid var(--line);background:#fff;border-radius:8px;
+  padding:4px 10px;font-size:12px;cursor:pointer;color:#55534c}
+#chList{margin-top:8px;display:flex;gap:6px;overflow-x:auto;padding-bottom:4px}
+#chList::-webkit-scrollbar{display:none}
+.chpill{flex:0 0 auto;border:1px solid var(--line);border-radius:7px;padding:5px 9px;
+  font-size:11.5px;cursor:pointer;white-space:nowrap;background:#fff;color:#6b675e}
+.chpill.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+.chpill.done{opacity:.45}
 #gAttrLine{flex:none;padding:8px 14px 6px;font-size:12px;color:var(--sub);line-height:1.7}
 #gAttrLine .gc{display:inline-block;background:var(--card2);border-radius:10px;padding:1px 9px;margin:0 4px 4px 0;color:var(--txt)}
 #gmapWrap{flex:1;overflow:auto;-webkit-overflow-scrolling:touch;background:
@@ -656,7 +676,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
     <div id="gmapWrap"><canvas id="gmapCv"></canvas></div>
     <div id="gmapEmpty" class="muted" hidden>谱系还没长出来。<br>先去刷卡:右滑喜欢、上滑爆灯的作品<br>会自动在这里织成你的兴趣地图。</div>
     <div id="gTray">
-      <div id="gSelChips"><span class="gtip">点谱系里的作品圆点选中它们(2件起),看它们之间的公约</span></div>
+      <div id="gSelChips"><span class="gtip">点一件作品:亮出它的师承与题材链条 · 点满2件可分析公约</span></div>
       <div class="gtrayBtns">
         <button id="gAnalyze" disabled>⚡ 分析公约</button>
         <button id="gDeep" disabled hidden>🤖 AI深析</button>
@@ -677,7 +697,11 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
     </div>
   </div>
   <div id="gRevView" hidden>
-    <div id="learnEmpty" class="muted" hidden>暂无到期的复习。<br>你右滑喜欢的作品会自动进入复习队列,<br>按 1 / 3 / 7 / 30 / 90 天的节奏回来考你。</div>
+    <div id="courseBar">
+      <div id="courseChips"></div>
+      <div id="courseInfo" hidden></div>
+    </div>
+    <div id="learnEmpty" class="muted" hidden>暂无到期的复习。<br>你右滑喜欢的作品会自动进入复习队列,<br>按 1 / 3 / 7 / 30 / 90 天的节奏回来考你。<br><small style="opacity:.7">也可以在上面选一本书,按书的章节从头学。</small></div>
     <div id="learnCard" hidden>
       <div id="lcProg"></div>
       <div id="lcFace"></div>
@@ -693,6 +717,8 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 /* 防缓存:按小时刷新 data.js,保证改动能被用户看到,又不至于每次都重下 */
 document.write('<scr'+'ipt src="data.js?v='+Math.floor(Date.now()/3600000)+'"><\/scr'+'ipt>');
 document.write('<scr'+'ipt src="worldmap.js?v=1"><\/scr'+'ipt>');
+document.write('<scr'+'ipt src="regions.js?v=1"><\/scr'+'ipt>');
+document.write('<scr'+'ipt src="courses.js?v=1"><\/scr'+'ipt>');
 </script>
 <script>
 /* ============ 状态 ============ */
@@ -1364,31 +1390,45 @@ function gDraw(){
       ctx.fillStyle='#a49f92'; ctx.fillText(el,n.xt,18);
     }
   });
-  // 边
-  _ge.forEach(e=>{
-    const a=_gn[e.a], b=_gn[e.b];
-    if(e.type==='artist'){ ctx.strokeStyle=e.col; ctx.globalAlpha=.55; ctx.lineWidth=1.4; }
-    else { ctx.strokeStyle='#999'; ctx.globalAlpha=.12; ctx.lineWidth=1; }
-    ctx.beginPath(); ctx.moveTo(a.x,a.py); ctx.lineTo(b.x,b.py); ctx.stroke();
-    ctx.globalAlpha=1;
-    if(e.name){ ctx.fillStyle=e.col; ctx.font='10px sans-serif'; ctx.textAlign='center';
-      ctx.fillText(e.name,(a.x+b.x)/2,(a.py+b.py)/2-5); }
-  });
+  /* 边:默认全部收起,只有点中作品时才展开它这条链 */
+  const kin=new Set();   // 与选中作品直接相连的节点下标
+  if(gSel.size){
+    _ge.forEach(e=>{
+      const a=_gn[e.a], b=_gn[e.b];
+      const ha=gSel.has(a.w.id), hb=gSel.has(b.w.id);
+      if(!ha&&!hb) return;
+      kin.add(e.a); kin.add(e.b);
+      if(e.type==='artist'){ ctx.strokeStyle=e.col; ctx.globalAlpha=.85; ctx.lineWidth=1.8; }
+      else { ctx.strokeStyle='#8a8578'; ctx.globalAlpha=.42; ctx.lineWidth=1.2; }
+      ctx.beginPath(); ctx.moveTo(a.x,a.py); ctx.lineTo(b.x,b.py); ctx.stroke();
+      ctx.globalAlpha=1;
+      if(e.name){ ctx.fillStyle=e.col; ctx.font='10px sans-serif'; ctx.textAlign='center';
+        ctx.fillText(e.name,(a.x+b.x)/2,(a.py+b.py)/2-5); }
+    });
+  }
   // 节点
   ctx.textAlign='center';
-  _gn.forEach(n=>{
+  const focusing=gSel.size>0;
+  _gn.forEach((n,i)=>{
     const sel=gSel.has(n.w.id), fav=favs.has(n.w.id);
-    if(fav){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=2;
+    const near=kin.has(i);
+    const dim=focusing&&!sel&&!near;
+    if(fav&&!dim){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=2;
       ctx.beginPath(); ctx.arc(n.x,n.py,12,0,7); ctx.stroke(); }
     ctx.fillStyle=sel?'#1d1d22':'#b3543e';
-    ctx.globalAlpha=sel?1:.85;
+    ctx.globalAlpha=sel?1:(dim?.22:.85);
     ctx.beginPath(); ctx.arc(n.x,n.py,sel?9:7.5,0,7); ctx.fill(); ctx.globalAlpha=1;
     if(sel){ ctx.fillStyle='#fff'; ctx.font='9px sans-serif'; ctx.fillText('✓',n.x,n.py+3); }
-    ctx.fillStyle='#55534c'; ctx.font='10px sans-serif';
-    const t=n.w.t.length>7?n.w.t.slice(0,7)+'…':n.w.t;
-    ctx.fillText(t,n.x,n.py+22);
-    if(n.y!=null){ ctx.fillStyle='#b0aa9c'; ctx.font='9px sans-serif';
-      ctx.fillText(n.y<0?('前'+(-n.y)):n.y,n.x,n.py+33); }
+    // 标题:未聚焦时全部淡显;聚焦后只有本人与链上邻居显示
+    if(!focusing||sel||near){
+      ctx.globalAlpha=focusing?1:.62;
+      ctx.fillStyle=sel?'#1d1d22':'#55534c'; ctx.font=(sel?'bold ':'')+'10px sans-serif';
+      const t=n.w.t.length>7?n.w.t.slice(0,7)+'…':n.w.t;
+      ctx.fillText(t,n.x,n.py+22);
+      if(n.y!=null){ ctx.fillStyle='#b0aa9c'; ctx.font='9px sans-serif';
+        ctx.fillText(n.y<0?('前'+(-n.y)):n.y,n.x,n.py+33); }
+      ctx.globalAlpha=1;
+    }
   });
 }
 function gTick(){
@@ -1444,7 +1484,7 @@ function renderGTray(){
       ? '<span class="gtip">存档:</span>'+rec.slice(0,12).map(([sig,r])=>
           '<span class="ghchip" data-sig="'+sig+'"><b>'+r.ids.length+'件</b> '+
           (r.titles||[]).slice(0,2).map(t=>'《'+t+'》').join('')+' <span style="opacity:.55">'+fmtDay(r.t)+'</span></span>').join('')
-      : '<span class="gtip">点谱系里的作品圆点选中它们(2件起),看它们之间的公约</span>';
+      : '<span class="gtip">点一件作品:亮出它的师承与题材链条 · 点满2件可分析公约</span>';
     chips.querySelectorAll('.ghchip').forEach(c=>c.onclick=()=>openSaved(c.dataset.sig));
   }
   else chips.innerHTML=ids.map(id=>{ const w=WORKS.find(x=>x.id===id); return w?'<span class="gchip" data-gid="'+id+'">《'+w.t+'》<span class="x">✕</span></span>':''; }).join('');
@@ -1541,10 +1581,13 @@ function setGTab(t){
   document.getElementById('gRevView').hidden = t!=='rev';
   if(t==='map') { buildGMap(); renderGTray(); }
   else {
-    autoEnroll();
-    lQueue=learnDue();
-    for(let i=lQueue.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [lQueue[i],lQueue[j]]=[lQueue[j],lQueue[i]]; }
-    lIdx=0; lDoneN=0; renderLearn();
+    loadCourse();
+    if(!course){
+      autoEnroll();
+      lQueue=learnDue();
+      for(let i=lQueue.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [lQueue[i],lQueue[j]]=[lQueue[j],lQueue[i]]; }
+      lIdx=0; lDoneN=0; renderCourseBar(); renderLearn();
+    } else startRev();
   }
 }
 function openLearn(){
@@ -1653,14 +1696,100 @@ document.getElementById('grRegen').onclick=()=>{
   if(!confirm('重新生成会再调用一次 AI(消耗一点额度),并覆盖这条存档。继续?')) return;
   gDeep._force=true; gDeep();
 };
+/* ============ 按书学:课程模式 ============
+   选一本书 → 队列按章节顺序从卡库里取卡,与「我的收藏」的间隔复习互不干扰。 */
+let course=null;   // {id,ci}  当前课程与章号
+function loadCourse(){ try{ course=JSON.parse(localStorage.getItem('ac_course')||'null'); }catch(_){ course=null; } }
+function saveCourse(){ course?localStorage.setItem('ac_course',JSON.stringify(course)):localStorage.removeItem('ac_course'); }
+function cProg(){ try{ return JSON.parse(localStorage.getItem('ac_cprog')||'{}'); }catch(_){ return {}; } }
+function cProgSet(p){ localStorage.setItem('ac_cprog',JSON.stringify(p)); }
+function chWorks(c){
+  return WORKS.filter(w=>{
+    if(w.kind!=='art'||!w.img) return false;
+    if(!inMode(w)) return false;
+    if(c.y){ const v=yearNum(w); if(v==null||v<c.y[0]||v>c.y[1]) return false; }
+    if(c.cat&&c.cat.length&&c.cat.indexOf(w.cat)<0) return false;
+    if(c.any&&c.any.length){
+      const s=(w.a||'')+(w.t||'')+(w.bg||'')+(w.more||'');
+      if(!c.any.some(k=>s.indexOf(k)>=0)) return false;
+    }
+    return true;
+  }).sort((a,b)=>{ const x=yearNum(a),y=yearNum(b); return (x==null?9e9:x)-(y==null?9e9:y); });
+}
+function renderCourseBar(){
+  const wrap=document.getElementById('courseChips'), info=document.getElementById('courseInfo');
+  if(!wrap) return;
+  const list=(window.COURSES||[]);
+  wrap.innerHTML='<button class="cchip'+(course?'':' on')+'" data-c="">💗 我的收藏</button>'+
+    list.map(co=>'<button class="cchip'+(course&&course.id===co.id?' on':'')+'" data-c="'+co.id+'">📖 '+co.t+'</button>').join('');
+  wrap.querySelectorAll('.cchip').forEach(b=>b.onclick=()=>{
+    const id=b.dataset.c;
+    course = id ? {id:id, ci:(cProg()[id]||0)} : null;
+    saveCourse(); startRev();
+  });
+  if(!course){ info.hidden=true; return; }
+  const co=list.find(x=>x.id===course.id); if(!co){ info.hidden=true; return; }
+  const total=co.ch.length, cur=Math.min(course.ci,total-1);
+  info.hidden=false;
+  info.innerHTML='<div class="cnote">'+co.by+' · '+co.note+'</div>'+
+    '<div class="cprog"><span>第 '+(cur+1)+' / '+total+' 章</span>'+
+    '<span class="cbar"><i style="width:'+Math.round(cur/total*100)+'%"></i></span>'+
+    '<button id="cReset">从头开始</button></div>'+
+    '<div id="chList">'+co.ch.map((c,i)=>{
+      const n=chWorks(c).length;
+      return '<button class="chpill'+(i===cur?' on':'')+(i<cur?' done':'')+'" data-i="'+i+'">'+
+        c.n.split(' · ')[0]+' <small>'+n+'</small></button>';
+    }).join('')+'</div>';
+  info.querySelector('#cReset').onclick=()=>{ const p=cProg(); p[co.id]=0; cProgSet(p); course.ci=0; saveCourse(); startRev(); };
+  info.querySelectorAll('.chpill').forEach(b=>b.onclick=()=>{
+    course.ci=+b.dataset.i; const p=cProg(); p[co.id]=course.ci; cProgSet(p); saveCourse(); startRev();
+  });
+}
+function startRev(){
+  lIdx=0; lDoneN=0;
+  if(course){
+    const co=(window.COURSES||[]).find(x=>x.id===course.id);
+    const c=co&&co.ch[Math.min(course.ci,co.ch.length-1)];
+    let ws=c?chWorks(c):[];
+    if(ws.length>24){                    // 一章一次最多学 24 张,均匀取样,保证跨越整章
+      const step=ws.length/24, out=[];
+      for(let i=0;i<24;i++) out.push(ws[Math.floor(i*step)]);
+      ws=out;
+    }
+    lQueue=ws;
+  } else {
+    lQueue=learnDue();
+  }
+  renderCourseBar(); renderLearn();
+}
 function renderLearn(){
   const empty=document.getElementById('learnEmpty'), card=document.getElementById('learnCard'), done=document.getElementById('learnDone');
   const tot=document.getElementById('learnTotal'); if(tot) tot.textContent=study.size;
+  if(course){                            // 课程模式:不看 study 集合
+    if(!lQueue.length){ empty.hidden=false; card.hidden=true; done.hidden=true;
+      empty.innerHTML='这一章在你当前的模式下暂时没有作品。<br><small style="opacity:.7">换一章,或切到综合版看看。</small>'; return; }
+    if(lIdx>=lQueue.length){ empty.hidden=true; card.hidden=true; done.hidden=false;
+      const co=(window.COURSES||[]).find(x=>x.id===course.id);
+      const last=course.ci>=co.ch.length-1;
+      done.innerHTML='本章过完了 🎉<br>共学 '+lDoneN+' 张。'+
+        (last?'<br><small>这本书你走完了。</small>':'<br><small>继续下一章:'+co.ch[course.ci+1].n+'</small>')+
+        '<br><br><button id="cNext" style="border:1px solid var(--line);background:#fff;border-radius:9px;padding:8px 16px;font-size:13px;cursor:pointer">'+
+        (last?'重新开始这本书':'进入下一章 →')+'</button>';
+      document.getElementById('cNext').onclick=()=>{
+        course.ci = last?0:course.ci+1;
+        const p=cProg(); p[course.id]=course.ci; cProgSet(p); saveCourse(); startRev();
+      };
+      return; }
+  } else {
   if(!study.size){ empty.hidden=false; card.hidden=true; done.hidden=true; return; }
   if(lIdx>=lQueue.length){ empty.hidden=true; card.hidden=true; done.hidden=false; document.getElementById('learnDoneN').textContent=lDoneN; return; }
+  }
   empty.hidden=true; done.hidden=true; card.hidden=false;
   const w=lQueue[lIdx];
-  document.getElementById('lcProg').textContent='复习 '+(lIdx+1)+' / '+lQueue.length;
+  const co=course&&(window.COURSES||[]).find(x=>x.id===course.id);
+  document.getElementById('lcProg').textContent=
+    co ? (co.ch[Math.min(course.ci,co.ch.length-1)].n+'  ·  '+(lIdx+1)+' / '+lQueue.length)
+       : ('复习 '+(lIdx+1)+' / '+lQueue.length);
   const face=document.getElementById('lcFace');
   if(isPoem(w)){ face.innerHTML='<div class="lcverse">'+verseHTML(w)+'</div>'; }
   else { const im=(userImgs[w.id]||w.img||''); face.innerHTML = im ? '<div class="lcimg" style="background-image:url('+im+')"></div>' : '<div class="lcimg ph">'+w.t+'</div>'; }
@@ -1672,9 +1801,18 @@ function renderLearn(){
 function learnFlip(){ document.getElementById('lcReveal').hidden=false; document.getElementById('lcFlipRow').hidden=true; document.getElementById('lcGrade').hidden=false; }
 function learnGrade(ok){
   const w=lQueue[lIdx]; const st=(learn[w.id]&&learn[w.id].stage)||0;
-  if(ok) learn[w.id]={due:Date.now()+LSTAGES[Math.min(st+1,4)]*864e5, stage:Math.min(st+1,4)};
-  else   learn[w.id]={due:Date.now()+LSTAGES[0]*864e5, stage:0};
+  if(course){
+    // 课程模式:记住了就并入间隔复习,没记住的下一轮还会在本章遇到
+    if(ok){ study.add(w.id); learn[w.id]={due:Date.now()+LSTAGES[Math.min(st+1,4)]*864e5, stage:Math.min(st+1,4)}; saveStudy(); }
+    else  { learn[w.id]={due:Date.now(), stage:0}; study.add(w.id); saveStudy(); }
+  } else {
+    if(ok) learn[w.id]={due:Date.now()+LSTAGES[Math.min(st+1,4)]*864e5, stage:Math.min(st+1,4)};
+    else   learn[w.id]={due:Date.now()+LSTAGES[0]*864e5, stage:0};
+  }
   saveLearn(); lDoneN++; lIdx++; updLearnCount(); renderLearn();
+  if(course&&lIdx>=lQueue.length){          // 一章学完,进度前进一格
+    const p=cProg(); p[course.id]=Math.max(p[course.id]||0,course.ci+1); cProgSet(p); renderCourseBar();
+  }
   addPts(2);                                    // 复习一张 +2 分(仍不与点赞/收藏体系连接)
 }
 document.getElementById('btnLearn').onclick=openLearn;
@@ -2480,10 +2618,13 @@ function wProj(){
     const mapH=cssW*0.5, oy=(cssH-mapH)/2;
     return {cssW,cssH,mapH,oy,fx:(lon,lat)=>[(lon+180)/360*cssW, oy+(90-lat)/180*mapH]};
   }
-  // 国家视图:按该国城市 bbox 放大
+  // 国家视图:按该国轮廓+城市 bbox 放大
   const cs=CITIES.filter(c=>COUNTRY_OF[c[0]]===wview.country);
   let lo1=999,lo2=-999,la1=999,la2=-999;
   cs.forEach(c=>{ lo1=Math.min(lo1,c[1]); lo2=Math.max(lo2,c[1]); la1=Math.min(la1,c[2]); la2=Math.max(la2,c[2]); });
+  const rg=(window.REGIONS||[]).find(o=>o.n===wview.country);
+  if(rg) rg.r.forEach(ring=>ring.forEach(([lo,la])=>{
+    lo1=Math.min(lo1,lo); lo2=Math.max(lo2,lo); la1=Math.min(la1,la); la2=Math.max(la2,la); }));
   const spanLo=Math.max(lo2-lo1,16), spanLa=Math.max(la2-la1,9);
   const cx=(lo1+lo2)/2, cy=(la1+la2)/2;
   const sc=Math.min(cssW/(spanLo*1.5), cssH/(spanLa*1.5));
@@ -2500,23 +2641,48 @@ function renderWorld(){
   cv.width=P.cssW*dpr; cv.height=P.cssH*dpr; cv.style.height=P.cssH+'px';
   const ctx=cv.getContext('2d'); ctx.setTransform(dpr,0,0,dpr,0,0);
   ctx.clearRect(0,0,P.cssW,P.cssH);
-  // 陆地
-  const [COLS,ROWS]=WLAND_GRID;
-  ctx.fillStyle=wview.level==='world'?'#dbd7cc':'#e3e0d6';
-  const dotR=(wview.level==='world'?1.1:9)*Math.min(2,Math.sqrt(wview.z));
-  if(wview.level!=='world') ctx.globalAlpha=.55;
-  WLAND.split(';').forEach(row=>{
-    const [gy,xs]=row.split(':');
-    const lat=90-(+gy+0.5)/ROWS*180;
-    xs.split(',').forEach(gx=>{
-      const lon=(+gx+0.5)/COLS*360-180;
-      const [x,y]=P.fx(lon,lat);
-      if(x<-8||x>P.cssW+8||y<-8||y>P.cssH+8) return;
-      ctx.beginPath(); ctx.arc(x,y,dotR,0,7); ctx.fill();
+  const {idx,unloc}=geoIndex();
+  /* ── 区块底图:整国填充,刷过的点亮 ── */
+  // 先算每国的收藏数与已点亮数
+  const stat={};
+  CITIES.forEach((c,ci)=>{
+    const ws=idx[ci].filter(wTimePass); if(!ws.length) return;
+    const k=COUNTRY_OF[c[0]]||'其他';
+    const o=stat[k]=stat[k]||{n:0,lit:0};
+    o.n+=ws.length; o.lit+=ws.filter(w=>explored.has(w.id)).length;
+  });
+  // 海底
+  ctx.fillStyle='#0d1f26'; ctx.fillRect(0,0,P.cssW,P.cssH);
+  const path=(ring)=>{
+    ctx.beginPath();
+    for(let i=0;i<ring.length;i++){
+      const [x,y]=P.fx(ring[i][0],ring[i][1]);
+      i?ctx.lineTo(x,y):ctx.moveTo(x,y);
+    }
+    ctx.closePath();
+  };
+  (window.REGIONS||[]).forEach(o=>{
+    const s=stat[o.n];
+    const dim = wview.level!=='world' && o.n!==wview.country;
+    o.r.forEach(ring=>{
+      path(ring);
+      if(s&&s.lit){                       // 已踏足:亮青
+        const full = s.lit>=s.n;
+        ctx.fillStyle = dim?'#1b4650':(full?'#3fd0e0':'#2a9db0');
+        ctx.globalAlpha = dim?.5:.92;
+        ctx.fill();
+        ctx.globalAlpha=1;
+        ctx.strokeStyle = dim?'#2a6b78':(full?'#8ff0ff':'#6fe3f2');
+        ctx.lineWidth = dim?.6:1.2; ctx.stroke();
+      }else if(s){                        // 有藏品未刷:半亮
+        ctx.fillStyle='#1e4d58'; ctx.globalAlpha=dim?.45:.85; ctx.fill(); ctx.globalAlpha=1;
+        ctx.strokeStyle='#2f7d8c'; ctx.lineWidth=.8; ctx.stroke();
+      }else{                              // 无藏品:未知的暗陆地
+        ctx.fillStyle='#16323a'; ctx.globalAlpha=.9; ctx.fill(); ctx.globalAlpha=1;
+        ctx.strokeStyle='#1d4049'; ctx.lineWidth=.6; ctx.stroke();
+      }
     });
   });
-  ctx.globalAlpha=1;
-  const {idx,unloc}=geoIndex();
   _wcityPts=[];
   if(wview.level==='world'){
     // 国家聚合气泡
@@ -2533,14 +2699,14 @@ function renderWorld(){
     for(const k in byCountry){
       const o=byCountry[k]; totC++;
       const [x,y]=P.fx(o.sx/o.m,o.sy/o.m);
-      const r=Math.max(5,Math.min(15,3+Math.sqrt(o.n)*1.1));
+      const r=Math.max(4,Math.min(11,2.5+Math.sqrt(o.n)*0.8));
       ctx.beginPath(); ctx.arc(x,y,r,0,7);
-      if(o.lit){ litC++; ctx.fillStyle='#b3543e'; ctx.globalAlpha=.9; }
-      else{ ctx.fillStyle='#b9b4a6'; ctx.globalAlpha=.8; }
+      if(o.lit){ litC++; ctx.fillStyle='#ffd45e'; ctx.globalAlpha=.95; }
+      else{ ctx.fillStyle='#6b8f99'; ctx.globalAlpha=.7; }
       ctx.fill(); ctx.globalAlpha=1;
-      if(o.lit>=o.n&&o.n>0){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=1.8; ctx.stroke(); }
-      ctx.fillStyle='#55534c'; ctx.font='10px sans-serif'; ctx.textAlign='center';
-      ctx.fillText(k,x,y-r-3);
+      ctx.font='10px sans-serif'; ctx.textAlign='center';
+      ctx.lineWidth=3; ctx.strokeStyle='rgba(6,20,26,.85)'; ctx.strokeText(k,x,y-r-4);
+      ctx.fillStyle=o.lit?'#eafcff':'#8fb3bd'; ctx.fillText(k,x,y-r-4);
       _wcityPts.push({x,y,r:r+4,country:k});
     }
     document.getElementById('wCrumb').textContent='世界';
@@ -2560,12 +2726,13 @@ function renderWorld(){
       const [x,y]=P.fx(c[1],c[2]);
       const r=Math.max(6,Math.min(17,4+Math.sqrt(ws.length)*1.4));
       ctx.beginPath(); ctx.arc(x,y,r,0,7);
-      ctx.fillStyle=lit?'#b3543e':'#b9b4a6'; ctx.globalAlpha=.88; ctx.fill(); ctx.globalAlpha=1;
-      if(lit>=ws.length){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=1.8; ctx.stroke(); }
-      ctx.fillStyle='#fff'; ctx.font='9.5px sans-serif'; ctx.textAlign='center';
-      if(r>=10) ctx.fillText(lit+'/'+ws.length,x,y+3);
-      ctx.fillStyle='#55534c'; ctx.font='10.5px sans-serif';
-      ctx.fillText(c[0],x,y-r-4);
+      ctx.fillStyle=lit?'#ffd45e':'#4a7684'; ctx.globalAlpha=.92; ctx.fill(); ctx.globalAlpha=1;
+      if(lit>=ws.length){ ctx.strokeStyle='#fff3c4'; ctx.lineWidth=1.8; ctx.stroke(); }
+      ctx.font='9.5px sans-serif'; ctx.textAlign='center';
+      if(r>=10){ ctx.fillStyle=lit?'#3a2b00':'#cfe8ef'; ctx.fillText(lit+'/'+ws.length,x,y+3); }
+      ctx.font='10.5px sans-serif';
+      ctx.lineWidth=3; ctx.strokeStyle='rgba(6,20,26,.85)'; ctx.strokeText(c[0],x,y-r-4);
+      ctx.fillStyle='#eafcff'; ctx.fillText(c[0],x,y-r-4);
       _wcityPts.push({x,y,r:r+5,ci});
     });
     document.getElementById('wCrumb').textContent='世界 · '+wview.country;
