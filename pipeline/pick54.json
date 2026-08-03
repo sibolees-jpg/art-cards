@@ -1,0 +1,119 @@
+[
+ {
+  "id": 8529,
+  "zh": "格拉沃利讷的运河，小菲利普堡",
+  "qid": "Q3793238",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Seurat%2C%20Georges%20-%20The%20Channel%20of%20Gravelines%2C%20Petit%20Fort%20Philippe%20-%20Google%20Art%20Project.jpg",
+  "y": "1890",
+  "loc": "印第安納波利斯藝術博物館",
+  "a": "修拉"
+ },
+ {
+  "id": 8530,
+  "zh": "库尔伯瓦桥",
+  "qid": "Q3908058",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20012.jpg",
+  "y": "1880",
+  "loc": "考陶爾德美術館",
+  "a": "修拉"
+ },
+ {
+  "id": 8531,
+  "zh": "蓬托贝尔的下层植被",
+  "qid": "Q3965263",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Seurat%20063.jpg",
+  "y": "1881",
+  "loc": "大都會藝術博物館",
+  "a": "修拉"
+ },
+ {
+  "id": 8532,
+  "zh": "Echo and Narcissus",
+  "qid": "Q5817081",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Echo%20et%20Narcisse%20-%20Nicolas%20Poussin%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%207297%20%3B%20MR%202344.jpg",
+  "y": "1629",
+  "loc": "Room 826",
+  "a": "普桑"
+ },
+ {
+  "id": 8533,
+  "zh": "Landscape with Polyphemus",
+  "qid": "Q3132791",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Poussin%20-%20Paysage%20avec%20Polyph%C3%A8me.jpg",
+  "y": "1649",
+  "loc": "埃尔米塔日博物馆",
+  "a": "普桑"
+ },
+ {
+  "id": 8534,
+  "zh": "The Plague at Ashdod",
+  "qid": "Q3900760",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Peste%20d%27Asdod%20-%20Nicolas%20Poussin%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%207276%20%3B%20MR%202312.jpg",
+  "y": "1630",
+  "loc": "Room 826",
+  "a": "普桑"
+ },
+ {
+  "id": 8535,
+  "zh": "The Funeral of Phocion",
+  "qid": "Q7735465",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Burial%20of%20Phocion.jpg",
+  "y": "1648",
+  "loc": "加迪夫國立博物館",
+  "a": "普桑"
+ },
+ {
+  "id": 8536,
+  "zh": "失明的俄里翁寻找升起的太阳",
+  "qid": "Q19911450",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Poussin%2C%20Nicolas%20-%20Paysage%20avec%20Orion%20aveugle%20cherchant%20le%20soleil%20-%201658.jpg",
+  "y": "1658",
+  "loc": "大都會藝術博物館",
+  "a": "普桑"
+ },
+ {
+  "id": 8537,
+  "zh": "The Victory of Joshua over",
+  "qid": "Q56256003",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Poussin%20-%20The%20Victory%20of%20Joshua%20over%20Amorites%20-%20Pushkin%20museum.jpg",
+  "y": "1625",
+  "loc": "普希金造型藝術博物館",
+  "a": "普桑"
+ },
+ {
+  "id": 8538,
+  "zh": "Light and Colour (Goethe's",
+  "qid": "Q219271",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Unmatinapresledeluge.jpg",
+  "y": "1843",
+  "loc": "泰特美術館",
+  "a": "透纳"
+ },
+ {
+  "id": 8539,
+  "zh": "La Blouse roumaine",
+  "qid": "Q3651370",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20matisse%2C%20La%20Blouse%20Roumaine%201940%20%28cropped%29.jpg",
+  "y": "1940",
+  "loc": "國立現代藝術博物館",
+  "a": "马蒂斯"
+ },
+ {
+  "id": 8540,
+  "zh": "Goldfish",
+  "qid": "Q3791123",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Poissons%20rouges%2C%20par%20Henri%20Matisse.jpg",
+  "y": "1912",
+  "loc": "普希金造型藝術博物館",
+  "a": "马蒂斯"
+ },
+ {
+  "id": 8541,
+  "zh": "紅色的畫室",
+  "qid": "Q6455615",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Atelier%20rouge%2C%20par%20Henri%20Matisse.jpg",
+  "y": "1911",
+  "loc": "現代藝術博物館",
+  "a": "马蒂斯"
+ }
+]
