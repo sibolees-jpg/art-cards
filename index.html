@@ -2696,20 +2696,18 @@ function renderWorld(){
     for(const k in byCountry){
       const o=byCountry[k]; totC++;
       const [x,y]=P.fx(o.sx/o.m,o.sy/o.m);
-      const r=Math.max(4,Math.min(11,2.5+Math.sqrt(o.n)*0.8));
-      ctx.beginPath(); ctx.arc(x,y,r,0,7);
-      if(o.lit){ litC++; ctx.fillStyle='#8c3a26'; ctx.globalAlpha=.95; }
-      else{ ctx.fillStyle='#a8a294'; ctx.globalAlpha=.75; }
-      ctx.fill(); ctx.globalAlpha=1;
-      ctx.font='10px sans-serif'; ctx.textAlign='center';
-      ctx.lineWidth=3; ctx.strokeStyle='rgba(250,248,242,.9)'; ctx.strokeText(k,x,y-r-4);
-      ctx.fillStyle=o.lit?'#3d2b22':'#6b675e'; ctx.fillText(k,x,y-r-4);
-      _wcityPts.push({x,y,r:r+4,country:k});
+      if(o.lit) litC++;
+      // 不画气泡:区块本身就是状态。只在块上标国名,块够大才标
+      const r=Math.max(10,Math.min(26,6+Math.sqrt(o.n)*1.6));
+      ctx.font=(o.lit?'bold ':'')+'10.5px sans-serif'; ctx.textAlign='center';
+      ctx.lineWidth=3.2; ctx.strokeStyle='rgba(250,248,242,.92)'; ctx.strokeText(k,x,y);
+      ctx.fillStyle=o.lit?'#4a2318':'#7b766a'; ctx.fillText(k,x,y);
+      _wcityPts.push({x,y,r:r,country:k});
     }
     document.getElementById('wCrumb').textContent='世界';
     document.getElementById('wBack').hidden=true;
     document.getElementById('wmapNote').innerHTML=
-      `已踏足 <b>${litC}</b> / ${totC} 个国家 · 点国家钻进去看城市`+
+      `已点亮 <b>${litC}</b> / ${totC} 个地区 · 点地区钻进去看城市`+
       (wview.timeOn?`<br><small>时间轴开启:只显示 ${wTimeLabTxt()} 前的有纪年作品</small>`:(unloc?`<br><small>另有 ${unloc} 件暂未定位</small>`:''));
   } else {
     // 国家内:城市气泡
@@ -2802,6 +2800,28 @@ function wTimeLabTxt(){
   },{passive:false});
 })();
 function wTap(x,y){
+  // 世界视图:先按区块形状命中(点在哪个国家的轮廓里就进哪个)
+  if(wview.level==='world'&&window.REGIONS){
+    const P0=wProj(), z=wview.z, tx=wview.tx, ty=wview.ty;
+    const fx=(lo,la)=>{const p=P0.fx(lo,la);return [p[0]*z+tx,p[1]*z+ty];};
+    const inRing=(ring)=>{                       // 射线法
+      let inside=false;
+      for(let i=0,j=ring.length-1;i<ring.length;j=i++){
+        const a=fx(ring[i][0],ring[i][1]), b=fx(ring[j][0],ring[j][1]);
+        if((a[1]>y)!==(b[1]>y) && x < (b[0]-a[0])*(y-a[1])/(b[1]-a[1])+a[0]) inside=!inside;
+      }
+      return inside;
+    };
+    const hasWorks=new Set(_wcityPts.map(p=>p.country));
+    for(const o of window.REGIONS){
+      if(!hasWorks.has(o.n)) continue;           // 没有藏品的国家不可进入
+      if(o.r.some(inRing)){
+        wview.level='country'; wview.country=o.n;
+        wview.z=1; wview.tx=0; wview.ty=0;
+        document.getElementById('wcity').hidden=true; renderWorld(); return;
+      }
+    }
+  }
   let best=null,bd=1e9;
   _wcityPts.forEach(p=>{ const d=(p.x-x)**2+(p.y-y)**2; if(d<bd){bd=d;best=p;} });
   if(!best||bd>28*28) return;
