@@ -1,0 +1,686 @@
+[
+ {
+  "id": 8630,
+  "zh": "Sommerdag ved Roskilde Fjo",
+  "qid": "Q4310543",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sommerdag%20ved%20Roskilde%20Fjord.jpg",
+  "y": "1900",
+  "loc": "Randers Museum of Art",
+  "a": "L.A.灵"
+ },
+ {
+  "id": 8631,
+  "zh": "At Breakfast",
+  "qid": "Q15392270",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Laurits%20Andersen%20Ring%20-%20Ved%20frokostbordet%20og%20morgenaviserne.jpg",
+  "y": "1898",
+  "loc": "瑞典國立博物館",
+  "a": "L.A.灵"
+ },
+ {
+  "id": 8632,
+  "zh": "The Lineman",
+  "qid": "Q18600294",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lineman%20%28Laurits%20Andersen%20Ring%29%20-%20Nationalmuseum%20-%2021932.tif",
+  "y": "1884",
+  "loc": "瑞典國立博物館",
+  "a": "L.A.灵"
+ },
+ {
+  "id": 8633,
+  "zh": "Harvest",
+  "qid": "Q20355494",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/I%20h%C3%B8st.jpg",
+  "y": "1885",
+  "loc": "國立丹麥美術館",
+  "a": "L.A.灵"
+ },
+ {
+  "id": 8634,
+  "zh": "Spring. Ebba and Sigrid Kä",
+  "qid": "Q21014963",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/For%C3%A5r.jpg",
+  "y": "1895",
+  "loc": "Hirschsprung Collection",
+  "a": "L.A.灵"
+ },
+ {
+  "id": 8635,
+  "zh": "Washing on the Ice",
+  "qid": "Q11853630",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pekka%20Halonen%20-%20Washing%20on%20the%20Ice%20-%20Google%20Art%20Project.jpg",
+  "y": "1900",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "佩卡·哈洛宁"
+ },
+ {
+  "id": 8636,
+  "zh": "Tomatoes",
+  "qid": "Q11898003",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomates%2C%20par%20Pekka%20Halonen.jpg",
+  "y": "1913",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "佩卡·哈洛宁"
+ },
+ {
+  "id": 8637,
+  "zh": "The Short-Cut",
+  "qid": "Q18346893",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Raccourci%2C%20par%20Pekka%20Halonen.jpg",
+  "y": "1892",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "佩卡·哈洛宁"
+ },
+ {
+  "id": 8638,
+  "zh": "Pioneers in Karelia",
+  "qid": "Q20800156",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pionniers%20en%20Car%C3%A9lie%2C%20par%20Pekka%20Halonen.jpg",
+  "y": "1900",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "佩卡·哈洛宁"
+ },
+ {
+  "id": 8639,
+  "zh": "The Mower Men",
+  "qid": "Q27485391",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Faucheurs%2C%20par%20Pekka%20Halonen.jpg",
+  "y": "1891",
+  "loc": "",
+  "a": "佩卡·哈洛宁"
+ },
+ {
+  "id": 8640,
+  "zh": "The Violinist",
+  "qid": "Q20796468",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Violoniste%2C%20par%20Pekka%20Halonen.jpg",
+  "y": "1900",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "佩卡·哈洛宁"
+ },
+ {
+  "id": 8641,
+  "zh": "萊夫•艾瑞克森發現美洲",
+  "qid": "Q53622454",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Krohg%20-%20Leiv%20Eirikson%20discovering%20America%20-%20Google%20Art%20Project.jpg",
+  "y": "1893",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "克里斯蒂安·克罗格"
+ },
+ {
+  "id": 8642,
+  "zh": "Albertine i politilægens v",
+  "qid": "Q2831725",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Krohg%20-%20Albertine%20to%20see%20the%20Police%20Surgeon%20-%20Google%20Art%20Project.jpg",
+  "y": "1880",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "克里斯蒂安·克罗格"
+ },
+ {
+  "id": 8643,
+  "zh": "Struggle for Survival",
+  "qid": "Q19398982",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Krohg%20-%20Struggle%20for%20Survival%20-%20Google%20Art%20Project.jpg",
+  "y": "1889",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "克里斯蒂安·克罗格"
+ },
+ {
+  "id": 8644,
+  "zh": "Braiding her Hair",
+  "qid": "Q55422772",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Krohg%20-%20Braiding%20her%20Hair%20-%20Google%20Art%20Project.jpg",
+  "y": "1888",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "克里斯蒂安·克罗格"
+ },
+ {
+  "id": 8645,
+  "zh": "Christian IX of Denmark wi",
+  "qid": "Q111701312",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20IX%20of%20Denmark%20with%20family%20%28Tuxen%29.jpg",
+  "y": "1886",
+  "loc": "克里斯蒂安堡宫",
+  "a": "劳里茨·图克森"
+ },
+ {
+  "id": 8646,
+  "zh": "Leaving the Table",
+  "qid": "Q12325863",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Man%20rejser%20sig%20fra%20bordet%20%28Aftenselskab%20hos%20familien%20Moresco%29.jpg",
+  "y": "1906",
+  "loc": "纽约",
+  "a": "劳里茨·图克森"
+ },
+ {
+  "id": 8647,
+  "zh": "The North Sea in Stormy We",
+  "qid": "Q18393586",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Laurits%20Tuxen%20-%20The%20North%20Sea%20in%20stormy%20weather.%20After%20sunset.%20H%C3%B8jen%20-%20Google%20Art%20Project.jpg",
+  "y": "1909",
+  "loc": "斯卡思博物館",
+  "a": "劳里茨·图克森"
+ },
+ {
+  "id": 8648,
+  "zh": "Summer day at the beach of",
+  "qid": "Q20054602",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Summer%20day%20at%20the%20beach%20of%20Skagen%20by%20Laurits%20Tuxen.jpg",
+  "y": "1907",
+  "loc": "",
+  "a": "劳里茨·图克森"
+ },
+ {
+  "id": 8649,
+  "zh": "The Marriage of George, Du",
+  "qid": "Q62596755",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Laurits%20Regner%20Tuxen%20%281853-1927%29%20-%20The%20Marriage%20of%20George%2C%20Duke%20of%20York%2C%20with%20Princess%20Mary%20of%20Teck%2C%206%20July%201893%20-%20RCIN%20402437%20-%20Royal%20Collection.jpg",
+  "y": "1894",
+  "loc": "皇室收藏",
+  "a": "劳里茨·图克森"
+ },
+ {
+  "id": 8650,
+  "zh": "Midwinter's Sacrifice",
+  "qid": "Q761681",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Midvinterblot%20%28Carl%20Larsson%29%20-%20Nationalmuseum%20-%20edited.jpg",
+  "y": "1915",
+  "loc": "瑞典國立博物館",
+  "a": "卡尔·拉森"
+ },
+ {
+  "id": 8651,
+  "zh": "Karin by the shore",
+  "qid": "Q20064873",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Larsson%20-%20Karin%20by%20the%20shore%20-%20Google%20Art%20Project.jpg",
+  "y": "1908",
+  "loc": "Malmö Art Museum",
+  "a": "卡尔·拉森"
+ },
+ {
+  "id": 8652,
+  "zh": "Gustav Vasas intåg i Stock",
+  "qid": "Q1800916",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Entry%20of%20King%20Gustav%20Vasa%20of%20Sweden%20into%20Stockholm%2C%201523%20%28Carl%20Larsson%29%20-%20Nationalmuseum%20-%2023935.tif",
+  "y": "1908",
+  "loc": "瑞典國立博物館",
+  "a": "卡尔·拉森"
+ },
+ {
+  "id": 8653,
+  "zh": "Interior of the Fürstenber",
+  "qid": "Q65194593",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Interi%C3%B6r%20fr%C3%A5n%20Furstenbergska%20galleriet%20-%20Carl%20Larsson.JPG",
+  "y": "1885",
+  "loc": "哥特堡美術館",
+  "a": "卡尔·拉森"
+ },
+ {
+  "id": 8654,
+  "zh": "Angry Boy",
+  "qid": "Q16678093",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frogner.JPG",
+  "y": "1928",
+  "loc": "维格兰雕塑公园",
+  "a": "古斯塔夫·维格兰"
+ },
+ {
+  "id": 8655,
+  "zh": "The Monolith",
+  "qid": "Q11785240",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frogner%20Park%2C%20Oslo%20%2814858476955%29.jpg",
+  "y": "",
+  "loc": "维格兰雕塑公园",
+  "a": "古斯塔夫·维格兰"
+ },
+ {
+  "id": 8656,
+  "zh": "Livshjulet",
+  "qid": "Q21948556",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20roue%20de%20la%20vie%20de%20Gustav%20Vigeland%20%284845798923%29.jpg",
+  "y": "1933",
+  "loc": "维格兰雕塑公园",
+  "a": "古斯塔夫·维格兰"
+ },
+ {
+  "id": 8657,
+  "zh": "Abel Monument, Royal Palac",
+  "qid": "Q23868718",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abelmonumentet%201.jpg",
+  "y": "",
+  "loc": "Abelhaugen",
+  "a": "古斯塔夫·维格兰"
+ },
+ {
+  "id": 8658,
+  "zh": "The Sundial",
+  "qid": "Q126245570",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Soluret%2C%20Vigelandsparken%20-%20no-nb%20digifoto%2020150102%2000018%20NB%20MIT%20FNR%2020971.jpg",
+  "y": "",
+  "loc": "维格兰雕塑公园",
+  "a": "古斯塔夫·维格兰"
+ },
+ {
+  "id": 8659,
+  "zh": "Statue of Camilla Collett ",
+  "qid": "Q20748772",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%2C%20statue%20of%20Camilla%20Collett%20in%20Oslo%20%286%29%20BRIGHTER.jpg",
+  "y": "",
+  "loc": "挪威皇宮公園",
+  "a": "古斯塔夫·维格兰"
+ },
+ {
+  "id": 8660,
+  "zh": "Self-Portrait",
+  "qid": "Q11885511",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Omakuva%20Ellen%20Thesleff%201894-1895%20Ateneum.webp",
+  "y": "1890",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "埃伦·特斯莱夫"
+ },
+ {
+  "id": 8661,
+  "zh": "Burning the Brushwood",
+  "qid": "Q11889613",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eero%20J%C3%A4rnefelt%20-%20Under%20the%20Yoke%20%28Burning%20the%20Brushwood%29%20-%20Google%20Art%20Project.jpg",
+  "y": "1893",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "埃罗·耶尔内费尔特"
+ },
+ {
+  "id": 8662,
+  "zh": "Peasant Burial",
+  "qid": "Q55421929",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Werenskiold%20-%20Peasant%20Burial%20-%20Google%20Art%20Project.jpg",
+  "y": "1880",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "埃里克·韦伦谢尔"
+ },
+ {
+  "id": 8663,
+  "zh": "Wonderland",
+  "qid": "Q18601693",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wonderland%20%28August%20Strindberg%29%20-%20Nationalmuseum%20-%2023926.tif",
+  "y": "1894",
+  "loc": "瑞典國立博物館",
+  "a": "奥古斯特·斯特林堡"
+ },
+ {
+  "id": 8664,
+  "zh": "Alley",
+  "qid": "Q25415729",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleja%2C%201903.jpg",
+  "y": "1903",
+  "loc": "蒂爾畫廊",
+  "a": "奥古斯特·斯特林堡"
+ },
+ {
+  "id": 8665,
+  "zh": "The Artist's Mother Ane He",
+  "qid": "Q20438955",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Ancher%2C%20Kunstnerens%20mor%20Ane%20Hedvig%20Br%C3%B8ndum%20i%20den%20r%C3%B8de%20stue%2C%201909%2C%20KMS8654%2C%20Statens%20Museum%20for%20Kunst.jpg",
+  "y": "1909",
+  "loc": "國立丹麥美術館",
+  "a": "安娜·安谢尔"
+ },
+ {
+  "id": 8666,
+  "zh": "The maid in the kitchen",
+  "qid": "Q21044818",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20in%20the%20Kitchen%20%28Anna%20Ancher%29.jpg",
+  "y": "1883",
+  "loc": "Hirschsprung Collection",
+  "a": "安娜·安谢尔"
+ },
+ {
+  "id": 8667,
+  "zh": "Harvesters",
+  "qid": "Q20890314",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Ancher%20-%20Harvesters%20-%20Google%20Art%20Project.jpg",
+  "y": "1905",
+  "loc": "斯卡思博物館",
+  "a": "安娜·安谢尔"
+ },
+ {
+  "id": 8668,
+  "zh": "A Funeral",
+  "qid": "Q20491541",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Ancher%2C%20En%20begravelse%2C%201891%2C%20KMS1433%2C%20Statens%20Museum%20for%20Kunst.jpg",
+  "y": "1891",
+  "loc": "國立丹麥美術館",
+  "a": "安娜·安谢尔"
+ },
+ {
+  "id": 8669,
+  "zh": "Summer Fun",
+  "qid": "Q1219751",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sommarn%C3%B6je%20%281886%29%2C%20akvarell%20av%20Anders%20Zorn.jpg",
+  "y": "1886",
+  "loc": "",
+  "a": "安德斯·佐恩"
+ },
+ {
+  "id": 8670,
+  "zh": "Omnibus",
+  "qid": "Q18601560",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Zorn%20Omnibus.jpg",
+  "y": "1891",
+  "loc": "瑞典國立博物館",
+  "a": "安德斯·佐恩"
+ },
+ {
+  "id": 8671,
+  "zh": "Midsummer Dance",
+  "qid": "Q10585101",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Midsummer%20Dance%20%28Anders%20Zorn%29%20-%20Nationalmuseum%20-%2018607.tif",
+  "y": "1897",
+  "loc": "瑞典國立博物館",
+  "a": "安德斯·佐恩"
+ },
+ {
+  "id": 8672,
+  "zh": "En premiär",
+  "qid": "Q18587457",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zorn%20-%20Une%20premiere%20%28gouache%2C%20with%20frame%29.jpg",
+  "y": "1888",
+  "loc": "瑞典國立博物館",
+  "a": "安德斯·佐恩"
+ },
+ {
+  "id": 8673,
+  "zh": "A Portrait of the Daughter",
+  "qid": "Q22329812",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Zorn%20-%20A%20Portrait%20of%20the%20Daughters%20of%20Ramon%20Subercasseaux.jpg",
+  "y": "1892",
+  "loc": "",
+  "a": "安德斯·佐恩"
+ },
+ {
+  "id": 8674,
+  "zh": "Port of Hamburg",
+  "qid": "Q18574711",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Port%20of%20Hamburg%20%28Anders%20Zorn%29%20-%20Nationalmuseum%20-%2024409.tif",
+  "y": "1891",
+  "loc": "瑞典國立博物館",
+  "a": "安德斯·佐恩"
+ },
+ {
+  "id": 8675,
+  "zh": "Bonfire celebrating Midsum",
+  "qid": "Q22284409",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolai%20Astrup%20-%20Bonfire%20celebrating%20Midsummer%20Night%20-%20NG.M.03609%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
+  "y": "1912",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "尼古拉·阿斯特鲁普"
+ },
+ {
+  "id": 8676,
+  "zh": "A Poacher",
+  "qid": "Q18574619",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Poacher%2C%201894%2C%20by%20Bruno%20Liljefors.%20Nationalmuseum%2C%20Stockholm%2C%20Sweden.jpg",
+  "y": "1894",
+  "loc": "瑞典國立博物館",
+  "a": "布鲁诺·利耶福什"
+ },
+ {
+  "id": 8677,
+  "zh": "A Fox Family",
+  "qid": "Q18573418",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Liljefors%20-%20A%20Fox%20Family%20-%20Google%20Art%20Project.jpg",
+  "y": "1886",
+  "loc": "瑞典國立博物館",
+  "a": "布鲁诺·利耶福什"
+ },
+ {
+  "id": 8678,
+  "zh": "Roses",
+  "qid": "Q17826909",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/P.S.%20Kr%C3%B8yer%20-%20Roses.%20Marie%20Kr%C3%B8yer%20seated%20in%20the%20deckchair%20in%20the%20garden%20by%20Mrs%20Bendsen%27s%20house%20-%20Google%20Art%20Project.jpg",
+  "y": "1893",
+  "loc": "斯卡思博物館",
+  "a": "彼得·塞韦林·克罗耶"
+ },
+ {
+  "id": 8679,
+  "zh": "Midsummer Eve Bonfire on S",
+  "qid": "Q12334558",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Midsummer%20Eve%20bonfire%20on%20Skagen%27s%20beach%20-%20P.S.%20Kr%C3%B8yer%20-%20Google%20Cultural%20Institute.jpg",
+  "y": "1906",
+  "loc": "斯卡思博物館",
+  "a": "彼得·塞韦林·克罗耶"
+ },
+ {
+  "id": 8680,
+  "zh": "The Men of Industry",
+  "qid": "Q12011341",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/P.S.%20Kr%C3%B8yer%2C%20Industriens%20M%C3%A6nd%2C%201903-1904%2C%20Det%20Nationalhistoriske%20Museum%20p%C3%A5%20Frederiksborg.jpg",
+  "y": "1903",
+  "loc": "The Museum of National History at Frederiksborg Castle",
+  "a": "彼得·塞韦林·克罗耶"
+ },
+ {
+  "id": 8681,
+  "zh": "The Hirschsprung family po",
+  "qid": "Q19973933",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peder%20Severin%20Kr%C3%B8yer%20-%20The%20Hirschsprung%20family%20portrait.%20From%20the%20left%20Ivar%2C%20Aage%2C%20Heinrich%2C%20Oscar%2C%20Robert%2C%20Pauline%20and%20Ell...%20-%20Google%20Art%20Project.jpg",
+  "y": "1881",
+  "loc": "Hirschsprung Collection",
+  "a": "彼得·塞韦林·克罗耶"
+ },
+ {
+  "id": 8682,
+  "zh": "From Copenhagen Stock Exch",
+  "qid": "Q24067740",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fra%20K%C3%B8benhavns%20B%C3%B8rs.jpg",
+  "y": "1895",
+  "loc": "舊股票交易中心",
+  "a": "彼得·塞韦林·克罗耶"
+ },
+ {
+  "id": 8683,
+  "zh": "Hunters of Skagen",
+  "qid": "Q20010686",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Skagens%20j%C3%A6gere%20%28p.%20s.%20kR%C3%98YER%29.jpg",
+  "y": "1898",
+  "loc": "ARoS Aarhus Kunstmuseum",
+  "a": "彼得·塞韦林·克罗耶"
+ },
+ {
+  "id": 8684,
+  "zh": "康复者",
+  "qid": "Q5478273",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20Schjerfbeck%20%281862-1946%29-%20The%20Convalescent%20-%20Toipilas%20-%20Konvalescenten%20%2832721924996%29.jpg",
+  "y": "1888",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "海伦娜·谢尔夫贝克"
+ },
+ {
+  "id": 8685,
+  "zh": "Self-Portrait with Black B",
+  "qid": "Q11883548",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20Schjerfbeck%2C%20Self-Portrait%2C%20Black%20Background%2C%201915.jpg",
+  "y": "1915",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "海伦娜·谢尔夫贝克"
+ },
+ {
+  "id": 8686,
+  "zh": "Wounded Warrior in the Sno",
+  "qid": "Q18689608",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20Schjerfbeck%20-%20Wounded%20Warrior%20in%20the%20Snow.jpg",
+  "y": "1880",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "海伦娜·谢尔夫贝克"
+ },
+ {
+  "id": 8687,
+  "zh": "The Old Manor",
+  "qid": "Q46477975",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20Schjerfbeck%20-%20The%20Old%20Manor%20%281901%29.jpg",
+  "y": "1901",
+  "loc": "图尔库艺术博物馆",
+  "a": "海伦娜·谢尔夫贝克"
+ },
+ {
+  "id": 8688,
+  "zh": "The Fencer",
+  "qid": "Q20962127",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20Schjerfbeck%20-%20The%20Fencer%20%281924%29.jpg",
+  "y": "1924",
+  "loc": "",
+  "a": "海伦娜·谢尔夫贝克"
+ },
+ {
+  "id": 8689,
+  "zh": "Girl with Blonde Hair",
+  "qid": "Q21285711",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20with%20Blonde%20Hair%20%28SM%202463%29.png",
+  "y": "1916",
+  "loc": "施泰德艺术馆",
+  "a": "海伦娜·谢尔夫贝克"
+ },
+ {
+  "id": 8690,
+  "zh": "Nordic summer's evening",
+  "qid": "Q17190395",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordisk%20sommarkv%C3%A4ll%20%281889-1900%29%2C%20m%C3%A5lning%20av%20Richard%20Bergh.jpg",
+  "y": "1899",
+  "loc": "哥特堡美術館",
+  "a": "理查德·贝里"
+ },
+ {
+  "id": 8691,
+  "zh": "After the sitting",
+  "qid": "Q16070127",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Bergh%20-%20After%20the%20sitting%20-%20Google%20Art%20Project.jpg",
+  "y": "1884",
+  "loc": "Malmö Art Museum",
+  "a": "理查德·贝里"
+ },
+ {
+  "id": 8692,
+  "zh": "The artist Eva Bonnier",
+  "qid": "Q18574205",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konstn%C3%A4rinnan%20Eva%20Bonnier%20%28Richard%20Bergh%29%20-%20Nationalmuseum%20-%2018510.tif",
+  "y": "1889",
+  "loc": "瑞典國立博物館",
+  "a": "理查德·贝里"
+ },
+ {
+  "id": 8693,
+  "zh": "The Knight and the Maiden",
+  "qid": "Q56300982",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Bergh%2C%20Thielska%20galleriet%2C%201897.jpg",
+  "y": "1897",
+  "loc": "蒂爾畫廊",
+  "a": "理查德·贝里"
+ },
+ {
+  "id": 8694,
+  "zh": "Portrait of my wife",
+  "qid": "Q21044781",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A6t%20af%20min%20hustru.%20Malerinden%20Anna%20Ancher.jpg",
+  "y": "1884",
+  "loc": "Hirschsprung Collection",
+  "a": "米凯尔·安谢尔"
+ },
+ {
+  "id": 8695,
+  "zh": "Will He Round the Point?",
+  "qid": "Q18379774",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vil%20han%20klare%20pynten.jpg",
+  "y": "1885",
+  "loc": "斯卡思博物館",
+  "a": "米凯尔·安谢尔"
+ },
+ {
+  "id": 8696,
+  "zh": "Christmas Day 1900",
+  "qid": "Q20054627",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Ancher%20-%20Christmas%20Day%201900%20-%20Google%20Art%20Project.jpg",
+  "y": "1903",
+  "loc": "斯卡思博物館",
+  "a": "米凯尔·安谢尔"
+ },
+ {
+  "id": 8697,
+  "zh": "The Drowned Fisherman",
+  "qid": "Q20355597",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Den%20druknede.jpg",
+  "y": "1896",
+  "loc": "國立丹麥美術館",
+  "a": "米凯尔·安谢尔"
+ },
+ {
+  "id": 8698,
+  "zh": "A Baptism",
+  "qid": "Q21747201",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Baptism%20%28Michael%20Ancher%29.jpg",
+  "y": "1888",
+  "loc": "Ribe Kunstmuseum",
+  "a": "米凯尔·安谢尔"
+ },
+ {
+  "id": 8699,
+  "zh": "Pasteur's portrait by Edel",
+  "qid": "Q7142987",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Edelfelt%20-%20Louis%20Pasteur%20-%201885.jpg",
+  "y": "1885",
+  "loc": "奥赛博物馆",
+  "a": "阿尔伯特·埃德尔费尔特"
+ },
+ {
+  "id": 8700,
+  "zh": "The Luxembourg Gardens, Pa",
+  "qid": "Q18346884",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Edelfelt%20-%20The%20Luxembourg%20Gardens%2C%20Paris.jpg",
+  "y": "1887",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "阿尔伯特·埃德尔费尔特"
+ },
+ {
+  "id": 8701,
+  "zh": "Queen Blanche",
+  "qid": "Q10476958",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Edelfelt%20-%20Queen%20Bianca%20-%20Google%20Art%20Project.jpg",
+  "y": "1877",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "阿尔伯特·埃德尔费尔特"
+ },
+ {
+  "id": 8702,
+  "zh": "Burnt Village",
+  "qid": "Q18691373",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Poltettu%20kyl%C3%A4.jpg",
+  "y": "1879",
+  "loc": "芬蘭國家博物館",
+  "a": "阿尔伯特·埃德尔费尔特"
+ },
+ {
+  "id": 8703,
+  "zh": "Conveying the Child's Coff",
+  "qid": "Q18689663",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Edelfelt%20-%20Conveying%20a%20Child%27s%20Coffin%20-%20Google%20Art%20Project.jpg",
+  "y": "1879",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "阿尔伯特·埃德尔费尔特"
+ },
+ {
+  "id": 8704,
+  "zh": "Duke Karl Insulting the Co",
+  "qid": "Q10522764",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Edelfelt%20-%20Duke%20Karl%20Insulting%20the%20Corpse%20of%20Klas%20Fleming.jpg",
+  "y": "1878",
+  "loc": "圖爾庫城堡",
+  "a": "阿尔伯特·埃德尔费尔特"
+ },
+ {
+  "id": 8705,
+  "zh": "Frost",
+  "qid": "Q18689609",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Simberg%20-%20Frost.jpg",
+  "y": "1895",
+  "loc": "雅典娜姆艺术博物馆",
+  "a": "雨果·辛贝里"
+ }
+]
