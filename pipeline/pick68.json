@@ -1,0 +1,749 @@
+[
+ {
+  "id": 9132,
+  "zh": "共和国雕像",
+  "qid": "Q2378921",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/2004-08-08%201580x2800%20chicago%20republic.jpg",
+  "y": "",
+  "loc": "傑克森公園",
+  "a": "丹尼尔·切斯特·弗兰奇"
+ },
+ {
+  "id": 9133,
+  "zh": "“一分钟人”雕塑",
+  "qid": "Q16509688",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/French%27s%20Concord%20Minuteman%20statue%20%28cropped%29.jpg",
+  "y": "1874",
+  "loc": "",
+  "a": "丹尼尔·切斯特·弗兰奇"
+ },
+ {
+  "id": 9134,
+  "zh": "智慧女神 (紐約雕塑)",
+  "qid": "Q4733573",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/2014%20Columbia%20University%20Alma%20Mater%20closeup.jpg",
+  "y": "1904",
+  "loc": "勞紀念圖書館",
+  "a": "丹尼尔·切斯特·弗兰奇"
+ },
+ {
+  "id": 9135,
+  "zh": "伯特-米莱特纪念喷泉",
+  "qid": "Q5002757",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Butt-Millet%20Memorial%20Fountain%20-%20Presidents%20Park%20-%20Washington%20DC%20-%202012-05-16.jpg",
+  "y": "1913",
+  "loc": "椭圆形草坪",
+  "a": "丹尼尔·切斯特·弗兰奇"
+ },
+ {
+  "id": 9136,
+  "zh": "Dupont Circle Fountain",
+  "qid": "Q5316041",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dupont%20Circle%20fountain%20-%20facing%20southwest.JPG",
+  "y": "1920",
+  "loc": "杜邦圆环",
+  "a": "丹尼尔·切斯特·弗兰奇"
+ },
+ {
+  "id": 9137,
+  "zh": "Death and the Sculptor",
+  "qid": "Q3884111",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Death%20and%20the%20sculptor.jpg",
+  "y": "",
+  "loc": "森林山陵园",
+  "a": "丹尼尔·切斯特·弗兰奇"
+ },
+ {
+  "id": 9138,
+  "zh": "The Waltz",
+  "qid": "Q19945289",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Valse.jpg",
+  "y": "1883",
+  "loc": "索馬亞博物館",
+  "a": "卡米耶·克洛岱尔"
+ },
+ {
+  "id": 9139,
+  "zh": "Sakuntala (Claudel)",
+  "qid": "Q31842466",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vertumnus%20and%20Pomona%20by%20Camille%20Claudel.jpg",
+  "y": "1888",
+  "loc": "",
+  "a": "卡米耶·克洛岱尔"
+ },
+ {
+  "id": 9140,
+  "zh": "The Implorer",
+  "qid": "Q29018504",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20implorante%20a%20la%20derecha.tif",
+  "y": "1907",
+  "loc": "奥赛博物馆",
+  "a": "卡米耶·克洛岱尔"
+ },
+ {
+  "id": 9141,
+  "zh": "Perseus and the Gorgon",
+  "qid": "Q3376130",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/20150125%20roubaix031.JPG",
+  "y": "1902",
+  "loc": "",
+  "a": "卡米耶·克洛岱尔"
+ },
+ {
+  "id": 9142,
+  "zh": "La Vague by Camille Claude",
+  "qid": "Q106265262",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L62%20-%20Mus%C3%A9e%20Rodin%20-%20Camile%20Claudel%20-%20La%20Vague.JPG",
+  "y": "1900",
+  "loc": "羅丹美術館",
+  "a": "卡米耶·克洛岱尔"
+ },
+ {
+  "id": 9143,
+  "zh": "Bust of Auguste Rodin (Cla",
+  "qid": "Q67182973",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Busto%20de%20Rodin.tif",
+  "y": "",
+  "loc": "",
+  "a": "卡米耶·克洛岱尔"
+ },
+ {
+  "id": 9144,
+  "zh": "Clasped Hands of Robert an",
+  "qid": "Q29911524",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clasped%20Hands%20of%20Robert%20and%20Elizabeth%20Barrett%20Browning%20MET%20DT8282.jpg",
+  "y": "1853",
+  "loc": "",
+  "a": "哈丽雅特·霍斯默"
+ },
+ {
+  "id": 9145,
+  "zh": "Statue of Oliver Cromwell",
+  "qid": "Q3497572",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Cromwell%20Statue%2C%20Westminster%20-%20London.jpg",
+  "y": "1899",
+  "loc": "",
+  "a": "哈姆·索尼克罗夫特"
+ },
+ {
+  "id": 9146,
+  "zh": "Statue of Charles George G",
+  "qid": "Q26319159",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Charles%20George%20Gordon%20statue%2C%20Embankment%2C%20London.jpg",
+  "y": "1887",
+  "loc": "維多利亞堤岸花園",
+  "a": "哈姆·索尼克罗夫特"
+ },
+ {
+  "id": 9147,
+  "zh": "Statue of Alfred the Great",
+  "qid": "Q26461216",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20Of%20Alfred%20The%20Great%20in%20Winchester.jpg",
+  "y": "1901",
+  "loc": "",
+  "a": "哈姆·索尼克罗夫特"
+ },
+ {
+  "id": 9148,
+  "zh": "Gladstone Memorial",
+  "qid": "Q27081590",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Gladstone%2C%20Strand%2C%20London.JPG",
+  "y": "1905",
+  "loc": "",
+  "a": "哈姆·索尼克罗夫特"
+ },
+ {
+  "id": 9149,
+  "zh": "The Death of Cleopatra",
+  "qid": "Q106397116",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/SAAM-1994.17%201.jpg",
+  "y": "1876",
+  "loc": "史密森尼美國藝術博物館",
+  "a": "埃德蒙尼娅·刘易斯"
+ },
+ {
+  "id": 9150,
+  "zh": "Statue of Neptune",
+  "qid": "Q22997359",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mortagne-au-Perche%20-%20H%C3%B4tel%20de%20ville%2002.JPG",
+  "y": "",
+  "loc": "",
+  "a": "埃马纽埃尔·弗雷米埃"
+ },
+ {
+  "id": 9151,
+  "zh": "Ferdinand de Lesseps statu",
+  "qid": "Q23976229",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AA%D9%85%D8%AB%D8%A7%D9%84%20%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%20%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%89%20%D9%81%D9%8A%D8%B1%D8%AF%D9%8A%D9%86%D8%A7%D9%86%D8%AF%20%D8%AF%D9%8A%D9%84%D9%8A%D8%B3%D8%A8%D8%B3%20%D8%A8%D8%A8%D9%88%D8%B1%D8%B3%D8%B9%D9%8A%D8%AF.jpg",
+  "y": "",
+  "loc": "塞得港",
+  "a": "埃马纽埃尔·弗雷米埃"
+ },
+ {
+  "id": 9152,
+  "zh": "Abraham Lincoln: The Man",
+  "qid": "Q4668997",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lincoln%20Lincoln%20Park.jpg",
+  "y": "1887",
+  "loc": "",
+  "a": "奥古斯都·圣高登斯"
+ },
+ {
+  "id": 9153,
+  "zh": "Diana",
+  "qid": "Q5271070",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Diana%20of%20the%20Tower%20Philadelphia%20Museum%20of%20Art%20cropped.jpg",
+  "y": "1892",
+  "loc": "费城艺术博物馆",
+  "a": "奥古斯都·圣高登斯"
+ },
+ {
+  "id": 9154,
+  "zh": "Memorial to Robert Gould S",
+  "qid": "Q7344886",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Gould%20Shaw%20Memorial%20%2836053%29.jpg",
+  "y": "1897",
+  "loc": "波士顿公园",
+  "a": "奥古斯都·圣高登斯"
+ },
+ {
+  "id": 9155,
+  "zh": "薛曼騎馬雕像",
+  "qid": "Q18159288",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sherman%20gilded%20jeh.JPG",
+  "y": "1902",
+  "loc": "大军团广场",
+  "a": "奥古斯都·圣高登斯"
+ },
+ {
+  "id": 9156,
+  "zh": "Abraham Lincoln: The Head ",
+  "qid": "Q4668995",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sitting%20Lincoln.JPG",
+  "y": "1908",
+  "loc": "格兰特公园",
+  "a": "奥古斯都·圣高登斯"
+ },
+ {
+  "id": 9157,
+  "zh": "清教徒",
+  "qid": "Q7758791",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Puritan%20by%20Augustus%20Saint-Gaudens%20-%20Springfield%2C%20Massachusetts%20-%20DSC02513.JPG",
+  "y": "1887",
+  "loc": "",
+  "a": "奥古斯都·圣高登斯"
+ },
+ {
+  "id": 9158,
+  "zh": "Chief Justice John Marshal",
+  "qid": "Q5096773",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20John%20Marshall%2C%20at%20the%20John%20Marshall%20Memorial%20Park%2C%20NW%2C%20Washington%2C%20D.C%20LCCN2010641728.tif",
+  "y": "1883",
+  "loc": "费城艺术博物馆",
+  "a": "威廉·韦特莫尔·斯托里"
+ },
+ {
+  "id": 9159,
+  "zh": "Cleopatra",
+  "qid": "Q29383020",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cleopatra%20MET%20DT10855.jpg",
+  "y": "1863",
+  "loc": "大都會藝術博物館",
+  "a": "威廉·韦特莫尔·斯托里"
+ },
+ {
+  "id": 9160,
+  "zh": "George Peabody",
+  "qid": "Q5543272",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Peabody%20statue%2C%20Mount%20Vernon%20Place%2C%20Baltimore%2C%20MD.jpg",
+  "y": "1869",
+  "loc": "弗農山",
+  "a": "威廉·韦特莫尔·斯托里"
+ },
+ {
+  "id": 9161,
+  "zh": "Professor Joseph Henry",
+  "qid": "Q12066473",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/JosephHenry-SmithsonianCastle-20050517.jpg",
+  "y": "1882",
+  "loc": "史密森尼学会大楼",
+  "a": "威廉·韦特莫尔·斯托里"
+ },
+ {
+  "id": 9162,
+  "zh": "Statue of George Peabody",
+  "qid": "Q26489062",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20George%20Peabody%2C%20London%20EC3%20-%20geograph.org.uk%20-%201706589.jpg",
+  "y": "1869",
+  "loc": "",
+  "a": "威廉·韦特莫尔·斯托里"
+ },
+ {
+  "id": 9163,
+  "zh": "Statue of Edward Everett",
+  "qid": "Q74465048",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dorchester%2CMassachusetts%2CUSA.%20-%20panoramio%20%284%29.jpg",
+  "y": "1867",
+  "loc": "波士顿公共花园",
+  "a": "威廉·韦特莫尔·斯托里"
+ },
+ {
+  "id": 9164,
+  "zh": "The Departure of the volun",
+  "qid": "Q28061748",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20July%202011-16a.jpg",
+  "y": "1830",
+  "loc": "巴黎凯旋门",
+  "a": "弗朗索瓦·吕德"
+ },
+ {
+  "id": 9165,
+  "zh": "Hebe et l'aigle de Jupiter",
+  "qid": "Q15970381",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hebe%2C%20aigle%20Jupiter%20Rude%20002.JPG",
+  "y": "1852",
+  "loc": "",
+  "a": "弗朗索瓦·吕德"
+ },
+ {
+  "id": 9166,
+  "zh": "Louis XIII enfant",
+  "qid": "Q17281143",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20XIII%20adolescent-Fran%C3%A7ois%20Rude-MBA%20Lyon%202014-02.jpg",
+  "y": "1878",
+  "loc": "",
+  "a": "弗朗索瓦·吕德"
+ },
+ {
+  "id": 9167,
+  "zh": "Monument à Gaspard Monge",
+  "qid": "Q105222775",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beaune%20-%20Monument%20de%20Gaspard%20Monge.jpg",
+  "y": "1849",
+  "loc": "",
+  "a": "弗朗索瓦·吕德"
+ },
+ {
+  "id": 9168,
+  "zh": "巴托尔迪喷泉",
+  "qid": "Q10144",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyon%201er%20-%20Fontaine%20Bartholdi%20-%20Statue%20et%20bassin.jpg",
+  "y": "1889",
+  "loc": "",
+  "a": "弗雷德里克·奥古斯特·巴托尔迪"
+ },
+ {
+  "id": 9169,
+  "zh": "Liberty Enlightening the W",
+  "qid": "Q1454363",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris-ile-aux-cygnes-statue-de-la-liberte-tour-eiffel-seine.jpg",
+  "y": "1889",
+  "loc": "天鹅岛 (巴黎)",
+  "a": "弗雷德里克·奥古斯特·巴托尔迪"
+ },
+ {
+  "id": 9170,
+  "zh": "Bartholdi Fountain",
+  "qid": "Q4865203",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20USCapitol%20-%20Bartholdi%20Fountain%20%281%29.jpg",
+  "y": "1876",
+  "loc": "国家广场",
+  "a": "弗雷德里克·奥古斯特·巴托尔迪"
+ },
+ {
+  "id": 9171,
+  "zh": "equestrian statue of Verci",
+  "qid": "Q3497631",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20de%20Vercing%C3%A9torix.%20%282%29.jpg",
+  "y": "1902",
+  "loc": "place de Jaude",
+  "a": "弗雷德里克·奥古斯特·巴托尔迪"
+ },
+ {
+  "id": 9172,
+  "zh": "Statue of Christopher Colu",
+  "qid": "Q5149988",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Columbus%20Statue.jpg",
+  "y": "1893",
+  "loc": "",
+  "a": "弗雷德里克·奥古斯特·巴托尔迪"
+ },
+ {
+  "id": 9173,
+  "zh": "Statue of Martin Schongaue",
+  "qid": "Q2425086",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Schongauer.JPG",
+  "y": "1860",
+  "loc": "",
+  "a": "弗雷德里克·奥古斯特·巴托尔迪"
+ },
+ {
+  "id": 9174,
+  "zh": "Krylov's monument",
+  "qid": "Q4343206",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Krylov%20monument%20in%20SPB%2001.jpg",
+  "y": "1855",
+  "loc": "",
+  "a": "彼得·克洛特"
+ },
+ {
+  "id": 9175,
+  "zh": "Horse Tamers",
+  "qid": "Q28870825",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20146-1998-014-22A%2C%20Berlin%2C%20Stadtschloss%2C%20Plastiken%20%22Rosseb%C3%A4ndiger%22.jpg",
+  "y": "1843",
+  "loc": "柏林上訴法院",
+  "a": "彼得·克洛特"
+ },
+ {
+  "id": 9176,
+  "zh": "Monument to Tommaso Grossi",
+  "qid": "Q42746469",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo%20Vela%2C%20Monumento%20a%20Tommaso%20Grossi%20%281858%29%20Accademia%20di%20Brera.jpg",
+  "y": "1858",
+  "loc": "honorary courtyard of the Palazzo di Brera",
+  "a": "文森佐·维拉"
+ },
+ {
+  "id": 9177,
+  "zh": "Monument to Gabrio Piola",
+  "qid": "Q42747337",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo%20Vela%2C%20Monumento%20a%20Gabrio%20Piola%20%281857%29%20Accademia%20di%20Brera%2C%20Milano.jpg",
+  "y": "1857",
+  "loc": "",
+  "a": "文森佐·维拉"
+ },
+ {
+  "id": 9178,
+  "zh": "Flora",
+  "qid": "Q28669706",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Flora%20%28Vincenzo%20Vela%29%201882.jpg",
+  "y": "1882",
+  "loc": "Galleria d'arte moderna di Milano",
+  "a": "文森佐·维拉"
+ },
+ {
+  "id": 9179,
+  "zh": "Statua di Gioacchino Murat",
+  "qid": "Q48809789",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sala%20del%20Colombario%2C%20Certosa%20di%20Bologna%2C%20monumento%20Murat%20Pepoli%20abc1.JPG",
+  "y": "1864",
+  "loc": "博洛尼亞修道院紀念墓園",
+  "a": "文森佐·维拉"
+ },
+ {
+  "id": 9180,
+  "zh": "Monument to Agostino Berta",
+  "qid": "Q73983286",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Milano%20mon%20Agostino%20Bertani.JPG",
+  "y": "",
+  "loc": "Piazza Fratelli Bandiera",
+  "a": "文森佐·维拉"
+ },
+ {
+  "id": 9181,
+  "zh": "Spartacus",
+  "qid": "Q115910722",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statua%20di%20Spartaco%20a%20Palazzo%20Civico%20di%20Lugano%20%282026%29.jpg",
+  "y": "1850",
+  "loc": "卢加诺",
+  "a": "文森佐·维拉"
+ },
+ {
+  "id": 9182,
+  "zh": "Ecce Puer",
+  "qid": "Q3717886",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Medardo%20rosso%2C%20ecce%20puer%2C%201905.jpg",
+  "y": "",
+  "loc": "",
+  "a": "梅达尔多·罗索"
+ },
+ {
+  "id": 9183,
+  "zh": "Trust in God",
+  "qid": "Q16417444",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Bartolini%20%281877-1850%29%20Fiducia%20in%20Dio%20%281833%29.jpg",
+  "y": "1833",
+  "loc": "",
+  "a": "洛伦佐·巴托利尼"
+ },
+ {
+  "id": 9184,
+  "zh": "Nymph with a Scorpion",
+  "qid": "Q17451496",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartolini-ninfa2.jpg",
+  "y": "1835",
+  "loc": "Michelangelo Gallery",
+  "a": "洛伦佐·巴托利尼"
+ },
+ {
+  "id": 9185,
+  "zh": "Monument to Nicola Demidof",
+  "qid": "Q25053736",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20to%20Nicola%20Demidoff%20%28Florence%29%2015.JPG",
+  "y": "",
+  "loc": "",
+  "a": "洛伦佐·巴托利尼"
+ },
+ {
+  "id": 9186,
+  "zh": "Dirce",
+  "qid": "Q19991948",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20bartolini%2C%20dirc%C3%A9%2C%20louvre%2003.JPG",
+  "y": "1834",
+  "loc": "Louvre Museum storage",
+  "a": "洛伦佐·巴托利尼"
+ },
+ {
+  "id": 9187,
+  "zh": "Monument to Maria Luisa di",
+  "qid": "Q66309893",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20Maria%20Luise%20di%20Borbone-Spagna.jpg",
+  "y": "",
+  "loc": "拿破仑广场",
+  "a": "洛伦佐·巴托利尼"
+ },
+ {
+  "id": 9188,
+  "zh": "The Desert Nymph",
+  "qid": "Q130314883",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Bartolini%2C%20La%20Ninfa%20del%20deserto%2C%20Traversetolo%20-%20Fondazione%20Magnani-Rocca%20-%202024-09-17%2017-03-25%20001.JPG",
+  "y": "",
+  "loc": "Fondazione Magnani-Rocca",
+  "a": "洛伦佐·巴托利尼"
+ },
+ {
+  "id": 9189,
+  "zh": "California",
+  "qid": "Q29383000",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/California%20MET%20DT228022.jpg",
+  "y": "1854",
+  "loc": "大都會藝術博物館",
+  "a": "海勒姆·鲍尔斯"
+ },
+ {
+  "id": 9190,
+  "zh": "The Last of the Tribes",
+  "qid": "Q7746263",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Smithsonian-Powers-The%20Last%20of%20the%20Tribes-2091.jpg",
+  "y": "",
+  "loc": "",
+  "a": "海勒姆·鲍尔斯"
+ },
+ {
+  "id": 9191,
+  "zh": "Eve Disconsolate",
+  "qid": "Q110797935",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eve%20Disconsolate%20by%20Hiram%20Powers%2C%20designed%201858-1860%2C%20carved%201872-1877%2C%20marble%20-%20Cincinnati%20Art%20Museum%20-%20DSC03010.JPG",
+  "y": "",
+  "loc": "",
+  "a": "海勒姆·鲍尔斯"
+ },
+ {
+  "id": 9192,
+  "zh": "Eve Tempted",
+  "qid": "Q116795013",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eve%20Tempted-saam%201968.155.126.jpg",
+  "y": "1839",
+  "loc": "史密森尼美國藝術博物館",
+  "a": "海勒姆·鲍尔斯"
+ },
+ {
+  "id": 9193,
+  "zh": "Statue of Daniel Webster",
+  "qid": "Q70420291",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Webster%20by%20Hiram%20Powers%20-%20DSC00207.JPG",
+  "y": "",
+  "loc": "",
+  "a": "海勒姆·鲍尔斯"
+ },
+ {
+  "id": 9194,
+  "zh": "Fisher Boy",
+  "qid": "Q78810248",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fisher%20Boy%20MET%20DT202040.jpg",
+  "y": "1841",
+  "loc": "大都會藝術博物館",
+  "a": "海勒姆·鲍尔斯"
+ },
+ {
+  "id": 9195,
+  "zh": "James A. Garfield Monument",
+  "qid": "Q238932",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20A.%20Garfield%20Monument%20%28general%20view%29%20-%20Washington%2C%20DC.jpg",
+  "y": "1887",
+  "loc": "加菲尔德圆环",
+  "a": "约翰·昆西·亚当斯·沃德"
+ },
+ {
+  "id": 9196,
+  "zh": "Major General George Henry",
+  "qid": "Q6738074",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/West%20side%20of%20the%20George%20Henry%20Thomas%20statue.JPG",
+  "y": "1879",
+  "loc": "托马斯圆环",
+  "a": "约翰·昆西·亚当斯·沃德"
+ },
+ {
+  "id": 9197,
+  "zh": "William Shakespeare",
+  "qid": "Q17194246",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Shakespeare%20Statue%2C%20Central%20Park%2C%20NYC.JPG",
+  "y": "1870",
+  "loc": "中央公園",
+  "a": "约翰·昆西·亚当斯·沃德"
+ },
+ {
+  "id": 9198,
+  "zh": "Statue of George Washingto",
+  "qid": "Q17182872",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Washington%20Statue%20at%20Federal%20Hall.JPG",
+  "y": "1883",
+  "loc": "华尔街",
+  "a": "约翰·昆西·亚当斯·沃德"
+ },
+ {
+  "id": 9199,
+  "zh": "Indian Hunter",
+  "qid": "Q17194242",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Central%20Park%20NYC%20-%20%27Indian%20Hunter%27%20Statue%20by%20John%20Quincy%20Adams%20Ward%20-%20IMG%205711.JPG",
+  "y": "",
+  "loc": "中央公園",
+  "a": "约翰·昆西·亚当斯·沃德"
+ },
+ {
+  "id": 9200,
+  "zh": "Seventh Regiment Memorial",
+  "qid": "Q17194243",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/7th%20Rgt%20Mem%20W68%20CP%20JQA%20Ward%20jeh.jpg",
+  "y": "",
+  "loc": "中央公園",
+  "a": "约翰·昆西·亚当斯·沃德"
+ },
+ {
+  "id": 9201,
+  "zh": "La Danse",
+  "qid": "Q3208129",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Danse%20Carpeaux.jpg",
+  "y": "1865",
+  "loc": "奥赛博物馆",
+  "a": "让-巴蒂斯特·卡尔波"
+ },
+ {
+  "id": 9202,
+  "zh": "L'Amour à la folie",
+  "qid": "Q18144845",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27amour%20%C3%A0%20la%20folie%20%28bronce%201%29.jpg",
+  "y": "1869",
+  "loc": "",
+  "a": "让-巴蒂斯特·卡尔波"
+ },
+ {
+  "id": 9203,
+  "zh": "Ugolin entouré de ses quat",
+  "qid": "Q17434855",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ugolino%20Carpeaux%20Petit%20Palais%20PPSO1573.jpg",
+  "y": "1862",
+  "loc": "",
+  "a": "让-巴蒂斯特·卡尔波"
+ },
+ {
+  "id": 9204,
+  "zh": "Neapolitan fisherboy",
+  "qid": "Q17442691",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Neapolitan%20Fisherboy%20by%20Jean-Baptiste%20Carpeaux%2C%201857-c.1861%2C%20marble%20-%20National%20Gallery%20of%20Art%2C%20Washington%20-%20DSC08945.JPG",
+  "y": "1858",
+  "loc": "",
+  "a": "让-巴蒂斯特·卡尔波"
+ },
+ {
+  "id": 9205,
+  "zh": "The Three Graces",
+  "qid": "Q18223941",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20tres%20Gracias.%20Jean-Baptiste%20Carpeaux.jpg",
+  "y": "1874",
+  "loc": "索馬亞博物館",
+  "a": "让-巴蒂斯特·卡尔波"
+ },
+ {
+  "id": 9206,
+  "zh": "Napoléon, Prince Imperial,",
+  "qid": "Q60489153",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20carpeaux%20prince%20imperial.JPG",
+  "y": "1888",
+  "loc": "里爾美術宮",
+  "a": "让-巴蒂斯特·卡尔波"
+ },
+ {
+  "id": 9207,
+  "zh": "Tomb of Pius VII",
+  "qid": "Q117762717",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Pius%20VII.jpg",
+  "y": "1900",
+  "loc": "Clementine Chapel",
+  "a": "贝特尔·托瓦尔森"
+ },
+ {
+  "id": 9208,
+  "zh": "Shaftesbury Memorial Fount",
+  "qid": "Q17510112",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fuente%20Eros%2C%20Piccadilly%20Circus%2C%20Londres%2C%20Inglaterra%2C%202014-08-11%2C%20DD%20159.JPG",
+  "y": "1892",
+  "loc": "皮卡迪利圓環",
+  "a": "阿尔弗雷德·吉尔伯特"
+ },
+ {
+  "id": 9209,
+  "zh": "Statue of John Howard",
+  "qid": "Q17526409",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/HowardStatueBedford.JPG",
+  "y": "",
+  "loc": "",
+  "a": "阿尔弗雷德·吉尔伯特"
+ },
+ {
+  "id": 9210,
+  "zh": "曼努埃尔·贝尔格拉诺雕像",
+  "qid": "Q5384418",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Buenos%20Aires-Plaza%20de%20Mayo-Estatua%20Belgrano%282%29.jpg",
+  "y": "1872",
+  "loc": "五月广场",
+  "a": "阿尔贝-埃内斯特·卡里耶-贝勒斯"
+ },
+ {
+  "id": 9211,
+  "zh": "安德烈·马塞纳元帅雕像",
+  "qid": "Q3497588",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20massena%20nice.jpg",
+  "y": "1867",
+  "loc": "",
+  "a": "阿尔贝-埃内斯特·卡里耶-贝勒斯"
+ },
+ {
+  "id": 9212,
+  "zh": "George Washington",
+  "qid": "Q10288976",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Washington%20saam%201910.10.3.jpg",
+  "y": "1840",
+  "loc": "美国国家历史博物馆",
+  "a": "霍雷肖·格里诺"
+ },
+ {
+  "id": 9213,
+  "zh": "The Rescue",
+  "qid": "Q7760259",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/GreenoughRescue.jpg",
+  "y": "1837",
+  "loc": "儲存",
+  "a": "霍雷肖·格里诺"
+ },
+ {
+  "id": 9214,
+  "zh": "Peter I Monument in Taganr",
+  "qid": "Q1144812",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/2008%20Peter%20the%20Great%20Monument.jpg",
+  "y": "1872",
+  "loc": "塔甘羅格",
+  "a": "马克·安托科尔斯基"
+ }
+]
