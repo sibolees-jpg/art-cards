@@ -85,3 +85,4 @@ const COURSES=[
  ]
 }
 ];
+window.COURSES=COURSES;
