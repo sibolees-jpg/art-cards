@@ -1,0 +1,1430 @@
+{
+ "罗丹": {
+  "qid": "Q30755",
+  "works": [
+   {
+    "qid": "Q2418237",
+    "t": "吻",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rodin%20-%20Le%20Baiser%2006.jpg",
+    "y": "1880",
+    "mat": "青铜",
+    "loc": "法國",
+    "links": 22
+   },
+   {
+    "qid": "Q3205458",
+    "t": "《永恆的春天》",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rodin%20Museum%20-%20Eternal%20Springtime%2003%20bewerkt.jpg",
+    "y": "1884",
+    "mat": "大理岩",
+    "loc": "",
+    "links": 8
+   },
+   {
+    "qid": "Q27077352",
+    "t": "Pierre de Wiessant",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20de%20Wissant%2C%20Auguste%20Rodin%2C%20%281884-1886%29%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%201654.jpg",
+    "y": "1880",
+    "mat": "青铜",
+    "loc": "以色列博物館",
+    "links": 7
+   },
+   {
+    "qid": "Q11855751",
+    "t": "Danaid",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ny%20Carlsberg%20Glyptothek%20-%20Rodin%20-%20Danaide.jpg",
+    "y": "1885",
+    "mat": "青铜",
+    "loc": "",
+    "links": 6
+   },
+   {
+    "qid": "Q24555700",
+    "t": "Man with the Broken Nose",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/2%20M%C3%A1scara%20del%20hombre%20de%20la%20nariz%20rota.jpg",
+    "y": "",
+    "mat": "青铜",
+    "loc": "奥赛博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q24588956",
+    "t": "The succubus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/45%20El%20s%C3%BAcubo.jpg",
+    "y": "1889",
+    "mat": "青铜",
+    "loc": "索馬亞博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q24943543",
+    "t": "Young mother",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/35%20La-joven-madre-1.jpg",
+    "y": "1885",
+    "mat": "青铜",
+    "loc": "墨西哥",
+    "links": 6
+   },
+   {
+    "qid": "Q25119085",
+    "t": "Polyphemus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/44%20Polifemo-1.jpg",
+    "y": "1887",
+    "mat": "青铜",
+    "loc": "墨西哥城",
+    "links": 6
+   },
+   {
+    "qid": "Q26834197",
+    "t": "The cathedral",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20Rodin%2008.JPG",
+    "y": "1908",
+    "mat": "石頭",
+    "loc": "",
+    "links": 6
+   },
+   {
+    "qid": "Q28017357",
+    "t": "讓·德·艾爾",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/56.2%20Jean%20d%C2%B4Aire.jpg",
+    "y": "1885",
+    "mat": "青铜",
+    "loc": "索馬亞博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q24531358",
+    "t": "The Shade",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/16%20La-sombra-1.jpg",
+    "y": "1880",
+    "mat": "青铜",
+    "loc": "索馬亞博物館",
+    "links": 6
+   }
+  ]
+ },
+ "布德尔": {
+  "qid": "Q314350",
+  "works": [
+   {
+    "qid": "Q122310355",
+    "t": "拉弓的赫拉克勒斯",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mus%C3%A9e%20Ingres-Bourdelle%20-%20H%C3%A9rakl%C3%A8s%20Archer%2C%201909%20-%20Platre%20-%20Antoine%20Bourdelle%20Joconde06070001188.jpg",
+    "y": "1909",
+    "mat": "石膏",
+    "loc": "安格尔博物馆",
+    "links": 8
+   },
+   {
+    "qid": "Q6023286",
+    "t": "阿维尔将军纪念碑",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Antoine%20Bourdelle-Eloquence-Hermitage.jpg",
+    "y": "",
+    "mat": "青铜",
+    "loc": "Plaza Intendente Alvear",
+    "links": 7
+   },
+   {
+    "qid": "Q3323271",
+    "t": "Monument aux Morts de Montauban",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Montauban%20-%20Bourdelle%20monument%20aux%20morts%20de%201870.jpg",
+    "y": "1902",
+    "mat": "",
+    "loc": "蒙托邦",
+    "links": 6
+   },
+   {
+    "qid": "Q3323414",
+    "t": "Monument to Mickiewicz",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20Mickievicz%20%28Paris%29%20b.jpg",
+    "y": "1929",
+    "mat": "",
+    "loc": "",
+    "links": 6
+   },
+   {
+    "qid": "Q2928782",
+    "t": "Gustave Eiffel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20Gustave%20Eiffel%20by%20Antoine%20Bourdelle%2C%20Paris%20June%202014.jpg",
+    "y": "1929",
+    "mat": "青铜",
+    "loc": "埃菲尔铁塔",
+    "links": 3
+   },
+   {
+    "qid": "Q3323285",
+    "t": "Monument aux morts de Capoulet-et-Junac",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20aux%20morts%20de%20Capoulet-et-Junac%20de%20Bourdelle.JPG",
+    "y": "1935",
+    "mat": "",
+    "loc": "卡普莱和瑞纳克",
+    "links": 3
+   },
+   {
+    "qid": "Q7737985",
+    "t": "The Great Warrior of Montauban",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Great%20Warrior%20of%20Montauban%20-%20Washington%2C%20D.C..jpg",
+    "y": "1898",
+    "mat": "青铜",
+    "loc": "赫希洪博物館和雕塑園",
+    "links": 3
+   },
+   {
+    "qid": "Q99203637",
+    "t": "La grande Pénélope",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/KMM%20Bourdelle.JPG",
+    "y": "1912",
+    "mat": "",
+    "loc": "sculpture garden of the Kröller-Müller Museum",
+    "links": 3
+   },
+   {
+    "qid": "Q3145003",
+    "t": "Monument au sport et à Mayssonnié",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bourdelle%20Herakles.jpg",
+    "y": "1925",
+    "mat": "青铜",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q3323240",
+    "t": "France",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20La%20France%2C%20Brian%C3%A7on%2C%20France.jpg",
+    "y": "1922",
+    "mat": "青铜",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q14627826",
+    "t": "La Vierge d'Alsace",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Vierge%20d%27Alsace.%20%282%29.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q18191177",
+    "t": "Ludwig van Beethoven",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20V.%20Beethoven%20par%20%C3%89mile%20Antoine%20Bourdelle%2C%20Paris%202011.jpg",
+    "y": "1902",
+    "mat": "青铜",
+    "loc": "卢森堡公园",
+    "links": 2
+   }
+  ]
+ },
+ "马约尔": {
+  "qid": "Q153920",
+  "works": [
+   {
+    "qid": "Q3201665",
+    "t": "L'Air",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Air%20by%20Aristide%20Maillol%2C%20Paris%207%20October%202012.jpg",
+    "y": "1938",
+    "mat": "铅",
+    "loc": "杜樂麗花園",
+    "links": 7
+   },
+   {
+    "qid": "Q3208366",
+    "t": "Céret War Memorial",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20aux%20morts%20de%20C%C3%A9ret.jpg",
+    "y": "1922",
+    "mat": "石頭",
+    "loc": "place de la Liberté (Céret)",
+    "links": 7
+   },
+   {
+    "qid": "Q521447",
+    "t": "Action Enchained",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aristide%20Maillol%20-%20Action%20encha%C3%AEn%C3%A9e%20-%20Bronze%20-%201908%20-%20013.jpg",
+    "y": "1905",
+    "mat": "青铜",
+    "loc": "皮热泰涅",
+    "links": 6
+   },
+   {
+    "qid": "Q3212334",
+    "t": "Q3212334",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Rivi%C3%A8re%20by%20Aristide%20Maillol%2C%20Paris%207%20October%202012.jpg",
+    "y": "1938",
+    "mat": "铅",
+    "loc": "米德爾海姆博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q18785681",
+    "t": "L'Été sans bras",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22L%27%C3%A9t%C3%A9%20sans%20bras%22%20de%20Aristide%20Maillol%2001.jpg",
+    "y": "1911",
+    "mat": "青铜",
+    "loc": "",
+    "links": 4
+   },
+   {
+    "qid": "Q3205578",
+    "t": "L'Été",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27%C3%89t%C3%A9%20by%20Aristide%20Maillol%2C%20Paris%20October%202012.jpg",
+    "y": "1910",
+    "mat": "青铜",
+    "loc": "Carrousel Garden",
+    "links": 3
+   },
+   {
+    "qid": "Q3206340",
+    "t": "La Baigneuse aux bras levés",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Baigneuse%20se%20coiffant%20by%20Aristide%20Maillol%2C%20Paris%20November%202011%20001.jpg",
+    "y": "1921",
+    "mat": "青铜",
+    "loc": "杜樂麗花園",
+    "links": 3
+   },
+   {
+    "qid": "Q3210771",
+    "t": "La Montagne",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Montagne%20by%20Aristide%20Maillol%2C%20Paris%203%20November%202012.jpg",
+    "y": "1937",
+    "mat": "铅",
+    "loc": "Carrousel Garden",
+    "links": 3
+   },
+   {
+    "qid": "Q3211175",
+    "t": "La Nuit",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Nuit%20-%20Aristide%20Maillol%20-%20Mus%C3%A9e%20du%20Louvre%20Sculptures%20des%20jardins%20FNAC%209487.jpg",
+    "y": "1909",
+    "mat": "青铜",
+    "loc": "Carrousel Garden",
+    "links": 3
+   },
+   {
+    "qid": "Q3396027",
+    "t": "Pomone",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pomone%20by%20Aristide%20Maillol%20%28Tuileries%29%2002.jpg",
+    "y": "1910",
+    "mat": "青铜",
+    "loc": "杜樂麗花園",
+    "links": 3
+   },
+   {
+    "qid": "Q63349503",
+    "t": "Banyuls-sur-Mer war memorial",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20aux%20morts%20de%20Banyuls-sur-Mer%20%28cropped%29.jpg",
+    "y": "",
+    "mat": "石頭",
+    "loc": "滨海巴纽尔斯",
+    "links": 3
+   },
+   {
+    "qid": "Q63362776",
+    "t": "Elne war memorial",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20als%20morts%20d%27Elna%202.jpg",
+    "y": "2000",
+    "mat": "青铜",
+    "loc": "埃尔讷",
+    "links": 3
+   }
+  ]
+ },
+ "德斯皮奥": {
+  "qid": "Q82291",
+  "works": [
+   {
+    "qid": "Q27615644",
+    "t": "Assia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Despiau%2C%20Assia%2C%201937.jpg",
+    "y": "1937",
+    "mat": "",
+    "loc": "米德爾海姆博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q52063559",
+    "t": "Q52063559",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Despiau%20-%20Femme%20nue%20assise%20se%20lavant%20les%20pieds%20-%20vers%201906.jpg",
+    "y": "1906",
+    "mat": "青铜",
+    "loc": "musée Despiau-Wlérick",
+    "links": 0
+   },
+   {
+    "qid": "Q110937487",
+    "t": "Eve",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Despiau%20-%20Eve%20-%20AMS%20403%20-%20Mus%C3%A9e%20d%E2%80%99Art%20moderne%20de%20Paris.jpg",
+    "y": "1925",
+    "mat": "青铜",
+    "loc": "巴黎现代艺术博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "麦约": {
+  "qid": "Q414126",
+  "works": []
+ },
+ "梅尼耶": {
+  "qid": "Q552440",
+  "works": [
+   {
+    "qid": "Q1194089",
+    "t": "Der Hafenarbeiter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Der%20Hafenarbeiter%20Friedenbruecke%20Frankfurt%202.jpg",
+    "y": "1893",
+    "mat": "青铜",
+    "loc": "Friedensbrücke",
+    "links": 4
+   },
+   {
+    "qid": "Q19937602",
+    "t": "Removal of a Broken Crucible",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Meunier-enl%C3%A8vement%20du%20creuset%20bris%C3%A9.jpg",
+    "y": "1884",
+    "mat": "油彩",
+    "loc": "Meunier Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q1197240",
+    "t": "The Sower",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/FFM%20Guenthersburgpark%20Saemann-Statue.jpg",
+    "y": "",
+    "mat": "青铜",
+    "loc": "Günthersburgpark",
+    "links": 1
+   },
+   {
+    "qid": "Q28859707",
+    "t": "Dock Labourer",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbeid%20Vrijheid%202%20%28Piotr%20Kuczynski%29.jpg",
+    "y": "1893",
+    "mat": "青铜",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q52913978",
+    "t": "The hiercheuse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hiercheuse.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "Meunier Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q52988887",
+    "t": "Triptych of the Mine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Constantin%20meunier%2C%20trittico%20della%20miniera%2C%201902.jpg",
+    "y": "1902",
+    "mat": "",
+    "loc": "Fin-de-Siècle Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q75107616",
+    "t": "El estibador",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Trabajo%20Belgica0001.JPG",
+    "y": "1926",
+    "mat": "青铜",
+    "loc": "Avenida Arequipa",
+    "links": 1
+   },
+   {
+    "qid": "Q106471164",
+    "t": "The Crouching Miner",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mineur%20par%20Constantin%20Meunier%20%28Charleroi%29%20-%2003.jpg",
+    "y": "1937",
+    "mat": "青铜",
+    "loc": "King Baudouin Bridge",
+    "links": 1
+   },
+   {
+    "qid": "Q106471764",
+    "t": "The Resting Blacksmith",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Forgeron%20par%20Constantin%20Meunier%20%28Charleroi%29%20-%2001.jpg",
+    "y": "1937",
+    "mat": "青铜",
+    "loc": "King Baudouin Bridge",
+    "links": 1
+   },
+   {
+    "qid": "Q107366765",
+    "t": "金属工人",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Marteleur%20Meunier.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q110653226",
+    "t": "The Docker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lastentr%C3%A4ger%20plastik%20dresden%20juni2017%20-%201.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "Neustädter Hafen",
+    "links": 1
+   },
+   {
+    "qid": "Q114979334",
+    "t": "The Sower",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Constantin%20Meunier%20Berlin.jpg",
+    "y": "1896",
+    "mat": "青铜",
+    "loc": "Kolonnadenhof",
+    "links": 1
+   }
+  ]
+ },
+ "万·德·维尔德": {
+  "qid": "Q154083",
+  "works": [
+   {
+    "qid": "Q3323252",
+    "t": "Frédéric de Mérode memorial",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20au%20comte%20Fr%C3%A9d%C3%A9ric%20de%20M%C3%A9rode%2001.jpg",
+    "y": "1897",
+    "mat": "青铜",
+    "loc": "烈士广场",
+    "links": 2
+   },
+   {
+    "qid": "Q115764848",
+    "t": "RITO Leuven plan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Plannen%20RITO%20Leuven.tif",
+    "y": "1936",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q117757172",
+    "t": "Georges Eekhoud",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antwerpen%20Antwerpen%20Mac%20Leodplein%20standbeeld%20Georges%20Eekhoud%20-%20195383%20-%20onroerenderfgoed.jpg",
+    "y": "1953",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q130737933",
+    "t": "Tropon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Poster%2C%20Tropon%20est%20l%27aliment%20le%20plus%20concentr%C3%A9%20%28Tropon%2C%20the%20most%20concentrated%20food%20supplement%29%2C%201898%20%28CH%2018707967%29.jpg",
+    "y": "1898",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "霍尔塔": {
+  "qid": "Q49744",
+  "works": [
+   {
+    "qid": "Q60852107",
+    "t": "Camille Lemonnier memorial",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Lemonnier%20by%20Pierre-Jean%20Braecke%20-%20La%20Cambre%20Abbey%20-%20Brussels%2C%20Belgium%20-%20DSC07920.jpg",
+    "y": "1922",
+    "mat": "",
+    "loc": "坎布爾修道院",
+    "links": 2
+   },
+   {
+    "qid": "Q124037231",
+    "t": "Baron Jean de Sélys Longchamps",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20de%20Selys%20Longchamps.jpg",
+    "y": "1992",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   }
+  ]
+ },
+ "吉马尔": {
+  "qid": "Q316422",
+  "works": [
+   {
+    "qid": "Q16828178",
+    "t": "An Entrance to the Paris Métropolitain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/An%20Entrance%20to%20the%20Paris%20M%C3%A9tropolitain%20by%20Hector%20Guimard%201902%20-%20Sarah%20Stierch.jpg",
+    "y": "1902",
+    "mat": "鑄鐵",
+    "loc": "國家藝廊雕塑花園",
+    "links": 1
+   }
+  ]
+ },
+ "高迪": {
+  "qid": "Q25328",
+  "works": [
+   {
+    "qid": "Q18115979",
+    "t": "Font d'Hèrcules",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaud%C3%AD%20-%20Font%20d%27H%C3%A8rcules.jpg",
+    "y": "1884",
+    "mat": "",
+    "loc": "Jardins i brolladors",
+    "links": 3
+   },
+   {
+    "qid": "Q23782663",
+    "t": "Primer Misteri de Glòria",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaud%C3%AD-Rosario%20Monumental%20de%20Montserrat.jpg",
+    "y": "1916",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q55510480",
+    "t": "El Drac",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parc%20G%C3%BCell%20-%20Salamander%20Statue.JPG",
+    "y": "",
+    "mat": "",
+    "loc": "桂尔公园",
+    "links": 1
+   },
+   {
+    "qid": "Q99509324",
+    "t": "Medallons del llangardaix",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Medallons%20del%20llangardaix.JPG",
+    "y": "",
+    "mat": "石灰岩",
+    "loc": "",
+    "links": 1
+   }
+  ]
+ },
+ "麦金托什": {
+  "qid": "Q220703",
+  "works": [
+   {
+    "qid": "Q19917863",
+    "t": "Peonies",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peonies%20MET%20DT7073.jpg",
+    "y": "1920",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q19922086",
+    "t": "Black Bean, Walberswick",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20Bean%2C%20Walberswick%20MET%20sf1993.282.jpg",
+    "y": "1915",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110683179",
+    "t": "The Western Towers, Elgin Cathedral by Charles Rennie Mackintosh - Charles Rennie Mackintosh",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Western%20Towers%2C%20Elgin%20Cathedral%20by%20Charles%20Rennie%20Mackintosh%20-%20Charles%20Rennie%20Mackintosh%20-%20ABDAG000691.jpg",
+    "y": "1889",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110685033",
+    "t": "Berberis, Walberswick by Charles Rennie Mackintosh - Charles Rennie Mackintosh",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Berberis%2C%20Walberswick%20by%20Charles%20Rennie%20Mackintosh%20-%20Charles%20Rennie%20Mackintosh%20-%20ABDAG009611.jpg",
+    "y": "1915",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "奥尔布里希": {
+  "qid": "Q44911",
+  "works": []
+ },
+ "瓦格纳": {
+  "qid": "Q84287",
+  "works": []
+ },
+ "路斯": {
+  "qid": "Q44323",
+  "works": []
+ },
+ "贝伦斯": {
+  "qid": "Q76726",
+  "works": [
+   {
+    "qid": "Q1185108",
+    "t": "给德国人民",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Reichstag%20inschrift.jpg",
+    "y": "1916",
+    "mat": "加农炮",
+    "loc": "德國國會大廈",
+    "links": 2
+   },
+   {
+    "qid": "Q110164151",
+    "t": "The Kiss",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Behrens%20Der%20Kuss.jpg",
+    "y": "1898",
+    "mat": "",
+    "loc": "華沙國家博物館",
+    "links": 2
+   }
+  ]
+ },
+ "莫里斯": {
+  "qid": "Q182589",
+  "works": [
+   {
+    "qid": "Q18920644",
+    "t": "La Belle Iseult",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Belle%20Iseult%20-%20Willam%20Morris%20%281858%29.jpg",
+    "y": "1858",
+    "mat": "油彩",
+    "loc": "泰特不列顛",
+    "links": 2
+   },
+   {
+    "qid": "Q60754988",
+    "t": "Psyche Throwing Herself into the River",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Morris%20-%20The%20Legend%20of%20Cupid%20and%20Psyche-%20Woman%20Weeping%20Beside%20a%20Brook%20-%201981.90%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q109969767",
+    "t": "Composition of Three Figures in a Garden",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Morris%20-%20Composition%20of%20Three%20Figures%20in%20a%20Garden%20-%20B1988.16%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "",
+    "mat": "石墨",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q111821804",
+    "t": "Day: Angel Holding a Sun",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Morris%20-%20Day-%20Angel%20Holding%20a%20Sun%20-%20Google%20Art%20Project.jpg",
+    "y": "1863",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q119081292",
+    "t": "Woman Gathering Fruit",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Morris%20%281834-1896%29%20%28attributed%20to%29%20-%20Woman%20Gathering%20Fruit%20-%20CIRC.310-1960%20-%20Victoria%20and%20Albert%20Museum.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "维多利亚和阿尔伯特博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q119081299",
+    "t": "Woman Holding a Small Book",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Morris%20%281834-1896%29%20%28attributed%20to%29%20-%20Woman%20Holding%20a%20Small%20Book%20-%20CIRC.128-1953%20-%20Victoria%20and%20Albert%20Museum.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "维多利亚和阿尔伯特博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q119081907",
+    "t": "Woman Drinking from a Fountain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Morris%20%281834-1896%29%20%28attributed%20to%29%20-%20Woman%20Drinking%20from%20a%20Fountain%20-%20CIRC.129-1953%20-%20Victoria%20and%20Albert%20Museum.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "维多利亚和阿尔伯特博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q119083648",
+    "t": "Venus (or Aphrodite)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Morris%20%281834-1896%29%20%28attributed%20to%29%20-%20Venus%20%28or%20Aphrodite%29%20-%20KM%20357%20-%20Kelmscott%20Manor.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "凱爾姆斯科特莊園",
+    "links": 0
+   },
+   {
+    "qid": "Q119942325",
+    "t": "Embroidered Border",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Morris%20%281834-1896%29%20%28and%20studio%29%20-%20Embroidered%20Border%20-%20KM%20206%20-%20Kelmscott%20Manor.jpg",
+    "y": "1890",
+    "mat": "",
+    "loc": "凱爾姆斯科特莊園",
+    "links": 0
+   }
+  ]
+ },
+ "德莱赛": {
+  "qid": "Q1086650",
+  "works": []
+ },
+ "蒂芙尼": {
+  "qid": "Q312950",
+  "works": [
+   {
+    "qid": "Q28796874",
+    "t": "On the Way between Old and New Cairo, Citadel Mosque of Mohammed Ali, and Tombs of the Mamelukes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Comfort%20Tiffany%20-%20On%20the%20Way%20between%20Old%20and%20New%20Cairo%2C%20Citadel%20Mosque%20of%20Mohammed%20Ali%2C%20and%20Tombs%20of%20the%20Mamelukes%20-%20Google%20Art%20Project.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "布鲁克林博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q19924720",
+    "t": "Snake Charmer at Tangier, Africa",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Snake%20Charmer%20at%20Tangier%2C%20Africa%20MET%20DT11616.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q20179148",
+    "t": "Woodland Interior",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Woodland%20Interior%20MET%20DT6862.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q20505257",
+    "t": "Market Day Outside the Walls of Tangiers, Morocco",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Smithsonian-Tiffany-Market%20Day%20Outside%20the%20Walls%20of%20Tangiers-2153.jpg",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q49277843",
+    "t": "A Corner of the 72nd Street Studio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Comfort%20Tiffany%20-%20A%20Corner%20of%20the%2072nd%20Street%20Studio%20-%201955.13.1%20-%20Yale%20University%20Art%20Gallery.jpg",
+    "y": "1896",
+    "mat": "油彩",
+    "loc": "耶鲁大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q108695336",
+    "t": "View of Palisades, New Jersey",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Palisades%2C%20New%20Jersey%201948%2084.jpeg",
+    "y": "",
+    "mat": "",
+    "loc": "紐約歷史協會",
+    "links": 0
+   },
+   {
+    "qid": "Q111721855",
+    "t": "Arabian Subject",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Arabian%20Subject%27%20by%20Louis%20Comfort%20Tiffany.jpg",
+    "y": "1880",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q134980549",
+    "t": "Duane Street, New York",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20Duane%20Street%2C%20New%20York%20-%20Louis%20Comfort%20Tiffany%20-%20overall.jpg",
+    "y": "1877",
+    "mat": "油彩",
+    "loc": "布鲁克林博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "加莱": {
+  "qid": "Q275085",
+  "works": [
+   {
+    "qid": "Q46994348",
+    "t": "Porcelaine cat by Gallé",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Galle%20cat-IMG%202189-black.jpg",
+    "y": "1900",
+    "mat": "瓷",
+    "loc": "洛桑",
+    "links": 1
+   },
+   {
+    "qid": "Q33595585",
+    "t": "Q33595585",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20Gall%C3%A9%2C%20main%20aux%20algues%20et%20coquillages%20%281904%29.jpg",
+    "y": "1904",
+    "mat": "玻璃",
+    "loc": "南錫派美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q106455592",
+    "t": "Q106455592",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89mile%20gall%C3%A9%2C%20la%20mano%20con%20alghe%20e%20conchiglie%2C%20vetro%20modellato%20a%20caldo%20con%20incrostazioni%2C%201904.JPG",
+    "y": "1904",
+    "mat": "鉛玻璃",
+    "loc": "奥赛博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "拉利克": {
+  "qid": "Q451400",
+  "works": []
+ },
+ "穆夏": {
+  "qid": "Q146691",
+  "works": [
+   {
+    "qid": "Q3107798",
+    "t": "Gismonda",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucha%20-%20Gismonda.jpg",
+    "y": "1894",
+    "mat": "tempera",
+    "loc": "Trade Fair Palace",
+    "links": 8
+   },
+   {
+    "qid": "Q125352276",
+    "t": "Song of Bohemia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Chant%20de%20Boh%C3%A8me%2002.jpg",
+    "y": "1918",
+    "mat": "油彩",
+    "loc": "Mucha Museum",
+    "links": 3
+   },
+   {
+    "qid": "Q4193020",
+    "t": "Zodiac",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alphonse%20Mucha%20-%20Zodiac%2C%201869.jpg",
+    "y": "1896",
+    "mat": "石版画",
+    "loc": "",
+    "links": 3
+   },
+   {
+    "qid": "Q48755437",
+    "t": "Nature",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20natura%20-%20Alfons%20Mucha.jpg",
+    "y": "1900",
+    "mat": "青铜",
+    "loc": "Fin-de-Siècle Museum",
+    "links": 3
+   },
+   {
+    "qid": "Q60591741",
+    "t": "Gismonda",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%201894%20-%20Gismonda.jpg",
+    "y": "1895",
+    "mat": "纸",
+    "loc": "堺市",
+    "links": 3
+   },
+   {
+    "qid": "Q125351886",
+    "t": "Madonna of the Lilies",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Madonna%20of%20the%20Lilies%20%281905%29.jpg",
+    "y": "1905",
+    "mat": "tempera",
+    "loc": "Mucha Museum",
+    "links": 2
+   },
+   {
+    "qid": "Q125374996",
+    "t": "Médée",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Medea.jpg",
+    "y": "1898",
+    "mat": "",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q125351470",
+    "t": "Self-portrait (1899)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Autoportrait.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q125352443",
+    "t": "France Embraces Bohemia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Le%20Baiser%20de%20la%20France%20%C3%A0%20la%20Boh%C3%AAme%2001.jpg",
+    "y": "1919",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q125352676",
+    "t": "Self-portrait, sketching in his apartment, Paris",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Autoportrait%20de%20Mucha%20dans%20son%20appartement%20%C3%A0%20Paris.jpg",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q125375633",
+    "t": "Study for Woman in the Wilderness",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20%C3%89tude%20pour%20Femme%20dans%20le%20d%C3%A9sert%2002.jpg",
+    "y": "1923",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q125376033",
+    "t": "Girl with loose hair and tulips",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfons%20Mucha%20-%20Fille%20aux%20cheveux%20l%C3%A2ch%C3%A9s%20et%20aux%20tulipes%2002.jpg",
+    "y": "1920",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   }
+  ]
+ },
+ "谢雷": {
+  "qid": "Q610202",
+  "works": [
+   {
+    "qid": "Q134101986",
+    "t": "Q134101986",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20D%C3%A9jeuner%20sur%20l%27herbe%2C%20par%20Jules%20Ch%C3%A9ret.jpg",
+    "y": "1904",
+    "mat": "油彩",
+    "loc": "朱尔·谢雷美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q64591590",
+    "t": "Elegant Lady Seated in a Chair",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Ch%C3%A9ret%2C%20Elegant%20Lady%20Seated%20in%20a%20Chair%2C%20c.%201900%2C%20NGA%20138899.jpg",
+    "y": "1900",
+    "mat": "",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q74038674",
+    "t": "Au Quartier Latin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Ch%C3%A9ret%2C%20Au%20Quartier%20Latin%2C%201894%2C%20NGA%2061230.jpg",
+    "y": "1894",
+    "mat": "",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q75395644",
+    "t": "La Fille Élisa; Conte de Noël",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Ch%C3%A9ret%2C%20La%20Fille%20%C3%89lisa%3B%20Conte%20de%20No%C3%ABl%2C%201890%2C%20NGA%2093912.jpg",
+    "y": "1890",
+    "mat": "網紋紙",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q96813020",
+    "t": "Woman with Fan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Ch%C3%A9ret%20-%20Femme%20%C3%A0%20l%27%C3%A9ventail.jpg",
+    "y": "",
+    "mat": "粉彩",
+    "loc": "Musée d'Art de Toulon",
+    "links": 0
+   },
+   {
+    "qid": "Q108192058",
+    "t": "Grand Musée anatomique du château d'Eau de Paris - Dr Spitzner",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Mus%C3%A9e%20anatomique%20du%20ch%C3%A2teau%20d%27Eau%20de%20Paris%20-%20Dr%20Spitzner.jpg",
+    "y": "1881",
+    "mat": "",
+    "loc": "卡纳瓦莱博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q109818548",
+    "t": "Théâtrophone (Theater phone)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatrophone%20-%20Affiche%20de%20Jules%20Cheret.jpg",
+    "y": "1890",
+    "mat": "",
+    "loc": "現代藝術博物館",
+    "links": 0
+   }
+  ]
+ },
+ "卡桑德尔": {
+  "qid": "Q278945",
+  "works": []
+ },
+ "贝格斯塔夫": {
+  "qid": "Q2860248",
+  "works": []
+ },
+ "比尔兹利": {
+  "qid": "Q272566",
+  "works": [
+   {
+    "qid": "Q28537252",
+    "t": "Caprice. Verso: Masked Woman with a White Mouse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Beardsley%20%281872-1898%29%20-%20Caprice.%20Verso%2C%20Masked%20Woman%20with%20a%20White%20Mouse%20-%20N03815%20-%20National%20Gallery.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "泰特美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q64536930",
+    "t": "Caricature of J.M. Whistler",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Beardsley%2C%20Caricature%20of%20J.M.%20Whistler%2C%20NGA%204598.jpg",
+    "y": "",
+    "mat": "硬筆",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q64536931",
+    "t": "Withered Spring",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Beardsley%2C%20Withered%20Spring%2C%20NGA%204599.jpg",
+    "y": "",
+    "mat": "硬筆",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q64536932",
+    "t": "Tannhäuser",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Beardsley%2C%20Tannh%C3%A4user%2C%20NGA%204600.jpg",
+    "y": "",
+    "mat": "硬筆",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q106816369",
+    "t": "A Large Christmas Card",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Beardsley%20-%20A%20Large%20Christmas%20Card%20-%20B1979.1.1%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "1895",
+    "mat": "石墨",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q106826568",
+    "t": "Cover of \"The Yellow Book: an Illustrated Quarterly\", Volume II, July 1894",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Beardsley%20-%20Cover%20of%20%22The%20Yellow%20Book%2C%20an%20Illustrated%20Quarterly%22%2C%20Volume%20II%2C%20July%201894%20-%20B1994.4.670%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "1894",
+    "mat": "直纹纸",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q106828597",
+    "t": "Cover of \"The Yellow Book: an Illustrated Quarterly\", Volume I, April 1894",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Beardsley%20-%20Cover%20of%20%22The%20Yellow%20Book%2C%20an%20Illustrated%20Quarterly%22%2C%20Volume%20I%2C%20April%201894%20-%20B1994.4.671%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "1894",
+    "mat": "纸",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q109970906",
+    "t": "The Lady at the Dressing Table",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Beardsley%20-%20The%20Lady%20at%20the%20Dressing%20Table%20-%20B1998.20%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "1897",
+    "mat": "墨水",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q109975420",
+    "t": "Salome on Settle, The Conductor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aubrey%20Beardsley%20-%20Salome%20on%20Settle%2C%20The%20Conductor%20-%20B2010.6.2%20-%20Yale%20Center%20for%20British%20Art.jpg",
+    "y": "1895",
+    "mat": "石墨",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   }
+  ]
+ },
+ "克兰": {
+  "qid": "Q660917",
+  "works": [
+   {
+    "qid": "Q30065510",
+    "t": "Neptune's Horses",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Neptune%E2%80%99s%20Horses%20%281892%29%20by%20Walter%20Crane.jpg",
+    "y": "1892",
+    "mat": "油彩",
+    "loc": "新绘画陈列馆",
+    "links": 1
+   },
+   {
+    "qid": "Q127425769",
+    "t": "The sleeping Beauty",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Crane%20-%20The%20sleeping%20Beauty.jpg",
+    "y": "1882",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q127425928",
+    "t": "Pandora",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Crane%20-%20Pandora%20%281885%29.jpg",
+    "y": "1885",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q127427638",
+    "t": "帕里斯的评判",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Crane%20-%20The%20Judgement%20of%20Paris%2C%201909.jpg",
+    "y": "1909",
+    "mat": "水彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q127427710",
+    "t": "Ceylon Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Crane%20-%20Ceylon%20Landscape.jpg",
+    "y": "",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q133867705",
+    "t": "Bit of the Avon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bit%20of%20the%20Avon%201893%20Walter%20Crane.jpg",
+    "y": "1893",
+    "mat": "纸",
+    "loc": "特拉华艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q139752913",
+    "t": "Under the palms at the Galle Face, Ceylon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20T.%20Crane%20-%20Under%20the%20palms%20at%20the%20Galle%20Face%2C%20Ceylon%20%281907%29.jpg",
+    "y": "1907",
+    "mat": "水粉画",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q139752928",
+    "t": "Diana &#32;und&#32; Endymion",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Diana%20and%20Endymion%20-%20Walter%20Crane.jpg",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q139753455",
+    "t": "The Swan Maidens",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Swan%20Maidens%20by%20Walter%20Crane%204.jpg",
+    "y": "1894",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q139753560",
+    "t": "The Fate of Persephone",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Crane%20-%20The%20Fate%20of%20Persephone%20%281877%29.jpg",
+    "y": "1877",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q23701054",
+    "t": "The Lady of Shalott",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Crane%20-%20The%20Lady%20of%20Shalott%20-%20Google%20Art%20Project.jpg",
+    "y": "1862",
+    "mat": "油彩",
+    "loc": "耶鲁大学英国艺术中心",
+    "links": 0
+   },
+   {
+    "qid": "Q28541340",
+    "t": "The Renaissance of Venus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20T.%20Crane%20-%20The%20Renaissance%20of%20Venus%20%281877%29.jpg",
+    "y": "1877",
+    "mat": "tempera",
+    "loc": "泰特美術館",
+    "links": 0
+   }
+  ]
+ },
+ "格林纳威": {
+  "qid": "Q204936",
+  "works": [
+   {
+    "qid": "Q19859067",
+    "t": "A Little Girl in a Muff",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20A%20Little%20Girl%20in%20a%20Muff%20-%20Kate%20Greenaway.jpg",
+    "y": "1880",
+    "mat": "纸",
+    "loc": "布鲁克林博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q23008869",
+    "t": "A is for Applepie",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kate%20Greenaway%20-%20A%20is%20for%20Applepie.jpg",
+    "y": "1890",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q23008880",
+    "t": "C is to Cut",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kate%20Greenaway%20-%20C%20is%20to%20Cut.jpg",
+    "y": "1890",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q96183253",
+    "t": "Woman and Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20and%20Child%20MET%20DP804415.jpg",
+    "y": "1883",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q96185524",
+    "t": "Valentine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20MET%20DP883880.jpg",
+    "y": "1881",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q96185525",
+    "t": "Valentine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20MET%20DP883860.jpg",
+    "y": "1880",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q96185526",
+    "t": "Valentine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20MET%20DP883861.jpg",
+    "y": "1880",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q96185531",
+    "t": "Valentine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20MET%20DP883872.jpg",
+    "y": "1874",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q96185532",
+    "t": "Valentine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20MET%20DP883870.jpg",
+    "y": "1874",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q96185536",
+    "t": "Valentine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20MET%20DP883875.jpg",
+    "y": "1874",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q96185537",
+    "t": "Valentine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20MET%20DP883874.jpg",
+    "y": "1874",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q96185539",
+    "t": "Valentine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20MET%20DP883865.jpg",
+    "y": "1874",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   }
+  ]
+ },
+ "拉克姆": {
+  "qid": "Q314938",
+  "works": [
+   {
+    "qid": "Q28051623",
+    "t": "Arthur Rackham ('A Transpontine Cockney')",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Rackham%20%28Hudson%29%20P4.jpg",
+    "y": "1934",
+    "mat": "油彩",
+    "loc": "國家肖像館",
+    "links": 0
+   },
+   {
+    "qid": "Q49244698",
+    "t": "Undine at the Window",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Rackham%20-%20Undine%20at%20the%20Window%20-%201965.122%20-%20Yale%20University%20Art%20Gallery.jpg",
+    "y": "1915",
+    "mat": "",
+    "loc": "耶鲁大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q130494163",
+    "t": "A Transpontine Cockney",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20rackham%20selfportrait.jpg",
+    "y": "1934",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "杜拉克": {
+  "qid": "Q27032",
+  "works": [
+   {
+    "qid": "Q3291342",
+    "t": "Marianne de Dulac",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Marianne%20Dulac%201%20F.jpg",
+    "y": "1943",
+    "mat": "",
+    "loc": "",
+    "links": 2
+   }
+  ]
+ },
+ "尼尔森": {
+  "qid": "Q3107486",
+  "works": []
+ }
+}
