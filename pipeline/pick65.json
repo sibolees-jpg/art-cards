@@ -1,0 +1,497 @@
+[
+ {
+  "id": 8966,
+  "zh": "Youth Mourning",
+  "qid": "Q29881728",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clausen%2C%20George%20%28Sir%29%20%28RA%29%20-%20Youth%20Mourning.jpg",
+  "y": "1916",
+  "loc": "帝国战争博物馆",
+  "a": "乔治·克劳森"
+ },
+ {
+  "id": 8967,
+  "zh": "发现溺水",
+  "qid": "Q5474261",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Frederick%20Watts%20Found%20Drowned.jpg",
+  "y": "1850",
+  "loc": "沃茨美术馆",
+  "a": "乔治·弗雷德里克·瓦茨"
+ },
+ {
+  "id": 8968,
+  "zh": "无所不在 (沃茨)",
+  "qid": "Q7713134",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Frederic%20Watts%20-%20The%20All-Pervading%20-%20Google%20Art%20Project.jpg",
+  "y": "1887",
+  "loc": "沃茨美术馆",
+  "a": "乔治·弗雷德里克·瓦茨"
+ },
+ {
+  "id": 8969,
+  "zh": "体能 (雕塑)",
+  "qid": "Q18388413",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Equestrian%20statue%20called%20Physical%20Energy%20in%20Hyde%20Park%20in%20the%20City%20of%20Westminster%2C%20London%20in%20spring%202013%20%283%29.JPG",
+  "y": "1907",
+  "loc": "肯辛顿花园",
+  "a": "乔治·弗雷德里克·瓦茨"
+ },
+ {
+  "id": 8970,
+  "zh": "The Wounded Heron",
+  "qid": "Q119054026",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20wounded%20heron.jpg",
+  "y": "1837",
+  "loc": "沃茨美术馆",
+  "a": "乔治·弗雷德里克·瓦茨"
+ },
+ {
+  "id": 8971,
+  "zh": "玛门 (沃茨)",
+  "qid": "Q28007114",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Watts%20%E2%80%93%20Mammon.jpg",
+  "y": "1885",
+  "loc": "泰特不列顛",
+  "a": "乔治·弗雷德里克·瓦茨"
+ },
+ {
+  "id": 8972,
+  "zh": "Statue of Henry Vassall-Fo",
+  "qid": "Q27080877",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Henry%20Vassall-Fox%2C%203rd%20Baron%20Holland%201.jpg",
+  "y": "1872",
+  "loc": "Holland Park",
+  "a": "乔治·弗雷德里克·瓦茨"
+ },
+ {
+  "id": 8973,
+  "zh": "The Death of Chatterton",
+  "qid": "Q18686015",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Wallis%20-%20Chatterton%20-%20Google%20Art%20Project.jpg",
+  "y": "1856",
+  "loc": "泰特不列顛",
+  "a": "亨利·华里斯"
+ },
+ {
+  "id": 8974,
+  "zh": "The Stonebreaker",
+  "qid": "Q28722",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wallis%20The%20Stonebreaker.jpg",
+  "y": "1857",
+  "loc": "伯明翰博物館和美術館",
+  "a": "亨利·华里斯"
+ },
+ {
+  "id": 8975,
+  "zh": "August Blue",
+  "qid": "Q4820652",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuke%2C%20Henry%20Scott%20%281858%E2%80%931929%29%2C%20%22August%20Blue%2C%22%201894.jpg",
+  "y": "1893",
+  "loc": "泰特美術館",
+  "a": "亨利·斯科特·图克"
+ },
+ {
+  "id": 8976,
+  "zh": "Ruby, Gold and Malachite",
+  "qid": "Q17146087",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuke%2C%20Henry%20Scott%20%281858%E2%80%931929%29%2C%20Ruby%2C%20gold%20and%20malachite%2C%201902.jpg",
+  "y": "1902",
+  "loc": "市政廳藝廊",
+  "a": "亨利·斯科特·图克"
+ },
+ {
+  "id": 8977,
+  "zh": "All Hands to the Pumps",
+  "qid": "Q17511117",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Scott%20Tuke%20-%20All%20Hands%20to%20the%20Pumps%20-%20Google%20Art%20Project.jpg",
+  "y": "1888",
+  "loc": "泰特不列顛",
+  "a": "亨利·斯科特·图克"
+ },
+ {
+  "id": 8978,
+  "zh": "Gleaming waters",
+  "qid": "Q125134116",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Scott%20Tuke%20-%20Gleaming%20waters%2C%201910.jpg",
+  "y": "1910",
+  "loc": "",
+  "a": "亨利·斯科特·图克"
+ },
+ {
+  "id": 8979,
+  "zh": "The Love Potion",
+  "qid": "Q4271772",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Evelyn%20De%20Morgan%20-%20The%20Love%20Potion%20%281903%29%20-%20Google%20Cultural%20Institute.jpg",
+  "y": "1903",
+  "loc": "De Morgan Centre",
+  "a": "伊夫林·德·摩根"
+ },
+ {
+  "id": 8980,
+  "zh": "Flora",
+  "qid": "Q23008421",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/EvelyndeMorgan.jpg",
+  "y": "1894",
+  "loc": "De Morgan Centre",
+  "a": "伊夫林·德·摩根"
+ },
+ {
+  "id": 8981,
+  "zh": "Aurora Triumphans",
+  "qid": "Q4822621",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Morgan%2C%20Evelyn%20de%20-%20Aurora%20Triumphans%20-%20c.%201886.jpg",
+  "y": "1877",
+  "loc": "Russell-Cotes Art Gallery & Museum",
+  "a": "伊夫林·德·摩根"
+ },
+ {
+  "id": 8982,
+  "zh": "Helen of Troy",
+  "qid": "Q5703468",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Helen%20of%20Troy.jpg",
+  "y": "1898",
+  "loc": "De Morgan Centre",
+  "a": "伊夫林·德·摩根"
+ },
+ {
+  "id": 8983,
+  "zh": "Night and Sleep",
+  "qid": "Q7033595",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Night%20%26%20Sleep.jpg",
+  "y": "1878",
+  "loc": "Cannon Hall",
+  "a": "伊夫林·德·摩根"
+ },
+ {
+  "id": 8984,
+  "zh": "The Gilded Cage",
+  "qid": "Q17105762",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Gilded%20Cage.jpg",
+  "y": "1919",
+  "loc": "薩里郡",
+  "a": "伊夫林·德·摩根"
+ },
+ {
+  "id": 8985,
+  "zh": "King George V (1865-1936)",
+  "qid": "Q28028469",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20George%20V%201911.jpg",
+  "y": "1911",
+  "loc": "白金汉宫",
+  "a": "卢克·菲尔德斯"
+ },
+ {
+  "id": 8986,
+  "zh": "凡爾賽鏡廳的和平簽署",
+  "qid": "Q17435192",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orpen%2C%20William%20%28Sir%29%20%28RA%29%20-%20The%20Signing%20of%20Peace%20in%20the%20Hall%20of%20Mirrors%2C%20Versailles%2C%2028th%20June%201919%20-%20Google%20Art%20Project.jpg",
+  "y": "1919",
+  "loc": "帝国战争博物馆",
+  "a": "威廉·奥彭"
+ },
+ {
+  "id": 8987,
+  "zh": "獻給在法國的無名英國士兵",
+  "qid": "Q17435193",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Orpen%20-%20To%20the%20Unknown%20British%20Soldier%20in%20France.jpg",
+  "y": "1927",
+  "loc": "帝国战争博物馆",
+  "a": "威廉·奥彭"
+ },
+ {
+  "id": 8988,
+  "zh": "奧賽碼頭的和平會議",
+  "qid": "Q17435188",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Peace%20Conference%20at%20the%20Quai%20d%27orsay%20Art.IWMART2855.jpg",
+  "y": "1919",
+  "loc": "帝国战争博物馆",
+  "a": "威廉·奥彭"
+ },
+ {
+  "id": 8989,
+  "zh": "Zonnebeke",
+  "qid": "Q18689519",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Orpen%20-%20Zonnebeke%20-%20Google%20Art%20Project.jpg",
+  "y": "1918",
+  "loc": "泰特不列顛",
+  "a": "威廉·奥彭"
+ },
+ {
+  "id": 8990,
+  "zh": "Lieut A. P. F. Rhys Davids",
+  "qid": "Q50984401",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Rhys%20Davids%20by%20William%20Orpen.jpg",
+  "y": "1917",
+  "loc": "帝国战争博物馆",
+  "a": "威廉·奥彭"
+ },
+ {
+  "id": 8991,
+  "zh": "Dead Germans in a Trench",
+  "qid": "Q28810277",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orpen%2C%20William%20%28Sir%29%20%28RA%29%20-%20Dead%20Germans%20in%20a%20Trench%20-%20Google%20Art%20Project.jpg",
+  "y": "1918",
+  "loc": "帝国战争博物馆",
+  "a": "威廉·奥彭"
+ },
+ {
+  "id": 8992,
+  "zh": "Pegwell Bay, Kent – a Reco",
+  "qid": "Q7160828",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Dyce%20-%20Pegwell%20Bay%2C%20Kent%20-%20a%20Recollection%20of%20October%205th%201858%20-%20Google%20Art%20Project.jpg",
+  "y": "1858",
+  "loc": "泰特不列顛",
+  "a": "威廉·戴斯"
+ },
+ {
+  "id": 8993,
+  "zh": "A Converted British Family",
+  "qid": "Q4656096",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Holman%20Hunt%20-%20A%20Converted%20British%20Family.jpg",
+  "y": "1849",
+  "loc": "阿須摩林博物館",
+  "a": "威廉·霍尔曼·亨特"
+ },
+ {
+  "id": 8994,
+  "zh": "Valentine Rescuing Sylvia ",
+  "qid": "Q17492212",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20Rescuing%20Sylvia%20from%20Proteus.jpg",
+  "y": "1851",
+  "loc": "伯明翰博物館和美術館",
+  "a": "威廉·霍尔曼·亨特"
+ },
+ {
+  "id": 8995,
+  "zh": "Claudio and Isabella",
+  "qid": "Q18689512",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Holman%20Hunt%20-%20Claudio%20and%20Isabella%20-%20Google%20Art%20Project.jpg",
+  "y": "1850",
+  "loc": "泰特不列顛",
+  "a": "威廉·霍尔曼·亨特"
+ },
+ {
+  "id": 8996,
+  "zh": "The Lady of Shalott",
+  "qid": "Q98113753",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lady%20of%20Shalott%20by%20William%20Holman%20Hunt%2C%20c.%201890-1905%2C%20oil%20on%20canvas%20-%20Wadsworth%20Atheneum%20-%20Hartford%2C%20CT%20-%20DSC05541.jpg",
+  "y": "1890",
+  "loc": "沃兹沃思学会",
+  "a": "威廉·霍尔曼·亨特"
+ },
+ {
+  "id": 8997,
+  "zh": "A Private View at the Roya",
+  "qid": "Q4659039",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Powell%20Frith%20-%20%27A%20Private%20View%20at%20the%20Royal%20Academy%2C%201881%27%20%28Martin%20Beisly%20Fine%20Art%29.webp",
+  "y": "1883",
+  "loc": "",
+  "a": "威廉·鲍威尔·弗里思"
+ },
+ {
+  "id": 8998,
+  "zh": "The Crossing Sweeper",
+  "qid": "Q7728190",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/TheCrossingSweeper.jpg",
+  "y": "1858",
+  "loc": "倫敦博物館",
+  "a": "威廉·鲍威尔·弗里思"
+ },
+ {
+  "id": 8999,
+  "zh": "Pope Makes Love To Lady Ma",
+  "qid": "Q27884887",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Frith%20-%20Pope%20Makes%20Love%20To%20Lady%20Mary%20Wortley%20Montagu%20-%20Google%20Art%20Project.jpg",
+  "y": "1852",
+  "loc": "奧克蘭美術館",
+  "a": "威廉·鲍威尔·弗里思"
+ },
+ {
+  "id": 9000,
+  "zh": "At the Opera",
+  "qid": "Q119081678",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Powell%20Frith%20%281819-1909%29%20-%20At%20the%20Opera%20-%20PRSMG%20%2C%20P240%20-%20Harris%20Museum.jpg",
+  "y": "1855",
+  "loc": "哈里斯博物館",
+  "a": "威廉·鲍威尔·弗里思"
+ },
+ {
+  "id": 9001,
+  "zh": "The Derby Day",
+  "qid": "Q7729766",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Powell%20Frith%20-%20The%20Derby%20Day%20-%20Google%20Art%20Project.jpg",
+  "y": "1858",
+  "loc": "泰特美術館",
+  "a": "威廉·鲍威尔·弗里思"
+ },
+ {
+  "id": 9002,
+  "zh": "The Marriage of the Prince",
+  "qid": "Q28024397",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Powell%20Frith%20%281819-1909%29%20-%20The%20Marriage%20of%20the%20Prince%20of%20Wales%20with%20Princess%20Alexandra%20of%20Denmark%2C%20Windsor%2C%2010%20March%201863%20-%20RCIN%20404545%20-%20Royal%20Collection.jpg",
+  "y": "1864",
+  "loc": "白金汉宫",
+  "a": "威廉·鲍威尔·弗里思"
+ },
+ {
+  "id": 9003,
+  "zh": "珀耳修斯与安德洛墨达",
+  "qid": "Q18685555",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frederic%20Leighton%20-%20Perseus%20and%20Andromeda%20-%20Google%20Art%20Project%202.jpg",
+  "y": "1891",
+  "loc": "沃克美術館",
+  "a": "弗雷德里克·莱顿"
+ },
+ {
+  "id": 9004,
+  "zh": "契马布埃的圣母像巡游佛罗伦萨街头",
+  "qid": "Q1230842",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Leighton%20of%20Stretton%2C%20Frederick%20Leighton%2C%20Baron%20-%20Cimabue%27s%20Madonna%20Carried%20in%20Procession%20-%20Google%20Art%20Project.jpg",
+  "y": "1854",
+  "loc": "国家美术馆",
+  "a": "弗雷德里克·莱顿"
+ },
+ {
+  "id": 9005,
+  "zh": "被抓走的安德洛玛刻",
+  "qid": "Q22329814",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Leighton%20Captive%20Andromache.jpg",
+  "y": "1888",
+  "loc": "曼徹斯特美術館",
+  "a": "弗雷德里克·莱顿"
+ },
+ {
+  "id": 9006,
+  "zh": "画家的蜜月",
+  "qid": "Q12065125",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Leighton%20The%20Painter-s%20Honeymoon%201864.jpg",
+  "y": "1864",
+  "loc": "波士頓美術館",
+  "a": "弗雷德里克·莱顿"
+ },
+ {
+  "id": 9007,
+  "zh": "渔夫与塞壬",
+  "qid": "Q111674540",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Leighton-The%20Fisherman%20and%20the%20Syren-c.%201856-1858.jpg",
+  "y": "1858",
+  "loc": "布里斯托尔城市博物馆与美术馆",
+  "a": "弗雷德里克·莱顿"
+ },
+ {
+  "id": 9008,
+  "zh": "Lachrymae",
+  "qid": "Q19905166",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lachrimae%20Leighton.jpg",
+  "y": "1895",
+  "loc": "大都會藝術博物館",
+  "a": "弗雷德里克·莱顿"
+ },
+ {
+  "id": 9009,
+  "zh": "康沃爾海灘上的魚類拍賣",
+  "qid": "Q16959833",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanhope%20Forbes%20-%20A%20Fish%20Sale%20on%20a%20Cornish%20Beach.jpg",
+  "y": "1885",
+  "loc": "The Box",
+  "a": "斯坦霍普·福布斯"
+ },
+ {
+  "id": 9010,
+  "zh": "Jack the Ripper's Bedroom",
+  "qid": "Q29881729",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Sickert%20-%20Jack%20the%20Ripper%27s%20Bedroom.jpg",
+  "y": "1908",
+  "loc": "曼徹斯特美術館",
+  "a": "沃尔特·西克特"
+ },
+ {
+  "id": 9011,
+  "zh": "Ennui",
+  "qid": "Q28537234",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sickert%2C%20Ennui.jpg",
+  "y": "1914",
+  "loc": "泰特美術館",
+  "a": "沃尔特·西克特"
+ },
+ {
+  "id": 9012,
+  "zh": "Brighton Pierrots",
+  "qid": "Q28548060",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20richard%20sickert%2C%20i%20pierrot%20di%20brighton%2C%201915%2C%2001.jpg",
+  "y": "1915",
+  "loc": "泰特美術館",
+  "a": "沃尔特·西克特"
+ },
+ {
+  "id": 9013,
+  "zh": "Little Dot Hetherington at",
+  "qid": "Q47090335",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Little%20Dot%20Hetherington%20at%20the%20Old%20Bedford.png",
+  "y": "1888",
+  "loc": "",
+  "a": "沃尔特·西克特"
+ },
+ {
+  "id": 9014,
+  "zh": "Andromeda",
+  "qid": "Q5676289",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1869%20Edward%20Poynter%20-%20Andromeda.jpg",
+  "y": "1869",
+  "loc": "",
+  "a": "爱德华·波因特"
+ },
+ {
+  "id": 9015,
+  "zh": "The Visit of the Queen of ",
+  "qid": "Q12901751",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Edward%20John%20Poynter%20-%20The%20visit%20of%20the%20Queen%20of%20Sheba%20to%20King%20Solomon%20-%20Google%20Art%20Project.jpg",
+  "y": "1890",
+  "loc": "新南威爾士美術館",
+  "a": "爱德华·波因特"
+ },
+ {
+  "id": 9016,
+  "zh": "The Cave of the Storm Nymp",
+  "qid": "Q20087526",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Edward%20John%20Poynter%20%E2%80%94%20Cave%20of%20the%20Storm%20Nymphs.jpg",
+  "y": "1902",
+  "loc": "",
+  "a": "爱德华·波因特"
+ },
+ {
+  "id": 9017,
+  "zh": "Faithful Unto Death",
+  "qid": "Q28782493",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20John%20Poynter%20-%20Faithful%20Unto%20Death%20-%20Google%20Art%20Project.jpg",
+  "y": "1865",
+  "loc": "沃克美術館",
+  "a": "爱德华·波因特"
+ },
+ {
+  "id": 9018,
+  "zh": "The Fairy Feller's Master-",
+  "qid": "Q931407",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Dadd%20-%20The%20Fairy%20Feller%27s%20Master-Stroke%20-%20Google%20Art%20Project.jpg",
+  "y": "1855",
+  "loc": "泰特美術館",
+  "a": "理查德·达德"
+ },
+ {
+  "id": 9019,
+  "zh": "Contradiction: Oberon and ",
+  "qid": "Q12899442",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Contradiction%20Oberon%20and%20Titania%201854-8%20Richard%20Dadd.jpg",
+  "y": "1854",
+  "loc": "",
+  "a": "理查德·达德"
+ },
+ {
+  "id": 9020,
+  "zh": "The Mother of Sisera",
+  "qid": "Q119084184",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Joseph%20Moore%20%281841-1893%29%20-%20The%20Mother%20of%20Sisera%20-%201949.125.51%20-%20The%20Tullie.jpg",
+  "y": "1861",
+  "loc": "The Tullie",
+  "a": "阿尔伯特·摩尔"
+ }
+]
