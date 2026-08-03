@@ -1,0 +1,2236 @@
+{
+ "何塞·玛丽亚·贝拉斯科": {
+  "qid": "Q1709474",
+  "works": []
+ },
+ "赫拉尔多·穆里略": {
+  "qid": "Q266092",
+  "works": [
+   {
+    "qid": "Q61753276",
+    "t": "Vista Panorámica de la ciudad de Puebla",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fragmento%20del%20mural%20Vista%20panor%C3%A1mica%20de%20la%20Ciudad%20de%20Puebla%20%281929%29%20en%20el%20MUNAL%2006.jpg",
+    "y": "1924",
+    "mat": "",
+    "loc": "Q6940502",
+    "links": 1
+   }
+  ]
+ },
+ "萨图尔尼诺·埃兰": {
+  "qid": "Q432826",
+  "works": [
+   {
+    "qid": "Q18689337",
+    "t": "The offering",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saturnino%20Herr%C3%A1n%20-%20The%20offering%20-%20Google%20Art%20Project.jpg",
+    "y": "1913",
+    "mat": "油彩",
+    "loc": "墨西哥国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q108767970",
+    "t": "Alegoría del trabajo y Alegoría de la construcción",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alegor%C3%ADa%20de%20la%20construcci%C3%B3n%20y%20del%20trabajo%20%28Saturnino%20Herr%C3%A1n%29.jpg",
+    "y": "1910",
+    "mat": "",
+    "loc": "國立理工學院",
+    "links": 2
+   },
+   {
+    "qid": "Q114674653",
+    "t": "Tehuana",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Tehuana%20de%20Saturnino%20Herr%C3%A1n.jpg",
+    "y": "1914",
+    "mat": "油彩",
+    "loc": "Aguascalientes Museum",
+    "links": 2
+   },
+   {
+    "qid": "Q114394460",
+    "t": "Q114394460",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Bugambilias%22.jpg",
+    "y": "1916",
+    "mat": "油彩",
+    "loc": "Aguascalientes Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q114413735",
+    "t": "Labor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1908.%20Labor.%20Saturnino%20Herr%C3%A1n.jpg",
+    "y": "1908",
+    "mat": "油彩",
+    "loc": "Aguascalientes Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q136937253",
+    "t": "El cofrade de San Miguel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20c%C3%B3frade%20de%20San%20Miguel%20de%20Saturnino%20Herr%C3%A1n%2C%201917.jpg",
+    "y": "1917",
+    "mat": "油彩",
+    "loc": "Aguascalientes Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q136946214",
+    "t": "El gallero",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20gallero%20%28Saturnino%20Herr%C3%A1n%29.jpg",
+    "y": "1913",
+    "mat": "油彩",
+    "loc": "Aguascalientes Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q140183331",
+    "t": "Q140183331",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1916%20El%20rebozo.%20Saturnino%20Herr%C3%A1n.jpg",
+    "y": "1916",
+    "mat": "油彩",
+    "loc": "Aguascalientes Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q114388286",
+    "t": "La leyenda de los volcanes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pintura%20la%20Leyenda%20de%20los%20volcanes%20de%20Saturnino%20Herr%C3%A1n%20en%20el%20Museo%20de%20Aguascalientes.jpg",
+    "y": "1912",
+    "mat": "油彩",
+    "loc": "Aguascalientes Museum",
+    "links": 0
+   },
+   {
+    "qid": "Q114395106",
+    "t": "Nuestros Dioses (Warriors) left panel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tablero%20izquierdo%20de%20%22Nuestros%20dioses%20%28guerreros%29%22%20de%20Saturnino%20Herr%C3%A1n.jpg",
+    "y": "1915",
+    "mat": "彩色鉛筆",
+    "loc": "Aguascalientes Museum",
+    "links": 0
+   },
+   {
+    "qid": "Q114395301",
+    "t": "Nuestros Dioses (Coatlicue) central panel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tablero%20central%20%22Nuestros%20dioses%20%28Coatlicue%29%22%20de%20Saturnino%20Herr%C3%A1n.jpg",
+    "y": "1915",
+    "mat": "彩色鉛筆",
+    "loc": "Aguascalientes Museum",
+    "links": 0
+   },
+   {
+    "qid": "Q114395423",
+    "t": "Nuestros Dioses (spanish) right panel",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tablero%20derecho%20%22Nuestros%20dioses%22%20%28espa%C3%B1oles%29%20de%20Saturnino%20Herr%C3%A1n.jpg",
+    "y": "1915",
+    "mat": "彩色鉛筆",
+    "loc": "Aguascalientes Museum",
+    "links": 0
+   }
+  ]
+ },
+ "何塞·瓜达卢佩·波萨达": {
+  "qid": "Q732526",
+  "works": [
+   {
+    "qid": "Q1084690",
+    "t": "卡翠娜骷髏頭",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Posada2.Catrina.jpeg",
+    "y": "1910",
+    "mat": "",
+    "loc": "墨西哥",
+    "links": 23
+   },
+   {
+    "qid": "Q18687063",
+    "t": "The very Sensational Plot of Jesús Negrete, a.k.a., The Tiger of Santa Julia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Guadalupe%20Posada%20-%20The%20very%20Sensational%20Plot%20of%20Jes%C3%BAs%20Negrete%2C%20a.k.a.%2C%20The%20Tiger%20of%20Santa%20Julia%20-%20Google%20Art%20Project.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "墨西哥国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q65022388",
+    "t": "Calavera Maderista",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Guadalupe%20Posada%2C%20Calavera%20Maderista%2C%20NGA%2030476.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q77005878",
+    "t": "Don Chepito",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Guadalupe%20Posada%2C%20Don%20Chepito%2C%201891-1899%2C%20NGA%20163508.jpg",
+    "y": "1891",
+    "mat": "",
+    "loc": "國家藝廊",
+    "links": 0
+   },
+   {
+    "qid": "Q111818805",
+    "t": "Q111818805",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Virgen%20de%20Guadalupe%20de%20Jos%C3%A9%20Guadalupe%20Posada.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "胡安·科尔德罗": {
+  "qid": "Q5658286",
+  "works": [
+   {
+    "qid": "Q67204600",
+    "t": "Portrait of Doña Dolores Tosta de Santa Anna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Cordero%20-%20Portrait%20of%20Do%C3%B1a%20Dolores%20Tosta%20de%20Santa%20Anna%20-%20Google%20Art%20Project.jpg",
+    "y": "1855",
+    "mat": "油彩",
+    "loc": "墨西哥国家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28808829",
+    "t": "Cristopher Columbus at the Court of the Catholic Monarchs",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Cordero%20-%20Cristopher%20Columbus%20at%20the%20Court%20of%20the%20Catholic%20Monarchs%20-%20Google%20Art%20Project.jpg",
+    "y": "1850",
+    "mat": "油彩",
+    "loc": "墨西哥国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28808836",
+    "t": "Portrait of the Daughters of Manuel Cordero",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Cordero%20-%20Portrait%20of%20the%20Daughters%20of%20Manuel%20Cordero%20-%20Google%20Art%20Project.jpg",
+    "y": "1875",
+    "mat": "油彩",
+    "loc": "墨西哥国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28808838",
+    "t": "Self-portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Cordero%20-%20Self-portrait%20-%20Google%20Art%20Project.jpg",
+    "y": "1847",
+    "mat": "油彩",
+    "loc": "墨西哥国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q111337445",
+    "t": "Leonor Rivas Mercado de Torres Adalid",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonor%20Rivas%20Mercado%20de%20Torres%20Adalid.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "Q6940502",
+    "links": 0
+   },
+   {
+    "qid": "Q115648248",
+    "t": "Christopher Columbus in the court of the Catholic Monarchs.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cristobal%20Colon%20en%20la%20corte%20de%20los%20Reyes%20Catolicos%20by%20Juan%20Cordero%2C%201850.JPG",
+    "y": "1850",
+    "mat": "",
+    "loc": "墨西哥国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q139256372",
+    "t": "Portrait of a Woman with a Dog and a Letter",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cordero-letter.jpg",
+    "y": "1884",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "费利佩·圣地亚哥·古铁雷斯": {
+  "qid": "Q1403228",
+  "works": [
+   {
+    "qid": "Q132168478",
+    "t": "Indias de Oaxaca",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gutierrez-Indias.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   }
+  ]
+ },
+ "佩利格林·克拉夫": {
+  "qid": "Q361959",
+  "works": [
+   {
+    "qid": "Q11927091",
+    "t": "Jacob receives Joseph's bloody tunic",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pelegr%C3%AD%20Clav%C3%A9%20Jacob%20rep%20la%20t%C3%BAnica%20ensangonada%20del%20seu%20fill%20Josep.jpg",
+    "y": "1842",
+    "mat": "油彩",
+    "loc": "Girona Museum of Art",
+    "links": 3
+   },
+   {
+    "qid": "Q9068374",
+    "t": "Portrait of the architect Lorenzo de la Hidalga (1810-1872)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrat%20de%20l%27arquitecte%20Lorenzo%20de%20la%20Hidalga.jpg",
+    "y": "1851",
+    "mat": "油彩",
+    "loc": "Museo Nacional de San Carlos",
+    "links": 2
+   },
+   {
+    "qid": "Q11907347",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pelegr%C3%AD%20Clav%C3%A9%20-%20Self-portrait%20-%20Google%20Art%20Project.jpg",
+    "y": "1835",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q11945390",
+    "t": "Q11945390",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrat%20d%27Andr%C3%A9s%20Quintana%20Roo.jpg",
+    "y": "1851",
+    "mat": "画布",
+    "loc": "Museo Nacional de San Carlos",
+    "links": 1
+   },
+   {
+    "qid": "Q11945391",
+    "t": "Q11945391",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrat%20d%27Ana%20Garc%C3%ADa%20Izcalbalceta%2C%20esposa%20de%20l%27arquitecte%20de%20la%20Hidalga.jpg",
+    "y": "1851",
+    "mat": "油彩",
+    "loc": "Museo Nacional de San Carlos",
+    "links": 1
+   },
+   {
+    "qid": "Q18719507",
+    "t": "Portrait of Ana Phillips",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrat%20d%27Ana%20Phillips.jpg",
+    "y": "1850",
+    "mat": "",
+    "loc": "Museo Nacional de San Carlos",
+    "links": 1
+   },
+   {
+    "qid": "Q111821861",
+    "t": "Good Samaritan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clav%C3%A9-%20El%20bon%20samarit%C3%A0.jpg",
+    "y": "1839",
+    "mat": "油彩",
+    "loc": "Reial Acadèmia Catalana de Belles Arts de Sant Jordi",
+    "links": 0
+   },
+   {
+    "qid": "Q134300008",
+    "t": "Retrato de Dolores Rubio Domínguez de Rubio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Dolores%20Rubio%20Dom%C3%ADnguez%20de%20Rubio%20-%20Pelegr%C3%ADn%20Clav%C3%A9%20%28cropped%29.jpg",
+    "y": "1850",
+    "mat": "油彩",
+    "loc": "Franz Mayer Museum",
+    "links": 0
+   },
+   {
+    "qid": "Q135914782",
+    "t": "Portrait of Don Ignacio Cecilio Algara Gómez de la Casa",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Museum%20-%20Portrait%20of%20Don%20Ignacio%20Cecilio%20Algara%20G%C3%B3mez%20de%20la%20Casa%20-%20Pelegr%C3%ADn%20Clav%C3%A9%20y%20Roqu%C3%A9.jpg",
+    "y": "1840",
+    "mat": "油彩",
+    "loc": "布鲁克林博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "安东尼奥·鲁伊斯": {
+  "qid": "Q604776",
+  "works": []
+ },
+ "普鲁登西奥·德坎迪多": {
+  "qid": "Q474810",
+  "works": [
+   {
+    "qid": "Q27954534",
+    "t": "Un alto en el campo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Un%20alto%20en%20el%20campo%20-%20Google%20Art%20Project.jpg",
+    "y": "1861",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954536",
+    "t": "Retrato de Manuelita Rosas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Retrato%20de%20Manuelita%20Rosas%20-%20Google%20Art%20Project.jpg",
+    "y": "1851",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954537",
+    "t": "El rodeo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20El%20rodeo%20-%20Google%20Art%20Project.jpg",
+    "y": "1861",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954538",
+    "t": "The Bath",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20El%20ba%C3%B1o%20-%20Google%20Art%20Project.jpg",
+    "y": "1865",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954539",
+    "t": "Retrato de Santiago Calzadilla",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Retrato%20de%20Santiago%20Calzadilla%20-%20Google%20Art%20Project.jpg",
+    "y": "1859",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954540",
+    "t": "Retrato de Cecilia R. de Peralta Ramos y su hijo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Retrato%20de%20Cecilia%20R.%20de%20Peralta%20Ramos%20y%20su%20hijo%20-%20Google%20Art%20Project.jpg",
+    "y": "1861",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954541",
+    "t": "Paisaje con barcos",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Paisaje%20con%20barcos%20-%20Google%20Art%20Project.jpg",
+    "y": "1862",
+    "mat": "纸",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954545",
+    "t": "Paisaje de la costa con veleros",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Paisaje%20de%20la%20costa%20con%20veleros%20-%20Google%20Art%20Project.jpg",
+    "y": "1850",
+    "mat": "纸",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954546",
+    "t": "Retrato de la Señora Elvira Lavalleja de Calzadilla",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Retrato%20de%20la%20Se%C3%B1ora%20Elvira%20Lavalleja%20de%20Calzadilla%20-%20Google%20Art%20Project.jpg",
+    "y": "1859",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954547",
+    "t": "Retrato de la Señora Adela Eastman de Barros",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Retrato%20de%20la%20Se%C3%B1ora%20Adela%20Eastman%20de%20Barros%20-%20Google%20Art%20Project.jpg",
+    "y": "1865",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954586",
+    "t": "Paisaje (Aldea europea)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Paisaje%20%28Aldea%20europea%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1850",
+    "mat": "纸",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954588",
+    "t": "Capricho (Olivos 13 Nov. 1858)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Prilidiano%20Pueyrredon%20-%20Capricho%20%28Olivos%2013%20Nov.%201858%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1850",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   }
+  ]
+ },
+ "坎迪多·洛佩斯": {
+  "qid": "Q2533231",
+  "works": [
+   {
+    "qid": "Q27833503",
+    "t": "Yataytí Corá, 2 de julio de 1866",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A1ndido%20Lopez%20-%20Yatayt%C3%AD%20Cor%C3%A1%2C%202%20de%20julio%20de%201866%20-%20Google%20Art%20Project.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 1
+   },
+   {
+    "qid": "Q27832744",
+    "t": "Asalto de la tercera columna argentina a Curupaytí",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A1ndido%20Lopez%20-%20Asalto%20de%20la%20tercera%20columna%20argentina%20a%20Curupayt%C3%AD%20-%20Google%20Art%20Project.jpg",
+    "y": "1893",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27833478",
+    "t": "Autorretrato",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A1ndido%20Lopez%20-%20Autorretrato%20-%20Google%20Art%20Project.jpg",
+    "y": "1857",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951270",
+    "t": "Después de la Batalla de Curupaytí",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Despu%C3%A9s%20de%20la%20Batalla%20de%20Curupayt%C3%AD%20-%20C%C3%A1ndido%20L%C3%B3pez.jpg",
+    "y": "1893",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951271",
+    "t": "Vista interior de Curuzú mirado de aguas arriba",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A1ndido%20Lopez%20-%20Vista%20interior%20de%20Curuz%C3%BA%20mirado%20de%20aguas%20arriba%20-%20Google%20Art%20Project.jpg",
+    "y": "1891",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951272",
+    "t": "Invernada del Ejercito Oriental",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A1ndido%20Lopez%20-%20Invernada%20del%20Ejercito%20Oriental%20-%20Google%20Art%20Project.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951273",
+    "t": "Marcha del Ejército Argentino a tomar posiciones para el ataque a Curupaytí el 22/09/1866",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcha%20del%20Ej%C3%A9rcito%20Argentino%20a%20tomar%20posiciones%20para%20el%20ataque%20a%20Curupayt%C3%AD%20el%2022.09.jpg",
+    "y": "1902",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951274",
+    "t": "Assault on the 4th column Argentina at the Battle of Curupaity",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Asalto%20a%20la%204ta%20columna%20Argentina%20a%20Curupayti%20al%20mando%20-%20C%C3%A1ndido%20L%C3%B3pez.jpg",
+    "y": "1898",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951277",
+    "t": "Asalto a la segunda columna brasileña a Curupaytí",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A1ndido%20Lopez%20-%20Asalto%20a%20la%20segunda%20columna%20brasile%C3%B1a%20a%20Curupayt%C3%AD%20-%20Google%20Art%20Project.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951278",
+    "t": "Q27951278",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Trinchera%20de%20Curupayt%C3%AD%20-%20C%C3%A1ndido%20L%C3%B3pez%2C%201899.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951279",
+    "t": "Desembarco del Ejército Argentino frente a las trincheras de Curuzú",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A1ndido%20Lopez%20-%20Desembarco%20del%20Ej%C3%A9rcito%20Argentino%20frente%20a%20las%20trincheras%20de%20Curuz%C3%BA%20-%20Google%20Art%20Project.jpg",
+    "y": "1891",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951280",
+    "t": "Naturaleza Muerta",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A1ndido%20Lopez%20-%20Naturaleza%20Muerta%20-%20Google%20Art%20Project.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   }
+  ]
+ },
+ "埃内斯托·德拉卡尔科瓦": {
+  "qid": "Q5394280",
+  "works": [
+   {
+    "qid": "Q27950570",
+    "t": "No bread, no work",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernesto%20de%20la%20C%C3%A1rcova%20-%20Sin%20pan%20y%20sin%20trabajo.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 3
+   },
+   {
+    "qid": "Q27950566",
+    "t": "Naturaleza en silencio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernesto%20de%20la%20C%C3%81Rcova%20-%20Naturaleza%20en%20silencio%20-%20Google%20Art%20Project.jpg",
+    "y": "1926",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950571",
+    "t": "Q27950571",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20la%20Sra.Maria%20de%20la%20C%C3%A1rcova%20de%20Ferrari.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950572",
+    "t": "Retrato de la esposa del autor",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernesto%20DE%20LA%20Carcova%20-%20Retrato%20de%20la%20esposa%20del%20autor%20-%20Google%20Art%20Project.jpg",
+    "y": "1914",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950575",
+    "t": "In the Garden",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/En%20el%20jard%C3%ADn%20-%20Ernesto%20de%20la%20C%C3%A1rcova.jpg",
+    "y": "1902",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q55585978",
+    "t": "Still-life",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernesto%20de%20la%20C%C3%A1rcova%20-%20Naturaleza%20muerta%20%28Rosario%29.jpg",
+    "y": "1927",
+    "mat": "",
+    "loc": "Juan B. Castagnino Fine Arts Museum",
+    "links": 0
+   },
+   {
+    "qid": "Q110697949",
+    "t": "Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20-%20Ernesto%20de%20la%20C%C3%A1rcova.jpg",
+    "y": "1902",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q116886795",
+    "t": "Exposicion International de Arte Buenos Aires, obverse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Exposicion%20International%20de%20Arte%20Buenos%20Aires%2C%20obverse%20saam%201972.167.72A.jpg",
+    "y": "1910",
+    "mat": "青铜",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116886796",
+    "t": "Exposicion International de Arte Buenos Aires, reverse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Exposicion%20International%20de%20Arte%20Buenos%20Aires%2C%20reverse%20saam%201972.167.72B.jpg",
+    "y": "1910",
+    "mat": "青铜",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 0
+   }
+  ]
+ },
+ "爱德华多·西沃里": {
+  "qid": "Q5340778",
+  "works": [
+   {
+    "qid": "Q20968773",
+    "t": "To desire",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20la%20querencia%20-%20Eduardo%20S%C3%ADvori.jpg",
+    "y": "1903",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954797",
+    "t": "El despertar de la criada",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Sivori%20-%20El%20despertar%20de%20la%20criada%20-%20Google%20Art%20Project.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954798",
+    "t": "Primavera",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Sivori%20-%20Primavera%20-%20Google%20Art%20Project.jpg",
+    "y": "1914",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954799",
+    "t": "In the workshop",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/En%20el%20taller%20-%20Eduardo%20S%C3%ADvori.jpg",
+    "y": "1891",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954800",
+    "t": "A street in Billinghurst",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Una%20calle%20en%20Billinghurst.jpg",
+    "y": "1850",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954801",
+    "t": "Between two lights",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Entre%20dos%20luces%20%28Estudio%29.jpg",
+    "y": "1850",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954804",
+    "t": "Self-portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Autorretrato%2C%20Eduardo%20S%C3%ADvori.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954805",
+    "t": "Portrait of Mr. Sívori",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20del%20Se%C3%B1or%20Sivori%20-%20Eduardo%20S%C3%ADvori.jpg",
+    "y": "1901",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954806",
+    "t": "Plains or La Porteña Ranch, Moreno",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pampa%20o%20Chacra%20La%20Porte%C3%B1a%2C%20Moreno%20-%20Eduardo%20S%C3%ADvori.jpg",
+    "y": "1899",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954807",
+    "t": "Q27954807",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Petite%20Rentiere%20-%20Eduardo%20S%C3%ADvori.jpg",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954808",
+    "t": "Women bathing",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mujeres%20ba%C3%B1%C3%A1ndose%20-%20Eduardo%20S%C3%ADvori.jpg",
+    "y": "1916",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27954809",
+    "t": "Portrait of Doña Ignacia Martinez de Hoz de Casares",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Do%C3%B1a%20Ignacia%20Martinez%20de%20Hoz%20de%20Casares%20-%20Eduardo%20S%C3%ADvori.jpg",
+    "y": "1897",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   }
+  ]
+ },
+ "马丁·马尔哈罗": {
+  "qid": "Q6777801",
+  "works": [
+   {
+    "qid": "Q25412331",
+    "t": "The Fools",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20parvas%20-%20Mart%C3%ADn%20Malharro.jpg",
+    "y": "1911",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 1
+   },
+   {
+    "qid": "Q27951309",
+    "t": "La arboleda",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20La%20arboleda%20-%20Google%20Art%20Project.jpg",
+    "y": "1500",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951310",
+    "t": "Nocturno",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20Nocturno%20-%20Google%20Art%20Project.jpg",
+    "y": "1910",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951311",
+    "t": "Las parvas (la pampa de hoy)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20Las%20parvas%20%28la%20pampa%20de%20hoy%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1911",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951312",
+    "t": "Paisaje",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20Paisaje%20-%20Google%20Art%20Project%20%28516163%29.jpg",
+    "y": "1907",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951314",
+    "t": "Paisaje",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20Paisaje%20-%20Google%20Art%20Project.jpg",
+    "y": "1907",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951315",
+    "t": "En plena naturaleza",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20En%20plena%20naturaleza%20-%20Google%20Art%20Project.jpg",
+    "y": "1901",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951318",
+    "t": "El arado",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20El%20arado%20-%20Google%20Art%20Project.jpg",
+    "y": "1901",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951320",
+    "t": "Q27951320",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Malharro003.jpg",
+    "y": "",
+    "mat": "水彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951321",
+    "t": "La Argentina",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20La%20Argentina%20-%20Google%20Art%20Project.jpg",
+    "y": "1905",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951322",
+    "t": "Un rincón de Belgrano",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20Un%20rinc%C3%B3n%20de%20Belgrano%20-%20Google%20Art%20Project.jpg",
+    "y": "1500",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27951324",
+    "t": "Paisaje",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Malharro%20-%20Paisaje%20-%20Google%20Art%20Project%20%28520166%29.jpg",
+    "y": "1500",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   }
+  ]
+ },
+ "费尔南多·法德尔": {
+  "qid": "Q2879180",
+  "works": [
+   {
+    "qid": "Q27950828",
+    "t": "La mazamorra",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20mazamorra%20by%20Fernando%20Fader%2C%201927.jpg",
+    "y": "1927",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 1
+   },
+   {
+    "qid": "Q27950860",
+    "t": "Al solcito",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20solcito%20by%20Fernando%20Fader%2C%201922.jpg",
+    "y": "1922",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 1
+   },
+   {
+    "qid": "Q27950821",
+    "t": "Fin de invierno",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fader%20-%20Fin%20de%20invierno%20-%20Google%20Art%20Project.jpg",
+    "y": "1918",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950822",
+    "t": "Los mantones de Manila",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fader%20-%20Los%20mantones%20de%20Manila%20-%20Google%20Art%20Project.jpg",
+    "y": "1914",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950823",
+    "t": "El corral de las cabras",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20corral%20de%20las%20cabras%20by%20Fernando%20Fader%2C%201926.jpg",
+    "y": "1926",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950837",
+    "t": "Portrait of Víctor Torrini",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fader%20-%20Retrato%20de%20V%C3%ADctor%20Torrini%20-%20Google%20Art%20Project.jpg",
+    "y": "1913",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950842",
+    "t": "Pocho (Córdoba)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fader%20-%20Pocho%20%28C%C3%B3rdoba%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1930",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950849",
+    "t": "Horses",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fader%20-%20Caballos%20-%20Google%20Art%20Project.jpg",
+    "y": "1904",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950855",
+    "t": "La comida de los cerdos",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fader%20-%20La%20comida%20de%20los%20cerdos%20-%20Google%20Art%20Project.jpg",
+    "y": "1904",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950863",
+    "t": "Capilla de Ischilín",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fader%20-%20Capilla%20de%20Ischil%C3%ADn%20-%20Google%20Art%20Project.jpg",
+    "y": "1930",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950866",
+    "t": "Las playas de Guasapampa",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fader%20-%20Las%20playas%20de%20Guasapampa%20-%20Google%20Art%20Project.jpg",
+    "y": "1930",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950867",
+    "t": "Estudio de mujer ó Retorno al hogar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Fader%20-%20Estudio%20de%20mujer%20%C3%B3%20Retorno%20al%20hogar%20-%20Google%20Art%20Project.jpg",
+    "y": "1950",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   }
+  ]
+ },
+ "佩德罗·菲加里": {
+  "qid": "Q1388990",
+  "works": [
+   {
+    "qid": "Q27950888",
+    "t": "Pampa",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Figari%20-%20Pampa%20-%20Google%20Art%20Project.jpg",
+    "y": "1880",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950890",
+    "t": "Pericón",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Figari%20-%20Peric%C3%B3n%20-%20Google%20Art%20Project%20%28511153%29.jpg",
+    "y": "1500",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950891",
+    "t": "Q27950891",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peric%C3%B3n%20criollo%20-%20Pedro%20Figari.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950892",
+    "t": "The pampas or return of the dance",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20pampa%20o%20regreso%20del%20baile%20-%20Pedro%20Figari.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950894",
+    "t": "Q27950894",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Conventillo%20o%20La%20disputa%20-%20Pedro%20Figari.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950895",
+    "t": "Candombe carnival",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Candombe%20o%20Candombe%20de%20carnaval%20-%20Pedro%20Figari.jpg",
+    "y": "1932",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950896",
+    "t": "Lamento",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Figari%20-%20Lamento%20-%20Google%20Art%20Project.jpg",
+    "y": "1924",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950897",
+    "t": "Mass departure",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Salida%20de%20misa%20-%20Pedro%20Figari.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950898",
+    "t": "Peeling the pava",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pelando%20la%20pava%20-%20Pedro%20Figari.jpg",
+    "y": "1925",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950899",
+    "t": "Q27950899",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Deliberando%20-%20Pedro%20Figari.jpg",
+    "y": "1923",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950900",
+    "t": "Barracks",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cuarteleras%20-%20Pedro%20Figari.jpg",
+    "y": "1923",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950901",
+    "t": "The neighbors",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20vecinas%20-%20Pedro%20Figari.jpg",
+    "y": "1919",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   }
+  ]
+ },
+ "华金·托雷斯-加西亚": {
+  "qid": "Q520713",
+  "works": [
+   {
+    "qid": "Q30675079",
+    "t": "América Invertida",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joaqu%C3%ADn%20Torres%20Garc%C3%ADa%20-%20Am%C3%A9rica%20Invertida.jpg",
+    "y": "1943",
+    "mat": "",
+    "loc": "Juan Manuel Blanes Museum",
+    "links": 5
+   },
+   {
+    "qid": "Q23933238",
+    "t": "Portrait of Josep Pijoan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Retrat%20de%20Josep%20Pijoan%20-%20Joaquim%20Torres-Garcia%20-%20Museu%20Nacional%20d%27Art%20de%20Catalunya.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27576562",
+    "t": "Temple to the Nymphs",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Temple%20a%20les%20nimfes%20-%20Joaquim%20Torres-Garcia%20-%20Museu%20Nacional%20d%27Art%20de%20Catalunya.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q137322967",
+    "t": "Q137322967",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dos%20Figuras%20%28Two%20Figures%29%20by%20Joaqu%C3%ADn%20Torres-Garc%C3%ADa%2C%201930%2C%20oil%20on%20canvas%2C%20SFMOMA%2002.jpg",
+    "y": "1930",
+    "mat": "油彩",
+    "loc": "旧金山现代艺术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27954921",
+    "t": "Cathedral construction",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joaqu%C3%ADn%20Torres%20Garc%C3%ADa%20-%20Catedral%20constructiva.jpg",
+    "y": "1931",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q105512117",
+    "t": "Interior with an Open Window",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/INTERIORE%20DELLA%20FINESTRA%20APERTA%20%29.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110892305",
+    "t": "Ciudad",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joaquin%20Torres%20Garcia%20-%20Ciudad.jpg",
+    "y": "1941",
+    "mat": "油彩",
+    "loc": "Musée Hyacinthe-Rigaud",
+    "links": 0
+   },
+   {
+    "qid": "Q110892377",
+    "t": "Estructura constructiva con formas geométricas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joaquin%20Torres%20Garcia%20-%2002.jpg",
+    "y": "1943",
+    "mat": "油彩",
+    "loc": "Musée Hyacinthe-Rigaud",
+    "links": 0
+   },
+   {
+    "qid": "Q125465572",
+    "t": "Portrait of a man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joaqu%C3%ADn%20Torres%20Garc%C3%ADa%20-%20Retrato%20de%20hombre.jpg",
+    "y": "1940",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q125465576",
+    "t": "Joaquín Torres García selfportrait (1946)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joaqu%C3%ADn%20Torres%20Garc%C3%ADa%20-%20Autorretrato%20%281946%29.jpg",
+    "y": "1946",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q125465577",
+    "t": "Q125465577",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joaqu%C3%ADn%20Torres%20Garc%C3%ADa%20-%20Cabeza%20de%20mujer.jpg",
+    "y": "1928",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q130644706",
+    "t": "Q130644706",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20port%20-%20Joaqu%C3%ADn%20Torres%20Garc%C3%ADa%20-%20MBA%20Dijon%20DG%202006-5.jpg",
+    "y": "1928",
+    "mat": "油彩",
+    "loc": "第戎美術館",
+    "links": 0
+   }
+  ]
+ },
+ "胡安·曼努埃尔·布拉内斯": {
+  "qid": "Q722644",
+  "works": [
+   {
+    "qid": "Q15221517",
+    "t": "General José Gervasio Artigas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/National%20Mall%20%26%20Memorial%20Parks%20%28708ec4fa-58ae-4a20-a1ff-96f002fba079%29.jpg",
+    "y": "",
+    "mat": "青铜",
+    "loc": "",
+    "links": 4
+   },
+   {
+    "qid": "Q21515084",
+    "t": "Q21515084",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cac%C3%A1.jpg",
+    "y": "1884",
+    "mat": "油彩",
+    "loc": "Museo Histórico Nacional",
+    "links": 1
+   },
+   {
+    "qid": "Q54004917",
+    "t": "Q54004917",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Manuel%20Blanes%20-%20El%20Juramento%20de%20los%20Treinta%20y%20Tres%20Orientales.jpg",
+    "y": "1876",
+    "mat": "画布",
+    "loc": "Juan Manuel Blanes Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q54006414",
+    "t": "Q54006414",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Manuel%20Blanes%20-%20Un%20episodio%20de%20la%20fiebre%20amarilla%20en%20Buenos%20Aires.png",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "乌拉圭国家视觉艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q56884311",
+    "t": "Retrato del General Fructuoso Rivera",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Manuel%20Blanes%20-%20Retrato%20del%20General%20Fructuoso%20Rivera.png",
+    "y": "1870",
+    "mat": "油彩",
+    "loc": "Museo Histórico Nacional",
+    "links": 0
+   },
+   {
+    "qid": "Q59619023",
+    "t": "Q59619023",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Manuel%20y%20Jose%20Luis%20Blanes%20-%20Batalla%20de%20las%20piedras-Rendicion%20de%20posadas.png",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "Museo Histórico Nacional",
+    "links": 0
+   },
+   {
+    "qid": "Q71434880",
+    "t": "Q71434880",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Demonio%2C%20mundo%20y%20carne.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q71435316",
+    "t": "Yellow fever in Buenos Aires, 1871",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20fever%20in%20Buenos%20Aires%2C%201871%20Wellcome%20L0051291.jpg",
+    "y": "1871",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110762325",
+    "t": "Q110762325",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Asesinato%20del%20general%20Venancio%20Flores.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q112061549",
+    "t": "La casta Susana",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Casta%20Susana-%20Juan%20Manuel%20Blanes.jpg",
+    "y": "1862",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q114557534",
+    "t": "Q114557534",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Escena%20campestre.jpg",
+    "y": "1875",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q117448370",
+    "t": "Q117448370",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Baqueano%20Juan%20Manuel%20Blanes%201875.jpg",
+    "y": "1875",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "拉斐尔·巴拉达斯": {
+  "qid": "Q2054418",
+  "works": [
+   {
+    "qid": "Q23936056",
+    "t": "Portrait of Pilar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Barcelona%29%20Portrait%20of%20Pilar%20by%20Rafael%20Barradas%20-%20Museu%20Nacional%20d%27Art%20de%20Catalunya.jpg",
+    "y": "1919",
+    "mat": "油彩",
+    "loc": "加泰罗尼亚国家艺术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q27655878",
+    "t": "Atocha",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Barradas%20-%20Atocha%201919.jpg",
+    "y": "1919",
+    "mat": "油彩",
+    "loc": "索菲亚王后国家艺术中心博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27950342",
+    "t": "Gypsy Camp",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Barradas%20-%20Campamento%20gitano%2C%201918.jpg",
+    "y": "1918",
+    "mat": "",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950343",
+    "t": "Coffee printing. Portrait. Planista. Bernabe Michelena",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Barradas%20-%20Bernab%C3%A9%20Michelena.jpg",
+    "y": "1913",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950349",
+    "t": "The tango color emotion. Coffee scene. Crowd",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Barradas%20-%20Escena%20de%20caf%C3%A9%2C%201913.jpg",
+    "y": "1913",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950356",
+    "t": "Woman at the Cafe",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Barradas%20-%20Dama%20en%20el%20caf%C3%A9%2C%201918.jpg",
+    "y": "1918",
+    "mat": "tempera",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950358",
+    "t": "The Tango",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Barradas%20-%20El%20Tango%2C%201913.jpg",
+    "y": "1913",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950368",
+    "t": "Boulevard Printing",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Barradas%20-%20Impresi%C3%B3n%20de%20Boulevard%2C%201913.jpg",
+    "y": "1913",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   },
+   {
+    "qid": "Q27950371",
+    "t": "Costume Party",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Barradas%20-%20Fiesta%20de%20disfraz%2C%201913.jpg",
+    "y": "1913",
+    "mat": "油彩",
+    "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+    "links": 0
+   }
+  ]
+ },
+ "阿尔梅达·儒尼奥尔": {
+  "qid": "Q569859",
+  "works": [
+   {
+    "qid": "Q19860119",
+    "t": "Monção departing",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BAnior%2C%20Jos%C3%A9%20Ferraz%20de%20Almeida%20-%20Partida%20da%20Mon%C3%A7%C3%A3o.jpg",
+    "y": "1897",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 3
+   },
+   {
+    "qid": "Q19860104",
+    "t": "Interrupted Whetting",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Almeida%20J%C3%BAnior%20-%20Interrupted%20Whetting%20-%20Google%20Art%20Project.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "聖保羅州立畫廊",
+    "links": 2
+   },
+   {
+    "qid": "Q19860117",
+    "t": "The Model's Rest",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Descanso%20do%20modelo.jpg",
+    "y": "1882",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q19860040",
+    "t": "A Difficult Errand",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Almeida%20J%C3%BAnior%20-%20Recado%20dif%C3%ADcil%2C%201895.jpg",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q19860043",
+    "t": "Nhá Chica",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Almeida%20J%C3%BAnior%20-%20Nh%C3%A1%20Chica.jpg",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "聖保羅州立畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q19860047",
+    "t": "Longing",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Almeida%20J%C3%BAnior%20-%20Saudade%20%28Longing%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "聖保羅州立畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q19860050",
+    "t": "Caipira Cutting Tobacco",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Almeida%20J%C3%BAnior%20-%20Caipira%20Cutting%20Tobacco%20-%20Google%20Art%20Project.jpg",
+    "y": "1893",
+    "mat": "油彩",
+    "loc": "聖保羅州立畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q19859106",
+    "t": "Salto de Itú, Piquenique da Família do Dr. Elias Chaves",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Almeida%20J%C3%BAnior%20-%20Salto%20de%20Itu%2C%201886.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q19860109",
+    "t": "Votorantim Waterfall",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Almeida%20J%C3%BAnior%20-%20Votorantim%20Waterfall%20-%20Google%20Art%20Project.jpg",
+    "y": "1893",
+    "mat": "油彩",
+    "loc": "聖保羅州立畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q43405277",
+    "t": "Retrato de Pedro II",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BAnior%2C%20Jos%C3%A9%20Ferraz%20de%20Almeida%20-%20Retrato%20de%20Dom%20Pedro%20II%2C%201889.jpg",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q52302008",
+    "t": "Retrato do Dr. Prudente José de Mores Barros",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BAnior%2C%20Jos%C3%A9%20Ferraz%20de%20Almeida%20-%20Retrato%20do%20Dr.%20Prudente%20Jos%C3%A9%20de%20Mores%20Barros%20%28cropped%29.jpg",
+    "y": "1901",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q52302029",
+    "t": "Retrato do Dr. Fernando Prestes de Albuquerque",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BAnior%2C%20Jos%C3%A9%20Ferraz%20de%20Almeida%20-%20Retrato%20do%20Dr.%20Fernando%20Prestes%20de%20Albuquerque.jpg",
+    "y": "1898",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 1
+   }
+  ]
+ },
+ "佩德罗·亚美利哥": {
+  "qid": "Q540219",
+  "works": [
+   {
+    "qid": "Q10301958",
+    "t": "独立或死亡",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Am%C3%A9rico%20-%20Independ%C3%AAncia%20ou%20Morte%20-%20Google%20Art%20Project.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q42571044",
+    "t": "The Battle of Avaí",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Am%C3%A9rico%20-%20Batalha%20do%20Ava%C3%AD.jpg",
+    "y": "1874",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q43351217",
+    "t": "Tiradentes Quartered",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiradentes%20quartered%20%28Tiradentes%20escuartejado%29%20by%20Pedro%20Am%C3%A9rico%201893.jpg",
+    "y": "1893",
+    "mat": "油彩",
+    "loc": "Mariano Procópio Museum",
+    "links": 4
+   },
+   {
+    "qid": "Q42572056",
+    "t": "The Liberation of Slaves",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Am%C3%A9rico%20-%20Liberta%C3%A7%C3%A3o%20dos%20Escravos%2C%201889.jpg",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "The Artistic-Cultural Collection of the Governmental Palaces of the State of São Paulo",
+    "links": 3
+   },
+   {
+    "qid": "Q44083203",
+    "t": "Passagem do Chaco",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Americo-chaco-MHN.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "歷史博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q42531811",
+    "t": "Battle of Campo Grande",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Batalha%20de%20Campo%20Grande%20-%201871.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "巴西皇家博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q28797062",
+    "t": "Hamlet’s Vision",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Am%C3%A9rico%20-%20Vis%C3%A3o%20de%20Hamlet%202.jpg",
+    "y": "1893",
+    "mat": "油彩",
+    "loc": "聖保羅州立畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q43399120",
+    "t": "The night accompanied by the geniuses of study and love",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Am%C3%A9rico%20-%20A%20noite%20acompanhada%20dos%20g%C3%AAnios%20do%20estudo%20e%20do%20amor%2C%201883.jpg",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q43487076",
+    "t": "Portrait of the poet Luís Nicolau Fagundes Varela",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Am%C3%A9rico%20-%20Retrato%20de%20C%C3%A2ndido%20Almeida%20Reis%20-%201888.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q43541724",
+    "t": "Faust and Gretchen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Am%C3%A9rico%20-%20Fausto%20e%20Margarida%202.jpg",
+    "y": "1500",
+    "mat": "油彩",
+    "loc": "聖保羅州立畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q44081175",
+    "t": "Lion",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Am%C3%A9rico%20-%20Le%C3%A3o.jpg",
+    "y": "",
+    "mat": "木材",
+    "loc": "聖保羅州立畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q49848375",
+    "t": "Judith and Holofernes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Am%C3%A9rico%20-%20Judite%20e%20Holofernes.jpg",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 1
+   }
+  ]
+ },
+ "维克托·梅雷莱斯": {
+  "qid": "Q727060",
+  "works": [
+   {
+    "qid": "Q17148594",
+    "t": "Moema",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Meirelles%20-%20Moema.jpg",
+    "y": "1866",
+    "mat": "油彩",
+    "loc": "聖保羅藝術博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q42542864",
+    "t": "The First Mass in Brazil",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Meirelles-primeiramissa2.jpg",
+    "y": "1859",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 5
+   },
+   {
+    "qid": "Q9651166",
+    "t": "Guararapes Battle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Meirelles%20-%20%27Battle%20of%20Guararapes%27%2C%201879%2C%20oil%20on%20canvas%2C%20Museu%20Nacional%20de%20Belas%20Artes%2C%20Rio%20de%20Janeiro.JPG",
+    "y": "1877",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 4
+   },
+   {
+    "qid": "Q9825548",
+    "t": "Naval Battle of Riachuelo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Museu%20Hist%C3%B3rico%20Nacional%20-%20Rio%20de%20Janeiro%20-%2020240707155740%20%28cropped%29.jpg",
+    "y": "1882",
+    "mat": "油彩",
+    "loc": "歷史博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q10375803",
+    "t": "Saint John the Baptist in prison",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Meirelles%20-%20S%C3%A3o%20Jo%C3%A3o%20Batista%20no%20c%C3%A1rcere%2C%201852.jpg",
+    "y": "1852",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 3
+   },
+   {
+    "qid": "Q42568752",
+    "t": "Passagem de Humaitá",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Meirelles%20-%20Passagem%20do%20Humait%C3%A1%2C%201868-72.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "歷史博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q43387023",
+    "t": "Barão de Porto Alegre liderando as tropas em Curzu",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Curuzu%20by%20Vitor%20Meireles.jpg",
+    "y": "1870",
+    "mat": "",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q49855020",
+    "t": "Passagem de Humaitá",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Meirelles%20-%20Passagem%20de%20Humait%C3%A1%2C%201886.jpg",
+    "y": "1886",
+    "mat": "水粉画",
+    "loc": "聖保羅州立畫廊",
+    "links": 2
+   },
+   {
+    "qid": "Q59873089",
+    "t": "Abolição da Escravatura",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aboli%C3%A7%C3%A3o%20da%20Escravatura%2C%20da%20Cole%C3%A7%C3%A3o%20Brasiliana%20Iconogr%C3%A1fica.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q119241624",
+    "t": "Panorama of Rio de Janeiro",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Meirelles%20-%20Estudo%20para%20Panorama%20do%20Rio%20de%20Janeiro%20-%20c.%201885.jpg",
+    "y": "1887",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q49871372",
+    "t": "Pedro II of Brazil",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Meirelles%20-%20Pedro%20II.jpg",
+    "y": "1864",
+    "mat": "油彩",
+    "loc": "聖保羅藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q49871412",
+    "t": "Portrait of Teresa Cristina of the Two Sicilies",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Meirelles%20-%20Dona%20Tereza%20Cristina.jpg",
+    "y": "1864",
+    "mat": "油彩",
+    "loc": "聖保羅藝術博物館",
+    "links": 1
+   }
+  ]
+ },
+ "埃利塞乌·维斯孔蒂": {
+  "qid": "Q2340277",
+  "works": [
+   {
+    "qid": "Q19887373",
+    "t": "Youth",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/GIOVENT%C3%99%20-%20OST%20-%2065%20x%2049%20cm%20-%201898%20-%20MNBA-Ibram-Minc%2C%20Rio%20de%20Janeiro.jpg",
+    "y": "1898",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 3
+   },
+   {
+    "qid": "Q61986955",
+    "t": "Moça no trigal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mo%C3%A7a%20no%20Trigal%20-%20c.1916.jpg",
+    "y": "1916",
+    "mat": "油彩",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q62064025",
+    "t": "A leiteira",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/EliseuVisconti-P403-A%20leiteira.jpg",
+    "y": "1915",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q62064738",
+    "t": "Retrato da escultora Nicolina Vaz de Assis",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/EliseuVisconti-P227-Retrato%20da%20escultora%20Nicolina%20Vaz%20de%20Assis.jpg",
+    "y": "1905",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q62092665",
+    "t": "Busto de mulher",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/EliseuVisconti-P319-Busto%20de%20mulher%20%281%29.jpg",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "Fundação Edson Queiroz",
+    "links": 1
+   },
+   {
+    "qid": "Q62092628",
+    "t": "Autorretrato c.1910",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eliseu%20Visconti%20-%20Autorretrato%20c.%201910.jpg",
+    "y": "1910",
+    "mat": "油彩",
+    "loc": "聖保羅州立畫廊",
+    "links": 1
+   },
+   {
+    "qid": "Q62064171",
+    "t": "Dorso de mulher",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/12%20Dorso%20mulher%20-MARGS.jpg",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "Rio Grande do Sul Museum of Art",
+    "links": 1
+   },
+   {
+    "qid": "Q62064325",
+    "t": "Casebre no fim da Praia do Flamengo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/EliseuVisconti-P571-Casebre%20no%20fim%20da%20Praia%20do%20Flamengo.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "Fundação Edson Queiroz",
+    "links": 1
+   },
+   {
+    "qid": "Q62064722",
+    "t": "Mamoeiro",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/EliseuVisconti-P955-Mamoeiro.jpg",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q62064725",
+    "t": "Retrato de Gonzaga Duque",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20Gonzaga%20Duque%20-1912.jpg",
+    "y": "1910",
+    "mat": "油彩",
+    "loc": "國立美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q62064729",
+    "t": "Volta às trincheiras",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/EliseuVisconti-P407-Volta%20%C3%A0s%20trincheiras.jpg",
+    "y": "1917",
+    "mat": "油彩",
+    "loc": "Fundação Edson Queiroz",
+    "links": 1
+   },
+   {
+    "qid": "Q49866503",
+    "t": "Flowers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eliseu%20Visconti%20-%20Flores.jpg",
+    "y": "1917",
+    "mat": "油彩",
+    "loc": "聖保羅藝術博物館",
+    "links": 1
+   }
+  ]
+ },
+ "安妮塔·马尔法蒂": {
+  "qid": "Q465919",
+  "works": []
+ },
+ "塔尔西拉·杜·阿马拉尔": {
+  "qid": "Q466627",
+  "works": [
+   {
+    "qid": "Q131758818",
+    "t": "Q131758818",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vis%C3%A3o%20geral%20Tarsila%201.jpg",
+    "y": "1929",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q40550820",
+    "t": "Retrato de Marechal Arouche",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarsila%20do%20Amaral%20-%20Retrato%20de%20Marechal%20Arouche%2C%20Acervo%20do%20Museu%20Paulista%20da%20USP%20%28cropped%29.jpg",
+    "y": "1946",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q42714162",
+    "t": "Retrato de Francisco Aranha Barreto",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarsila%20do%20Amaral%20-%20Retrato%20de%20Francisco%20Aranha%20Barreto%2C%20Acervo%20do%20Museu%20Paulista%20da%20USP.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q42714167",
+    "t": "Retrato de Frei Miguel Arcanjo da Anunciação",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarsila%20do%20Amaral%20-%20Retrato%20de%20Frei%20Miguel%20Arcanjo%20da%20Anuncia%C3%A7%C3%A3o%2C%20Acervo%20do%20Museu%20Paulista%20da%20USP%20%28cropped%29.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q42714177",
+    "t": "Retrato de Joaquim do Amaral Camargo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarsila%20do%20Amaral%20-%20Retrato%20de%20Joaquim%20do%20Amaral%20Camargo%2C%20Acervo%20do%20Museu%20Paulista%20da%20USP.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q42714186",
+    "t": "Retrato de José Maria Nunes Garcia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarsila%20do%20Amaral%20-%20Retrato%20de%20Jos%C3%A9%20Maria%20Nunes%20Garcia%2C%20Acervo%20do%20Museu%20Paulista%20da%20USP.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q55852279",
+    "t": "Retrato de Antonio de Toledo Piza",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarsila%20do%20Amaral%20-%20Retrato%20de%20Antonio%20de%20Toledo%20Piza%2C%20Acervo%20do%20Museu%20Paulista%20da%20USP.jpg",
+    "y": "2000",
+    "mat": "油彩",
+    "loc": "圣保罗人博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "坎迪多·波尔蒂纳里": {
+  "qid": "Q319532",
+  "works": [
+   {
+    "qid": "Q10339315",
+    "t": "Coffee Agricultural Worker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22O%20Lavrador%20de%20Caf%C3%A9%22%2C%201939%2C%20C%C3%A2ndido%20Portinari.%20%28MASP%2C%20S%C3%A3o%20Paulo%2C%20SP%2C%20Brasil%29%20%2818001978694%29%20%28cropped%29.jpg",
+    "y": "1934",
+    "mat": "油彩",
+    "loc": "聖保羅藝術博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q55080886",
+    "t": "Candido Portinari mural",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/At%20S%C3%A3o%20Paulo%202018%20172.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q61748738",
+    "t": "Civilização Mineira",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Civiliza%C3%A7%C3%A3o%20Mineira%20de%20C%C3%A2ndido%20Portinari.jpg",
+    "y": "1959",
+    "mat": "tempera",
+    "loc": "Palácio dos Despachos (Minas Gerais)",
+    "links": 1
+   },
+   {
+    "qid": "Q81815132",
+    "t": "Tiradentes",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Painel%20Tiradentes%20%28cropped%29.jpg",
+    "y": "1948",
+    "mat": "",
+    "loc": "Latin America Memorial",
+    "links": 1
+   }
+  ]
+ },
+ "阿尔弗雷多·瓦尔帕雷德斯": {
+  "qid": "Q1788014",
+  "works": []
+ },
+ "罗伯托·马塔": {
+  "qid": "Q450236",
+  "works": [
+   {
+    "qid": "Q5826232",
+    "t": "Q5826232",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mural%20%22El%20primero%20gol%20del%20pueblo%20chileno%22.jpg",
+    "y": "1971",
+    "mat": "",
+    "loc": "Centro Cultural Espacio Matta",
+    "links": 3
+   },
+   {
+    "qid": "Q6160527",
+    "t": "Verbo América",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Verbo%20Am%C3%A9rica.jpg",
+    "y": "1996",
+    "mat": "",
+    "loc": "Quinta Normal",
+    "links": 1
+   }
+  ]
+ },
+ "佩德罗·利拉": {
+  "qid": "Q1379000",
+  "works": [
+   {
+    "qid": "Q130242572",
+    "t": "La fundación de Santiago",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fundacion%20de%20Santiago.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "智利国家自然历史博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q109942358",
+    "t": "Q109942358",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Mujer%20en%20el%20Div%C3%A1n%22.jpg",
+    "y": "1910",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q109974155",
+    "t": "Still life with fruits",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Bodeg%C3%B3n%20con%20frutas%22.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110656130",
+    "t": "Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Animales%20pastando%22.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q111988919",
+    "t": "Beach Scene with Figure",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Escena%20de%20playa%20con%20figura%22.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "智利",
+    "links": 0
+   }
+  ]
+ },
+ "胡安·弗朗西斯科·冈萨雷斯": {
+  "qid": "Q1710469",
+  "works": [
+   {
+    "qid": "Q66011701",
+    "t": "Q66011701",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Calle%20de%20Limache%22.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "智利國家美術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q66011708",
+    "t": "Q66011708",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Carretelas%20en%20la%20Vega%22.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "智利國家美術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116478107",
+    "t": "静物画",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Sandias%22.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q130261270",
+    "t": "Q130261270",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Carrera%20por%20J.F.Gonzalez.jpg",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q130915113",
+    "t": "Q130915113",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Augusto%20d%27Halmar%20por%20J.F%20Gonzalez.jpg",
+    "y": "1902",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "阿尔弗雷多·瓦伦苏埃拉": {
+  "qid": "Q2646381",
+  "works": [
+   {
+    "qid": "Q28663534",
+    "t": "La perla del mercader",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20perla%20del%20mercader.jpg",
+    "y": "1884",
+    "mat": "油彩",
+    "loc": "智利國家美術博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q46044927",
+    "t": "The geography lesson",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfredo%20Valenzuela%20Puelma%20MNBA.JPG",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "智利國家美術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q109942288",
+    "t": "The youth tempted by the vices",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22La%20juventud%20tentada%20por%20los%20vicios%22.jpg",
+    "y": "http",
+    "mat": "油彩",
+    "loc": "智利國家美術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q109951736",
+    "t": "Cherry Nymph",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Ninfa%20de%20las%20Cerezas%22.jpg",
+    "y": "1889",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q109986438",
+    "t": "The woman from Seville",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Sevillana%20%281890%29%20-%20Alfredo%20Valenzuela%20Puelma%20%28National%20Museum%20of%20Fine%20Arts%2C%20Santiago%20de%20Chile%29.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110897346",
+    "t": "Q110897346",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22El%20ni%C3%B1o%20Fez%22.jpg",
+    "y": "1909",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110907304",
+    "t": "Portrait of a Man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Retrato%20de%20hombre%22.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q111969049",
+    "t": "Coquetería",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfredo%20Valenzuela%20Puelma%20-%20Coqueter%C3%ADa.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "智利",
+    "links": 0
+   },
+   {
+    "qid": "Q114634113",
+    "t": "Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20por%20Afredo%20Valenzuela%20Puelma.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q114646682",
+    "t": "Q114646682",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20campestre.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q124842292",
+    "t": "Q124842292",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfredo%20Valenzuela%20Puelma%20-%20Bandolero.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q130621350",
+    "t": "Q130621350",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arturo%20Prat%20por%20Valenzuela%20Puelma.JPG",
+    "y": "1879",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ }
+}
