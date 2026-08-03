@@ -1,0 +1,686 @@
+[
+ {
+  "id": 9344,
+  "zh": "Cutting a Pig",
+  "qid": "Q53869465",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20D%C3%A9p%C3%A8cement%20du%20porc%20I%20van%20Ostade%20Lille%203118.jpg",
+  "y": "1645",
+  "loc": "里爾美術宮",
+  "a": "伊萨克·凡·奥斯塔德"
+ },
+ {
+  "id": 9345,
+  "zh": "Woman Holding a Herring",
+  "qid": "Q15883617",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Metsu-Marchand%20de%20harengs.JPG",
+  "y": "1660",
+  "loc": "法布爾博物館",
+  "a": "加布里埃尔·梅曲"
+ },
+ {
+  "id": 9346,
+  "zh": "Woman washing textiles in ",
+  "qid": "Q22694080",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Metsu%20Washerwoman.JPG",
+  "y": "1656",
+  "loc": "瓦津基宮",
+  "a": "加布里埃尔·梅曲"
+ },
+ {
+  "id": 9347,
+  "zh": "Dead Cockdkg",
+  "qid": "Q27750604",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gallo%20muerto%20%28Metsu%29.jpg",
+  "y": "1650",
+  "loc": "普拉多博物馆",
+  "a": "加布里埃尔·梅曲"
+ },
+ {
+  "id": 9348,
+  "zh": "The Battle of Vigo Bay, Oc",
+  "qid": "Q7715890",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakhuizen%2C%20Battle%20of%20Vigo%20Bay.jpg",
+  "y": "1702",
+  "loc": "國家航海博物館",
+  "a": "卢多尔夫·巴克海森"
+ },
+ {
+  "id": 9349,
+  "zh": "View of Amsterdam with Shi",
+  "qid": "Q18654819",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludolf%20Bakhuizen%20-%20View%20of%20Amsterdam%20with%20Ships%20on%20the%20IJ%20-%20WGA01134.jpg",
+  "y": "1666",
+  "loc": "Room 836",
+  "a": "卢多尔夫·巴克海森"
+ },
+ {
+  "id": 9350,
+  "zh": "A Beach Scene with Fisherm",
+  "qid": "Q21121966",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludolf%20Bakhuizen%20-%20Strandlandschap%20met%20vissers%20-%20NG818%20-%20National%20Gallery.jpg",
+  "y": "1665",
+  "loc": "国家美术馆",
+  "a": "卢多尔夫·巴克海森"
+ },
+ {
+  "id": 9351,
+  "zh": "A Dessert",
+  "qid": "Q6038766",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fin%20de%20collation%20-%20Willem%20Claeszoon%20Hedan%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%201319.jpg",
+  "y": "1637",
+  "loc": "Room 846",
+  "a": "威廉·克拉斯·海达"
+ },
+ {
+  "id": 9352,
+  "zh": "Breakfast with a Crab",
+  "qid": "Q12132616",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Heda%20hermitage.jpg",
+  "y": "1648",
+  "loc": "埃尔米塔日博物馆",
+  "a": "威廉·克拉斯·海达"
+ },
+ {
+  "id": 9353,
+  "zh": "Still life with oysters, a",
+  "qid": "Q6038783",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20Claesz.%20Heda%20004.jpg",
+  "y": "1634",
+  "loc": "博伊曼斯·范伯宁恩美术馆",
+  "a": "威廉·克拉斯·海达"
+ },
+ {
+  "id": 9354,
+  "zh": "Breakfast Table with Black",
+  "qid": "Q12900362",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20Clasz.%20Heda%20-%20Breakfast%20Table%20with%20Blackberry%20Pie%20-%20Google%20Art%20Project.jpg",
+  "y": "1631",
+  "loc": "历代大师画廊",
+  "a": "威廉·克拉斯·海达"
+ },
+ {
+  "id": 9355,
+  "zh": "Still Life with a Gilt Cup",
+  "qid": "Q17341026",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stilleven%20met%20vergulde%20bokaal%20Rijksmuseum%20SK-A-4830.jpeg",
+  "y": "1635",
+  "loc": "Gallery of Honour",
+  "a": "威廉·克拉斯·海达"
+ },
+ {
+  "id": 9356,
+  "zh": "A Dutch Ship, a Yacht and ",
+  "qid": "Q26708460",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Ship%2C%20a%20Yacht%20and%20Smaller%20Vessels%20in%20a%20Breeze.jpg",
+  "y": "1660",
+  "loc": "国家美术馆",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 9357,
+  "zh": "A Dutch Ship and Other Sma",
+  "qid": "Q26713950",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Ship%20and%20Other%20Small%20Vessels%20in%20a%20Strong%20Breeze.jpg",
+  "y": "1658",
+  "loc": "国家美术馆",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 9358,
+  "zh": "A Calm with a States Yacht",
+  "qid": "Q23916721",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20the%20Younger%20%281633-1707%29%20-%20A%20Calm%2C%20A%20States%20Yacht%2C%20A%20Barge%20and%20many%20other%20Vessels%20under%20Sail%20-%20RCIN%20407275%20-%20Royal%20Collection.jpg",
+  "y": "1659",
+  "loc": "卡爾頓宮",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 9359,
+  "zh": "A Brisk Breeze",
+  "qid": "Q23929355",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20de%20Velde%2C%20Willem%20the%20younger%20-%20A%20Brisk%20Breeze%20-%20Google%20Art%20Project.jpg",
+  "y": "1665",
+  "loc": "达利奇美术馆",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 9360,
+  "zh": "A Dutch Vessel in a Strong",
+  "qid": "Q26492836",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20II%20-%20A%20Dutch%20Vessel%20in%20a%20Strong%20Breeze.jpg",
+  "y": "1670",
+  "loc": "国家美术馆",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 9361,
+  "zh": "A Calm: an English Three-D",
+  "qid": "Q28031007",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20van%20de%20Velde%20the%20Younger%20%281633-1707%29%20-%20A%20Calm%2C%20an%20English%20Three-Decker%20Drying%20Sails%20with%20two%20Galliots%20near%20her%20-%20RCIN%20405503%20-%20Royal%20Collection.jpg",
+  "y": "1690",
+  "loc": "皇室收藏",
+  "a": "威廉·凡·德·维尔德"
+ },
+ {
+  "id": 9362,
+  "zh": "Still Life with a Silver J",
+  "qid": "Q17319913",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20Kalf%20-%20Stilleven%20met%20zilveren%20schenkkan%20-%20Google%20Art%20Project.jpg",
+  "y": "1656",
+  "loc": "Gallery of Honour",
+  "a": "威廉·卡尔夫"
+ },
+ {
+  "id": 9363,
+  "zh": "Still Life with a Chinese ",
+  "qid": "Q7617097",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20Kalf%20-%20Still-Life%20with%20a%20Late%20Ming%20Ginger%20Jar%20-%20WGA12080.jpg",
+  "y": "1669",
+  "loc": "印第安納波利斯藝術博物館",
+  "a": "威廉·卡尔夫"
+ },
+ {
+  "id": 9364,
+  "zh": "Still Life with Drinking-H",
+  "qid": "Q20735361",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Willem%20Kalf%2C%20Still%20Life%20with%20Drinking-Horn%2C%20c.%201653%2C%20oil%20on%20canvas%2C%20National%20Gallery.png",
+  "y": "1653",
+  "loc": "国家美术馆",
+  "a": "威廉·卡尔夫"
+ },
+ {
+  "id": 9365,
+  "zh": "Abraham Dismissing Hagar a",
+  "qid": "Q19904878",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20Dismissal%20of%20Hagar%20and%20Ishmael.jpg",
+  "y": "1653",
+  "loc": "大都會藝術博物館",
+  "a": "尼古拉斯·梅斯"
+ },
+ {
+  "id": 9366,
+  "zh": "Portrait of a Woman",
+  "qid": "Q21617414",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20Portret%20van%20een%20vrouw%20-%20888%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff",
+  "y": "1676",
+  "loc": "皇家安特衛普美術館",
+  "a": "尼古拉斯·梅斯"
+ },
+ {
+  "id": 9367,
+  "zh": "Portrait of a Lady",
+  "qid": "Q60186817",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portait%20of%20a%20Lady%20by%20Nicolaes%20Maes%2C%20Timken%20Museum%20of%20Art.JPG",
+  "y": "1677",
+  "loc": "Timken Museum of Art",
+  "a": "尼古拉斯·梅斯"
+ },
+ {
+  "id": 9368,
+  "zh": "Christ Blessing the Childr",
+  "qid": "Q24283961",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicolaes%20Maes%20-%20Christ%20Blessing%20the%20Children%20-%20WGA13814.jpg",
+  "y": "1652",
+  "loc": "国家美术馆",
+  "a": "尼古拉斯·梅斯"
+ },
+ {
+  "id": 9369,
+  "zh": "The Idle Servant",
+  "qid": "Q24283890",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20idle%20servant.png",
+  "y": "1655",
+  "loc": "国家美术馆",
+  "a": "尼古拉斯·梅斯"
+ },
+ {
+  "id": 9370,
+  "zh": "Peasants with Cattle by a ",
+  "qid": "Q19930366",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/BERCHEM%20Nicolaes%20Peasants%20With%20Cattle%20By%20A%20Ruined%20Aqueduct.jpg",
+  "y": "1658",
+  "loc": "国家美术馆",
+  "a": "尼古拉斯·贝亨"
+ },
+ {
+  "id": 9371,
+  "zh": "The Painter in his Studio",
+  "qid": "Q50325417",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20van%20Mieris%20%28I%29%20-%20The%20Painter%27s%20Studio%20-%20WGA15638.jpg",
+  "y": "1656",
+  "loc": "历代大师画廊",
+  "a": "弗兰斯·凡·米里斯"
+ },
+ {
+  "id": 9372,
+  "zh": "Still Life with a Turkey P",
+  "qid": "Q17340485",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Claesz.%20-%20Stilleven%20met%20kalkoenpastei%20%281627%29.jpg",
+  "y": "1627",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "彼得·克拉斯"
+ },
+ {
+  "id": 9373,
+  "zh": "Vanitas Still Life with th",
+  "qid": "Q9048912",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Claeszoon%20-%20Vanitas.JPG",
+  "y": "1628",
+  "loc": "阿姆斯特丹",
+  "a": "彼得·克拉斯"
+ },
+ {
+  "id": 9374,
+  "zh": "Still Life with a Self-por",
+  "qid": "Q19960956",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Claesz.%20-%20Still%20Life%20with%20a%20Self-portrait%20%28Self-portrait%20in%20glass%20ball%29.jpg",
+  "y": "1628",
+  "loc": "日耳曼國家博物館",
+  "a": "彼得·克拉斯"
+ },
+ {
+  "id": 9375,
+  "zh": "Vanitas Still Life",
+  "qid": "Q17276208",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Claesz%20-%20Vanitas%20Still%20Life%20-%20943%20-%20Mauritshuis.jpg",
+  "y": "1632",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "彼得·克拉斯"
+ },
+ {
+  "id": 9376,
+  "zh": "Still Life with a Skull an",
+  "qid": "Q19911680",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Claesz%2C%20Still%20Life%20with%20a%20Skull%20and%20a%20Writing%20Quill.jpg",
+  "y": "1628",
+  "loc": "大都會藝術博物館",
+  "a": "彼得·克拉斯"
+ },
+ {
+  "id": 9377,
+  "zh": "静物画",
+  "qid": "Q19930078",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Claesz.%20-%20Stilleven.jpg",
+  "y": "1637",
+  "loc": "普拉多博物馆",
+  "a": "彼得·克拉斯"
+ },
+ {
+  "id": 9378,
+  "zh": "Cardplayers in a Sunlit Ro",
+  "qid": "Q19960421",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20%28Rotterdam%201629-Amsterdam%201684%29%20-%20Cardplayers%20in%20a%20sunlit%20Room%20-%20RCIN%20405951%20-%20Royal%20Collection.jpg",
+  "y": "1658",
+  "loc": "皇室收藏",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 9379,
+  "zh": "A Woman Preparing Bread an",
+  "qid": "Q19989799",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hooch%2C%20Pieter%20de%20-%20A%20Woman%20Preparing%20Bread%20and%20Butter%20for%20a%20Boy%20-%20Google%20Art%20Project.jpg",
+  "y": "1661",
+  "loc": "盖蒂中心",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 9380,
+  "zh": "Woman and a maid with a pa",
+  "qid": "Q6126670",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20002.jpg",
+  "y": "1660",
+  "loc": "埃尔米塔日博物馆",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 9381,
+  "zh": "Interior with Women beside",
+  "qid": "Q9376181",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20de%20Hooch%20-%20At%20the%20Linen%20Closet.jpg",
+  "y": "1663",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "彼得·德·霍赫"
+ },
+ {
+  "id": 9382,
+  "zh": "Interior of the Buurkerk i",
+  "qid": "Q11926784",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Jansz.%20Saenredam%20007.jpg",
+  "y": "1644",
+  "loc": "国家美术馆",
+  "a": "扬·博特"
+ },
+ {
+  "id": 9383,
+  "zh": "Italian Landscape with a D",
+  "qid": "Q17341816",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Italiaans%20landschap%20met%20tekenaar%2C%20SK-C-109.jpg",
+  "y": "1650",
+  "loc": "hall 2.17",
+  "a": "扬·博特"
+ },
+ {
+  "id": 9384,
+  "zh": "'As the Old Sing, So Pipe ",
+  "qid": "Q17276053",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Steen%20-%20%27As%20the%20Old%20Sing%2C%20So%20Pipe%20the%20Young%27%20-%20742%20-%20Mauritshuis.jpg",
+  "y": "1665",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 9385,
+  "zh": "Twelfth-Night Feast",
+  "qid": "Q2016399",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Twelfth-Night%20Feast%20-%20Jan%20Steen%20-%20MFA.jpg",
+  "y": "1662",
+  "loc": "波士頓美術館",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 9386,
+  "zh": "The Effects of Intemperanc",
+  "qid": "Q3720153",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20steen%2C%20effetti%20dell%27intemperanza.jpg",
+  "y": "1663",
+  "loc": "国家美术馆",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 9387,
+  "zh": "Children Teaching a Cat to",
+  "qid": "Q17322404",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kinderen%20leren%20een%20poes%20dansen%2C%20bekend%20als%20%E2%80%98De%20dansles%E2%80%99%20Rijksmuseum%20SK-A-718.jpeg",
+  "y": "1669",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 9388,
+  "zh": "The Bean Feast",
+  "qid": "Q29353421",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Steen%20-%20The%20Bean%20Feast%20-%20WGA21734.jpg",
+  "y": "1668",
+  "loc": "Gemäldegalerie Alte Meister",
+  "a": "扬·斯特恩"
+ },
+ {
+  "id": 9389,
+  "zh": "Still Life with Flowers on",
+  "qid": "Q17328421",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rachel%20Ruysch%20-%20Still%20life%20with%20flowers%20on%20a%20marble%20tabletop.jpg",
+  "y": "1716",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "拉赫尔·勒伊斯"
+ },
+ {
+  "id": 9390,
+  "zh": "Roses, Convolvulus, Poppie",
+  "qid": "Q19287713",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Roses%2C%20Convolvulus%2C%20Poppies%2C%20and%20Other%20Flowers%20in%20an%20Urn%20on%20a%20Stone%20Ledge%20-%20Rachel%20Ruysch%20-%20Google%20Cultural%20Institute.jpg",
+  "y": "1688",
+  "loc": "國際女性藝術博物館",
+  "a": "拉赫尔·勒伊斯"
+ },
+ {
+  "id": 9391,
+  "zh": "Seated Girl in Peasant Cos",
+  "qid": "Q17335985",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20ter%20Borch.Zittende%20jonge%20vrouw.jpg",
+  "y": "1650",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "赫拉尔德·特·博尔赫"
+ },
+ {
+  "id": 9392,
+  "zh": "The Ratification of the Tr",
+  "qid": "Q18608272",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Westfaelischer%20Friede%20in%20Muenster%20%28Gerard%20Terborch%201648%29.jpg",
+  "y": "1648",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "赫拉尔德·特·博尔赫"
+ },
+ {
+  "id": 9393,
+  "zh": "A Gentleman pressing a Lad",
+  "qid": "Q28030254",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Homme%20incitant%20une%20femme%20%C3%A0%20boire%20-%20Gerard%20ter%20Borch.jpg",
+  "y": "1658",
+  "loc": "皇室收藏",
+  "a": "赫拉尔德·特·博尔赫"
+ },
+ {
+  "id": 9394,
+  "zh": "The Gallant Soldier",
+  "qid": "Q28950423",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Galant%20Militaire%20ou%20jeune%20femme%20%C3%A0%20laquelle%20un%20homme%20offre%20de%20l%27argent%20-%20Gerard%20ter%20Borch.jpg",
+  "y": "1650",
+  "loc": "Louvre Museum storage",
+  "a": "赫拉尔德·特·博尔赫"
+ },
+ {
+  "id": 9395,
+  "zh": "Girl chopping Onions",
+  "qid": "Q23900361",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Dou%20-%20Girl%20Chopping%20Onions%20-%20Google%20Art%20Project.jpg",
+  "y": "1646",
+  "loc": "皇室收藏",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 9396,
+  "zh": "The Tooth Puller",
+  "qid": "Q29656439",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Dou%20-%20The%20Dentist.jpg",
+  "y": "1650",
+  "loc": "Room 839",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 9397,
+  "zh": "Young Lady Playing a Clavi",
+  "qid": "Q23890828",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Dou%20-%20Young%20Lady%20Playing%20the%20Clavichord.jpg",
+  "y": "1660",
+  "loc": "",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 9398,
+  "zh": "Still Life with a Boy Blow",
+  "qid": "Q23948055",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20a%20Boy%20Blowing%20Soap-bubbles%20by%20Gerard%20Dou%2C%20c.%201635-1636%2C%20oil%20on%20panel%20-%20National%20Museum%20of%20Western%20Art%2C%20Tokyo%20-%20DSC08420.JPG",
+  "y": "1635",
+  "loc": "日本國立西洋美術館",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 9399,
+  "zh": "A Girl with a Bunch of Gra",
+  "qid": "Q28023350",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerrit%20Dou%20%28Leiden%201613-Leiden%201675%29%20-%20A%20Girl%20with%20a%20Bunch%20of%20Grapes%20at%20a%20Window%20-%20RCIN%20404803%20-%20Royal%20Collection.jpg",
+  "y": "1650",
+  "loc": "卡爾頓宮",
+  "a": "赫里特·道"
+ },
+ {
+  "id": 9400,
+  "zh": "River Landscape with Rider",
+  "qid": "Q17338070",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Rivierlandschap%20met%20ruiters%20Rijksmuseum%20SK-A-4118.jpeg",
+  "y": "1653",
+  "loc": "阿姆斯特丹国家博物馆",
+  "a": "阿尔伯特·库普"
+ },
+ {
+  "id": 9401,
+  "zh": "The Maas at Dordrecht",
+  "qid": "Q5822565",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aelbert%20Cuyp%20-%20The%20Maas%20at%20Dordrecht%20-%20Google%20Art%20Project.jpg",
+  "y": "1650",
+  "loc": "國家藝廊",
+  "a": "阿尔伯特·库普"
+ },
+ {
+  "id": 9402,
+  "zh": "Piping Shepherds",
+  "qid": "Q19905665",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aelbert%20Cuyp%20-%20Piping%20Shepherds%20%28Metropolitan%20Museum%20of%20Art%29.jpg",
+  "y": "1643",
+  "loc": "大都會藝術博物館",
+  "a": "阿尔伯特·库普"
+ },
+ {
+  "id": 9403,
+  "zh": "The Valkhof at Nijmegen",
+  "qid": "Q7771928",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cuyp%2C%20Aelbert%20-%20The%20Valkhof%20at%20Nijmegen%20-%20Google%20Art%20Project.jpg",
+  "y": "1652",
+  "loc": "印第安納波利斯藝術博物館",
+  "a": "阿尔伯特·库普"
+ },
+ {
+  "id": 9404,
+  "zh": "Cows in a River",
+  "qid": "Q28797413",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aelbert%20Cuyp%20-%20Cows%20in%20a%20River%20-%20Google%20Art%20Project.jpg",
+  "y": "1650",
+  "loc": "布达佩斯美术博物馆",
+  "a": "阿尔伯特·库普"
+ },
+ {
+  "id": 9405,
+  "zh": "Equestrian Portrait of Cor",
+  "qid": "Q19904836",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Equestrian%20Portrait%20of%20Cornelis%20%281639%E2%80%931680%29%20and%20Michiel%20Pompe%20van%20Meerdervoort%20%281638%E2%80%931653%29%20with%20Their%20Tutor%20and%20Coachman%20%28%22Starting%20for%20the%20Hunt%22%29%20MET%20DP146442.jpg",
+  "y": "1652",
+  "loc": "大都會藝術博物館",
+  "a": "阿尔伯特·库普"
+ },
+ {
+  "id": 9406,
+  "zh": "The Fish Market",
+  "qid": "Q3224276",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adriaen%20van%20Ostade%20038.jpg",
+  "y": "1659",
+  "loc": "Room 852",
+  "a": "阿德里安·凡·奥斯塔德"
+ },
+ {
+  "id": 9407,
+  "zh": "Customers Conversing in a ",
+  "qid": "Q120497813",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Customers%20Conversing%20in%20a%20Tavern%20-%20Adriaen%20van%20Ostade%20%281671%29.jpg",
+  "y": "1671",
+  "loc": "波士頓美術館",
+  "a": "阿德里安·凡·奥斯塔德"
+ },
+ {
+  "id": 9408,
+  "zh": "Barber extracting a tooth",
+  "qid": "Q5719359",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adriaen%20van%20Ostade%20-%20Dorfbarbier%20-%20GG%20748%20-%20Kunsthistorisches%20Museum.jpg",
+  "y": "1637",
+  "loc": "艺术史博物馆",
+  "a": "阿德里安·凡·奥斯塔德"
+ },
+ {
+  "id": 9409,
+  "zh": "The Fiddler",
+  "qid": "Q17275811",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adriaen%20van%20Ostade%20-%20The%20Fiddler%20-%20129%20-%20Mauritshuis.jpg",
+  "y": "1673",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "阿德里安·凡·奥斯塔德"
+ },
+ {
+  "id": 9410,
+  "zh": "The Smokers by Adriaen Bro",
+  "qid": "Q17183419",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adriaen%20Brower%20-%20The%20Smokers.jpg",
+  "y": "1637",
+  "loc": "大都會藝術博物館",
+  "a": "阿德里安·布劳威尔"
+ },
+ {
+  "id": 9411,
+  "zh": "The Bitter Draught",
+  "qid": "Q43388981",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Bitter%20Potion%20%28SM%201076%29.png",
+  "y": "1630",
+  "loc": "施泰德艺术馆",
+  "a": "阿德里安·布劳威尔"
+ },
+ {
+  "id": 9412,
+  "zh": "Poor Folk Drinking in a Ta",
+  "qid": "Q17276112",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peasants%20Drinking%20About%20by%20Adriaen%20Brouwer%20Mauritshuis%20847.jpg",
+  "y": "1620",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "阿德里安·布劳威尔"
+ },
+ {
+  "id": 9413,
+  "zh": "Peasant Brawl",
+  "qid": "Q17276195",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peasant%20Brawl%20by%20Adriaen%20Brouwer%20Mauritshuis%20919.jpg",
+  "y": "1620",
+  "loc": "莫瑞泰斯皇家美术馆",
+  "a": "阿德里安·布劳威尔"
+ },
+ {
+  "id": 9414,
+  "zh": "Interior of an inn with an",
+  "qid": "Q24288441",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adriaen%20Brouwer%20-%20Oude%20man%20in%20een%20kroeg%20-%20IB08.004%20-%20Royal%20Museum%20of%20Fine%20Arts%20Antwerp.tiff",
+  "y": "1629",
+  "loc": "皇家安特衛普美術館",
+  "a": "阿德里安·布劳威尔"
+ },
+ {
+  "id": 9415,
+  "zh": "A Waterfall in a Rocky Lan",
+  "qid": "Q3661546",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaaksz.%20van%20Ruisdael%20006.jpg",
+  "y": "1660",
+  "loc": "国家美术馆",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 9416,
+  "zh": "A Landscape with a Ruined ",
+  "qid": "Q3888847",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaacksz.%20van%20Ruisdael%20-%20An%20Extensive%20Landscape%20with%20a%20Ruined%20Castle%20and%20a%20Village%20Church%20-%20WGA20493.jpg",
+  "y": "1665",
+  "loc": "国家美术馆",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 9417,
+  "zh": "The Thicket near Haarlem",
+  "qid": "Q20760413",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Isaacksz.%20van%20Ruisdael%20-%20The%20Thicket%20%28Path%20in%20the%20Haarlem%20Dunes%29%20-%20WGA20475.jpg",
+  "y": "1649",
+  "loc": "卢浮宫博物馆",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 9418,
+  "zh": "View on the Amstel from Am",
+  "qid": "Q17813694",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/SA%2056435-Gezicht%20op%20Amsterdam%20vanaf%20de%20Amsteldijk.jpg",
+  "y": "1680",
+  "loc": "阿姆斯特丹博物馆",
+  "a": "雅各布·凡·雷斯达尔"
+ },
+ {
+  "id": 9419,
+  "zh": "The watermill",
+  "qid": "Q20423793",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20van%20Ruisdael%20-%20Watermill%20-%20NGV.jpg",
+  "y": "1660",
+  "loc": "維多利亞國立美術館",
+  "a": "雅各布·凡·雷斯达尔"
+ }
+]
