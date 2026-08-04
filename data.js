@@ -9659,5 +9659,10 @@ wiki:["Meredith Monk"],q:"Meredith Monk Dolmen Music"},
 {id:10385,img:"imgs/10385.webp",cr:"Aert de Gelder / Public domain",cat:"西方绘画",kind:"art",t:"以斯帖与末底改",a:"阿尔特·德·赫尔德",y:"约1685",bg:"王后以斯帖听说犹太人将被屠杀。",how:"厚涂的颜料,笔触粗放,色彩温暖。",why:"他是伦勃朗最后一位学生——也是唯一坚持那套画法到十八世纪的人。",more:"现藏匈牙利布达佩斯美术博物馆。"},
 {id:10386,img:"imgs/10386.webp",cr:"Abraham van Beyeren / Public domain",cat:"西方绘画",kind:"art",t:"盛宴静物",a:"阿布拉罕·凡·贝耶伦",y:"1667",bg:"龙虾、银器、水果与倒下的酒杯堆在桌上。",how:"金属与玻璃的反光被推到极致,构图斜向展开。",why:"他画得极好,却一辈子欠债——死时几乎一无所有。",more:"现藏荷兰。"},
 {id:10387,img:"imgs/10387.webp",cr:"Jacob Ochtervelt / Public domain",cat:"西方绘画",kind:"art",t:"门口的街头乐师",a:"雅各布·奥赫特维尔特",y:"约1665",bg:"流浪乐师在富人家门口拉琴,女主人与孩子在门内听。",how:"门厅的地砖与光被精确画出,门槛把两个世界分开。",why:"他最爱画的就是这道门槛——门里门外的两种人。",more:"现藏美国圣路易斯艺术博物馆。"},
-{id:10388,img:"imgs/10388.webp",cr:"Jacob Ochtervelt / Public domain",cat:"西方绘画",kind:"art",t:"牡蛎宴",a:"雅各布·奥赫特维尔特",y:"约1664",bg:"一位男子在给女子递牡蛎。",how:"丝绸的光泽被画得发亮,动作暧昧。",why:"牡蛎在荷兰画里从来不只是食物。",more:"现藏荷兰。"}
+{id:10388,img:"imgs/10388.webp",cr:"Jacob Ochtervelt / Public domain",cat:"西方绘画",kind:"art",t:"牡蛎宴",a:"雅各布·奥赫特维尔特",y:"约1664",bg:"一位男子在给女子递牡蛎。",how:"丝绸的光泽被画得发亮,动作暧昧。",why:"牡蛎在荷兰画里从来不只是食物。",more:"现藏荷兰。"},
+{id:10389,img:"imgs/10389.webp",cr:"Hans Makart / Public domain",cat:"西方绘画",kind:"art",t:"查理五世进入安特卫普",a:"汉斯·马卡特",y:"1878",bg:"1520年神圣罗马皇帝进城,一队裸体女子在前面开道。",how:"十米长的巨幅,人物上百,金饰与丝绒堆到满溢。",why:"维也纳人为它疯狂——那年整座城的时装都跟着这幅画走。",more:"现藏德国汉堡美术馆。"},
+{id:10390,img:"imgs/10390.webp",cr:"Félix Vallotton / Public domain",cat:"西方绘画",kind:"art",t:"紫帽子",a:"费利克斯·瓦洛通",y:"1907",bg:"一位戴紫帽的女子。",how:"色块平整,轮廓硬朗,几乎没有过渡。",why:"他画女人,从不给她们柔光。",more:"现藏瑞士。"},
+{id:10391,img:"imgs/10391.webp",cr:"Félix Vallotton / Public domain",cat:"西方绘画",kind:"art",t:"火炉前的裸女",a:"费利克斯·瓦洛通",y:"1900",bg:"一个女子背对观者,站在暖炉前。",how:"室内的暗与身体的白,构图被切得极简。",why:"他画室内,总让人觉得刚发生过什么。",more:"现藏瑞士。"},
+{id:10392,img:"imgs/10392.webp",cr:"Félix Vallotton / Public domain",cat:"西方绘画",kind:"art",t:"秋",a:"费利克斯·瓦洛通",y:"1908",bg:"一个裸体女子举手挽发,身前垂着一条绿布。",how:"肌肤被画成均匀的橙褐,那条绿布切开整个身体。",why:"他画身体像画静物——不给一点温度。",more:"现藏瑞士。"},
+{id:10393,img:"imgs/10393.webp",cr:"Albin Egger-Lienz / Public domain",cat:"西方绘画",kind:"art",t:"致无名者·1914",a:"阿尔宾·埃格尔-利恩茨",y:"1916",bg:"一排士兵端着刺刀弓身向前冲。",how:"所有人的姿态一模一样,面孔都被省略——他们成了一个整体。",why:"教会拒绝把它挂进纪念堂——他们说这不像英雄,像机器。",more:"现藏奥地利。"}
 ];
