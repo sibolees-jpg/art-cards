@@ -1,0 +1,884 @@
+[
+ {
+  "id": 10111,
+  "zh": "The Virgin and Child",
+  "qid": "Q21683625",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Antonio%20Boltraffio%20-%20Virgin%20and%20Child%20-%20WGA2391.jpg",
+  "y": "1493",
+  "loc": "国家美术馆",
+  "a": "乔瓦尼·安东尼奥·博尔特拉菲奥"
+ },
+ {
+  "id": 10112,
+  "zh": "Narcissus at the Fountain",
+  "qid": "Q3870403",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Boltraffio%2C%20narciso%20alla%20fonte.jpg",
+  "y": "1500",
+  "loc": "烏菲茲美術館",
+  "a": "乔瓦尼·安东尼奥·博尔特拉菲奥"
+ },
+ {
+  "id": 10113,
+  "zh": "Portrait of a Man in Profi",
+  "qid": "Q21683623",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Antonio%20Boltraffio%20008.jpg",
+  "y": "1500",
+  "loc": "国家美术馆",
+  "a": "乔瓦尼·安东尼奥·博尔特拉菲奥"
+ },
+ {
+  "id": 10114,
+  "zh": "Madonna and Child",
+  "qid": "Q50893505",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Boltraffio%20Madonna-Kinde%20BudNatMus%201984.tiff",
+  "y": "1495",
+  "loc": "布达佩斯美术博物馆",
+  "a": "乔瓦尼·安东尼奥·博尔特拉菲奥"
+ },
+ {
+  "id": 10115,
+  "zh": "The Hunt in the Forest",
+  "qid": "Q3649296",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hunt%20in%20the%20forest%20by%20paolo%20uccello.jpg",
+  "y": "1470",
+  "loc": "意大利",
+  "a": "保罗·乌切洛"
+ },
+ {
+  "id": 10116,
+  "zh": "The Crucifixion with the V",
+  "qid": "Q3698199",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Uccello%20015.jpg",
+  "y": "1460",
+  "loc": "提森-博内米萨博物馆",
+  "a": "保罗·乌切洛"
+ },
+ {
+  "id": 10117,
+  "zh": "The Annunciation",
+  "qid": "Q15974328",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20uccello%2C%20annunciazione%20di%20oxford%2C%201425%20ca.jpg",
+  "y": "1420",
+  "loc": "阿須摩林博物館",
+  "a": "保罗·乌切洛"
+ },
+ {
+  "id": 10118,
+  "zh": "Painting of Jacopone da To",
+  "qid": "Q3637223",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20Uccello%20040.jpg",
+  "y": "1436",
+  "loc": "Palazzo Pretorio Museum",
+  "a": "保罗·乌切洛"
+ },
+ {
+  "id": 10119,
+  "zh": "Clock at Florence Cathedra",
+  "qid": "Q3886134",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20uccello%2C%20orologio%20di%20smf.jpg",
+  "y": "1443",
+  "loc": "聖母百花聖殿",
+  "a": "保罗·乌切洛"
+ },
+ {
+  "id": 10120,
+  "zh": "La Thébaïde",
+  "qid": "Q3982380",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paolo%20uccello%2C%20tebaide.jpg",
+  "y": "1460",
+  "loc": "學院美術館",
+  "a": "保罗·乌切洛"
+ },
+ {
+  "id": 10121,
+  "zh": "Leda and the Swan",
+  "qid": "Q3829346",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Leda%20and%20the%20Swan%201510-1515.jpg",
+  "y": "1510",
+  "loc": "鮑格才美術館",
+  "a": "切萨雷·达·塞斯托"
+ },
+ {
+  "id": 10122,
+  "zh": "Leda and the Swan",
+  "qid": "Q21606382",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Leda%20and%20the%20Swan%201505-1510.jpg",
+  "y": "1505",
+  "loc": "威爾頓莊園",
+  "a": "切萨雷·达·塞斯托"
+ },
+ {
+  "id": 10123,
+  "zh": "The Last Supper",
+  "qid": "Q4003124",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesare%20da%20Sesto%20-%20Ultima%20Cena%20%28copia%29.jpg",
+  "y": "1550",
+  "loc": "恩宠圣母",
+  "a": "切萨雷·达·塞斯托"
+ },
+ {
+  "id": 10124,
+  "zh": "Polittico di San Rocco by ",
+  "qid": "Q115219488",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesare%20da%20sesto%2C%20polittico%20di%20san%20rocco%2C%201523%2C%2001.JPG",
+  "y": "1523",
+  "loc": "斯福爾扎城堡畫廊",
+  "a": "切萨雷·达·塞斯托"
+ },
+ {
+  "id": 10125,
+  "zh": "Last Supper",
+  "qid": "Q4003120",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaudenzio%20ferrari%2C%20ultima%20cena.jpg",
+  "y": "1541",
+  "loc": "受难圣母堂",
+  "a": "加乌登齐奥·费拉里"
+ },
+ {
+  "id": 10126,
+  "zh": "The Martyrdom of Saint Cat",
+  "qid": "Q25445849",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaudenzio%20Ferrari%20-%20The%20Martyrdom%20of%20St%20Catherine%20of%20Alexandria%20-%20WGA7813.jpg",
+  "y": "1550",
+  "loc": "布雷拉画廊",
+  "a": "加乌登齐奥·费拉里"
+ },
+ {
+  "id": 10127,
+  "zh": "God the Father over the Pi",
+  "qid": "Q16161498",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Il%20Padre%20Eterno%20sopra%20piazza%20San%20Marco%20-%20Bonifacio%20de%27Pitati%20-%20gallerie%20Accademia%20Venice.jpg",
+  "y": "1540",
+  "loc": "學院美術館",
+  "a": "博尼法齐奥·韦罗内塞"
+ },
+ {
+  "id": 10128,
+  "zh": "聖露琪亞·德·馬紐里祭壇畫",
+  "qid": "Q2350980",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Domenico%20Veneziano%20-%20Pala%20di%20Santa%20Lucia%20dei%20Magnoli%20-%20Google%20Art%20Project.jpg",
+  "y": "1445",
+  "loc": "烏菲茲美術館",
+  "a": "多梅尼科·韦内齐亚诺"
+ },
+ {
+  "id": 10129,
+  "zh": "Adoration of the Magi",
+  "qid": "Q3605525",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Domenico%20Veneziano%20%28nachweisbar%201438%20-%201461%29%20-%20The%20Adoration%20of%20the%20Kings%20-%2095A%20-%20Gem%C3%A4ldegalerie.jpg",
+  "y": "1435",
+  "loc": "畫廊",
+  "a": "多梅尼科·韦内齐亚诺"
+ },
+ {
+  "id": 10130,
+  "zh": "與孩子的聖母",
+  "qid": "Q3842388",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Veneziano-madonna%20and%20child%20-%20burgundy%20xmas.jpg",
+  "y": "1450",
+  "loc": "Harvard University Center for Italian Renaissance Studies",
+  "a": "多梅尼科·韦内齐亚诺"
+ },
+ {
+  "id": 10131,
+  "zh": "與孩子的聖母",
+  "qid": "Q3842467",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20and%20child%2C%20domenico%20veneziano%2C%20washington.jpg",
+  "y": "1445",
+  "loc": "國家藝廊",
+  "a": "多梅尼科·韦内齐亚诺"
+ },
+ {
+  "id": 10132,
+  "zh": "St John the Baptist and St",
+  "qid": "Q3949348",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Domenico%20veneziano%2C%20St%20John%20the%20Baptist%20and%20St%20Francis.jpg",
+  "y": "1454",
+  "loc": "Museo dell'Opera di Santa Croce",
+  "a": "多梅尼科·韦内齐亚诺"
+ },
+ {
+  "id": 10133,
+  "zh": "Carnesecchi Tabernacle",
+  "qid": "Q3979941",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20and%20child%2C%20london.jpg",
+  "y": "1440",
+  "loc": "国家美术馆",
+  "a": "多梅尼科·韦内齐亚诺"
+ },
+ {
+  "id": 10134,
+  "zh": "Allegory of Music",
+  "qid": "Q964661",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dosso%20dossi%2C%20allegoria%20della%20musica.jpg",
+  "y": "1530",
+  "loc": "Museo Horne",
+  "a": "多索·多西"
+ },
+ {
+  "id": 10135,
+  "zh": "巫術 (多西)",
+  "qid": "Q3612423",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dosso%20Dossi%20004.jpg",
+  "y": "1535",
+  "loc": "烏菲茲美術館",
+  "a": "多索·多西"
+ },
+ {
+  "id": 10136,
+  "zh": "Jupiter, Mercury and Virtu",
+  "qid": "Q1282794",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dosso%20Dossi%20010.jpg",
+  "y": "1523",
+  "loc": "瓦維爾城堡",
+  "a": "多索·多西"
+ },
+ {
+  "id": 10137,
+  "zh": "Circe and Her Lovers in a ",
+  "qid": "Q3677473",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dosso%20Dossi%20003.jpg",
+  "y": "1525",
+  "loc": "國家藝廊",
+  "a": "多索·多西"
+ },
+ {
+  "id": 10138,
+  "zh": "Ercole e i pigmei",
+  "qid": "Q3731235",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dosso%20Dossi%20035.jpg",
+  "y": "1535",
+  "loc": "约翰州立博物馆",
+  "a": "多索·多西"
+ },
+ {
+  "id": 10139,
+  "zh": "大天使米迦勒及惡魔",
+  "qid": "Q17639414",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Michele%20e%20il%20demonio%2C%20Dosso%20Dossi.jpg",
+  "y": "1533",
+  "loc": "帕尔马国家美术馆",
+  "a": "多索·多西"
+ },
+ {
+  "id": 10140,
+  "zh": "Baptism of Christ",
+  "qid": "Q3636743",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Baptism%20of%20Christ%20by%20Cima%20da%20Conegliano.jpg",
+  "y": "1492",
+  "loc": "布拉戈拉圣若望堂",
+  "a": "奇马·达·科内利亚诺"
+ },
+ {
+  "id": 10141,
+  "zh": "聖母子與大天使米迦勒及使徒安德烈",
+  "qid": "Q797913",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cima%20da%20Conegliano%2C%20Madonna%20col%20Bambino%20tra%20i%20santi%20Michele%20Arcangelo%20e%20Andrea.jpg",
+  "y": "1497",
+  "loc": "帕尔马国家美术馆",
+  "a": "奇马·达·科内利亚诺"
+ },
+ {
+  "id": 10142,
+  "zh": "Annunciation",
+  "qid": "Q3618176",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cima%20da%20Conegliano%20004.jpg",
+  "y": "1495",
+  "loc": "埃尔米塔日博物馆",
+  "a": "奇马·达·科内利亚诺"
+ },
+ {
+  "id": 10143,
+  "zh": "聖母入聖殿",
+  "qid": "Q3910917",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cima%20da%20Conegliano%20003.jpg",
+  "y": "1496",
+  "loc": "历代大师画廊",
+  "a": "奇马·达·科内利亚诺"
+ },
+ {
+  "id": 10144,
+  "zh": "Dragan Altarpiece",
+  "qid": "Q3842544",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Accademia%20-%20Madonna%20col%20Bambino%20in%20trono%20e%20santi%20-%20Cima%20da%20Conegliano%20Cat.36.jpg",
+  "y": "1496",
+  "loc": "學院美術館",
+  "a": "奇马·达·科内利亚诺"
+ },
+ {
+  "id": 10145,
+  "zh": "Madonna and Child with Joh",
+  "qid": "Q3842551",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cima%20da%20conegliano%2C%20madonna%20in%20trono%20con%20santi%2C%20louvre.jpg",
+  "y": "1511",
+  "loc": "Room 710",
+  "a": "奇马·达·科内利亚诺"
+ },
+ {
+  "id": 10146,
+  "zh": "赫拉克勒斯與九頭蛇",
+  "qid": "Q3731236",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20del%20Pollaiolo%2C%20Ercole%20e%20l%27Idra%2C%201470-75%20ca.%20%28Uffizi%29%2002-edit.jpg",
+  "y": "1475",
+  "loc": "Pollaiolo, Room A10",
+  "a": "安东尼奥·德尔·波拉伊奥洛"
+ },
+ {
+  "id": 10147,
+  "zh": "赫拉克勒斯與安泰俄斯",
+  "qid": "Q3731227",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20del%20Pollaiolo%20-%20Ercole%20e%20Anteo.jpg",
+  "y": "1500",
+  "loc": "Pollaiolo, Room A10",
+  "a": "安东尼奥·德尔·波拉伊奥洛"
+ },
+ {
+  "id": 10148,
+  "zh": "Portrait of a Lady",
+  "qid": "Q3937782",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pollaiuolo%2C%20Antonio%20del%20-%20Portrait%20of%20a%20Lady%20-%20Uffizi.jpeg",
+  "y": "1475",
+  "loc": "烏菲茲美術館",
+  "a": "安东尼奥·德尔·波拉伊奥洛"
+ },
+ {
+  "id": 10149,
+  "zh": "Cardinal of Portugal's Alt",
+  "qid": "Q3889223",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20e%20piero%20del%20pollaiolo%2C%20santi%20vincenzo%2C%20jacopo%20e%20eustachio%2C%20da%20cappella%20del%20cardinale%20di%20portogallo.jpg",
+  "y": "1467",
+  "loc": "烏菲茲美術館",
+  "a": "安东尼奥·德尔·波拉伊奥洛"
+ },
+ {
+  "id": 10150,
+  "zh": "Battle of the Nudes",
+  "qid": "Q2984746",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart%201967.127.jpg",
+  "y": "1470",
+  "loc": "國家藝廊",
+  "a": "安东尼奥·德尔·波拉伊奥洛"
+ },
+ {
+  "id": 10151,
+  "zh": "Elevation of the Magdalen",
+  "qid": "Q3627404",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20del%20pollaiolo%2C%20assunzione%20di%20santa%20maria%20maddalena%2C%20staggia%20senese.jpg",
+  "y": "1460",
+  "loc": "Santa Maria Assunta a Staggia",
+  "a": "安东尼奥·德尔·波拉伊奥洛"
+ },
+ {
+  "id": 10152,
+  "zh": "加爾都西會聖母",
+  "qid": "Q3842607",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20del%20certosino-%20Pinacoteca%20di%20Brera-%20Bergognone.jpg",
+  "y": "1488",
+  "loc": "布雷拉画廊",
+  "a": "安布罗焦·贝尔戈尼奥内"
+ },
+ {
+  "id": 10153,
+  "zh": "Virgin of the Veil",
+  "qid": "Q3842639",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madonna%20del%20velo.Bergognone.jpg",
+  "y": "1495",
+  "loc": "布雷拉画廊",
+  "a": "安布罗焦·贝尔戈尼奥内"
+ },
+ {
+  "id": 10154,
+  "zh": "與孩子的聖母",
+  "qid": "Q3842444",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bergognone%2C%20Madonna%20col%20Bambino.jpg",
+  "y": "1488",
+  "loc": "国家美术馆",
+  "a": "安布罗焦·贝尔戈尼奥内"
+ },
+ {
+  "id": 10155,
+  "zh": "Torchio mistico",
+  "qid": "Q106869376",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1528%20-%20Milano%20S.%20Maria%20Immacolata%20-%20Borgognone%20%28attr.%20a%29%2C%20Xpo%20sotto%20il%20torchio%20-%20Foto%20G.%20Dall%27Orto%2C%2024-Sep-2007.jpg",
+  "y": "",
+  "loc": "Santa Maria Incoronata Church",
+  "a": "安布罗焦·贝尔戈尼奥内"
+ },
+ {
+  "id": 10156,
+  "zh": "The Head of Saint John the",
+  "qid": "Q3985176",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20solario%2C%20testa%20del%20battista.jpg",
+  "y": "1507",
+  "loc": "Room 710",
+  "a": "安德烈亚·索拉里"
+ },
+ {
+  "id": 10157,
+  "zh": "Crucifixion",
+  "qid": "Q18565915",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Crucifixion%2C%20par%20Andrea%20Solari.jpg",
+  "y": "1503",
+  "loc": "Room 710",
+  "a": "安德烈亚·索拉里"
+ },
+ {
+  "id": 10158,
+  "zh": "Madonna of the Green Cushi",
+  "qid": "Q18565917",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Solario%20-%20La%20Vierge%20au%20coussin%20vert%20%28Madonna%20of%20the%20Green%20Cushion%29%201507-10.jpeg",
+  "y": "1508",
+  "loc": "Room 710",
+  "a": "安德烈亚·索拉里"
+ },
+ {
+  "id": 10159,
+  "zh": "Annunciation",
+  "qid": "Q18565916",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20solario%2C%20annunciazione%2C%201506.JPG",
+  "y": "1506",
+  "loc": "林茨美術館",
+  "a": "安德烈亚·索拉里"
+ },
+ {
+  "id": 10160,
+  "zh": "Lamentation over the Dead ",
+  "qid": "Q18565919",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Solario%20-%20Lamentation%20over%20the%20Dead%20Christ%20-%20WGA21603.jpg",
+  "y": "1510",
+  "loc": "Room 710",
+  "a": "安德烈亚·索拉里"
+ },
+ {
+  "id": 10161,
+  "zh": "Madonna dei garofani",
+  "qid": "Q107553189",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Solario%20Madona%20dei%20garofani.jpg",
+  "y": "1495",
+  "loc": "布雷拉画廊",
+  "a": "安德烈亚·索拉里"
+ },
+ {
+  "id": 10162,
+  "zh": "A Blonde Woman",
+  "qid": "Q18688290",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Palma%20Vecchio%20-%20A%20Blonde%20Woman%20-%20Google%20Art%20Project.jpg",
+  "y": "1520",
+  "loc": "国家美术馆",
+  "a": "帕尔马·韦基奥"
+ },
+ {
+  "id": 10163,
+  "zh": "Resting Venus",
+  "qid": "Q3877083",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Palma%20Il%20Vecchio%20-%20Ruhende%20Venus%2C%20Um%201518-20%2C%20Gal.-Nr.%20190.jpg",
+  "y": "1518",
+  "loc": "历代大师画廊",
+  "a": "帕尔马·韦基奥"
+ },
+ {
+  "id": 10164,
+  "zh": "The Adoration of the Shepe",
+  "qid": "Q18573283",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Palma%20Vecchio%20-%20L%27Adoration%20des%20bergers%20avec%20une%20donatrice%2C%201584%2C%20INV%20402.jpg",
+  "y": "1520",
+  "loc": "蒙娜丽莎厅",
+  "a": "帕尔马·韦基奥"
+ },
+ {
+  "id": 10165,
+  "zh": "Portrait of a young woman ",
+  "qid": "Q21711570",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20una%20mujer%20joven%20llamada%20%22la%20Bella%22%2C%20por%20Palma%20el%20Viejo.jpg",
+  "y": "1519",
+  "loc": "提森-博内米萨博物馆",
+  "a": "帕尔马·韦基奥"
+ },
+ {
+  "id": 10166,
+  "zh": "Polittico di Santa Barbara",
+  "qid": "Q109767795",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Maria%20Formosa%2C%20cappella%20laterale%2C%20opere%20di%20Palma%20il%20Vecchio..jpg",
+  "y": "1524",
+  "loc": "至美圣玛利亚堂",
+  "a": "帕尔马·韦基奥"
+ },
+ {
+  "id": 10167,
+  "zh": "Judith",
+  "qid": "Q50752920",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Palma%20il%20Vecchio%20-%20Judith%20-%20WGA16936.jpg",
+  "y": "1525",
+  "loc": "烏菲茲美術館",
+  "a": "帕尔马·韦基奥"
+ },
+ {
+  "id": 10168,
+  "zh": "向總督呈交戒指",
+  "qid": "Q7758063",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Accademia%20-%20Presentazione%20dell%27anello%20al%20doge%20di%20Paris%20Bordone.jpg",
+  "y": "1534",
+  "loc": "學院美術館",
+  "a": "帕里斯·博尔多内"
+ },
+ {
+  "id": 10169,
+  "zh": "Allegory (Mars, Venus, Vic",
+  "qid": "Q20072665",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Paschalinus%20Bordon%2C%20gen.%20Bordone%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Allegorie%20%28Mars%2C%20Venus%2C%20Victoria%20und%20Cupido%29%20-%20GG%20120%20-%20Kunsthistorisches%20Museum.jpg",
+  "y": "1560",
+  "loc": "艺术史博物馆",
+  "a": "帕里斯·博尔多内"
+ },
+ {
+  "id": 10170,
+  "zh": "Two Chess Players",
+  "qid": "Q25394639",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Bordone%20%281500%20-%201571%29%20-%20Two%20Chess%20Players%20-%20169%20-%20Gem%C3%A4ldegalerie.jpg",
+  "y": "1542",
+  "loc": "畫廊",
+  "a": "帕里斯·博尔多内"
+ },
+ {
+  "id": 10171,
+  "zh": "Saints Mark, George and Ni",
+  "qid": "Q109931417",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venise%29%20I%20santi%20Marco%2C%20Giorgio%20e%20Nicola%20liberano%20Venezia%20dai%20demoni%20%28Burrasca%20di%20mare%29%20%28516%29%20-%20Gallerie%20Accademia.jpg",
+  "y": "1528",
+  "loc": "學院美術館",
+  "a": "帕里斯·博尔多内"
+ },
+ {
+  "id": 10172,
+  "zh": "Athena Scorning the Advanc",
+  "qid": "Q5710555",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Athena%20Scorning%20the%20Advances%20of%20Hephaestus.jpg",
+  "y": "1555",
+  "loc": "Museum of Art and Archaeology",
+  "a": "帕里斯·博尔多内"
+ },
+ {
+  "id": 10173,
+  "zh": "Venetian Lovers",
+  "qid": "Q30135606",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Bordone%20-%20Gli%20amanti%20veneziani%20-%20Pinacoteca%20Brera%2C%20Milano.jpg",
+  "y": "1527",
+  "loc": "布雷拉画廊",
+  "a": "帕里斯·博尔多内"
+ },
+ {
+  "id": 10174,
+  "zh": "Our Lady of Krasnobród",
+  "qid": "Q11795020",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MBKrasnobrodzka-orygina%C5%82.png",
+  "y": "",
+  "loc": "Church of the Visitation in Krasnobród",
+  "a": "弗朗切斯科·弗朗恰"
+ },
+ {
+  "id": 10175,
+  "zh": "Federigo Gonzaga (1500–154",
+  "qid": "Q19911703",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Federigo%20Gonzaga%20%281500%E2%80%931540%29%20MET%20DT227639.jpg",
+  "y": "1510",
+  "loc": "The Met Fifth Avenue",
+  "a": "弗朗切斯科·弗朗恰"
+ },
+ {
+  "id": 10176,
+  "zh": "Altar Bentivoglio",
+  "qid": "Q16038421",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Francia%20-%20Adoration%20of%20the%20Child%20-%20WGA08169.jpg",
+  "y": "1498",
+  "loc": "國立博洛尼亞美術館",
+  "a": "弗朗切斯科·弗朗恰"
+ },
+ {
+  "id": 10177,
+  "zh": "Madonna and Child with St ",
+  "qid": "Q21716688",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Francia%20-%20Madonna%20and%20Child%20with%20Sts%20Lawrence%20and%20Jerome%20-%20WGA08175.jpg",
+  "y": "1500",
+  "loc": "埃尔米塔日博物馆",
+  "a": "弗朗切斯科·弗朗恰"
+ },
+ {
+  "id": 10178,
+  "zh": "Gian Giorgio Trissino",
+  "qid": "Q18565839",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo%20Catena%20Portrait%20of%20Gian%20Giorgio%20Trissino.jpg",
+  "y": "1512",
+  "loc": "Room 710",
+  "a": "文森佐·卡泰纳"
+ },
+ {
+  "id": 10179,
+  "zh": "恩寵聖母多聯畫",
+  "qid": "Q3907531",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo%20foppa%2C%20pala%20di%20santa%20maria%20delle%20grazie.jpg",
+  "y": "1500",
+  "loc": "布雷拉画廊",
+  "a": "文森佐·福帕"
+ },
+ {
+  "id": 10180,
+  "zh": "讀書的聖母",
+  "qid": "Q3842622",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo%20Foppa%20002.jpg",
+  "y": "1460",
+  "loc": "斯福爾扎城堡畫廊",
+  "a": "文森佐·福帕"
+ },
+ {
+  "id": 10181,
+  "zh": "Crucifixion",
+  "qid": "Q3698205",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Foppa%20-%20Tre%20Crocifissi%2C%201450%20-%201455%2C%2058AC00040.jpg",
+  "y": "1450",
+  "loc": "卡拉拉学院",
+  "a": "文森佐·福帕"
+ },
+ {
+  "id": 10182,
+  "zh": "Young Cicero reading",
+  "qid": "Q3739203",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Young%20Cicero%20Reading.jpg",
+  "y": "1464",
+  "loc": "華勒斯典藏館",
+  "a": "文森佐·福帕"
+ },
+ {
+  "id": 10183,
+  "zh": "Madonna and Child with an ",
+  "qid": "Q3842533",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo%20foppa%2C%20madonna%20col%20bambino%20e%20un%20angelo%2C%201460%20circa%20%28da%20uffizi%29%2002.JPG",
+  "y": "1479",
+  "loc": "斯福爾扎城堡畫廊",
+  "a": "文森佐·福帕"
+ },
+ {
+  "id": 10184,
+  "zh": "Bottigella Altarpiece",
+  "qid": "Q3889194",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo%20foppa%2C%20pala%20bottigella.jpg",
+  "y": "1480",
+  "loc": "Malaspina Picture Gallery",
+  "a": "文森佐·福帕"
+ },
+ {
+  "id": 10185,
+  "zh": "Bentivoglio Altarpiece",
+  "qid": "Q3736352",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Costa%20-%20Giovanni%20II%20Bentivoglio%20and%20His%20Family%20-%20WGA05427.jpg",
+  "y": "1488",
+  "loc": "圣雅各伯圣殿",
+  "a": "洛伦佐·科斯塔"
+ },
+ {
+  "id": 10186,
+  "zh": "“神聖家族",
+  "qid": "Q25395402",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Costa%20-%20Nativity%20-%20WGA5430.jpg",
+  "y": "1490",
+  "loc": "里昂美术馆",
+  "a": "洛伦佐·科斯塔"
+ },
+ {
+  "id": 10187,
+  "zh": "Allegory of Isabella d'Est",
+  "qid": "Q3802301",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/All%C3%A9gorie%20de%20la%20cour%20d%27Isabelle%20d%27Este%20-%20Lorenzo%20Costa%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20255%20%3B%20MR%20168.jpg",
+  "y": "1512",
+  "loc": "Room 710",
+  "a": "洛伦佐·科斯塔"
+ },
+ {
+  "id": 10188,
+  "zh": "The Reign of Comus",
+  "qid": "Q3932055",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Costacomus.jpg",
+  "y": "1506",
+  "loc": "Room 710",
+  "a": "洛伦佐·科斯塔"
+ },
+ {
+  "id": 10189,
+  "zh": "Griffoni Polyptych",
+  "qid": "Q3907476",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/PolyptyqueGriffoniProbable.png",
+  "y": "1471",
+  "loc": "圣白托略大殿",
+  "a": "洛伦佐·科斯塔"
+ },
+ {
+  "id": 10190,
+  "zh": "A Concert",
+  "qid": "Q4231876",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo%20Costa%20-%20Un%20concerto%20%28National%20Gallery%2C%20London%29.jpg",
+  "y": "1490",
+  "loc": "国家美术馆",
+  "a": "洛伦佐·科斯塔"
+ },
+ {
+  "id": 10191,
+  "zh": "Christ the Redeemer alongs",
+  "qid": "Q3931520",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Meliore%2C%20dossale%20col%20redentore%2C%20la%20maodnna%2C%20s.%20giovanni%20e%20i%20ss.%20pietro%20e%20paolo%2C%201271%2C%2001.jpg",
+  "y": "1271",
+  "loc": "San Pancrazio Martire",
+  "a": "科西莫·罗塞利"
+ },
+ {
+  "id": 10192,
+  "zh": "Work of Saint Philip Beniz",
+  "qid": "Q4015931",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cosimo%20Rosselli%2C%20Vocazione%20di%20san%20Filippo%20Benizi%2C%201476%2C%2001.jpg",
+  "y": "1476",
+  "loc": "chiostrino dei Voti",
+  "a": "科西莫·罗塞利"
+ },
+ {
+  "id": 10193,
+  "zh": "Holy Family with Saints An",
+  "qid": "Q17652075",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/B%20Luini%20Sacra%20Famiglia%20con%20S%20Giovannino%20S%20Anna%20Milano%20Ambrosiana.jpg",
+  "y": "1517",
+  "loc": "Pinacoteca Ambrosiana",
+  "a": "贝尔纳迪诺·卢伊尼"
+ },
+ {
+  "id": 10194,
+  "zh": "Christ Among the Doctors",
+  "qid": "Q3697672",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernardino%20Luini%2C%20Cristo%20tra%20i%20dottori%2C%20londra.jpg",
+  "y": "1500",
+  "loc": "国家美术馆",
+  "a": "贝尔纳迪诺·卢伊尼"
+ },
+ {
+  "id": 10195,
+  "zh": "Ecce Homo",
+  "qid": "Q18086183",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luini%20Ecce%20Homo.jpg",
+  "y": "1525",
+  "loc": "瓦爾拉夫-里夏茨博物館",
+  "a": "贝尔纳迪诺·卢伊尼"
+ },
+ {
+  "id": 10196,
+  "zh": "Adoration of the Magi",
+  "qid": "Q3605518",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cella%2039%2C%20benozzo%20gozzoli%20e%20aiuti%2C%20adorazione%20dei%20magi%2C%201442-43%20circa%2001.jpg",
+  "y": "1500",
+  "loc": "國立聖馬可美術館",
+  "a": "贝诺佐·戈佐利"
+ },
+ {
+  "id": 10197,
+  "zh": "Deposition of Christ",
+  "qid": "Q3705706",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gozzoli%2C%20deposizione.jpg",
+  "y": "1491",
+  "loc": "Museo Horne",
+  "a": "贝诺佐·戈佐利"
+ },
+ {
+  "id": 10198,
+  "zh": "Triumph of St. Thomas Aqui",
+  "qid": "Q12902420",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Triomphe%20de%20saint%20Thomas%20d%27Aquin%20-%20Benozzo%20Gozzoli%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20INV%20104%20%3B%20MR%20255%20-%20avec%20cadre.jpg",
+  "y": "1472",
+  "loc": "比萨主教座堂",
+  "a": "贝诺佐·戈佐利"
+ },
+ {
+  "id": 10199,
+  "zh": "Purification of the Virgin",
+  "qid": "Q20809075",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gozzoli%20-%20Purification%20of%20the%20Virgin%2C%201461-1462.jpg",
+  "y": "",
+  "loc": "费城艺术博物馆",
+  "a": "贝诺佐·戈佐利"
+ },
+ {
+  "id": 10200,
+  "zh": "Stories from the Life of S",
+  "qid": "Q3974470",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sant%27agostino%2C%20interno%204%20s.g..jpg",
+  "y": "",
+  "loc": "圣吉米尼亚诺",
+  "a": "贝诺佐·戈佐利"
+ },
+ {
+  "id": 10201,
+  "zh": "Altarpiece of the three ar",
+  "qid": "Q15974347",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oggiono.jpg",
+  "y": "1516",
+  "loc": "布雷拉画廊",
+  "a": "马可·多焦诺"
+ },
+ {
+  "id": 10202,
+  "zh": "迦南的婚禮",
+  "qid": "Q32066758",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Marco%20d%27oggiono%2C%20nozze%20di%20cana%2C%201519-22%2C%20da%20s.m.%20della%20pace%2001.JPG",
+  "y": "1520",
+  "loc": "斯福爾扎城堡畫廊",
+  "a": "马可·多焦诺"
+ },
+ {
+  "id": 10203,
+  "zh": "Call of the Sons of Zebede",
+  "qid": "Q20091450",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Basaiti%2C%20Marco%20-%20Vocazione%20dei%20figli%20di%20Zebedeo%20-%20Gallerie%20dell%27Accademia%20di%20Venezia.jpg",
+  "y": "1510",
+  "loc": "Gallerie dell'Accademia - Hall II",
+  "a": "马尔科·巴萨伊蒂"
+ },
+ {
+  "id": 10204,
+  "zh": "Banquet of Herod",
+  "qid": "Q3633813",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masolino%2C%20banchetto%20di%20erode%2C%20castiglione%20olona.jpg",
+  "y": "1435",
+  "loc": "Baptistry",
+  "a": "马索利诺"
+ },
+ {
+  "id": 10205,
+  "zh": "與孩子的聖母",
+  "qid": "Q3842655",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masolino%2C%20madonna%20dell%27umilt%C3%A0%20monaco.jpg",
+  "y": "1435",
+  "loc": "老绘画陈列馆",
+  "a": "马索利诺"
+ },
+ {
+  "id": 10206,
+  "zh": "與孩子的聖母",
+  "qid": "Q3842390",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masolino%2C%20madonna%20dell%27umilt%C3%A0%20brema.jpg",
+  "y": "1423",
+  "loc": "不萊梅藝術館",
+  "a": "马索利诺"
+ },
+ {
+  "id": 10207,
+  "zh": "Paesaggio ungherese by Mas",
+  "qid": "Q3888861",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masolino%2C%20paesaggio%20ungherese%2C%201435%20ca.%2000.jpg",
+  "y": "1435",
+  "loc": "Palazzo Branda Castiglioni",
+  "a": "马索利诺"
+ },
+ {
+  "id": 10208,
+  "zh": "A Pope (Saint Gregory?) an",
+  "qid": "Q3949352",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masolino%2C%20santi%20gregorio%20magno%20e%20mattia.JPG",
+  "y": "1423",
+  "loc": "国家美术馆",
+  "a": "马索利诺"
+ }
+]
