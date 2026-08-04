@@ -1,0 +1,2061 @@
+{
+ "赵孟頫": {
+  "qid": "Q197461",
+  "works": [
+   {
+    "qid": "Q59168132",
+    "t": "鹊华秋色图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/2a%20Zhao%20Mengfu%20Autumn%20Colors%20on%20the%20Qiao%20and%20Hua%20Mountains%20%28central%20part%29Handscroll%2C%20ink%20and%20colors%20on%20paper%2C%2028.4%20x%2093.2%20cm%20National%20Palace%20Museum%2C%20Taipei.jpg",
+    "y": "1295",
+    "mat": "纸",
+    "loc": "國立故宮博物院",
+    "links": 4
+   },
+   {
+    "qid": "Q18683192",
+    "t": "二羊图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Mengfu%2C%20Sheep%20and%20Goat.jpg",
+    "y": "1300",
+    "mat": "纸",
+    "loc": "佛利尔美术馆",
+    "links": 3
+   },
+   {
+    "qid": "Q58464107",
+    "t": "Grooms and Horses",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%85%83%20%E8%B6%99%E5%AD%9F%E9%A0%AB%20%E8%B6%99%E9%9B%8D%20%E8%B6%99%E9%BA%9F%20%E5%90%B3%E8%88%88%E8%B6%99%E6%B0%8F%E4%B8%89%E4%B8%96%E4%BA%BA%E9%A6%AC%E5%9C%96%20%E5%8D%B7-Grooms%20and%20Horses%20MET%20DP213981%20CRD.jpg",
+    "y": "1327",
+    "mat": "纸",
+    "loc": "大都會藝術博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q59167417",
+    "t": "浴马图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Mengfu.%20Bathing%20Horses.%2028.1%20x%20155.5%20cm%20Palace%20Museum%2C%20Beijing..jpg",
+    "y": "1288",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 2
+   },
+   {
+    "qid": "Q59198712",
+    "t": "秋郊饮马图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Mengfu.%20Horse%20Herding%20in%20Autumn%20Countryside%201312%2023%2C6%D1%8559%D1%81%D0%BC%2C%20Palace%20Museum%2C%20Beijing.jpg",
+    "y": "1312",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 2
+   },
+   {
+    "qid": "Q59208406",
+    "t": "人骑图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E4%BA%BA%E9%AA%91%E5%9B%BE%E5%8D%B7.png",
+    "y": "1296",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q27894350",
+    "t": "Grooms Combing White Horse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Mengfu%20-%20Grooms%20Combing%20White%20Horse%20-%2064.790%20-%20Indianapolis%20Museum%20of%20Art.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q27894578",
+    "t": "Riders Leading a White Horse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Mengfu%20-%20Riders%20Leading%20a%20White%20Horse%20-%2055.209%20-%20Indianapolis%20Museum%20of%20Art.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "印第安納波利斯藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q49365138",
+    "t": "The Three Horse",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Mengfu%20-%20The%20Three%20Horse%20-%201954.40.2%20-%20Yale%20University%20Art%20Gallery.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "耶鲁大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q49365236",
+    "t": "The Eight Horses of King Mu",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Mengfu%20-%20The%20Eight%20Horses%20of%20King%20Mu%20-%201954.40.22%20-%20Yale%20University%20Art%20Gallery.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "耶鲁大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q60469078",
+    "t": "Bamboo, Rocks and Lonely Orchids",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Mengfu%20-%20Bamboo%2C%20Rocks%20and%20Lonely%20Orchids%20-%201963.515%20-%20Cleveland%20Museum%20of%20Art.tiff",
+    "y": "1319",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60473584",
+    "t": "River Village:  Fisherman's Joy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Mengfu%20-%20River%20Village-%20Fisherman%27s%20Joy%20-%201978.66%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1300",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   }
+  ]
+ },
+ "黄公望": {
+  "qid": "Q702525",
+  "works": [
+   {
+    "qid": "Q706846",
+    "t": "富春山居图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9C%96%28%E7%84%A1%E7%94%A8%E5%B8%AB%E5%8D%B7%29.jpg",
+    "y": "1348",
+    "mat": "纸",
+    "loc": "",
+    "links": 16
+   },
+   {
+    "qid": "Q16976930",
+    "t": "元黃公望富春山居圖（無用師卷）",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%85%83%E9%BB%83%E5%85%AC%E6%9C%9B%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9C%96%20%E5%8D%B7.png",
+    "y": "1338",
+    "mat": "纸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q16976941",
+    "t": "剩山圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9C%96%28%E5%89%A9%E5%B1%B1%E5%9C%96%29.jpg",
+    "y": "1350",
+    "mat": "纸",
+    "loc": "浙江省博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60476782",
+    "t": "Summer Mountains (after Dong Yuan [active about ad 937-975])",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Gongwang%20-%20Summer%20Mountains%20%28after%20Dong%20Yuan%20active%20about%20ad%20937-975%29%20-%201992.1%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1322",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116459294",
+    "t": "快雪时晴图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%B5%E5%AD%9F%E9%A0%AB%E9%BB%84%E5%85%AC%E6%9C%9B%E5%BE%90%E8%B4%B2%E4%B9%A6%E5%BF%AB%E9%9B%AA%E6%97%B6%E6%99%B4%E4%B9%A6%E7%94%BB%E5%90%88%E7%92%A7%E5%8D%B7.png",
+    "y": "1340",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459611",
+    "t": "黄公望九峰雪霁图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BB%84%E5%85%AC%E6%9C%9B%E4%B9%9D%E5%B3%B0%E9%9B%AA%E9%9C%81%E5%9B%BE%E8%BD%B4.png",
+    "y": "1340",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459638",
+    "t": "黄公望天池石壁图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BB%84%E5%85%AC%E6%9C%9B%E5%A4%A9%E6%B1%A0%E7%9F%B3%E5%A3%81%E5%9B%BE%E8%BD%B4.png",
+    "y": "1341",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459656",
+    "t": "黄公望丹崖玉树图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BB%84%E5%85%AC%E6%9C%9B%E4%B8%B9%E5%B4%96%E7%8E%89%E6%A0%91%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116557513",
+    "t": "黄公望赵雍合作山水卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BB%84%E5%85%AC%E6%9C%9B%E8%B5%B5%E9%9B%8D%E5%90%88%E4%BD%9C%E5%B1%B1%E6%B0%B4%E5%8D%B7.png",
+    "y": "",
+    "mat": "",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121416417",
+    "t": "傳元 黃公望 富春山居圖（子明卷）",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9C%96%28%E5%AD%90%E6%98%8E%E5%8D%B7%29.jpg",
+    "y": "1338",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q133853308",
+    "t": "Q133853308",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%85%83%E9%BB%83%E5%85%AC%E6%9C%9B%E4%B9%9D%E7%8F%A0%E5%B3%B0%E7%BF%A0%E5%9C%96%20%E8%BB%B8.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q137843663",
+    "t": "Q137843663",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%85%83%E9%BB%83%E5%85%AC%E6%9C%9B%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9C%96%20%E5%8D%B7.jpg",
+    "y": "1350",
+    "mat": "纸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "吴镇": {
+  "qid": "Q704735",
+  "works": [
+   {
+    "qid": "Q28092077",
+    "t": "梅竹雙清",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Twin%20Purities%20of%20Bamboo%20and%20Plum%20Blossom.jpg",
+    "y": "1350",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q60469046",
+    "t": "Poetic Feeling in a Thatched Pavilion",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Zhen%20-%20Poetic%20Feeling%20in%20a%20Thatched%20Pavilion%20-%201963.259%20-%20Cleveland%20Museum%20of%20Art.tiff",
+    "y": "1347",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60477515",
+    "t": "Fishermen-Hermits in Stream and Mountain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Zhen%20-%20Fishermen-Hermits%20in%20Stream%20and%20Mountain%20-%201997.93%20-%20Cleveland%20Museum%20of%20Art.tiff",
+    "y": "1327",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78854663",
+    "t": "吴镇《渔父图》轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Zhen%20-%20Fisherman%20-%201989.363.33%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1350",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78854708",
+    "t": "Crooked Pine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Zhen%20-%20Crooked%20Pine%20-%201985.120.1%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1335",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78871841",
+    "t": "Bamboo, old tree, and rock",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Zhen%20-%20Bamboo%2C%20old%20tree%2C%20and%20rock%20-%202012.526.1%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1338",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116459206",
+    "t": "吴镇溪山高隐图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%B4%E9%95%87%E6%BA%AA%E5%B1%B1%E9%AB%98%E9%9A%90%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459677",
+    "t": "吴镇渔父图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%B4%E9%95%87%E6%B8%94%E7%88%B6%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459690",
+    "t": "吴镇墨竹坡石图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%B4%E9%95%87%E5%A2%A8%E7%AB%B9%E5%9D%A1%E7%9F%B3%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116488916",
+    "t": "吴镇芦花寒雁图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%B4%E9%95%87%E8%8A%A6%E8%8A%B1%E5%AF%92%E9%9B%81%E5%9B%BE%E8%BD%B4.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121366748",
+    "t": "元吳鎮雙松圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Zhen.%20Twin%20Pines.%20180x111%2C4%20cm.%201328.%20National%20Palace%20Museum%2C%20Taipei.jpg",
+    "y": "1328",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121366754",
+    "t": "元吳鎮漁父圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Zhen%20-%20Fisherman.jpg",
+    "y": "1342",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "倪瓒": {
+  "qid": "Q731030",
+  "works": [
+   {
+    "qid": "Q22959711",
+    "t": "六君子图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%20-%20Six%20Gentlemen.jpg",
+    "y": "1345",
+    "mat": "",
+    "loc": "上海博物馆",
+    "links": 4
+   },
+   {
+    "qid": "Q20268236",
+    "t": "Poetic Thoughts in a Forest Pavilion",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%20-%20Poetic%20Thoughts%20in%20a%20Forest%20Pavilion%20-%201996.432%20-%20Art%20Institute%20of%20Chicago.jpg",
+    "y": "1371",
+    "mat": "",
+    "loc": "芝加哥艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q28801632",
+    "t": "Twin Trees by the South Bank (Annan shuangshu)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%20%E5%80%AA%E7%93%9A%20-%20Twin%20Trees%20by%20the%20South%20Bank%20%28An%20nan%20shuang%20shu%20tu%20%E5%B2%B8%E5%8D%97%E9%9B%99%E6%A8%B9%E5%9C%96%29%20-%20y1975-35%20-%20Princeton%20University%20Art%20Museum.jpg",
+    "y": "1353",
+    "mat": "纸",
+    "loc": "普林斯頓大學美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q60473578",
+    "t": "Bamboo, Rock, and Tall Tree",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%20-%20Bamboo%2C%20Rock%2C%20and%20Tall%20Tree%20-%201978.65%20-%20Cleveland%20Museum%20of%20Art.tiff",
+    "y": "1349",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78845512",
+    "t": "虞山林壑圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%20-%20Woods%20and%20Valleys%20of%20Mount%20Yu%20-%201973.120.8%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1372",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78845541",
+    "t": "Enjoying the Wilderness in an Autumn Grove",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%20-%20Enjoying%20the%20Wilderness%20in%20an%20Autumn%20Grove%20-%201989.363.38%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1339",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78855139",
+    "t": "Wind among the Trees on the Riverbank",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ni%20Zan%20-%20Wind%20among%20the%20Trees%20on%20the%20Riverbank%20-%201989.363.39%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1363",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116459226",
+    "t": "倪瓒林亭远岫图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%80%AA%E7%93%92%E6%9E%97%E4%BA%AD%E8%BF%9C%E5%B2%AB%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459228",
+    "t": "倪瓒古木幽篁图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%80%AA%E7%93%92%E5%8F%A4%E6%9C%A8%E5%B9%BD%E7%AF%81%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459570",
+    "t": "倪瓒幽涧寒松图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%80%AA%E7%93%92%E5%B9%BD%E6%B6%A7%E5%AF%92%E6%9D%BE%E5%9B%BE%E8%BD%B4.png",
+    "y": "1370",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459598",
+    "t": "倪瓒梧竹秀石图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%80%AA%E7%93%92%E6%A2%A7%E7%AB%B9%E7%A7%80%E7%9F%B3%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459604",
+    "t": "王绎倪瓒杨竹西小像卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%8E%8B%E7%BB%8E%E5%80%AA%E7%93%92%E6%9D%A8%E7%AB%B9%E8%A5%BF%E5%B0%8F%E5%83%8F%E5%8D%B7.png",
+    "y": "1363",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   }
+  ]
+ },
+ "钱选": {
+  "qid": "Q951585",
+  "works": [
+   {
+    "qid": "Q29383319",
+    "t": "王羲之观鹅图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%85%83%20%E9%8C%A2%E9%81%B8%20%E7%8E%8B%E7%BE%B2%E4%B9%8B%E8%A7%80%E9%B5%9D%E5%9C%96%20%E5%8D%B7-Wang%20Xizhi%20watching%20geese%20MET%20DP273822.jpg",
+    "y": "1295",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q107046904",
+    "t": "Court Lady",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BC%9D%E9%8A%AD%E8%88%9C%E6%8C%99%E3%80%8A%E5%AE%AE%E5%A5%B3%E5%9B%B3%EF%BC%88%E4%BC%9D%E6%A1%93%E9%87%8E%E7%8E%8B%E5%9B%B3%EF%BC%89%E3%80%8B13%E4%B8%96%E7%B4%80%EF%BD%9E14%E4%B8%96%E7%B4%80%E3%80%81%20%E4%B8%AD%E5%9B%BD%20%E5%85%83%E6%99%82%E4%BB%A3%E3%80%81%E5%80%8B%E4%BA%BA%E8%94%B5.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "京都國立博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q121408309",
+    "t": "宋錢選蘭亭觀鵝圖　卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/3%20Qian%20Xuan%20Wang%20Xizhi%20Watching%20Geese.%20%2823%2C2x92%2C7cm%29%20Version%20from%20National%20Palace%20Museum%2C%20Taipei.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q46942464",
+    "t": "Doves and Pear Blossoms after Rain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Qian%20Xuan%20-%20Doves%20and%20Pear%20Blossoms%20after%20Rain%20-%20Google%20Art%20Project.jpg",
+    "y": "1250",
+    "mat": "",
+    "loc": "辛辛那提艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q60471065",
+    "t": "钱选《花鸟图》卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Qian%20Xuan%20-%20Flowers%20and%20Birds%20-%201970.70%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1325",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q64513498",
+    "t": "Flower Vase with Pink Lotus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Qian%20Xuan%20-%20Flower%20Vase%20with%20Pink%20Lotus%20-%2020.1042%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q64513608",
+    "t": "荷塘早秋图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Qian%20Xuan%20-%20Early%20Autumn%20-%2029.1%20-%20Detroit%20Institute%20of%20Arts.jpg",
+    "y": "1250",
+    "mat": "",
+    "loc": "底特律藝術學院",
+    "links": 0
+   },
+   {
+    "qid": "Q64513660",
+    "t": "Fish Swimming among Reeds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Qian%20Xuan%20-%20Fish%20Swimming%20among%20Reeds%20-%2066.281.1%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q78861096",
+    "t": "Ode on Returning Home",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Qian%20Xuan%20-%20Ode%20on%20Returning%20Home%20-%2013.220.124%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1399",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q104531979",
+    "t": "Krab i kwiaty",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Xuan%20Qian%20-%20Krab%20i%20kwiaty%20-%20SKAZmr%2049%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116445715",
+    "t": "八花图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%92%B1%E9%80%89%E5%85%AB%E8%8A%B1%E5%9B%BE%E5%8D%B7.png",
+    "y": "1250",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459389",
+    "t": "钱选孤山图卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%92%B1%E9%80%89%E5%AD%A4%E5%B1%B1%E5%9B%BE%E5%8D%B7.png",
+    "y": "",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   }
+  ]
+ },
+ "王冕": {
+  "qid": "Q700068",
+  "works": [
+   {
+    "qid": "Q28092077",
+    "t": "梅竹雙清",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Twin%20Purities%20of%20Bamboo%20and%20Plum%20Blossom.jpg",
+    "y": "1350",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q49349189",
+    "t": "Ink Plum",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Mian%20-%20Ink%20Plum%20-%201954.40.3%20-%20Yale%20University%20Art%20Gallery.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "耶鲁大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q60472608",
+    "t": "A Prunus in the Moonlight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Mian%20-%20A%20Prunus%20in%20the%20Moonlight%20-%201974.26%20-%20Cleveland%20Museum%20of%20Art.tiff",
+    "y": "1349",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78864211",
+    "t": "Fragrant Snow at Broken Bridge",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Mian%20-%20Fragrant%20Snow%20at%20Broken%20Bridge%20-%201973.121.9%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1323",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q121338662",
+    "t": "墨梅图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%8E%8B%E5%86%95%20%E5%A2%A8%E6%A2%85%E5%9B%BE%E8%BD%B4.jpg",
+    "y": "1355",
+    "mat": "纸",
+    "loc": "上海博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q121338680",
+    "t": "墨梅圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Mian-Ink%20Plum2.jpg",
+    "y": "1346",
+    "mat": "纸",
+    "loc": "上海博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q121338762",
+    "t": "赵雍等元五家合绘卷-墨梅图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Mian-Ink%20Plum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121338826",
+    "t": "元王冕畫南枝春早　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Mian%2C%20Plum%20Blossoms%20in%20Early%20Spring.jpg",
+    "y": "1353",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121338844",
+    "t": "元王冕畫南枝春早　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Mian%2C%20Blossoming%20Plum.jpg",
+    "y": "1357",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "高克恭": {
+  "qid": "Q3095236",
+  "works": [
+   {
+    "qid": "Q116459688",
+    "t": "高克恭墨竹坡石图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%AB%98%E5%85%8B%E6%81%AD%E5%A2%A8%E7%AB%B9%E5%9D%A1%E7%9F%B3%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121363535",
+    "t": "元高克恭雲橫秀嶺　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kao%20K%27o-kung%20002.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "李衎": {
+  "qid": "Q6538909",
+  "works": []
+ },
+ "柯九思": {
+  "qid": "Q2470693",
+  "works": [
+   {
+    "qid": "Q78871896",
+    "t": "Bamboo after Wen Tong",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ke%20Jiusi%20-%20Bamboo%20after%20Wen%20Tong%20-%202006.571%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1343",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q106771466",
+    "t": "Shangjing Palace Poems (Shangjing gong ci)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ke%20Jiusi%20%E6%9F%AF%E4%B9%9D%E6%80%9D%20-%20Shangjing%20Palace%20Poems%20%28Shangjing%20gong%20ci%29%20-%201998-55%20-%20Princeton%20University%20Art%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "普林斯頓大學美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q116459695",
+    "t": "柯九思清閟阁墨竹图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9F%AF%E4%B9%9D%E6%80%9D%E6%B8%85%E9%96%9F%E9%98%81%E5%A2%A8%E7%AB%B9%E5%9B%BE%E8%BD%B4.png",
+    "y": "1338",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q132594080",
+    "t": "元  柯九思  双竹图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9F%AF%E4%B9%9D%E6%80%9D%20%E5%8F%8C%E7%AB%B9%E5%9B%BE%E8%BD%B4.jpg",
+    "y": "",
+    "mat": "纸",
+    "loc": "上海博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q132603007",
+    "t": "北宋 苏轼枯木竹石文同墨竹图合卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9F%AF%E4%B9%9D%E6%80%9D%20%E5%A2%A8%E7%AB%B9%E5%9B%BE%E5%8D%B7.jpg",
+    "y": "",
+    "mat": "纸",
+    "loc": "上海博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "范宽": {
+  "qid": "Q1278559",
+  "works": [
+   {
+    "qid": "Q15907822",
+    "t": "谿山行旅",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B0%BF%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9B%BE%E8%BD%B4.%E6%BA%AA%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9B%BE.%E5%AE%8B.%E8%8C%83%E5%AE%BD.%E7%BB%A2%E6%9C%AC%E6%B5%85%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
+    "y": "1000",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 3
+   },
+   {
+    "qid": "Q121363390",
+    "t": "宋范寬臨流獨坐圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fan%20Kuan-Sitting%20Alone%20by%20a%20Stream.jpg",
+    "y": "1050",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q133155407",
+    "t": "宋范宽雪景寒林图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Xuejinghanlintu.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "天津博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q137921509",
+    "t": "Q137921509",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E8%8C%83%E5%AF%AC%E8%B0%BF%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9C%96%20%E8%BB%B8.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q137936252",
+    "t": "Q137936252",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E8%8C%83%E5%AF%AC%E8%87%A8%E6%B5%81%E7%8D%A8%E5%9D%90%E5%9C%96%20%E8%BB%B8.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q138047538",
+    "t": "Q138047538",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E8%8C%83%E5%AF%AC%E7%A7%8B%E6%9E%97%E9%A3%9B%E7%80%91%20%E8%BB%B8.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "李成": {
+  "qid": "Q6538676",
+  "works": []
+ },
+ "郭熙": {
+  "qid": "Q536645",
+  "works": [
+   {
+    "qid": "Q5136665",
+    "t": "早春圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%97%A9%E6%98%A5%E5%9B%BE%E8%BD%B4.%E5%8C%97%E5%AE%8B.%E9%83%AD%E7%86%99%E7%BB%98.%E7%BB%A2%E6%9C%AC%E6%B5%85%E8%AE%BE%E8%89%B2.%E5%AE%8B%E7%A5%9E%E5%AE%97%E7%86%99%E5%AE%81%E4%BA%94%E5%B9%B4.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif",
+    "y": "1072",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 7
+   },
+   {
+    "qid": "Q29383298",
+    "t": "北宋 郭熙 樹色平遠圖 卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8C%97%E5%AE%8B%20%E9%83%AD%E7%86%99%20%E6%A8%B9%E8%89%B2%E5%B9%B3%E9%81%A0%E5%9C%96%20%E5%8D%B7%20-Old%20Trees%2C%20Level%20Distance%20MET%20DP167812.jpg",
+    "y": "1080",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q132600730",
+    "t": "幽谷图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%83%AD%E7%86%99%20%E5%B9%BD%E8%B0%B7%E5%9B%BE%E8%BD%B4.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "上海博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q116459615",
+    "t": "郭熙窠石平远图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%83%AD%E7%86%99%E7%AA%A0%E7%9F%B3%E5%B9%B3%E8%BF%9C%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121336365",
+    "t": "宋郭熙觀碑圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%A7%82%E7%A2%91%E5%9B%BE%E8%BD%B4.%E4%BC%A0%E5%AE%8B.%E9%83%AD%E7%86%99%E7%BB%98.%E7%BA%B8%E6%9C%AC%E6%B0%B4%E5%A2%A8.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
+    "y": "",
+    "mat": "纸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121363493",
+    "t": "宋郭熙山莊高逸　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guo%20Xi%20otshelnik.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121412237",
+    "t": "宋郭熙寒林圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Winter%20forest.png",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121414892",
+    "t": "宋郭熙豐年瑞雪圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhou%20Wenjing-Prosperous%20Year%20and%20Timely%20Snow.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q132600728",
+    "t": "宋  郭熙 古木遥山图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%83%AD%E7%86%99%20%E5%8F%A4%E6%9C%A8%E9%81%A5%E5%B1%B1%E5%9B%BE%E8%BD%B4.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "上海博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q137921522",
+    "t": "Q137921522",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E9%83%AD%E7%86%99%E6%97%A9%E6%98%A5%E5%9C%96%20%E8%BB%B8.jpg",
+    "y": "1072",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "董源": {
+  "qid": "Q890613",
+  "works": [
+   {
+    "qid": "Q47507824",
+    "t": "瀟湘圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Xiao%20and%20Xiang%20rivers.jpg",
+    "y": "0950",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q78872061",
+    "t": "溪岸图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dong%20Yuan%20-%20Riverbank%20-%202016.750%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q132692045",
+    "t": "夏山图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%91%A3%E6%BA%90%20%E5%A4%8F%E5%B1%B1%E5%9B%BE%E5%8D%B7.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "上海博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q134843750",
+    "t": "五代董源夏景山口待渡图卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dong%20Yuan.%20Jiangnan%20Summer%20View.%2050%D1%85320%D1%81%D0%BC.%20Liaoning%20Provincial%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "辽宁省博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q110184554",
+    "t": "五代南唐董源洞天山堂　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dong%20Yuan%20Mountain%20Hall.jpg",
+    "y": "0950",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116557259",
+    "t": "董源夏山欲雨图卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%91%A3%E6%BA%90%E5%A4%8F%E5%B1%B1%E6%AC%B2%E9%9B%A8%E5%9B%BE%E5%8D%B7.png",
+    "y": "",
+    "mat": "",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121336831",
+    "t": "五代董源江堤晚景　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%B1%9F%E5%A0%A4%E6%99%9A%E6%99%AF%E5%9B%BE%E8%BD%B4.%E4%BA%94%E4%BB%A3%E8%91%A3%E6%BA%90.%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121363383",
+    "t": "五代南唐董源龍宿郊民圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BE%99%E5%AE%BF%E9%83%8A%E6%B0%91%E5%9B%BE%E8%BD%B4.%E4%BC%A0%E4%BA%94%E4%BB%A3%E5%8D%97%E5%94%90%E8%91%A3%E6%BA%90%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif",
+    "y": "0950",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q137855550",
+    "t": "Q137855550",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%94%E4%BB%A3%E5%8D%97%E5%94%90%E8%91%A3%E6%BA%90%E9%BE%8D%E5%AE%BF%E9%83%8A%E6%B0%91%E5%9C%96%20%E8%BB%B8.jpg",
+    "y": "",
+    "mat": "絹",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q137908180",
+    "t": "Q137908180",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%94%E4%BB%A3%E8%91%A3%E6%BA%90%E6%B1%9F%E5%A0%A4%E6%99%9A%E6%99%AF%20%E8%BB%B8.jpg",
+    "y": "",
+    "mat": "絹",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q137921496",
+    "t": "Q137921496",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%94%E4%BB%A3%E5%8D%97%E5%94%90%E8%91%A3%E6%BA%90%E6%B4%9E%E5%A4%A9%E5%B1%B1%E5%A0%82%20%E8%BB%B8.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "巨然": {
+  "qid": "Q348182",
+  "works": []
+ },
+ "李唐": {
+  "qid": "Q716331",
+  "works": [
+   {
+    "qid": "Q15931105",
+    "t": "萬壑松風圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Tang%20-%20Wind%20in%20Pines%20Among%20a%20Myriad%20Valleys.jpg",
+    "y": "1124",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q133155367",
+    "t": "宋人濠梁秋水卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%20%E6%9D%8E%E5%94%90%20%E6%BF%A0%E6%BF%AE%E5%9C%96%E5%8D%B7.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "天津博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q78865786",
+    "t": "晉文公復國圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E5%AE%8B%20%E5%82%B3%E6%9D%8E%E5%94%90%20%E6%99%89%E6%96%87%E5%85%AC%E5%BE%A9%E5%9C%8B%E5%9C%96%20%E5%8D%B7-Duke%20Wen%20of%20Jin%20Recovering%20His%20State%20MET%20DP152403.jpg",
+    "y": "1150",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116459623",
+    "t": "李唐采薇图卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E5%94%90%E9%87%87%E8%96%87%E5%9B%BE%E5%8D%B7.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116606965",
+    "t": "长夏江寺图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Tang%2C%20River%20Temple%20in%20the%20Long%20Summer%2C%20handscroll%2C%20color%20on%20silk%2C%20Palace%20Museum%2C%20Beijing.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121366642",
+    "t": "宋李唐江山小景　卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Tang%20-%20Intimate%20Scenery%20of%20River%20and%20Mountains.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121409287",
+    "t": "藝苑藏真（上）　冊　宋李唐坐石看雲",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Tang-Sitting%20on%20Rocks%20Gazing%20at%20the%20Mist.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q124292865",
+    "t": "宋李唐炙艾圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%82%99%E8%89%BE%E5%9B%BE%E8%BD%B4.%E5%AE%8B.%E6%9D%8E%E5%94%90%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q124300551",
+    "t": "宋李唐乳牛圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B9%B3%E7%89%9B%E5%9B%BE%E8%BD%B4.%E4%BC%A0%E5%AE%8B%E6%9D%8E%E5%94%90%E7%BB%98.%E7%BB%A2%E6%9C%AC%E6%B5%85%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q137843628",
+    "t": "Q137843628",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E6%9D%8E%E5%94%90%E7%82%99%E8%89%BE%E5%9C%96%20%E8%BB%B8.jpg",
+    "y": "",
+    "mat": "絹",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q137921545",
+    "t": "Q137921545",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E6%9D%8E%E5%94%90%E8%90%AC%E5%A3%91%E6%9D%BE%E9%A2%A8%E5%9C%96%20%E8%BB%B8.jpg",
+    "y": "1124",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q139379559",
+    "t": "Q139379559",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E6%9D%8E%E5%94%90%E6%B1%9F%E5%B1%B1%E5%B0%8F%E6%99%AF%20%E5%8D%B7.jpg",
+    "y": "1070",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "马远": {
+  "qid": "Q433603",
+  "works": [
+   {
+    "qid": "Q7962508",
+    "t": "山徑春行",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%8D%E7%BB%98%E9%9B%86%E7%8F%8D%E5%86%8C%2013%20%E5%8D%97%E5%AE%8B%20%E9%A9%AC%E8%BF%9C%20%E5%B1%B1%E5%BE%84%E6%98%A5%E8%A1%8C.jpg",
+    "y": "1190",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 2
+   },
+   {
+    "qid": "Q107045014",
+    "t": "Landscape in Wind and Rain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wind%20and%20Rain.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "靜嘉堂文庫",
+    "links": 1
+   },
+   {
+    "qid": "Q60469749",
+    "t": "Bamboo and Ducks by a Rushing Stream",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Bamboo%20and%20Ducks%20by%20a%20Rushing%20Stream%20-%201967.145%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1203",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60471889",
+    "t": "The Football Players",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20The%20Football%20Players%20-%201971.26%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1207",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60477493",
+    "t": "Watching the Deer by a Pine Shaded Stream",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Watching%20the%20Deer%20by%20a%20Pine%20Shaded%20Stream%20-%201997.88%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1203",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60477498",
+    "t": "Drinking in the Moonlight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Drinking%20in%20the%20Moonlight%20-%201997.89%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1189",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78851953",
+    "t": "Viewing plum blossoms by moonlight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Viewing%20plum%20blossoms%20by%20moonlight%20-%201986.493.2%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1216",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78864070",
+    "t": "高士觀瀑圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20-%20Scholar%20viewing%20a%20waterfall%20-%201973.120.9%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1207",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78995238",
+    "t": "Conversation in a Cave",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E5%AE%8B%20%E4%BD%9A%E5%90%8D%20%E5%80%A3%E9%A6%AC%E9%81%A0%20%E6%B4%9E%E5%A4%A9%E8%AB%96%E9%81%93%E5%9C%96%20%E5%9C%98%E6%89%87-Conversation%20in%20a%20Cave%20MET%20DP153499.jpg",
+    "y": "1212",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78996734",
+    "t": "Viewing the Moon under a Pine Tree",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E5%AE%8B%20%E4%BD%9A%E5%90%8D%20%E5%80%A3%E9%A6%AC%E9%81%A0%20%E6%9D%BE%E9%99%B0%E7%8E%A9%E6%9C%88%E5%9C%96%20%E5%86%8A%E9%A0%81-Viewing%20the%20Moon%20under%20a%20Pine%20Tree%20MET%20DP153498.jpg",
+    "y": "1216",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q106767258",
+    "t": "Scholar and Pine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20%28%E9%A6%AC%20%E9%81%A0%29%20-%20Scholar%20and%20Pine%20-%20y1947-178%20-%20Princeton%20University%20Art%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "普林斯頓大學美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q106771047",
+    "t": "Cottage in Snowy Mountains",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Yuan%20%28%E9%A6%AC%20%E9%81%A0%29%20-%20Cottage%20in%20Snowy%20Mountains%20-%20y1947-145%20-%20Princeton%20University%20Art%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "普林斯頓大學美術館",
+    "links": 0
+   }
+  ]
+ },
+ "夏圭": {
+  "qid": "Q1360244",
+  "works": [
+   {
+    "qid": "Q15904093",
+    "t": "宋夏珪溪山清遠　卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%BA%AA%E5%B1%B1%E6%B8%85%E8%BF%9C%E5%9B%BE.jpg",
+    "y": "",
+    "mat": "纸",
+    "loc": "國立故宮博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q121362966",
+    "t": "宋夏圭長江萬里圖　卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%95%BF%E6%B1%9F%E4%B8%87%E9%87%8C%E5%9B%BE.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q28798274",
+    "t": "Twelve Views of Landscape (Shan-shui shih-erh-ching)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Xia%20Gui%20-%20Twelve%20Views%20of%20Landscape%20%28Shan-shui%20shih-erh-ching%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1203",
+    "mat": "",
+    "loc": "纳尔逊艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q78863910",
+    "t": "Windswept Lakeshore",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E5%AE%8B%20%E5%82%B3%E5%A4%8F%E7%8F%AA%20%E6%BE%A4%E7%95%94%E7%96%BE%E9%A2%A8%E5%9C%96%20%E5%9C%98%E6%89%87-Windswept%20Lakeshore%20MET%20DP160430.jpg",
+    "y": "1212",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78865548",
+    "t": "Xiantang Estuary",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP154417.jpg",
+    "y": "1200",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q79001126",
+    "t": "山市晴嵐圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E5%AE%8B%20%E5%A4%8F%E7%8F%AA%20%E5%B1%B1%E5%B8%82%E6%99%B4%E5%B5%90%E5%9C%96%20%E5%86%8A%E9%A0%81-Mountain%20Market%2C%20Clearing%20Mist%20MET%20DP154073.jpg",
+    "y": "1215",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116458848",
+    "t": "夏圭梧竹溪堂页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%8F%E5%9C%AD%E6%A2%A7%E7%AB%B9%E6%BA%AA%E5%A0%82%E9%A1%B5.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116458850",
+    "t": "夏圭遥岑烟霭图页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%8F%E5%9C%AD%E9%81%A5%E5%B2%91%E7%83%9F%E9%9C%AD%E5%9B%BE%E9%A1%B5.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459177",
+    "t": "夏圭雪溪放牧图页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%8F%E5%9C%AD%E9%9B%AA%E6%BA%AA%E6%94%BE%E7%89%A7%E5%9B%BE%E9%A1%B5.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459328",
+    "t": "夏圭烟岫林居图页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%8F%E5%9C%AD%E7%83%9F%E5%B2%AB%E6%9E%97%E5%B1%85%E5%9B%BE%E9%A1%B5.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116488889",
+    "t": "夏圭雪堂客话图页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%8F%E5%9C%AD%E9%9B%AA%E5%A0%82%E5%AE%A2%E8%AF%9D%E5%9B%BE%E9%A1%B5.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121127135",
+    "t": "名繪集珍　冊 　宋夏珪松厓客話",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%8D%E7%BB%98%E9%9B%86%E7%8F%8D%E5%86%8C%2015%20%E5%8D%97%E5%AE%8B%20%E5%A4%8F%E7%8F%AA%20%E6%9D%BE%E5%8E%93%E5%AE%A2%E8%AF%9D.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "刘松年": {
+  "qid": "Q3083484",
+  "works": [
+   {
+    "qid": "Q60475259",
+    "t": "Listening to the Qin (Zither)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Songnian%20-%20Listening%20to%20the%20Qin%20%28Zither%29%20-%201983.85%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1187",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q64512312",
+    "t": "Winter Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Songnian%20-%20Winter%20Landscape%20-%2018.511%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q64513072",
+    "t": "Gathering of Daoist Immortals",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Songnian%20-%20Gathering%20of%20Daoist%20Immortals%20-%2021.091%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q64519352",
+    "t": "The Gathering at the Orchid Pavilion",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Songnian%20-%20The%20Gathering%20at%20the%20Orchid%20Pavilion%20-%2066.281.3%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q64520581",
+    "t": "Nine Egrets in a Lotus Pond",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Songnian%20-%20Nine%20Egrets%20in%20a%20Lotus%20Pond%20-%2020.315%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q78855250",
+    "t": "Streams and Mountains Under Fresh Snow",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E5%AE%8B%20%E5%82%B3%E5%8A%89%E6%9D%BE%E5%B9%B4%20%E5%80%A3%E9%AB%98%E5%85%8B%E6%98%8E%E6%BA%AA%E5%B1%B1%E9%9B%AA%E6%84%8F%E5%9C%96%20%E5%8D%B7-Streams%20and%20Mountains%20Under%20Fresh%20Snow%20MET%20DP152434%20CRD.jpg",
+    "y": "1187",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116414347",
+    "t": "四景山水图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%88%98%E6%9D%BE%E5%B9%B4%E5%9B%9B%E6%99%AF%E5%B1%B1%E6%B0%B4%E5%9B%BE%E5%8D%B7.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121127130",
+    "t": "名繪集珍　冊 　宋劉松年天女獻花",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%8D%E7%BB%98%E9%9B%86%E7%8F%8D%E5%86%8C%2012%20%E5%8D%97%E5%AE%8B%20%E5%88%98%E6%9D%BE%E5%B9%B4%20%E5%A4%A9%E5%A5%B3%E7%8C%AE%E8%8A%B1.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121336686",
+    "t": "宋劉松年西園雅集　卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Literary%20Gathering%20in%20the%20Western%20Garden%20-%20Attributed%20to%20Liu%20Songnian.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121336714",
+    "t": "宋劉松年春社圖　卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%98%A5%E7%A4%BE%E5%9B%BE%E5%8D%B7.%E4%BC%A0%E5%AE%8B%E5%AD%9D%E5%AE%97%E6%B7%B3%E7%86%99%E5%9B%9B%E5%B9%B4.%E5%88%98%E6%9D%BE%E5%B9%B4%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121366675",
+    "t": "宋劉松年畫羅漢　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Songnian-Luohan.jpg",
+    "y": "1207",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121366684",
+    "t": "宋劉松年畫羅漢　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Songnian-Luohan2.jpg",
+    "y": "1207",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "张择端": {
+  "qid": "Q197342",
+  "works": [
+   {
+    "qid": "Q714802",
+    "t": "清明上河圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alongtheriver%20QingMing.jpg",
+    "y": "1085",
+    "mat": "丝绸",
+    "loc": "故宫",
+    "links": 27
+   },
+   {
+    "qid": "Q115419419",
+    "t": "清明易簡圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Qingming%20in%20Brief.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q133155369",
+    "t": "宋张择端金明池争标图页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%20%E9%87%91%E6%98%8E%E6%B1%A0%E7%88%AD%E6%A8%99%E5%9C%96.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "天津博物馆",
+    "links": 1
+   }
+  ]
+ },
+ "赵佶": {
+  "qid": "Q7486",
+  "works": [
+   {
+    "qid": "Q11537142",
+    "t": "Pigeon on a Peach Branch",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%BE%BD%E5%AE%97%E3%80%8A%E6%A1%83%E9%B3%A9%E5%9B%B3%E3%80%8B1108%E5%B9%B4%E3%83%BB12%E4%B8%96%E7%B4%80%E3%83%BB%E4%B8%AD%E5%9B%BD%20%E5%8C%97%E5%AE%8B%E6%99%82%E4%BB%A3%E3%80%81%E5%80%8B%E4%BA%BA%E8%94%B5.jpg",
+    "y": "1107",
+    "mat": "",
+    "loc": "",
+    "links": 3
+   },
+   {
+    "qid": "Q19856228",
+    "t": "蜡梅山禽图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Songhuizong3.jpg",
+    "y": "",
+    "mat": "墨水",
+    "loc": "國立故宮博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q29383312",
+    "t": "翠竹双雀图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8C%97%E5%AE%8B%20%E5%BE%BD%E5%AE%97%20%E7%AB%B9%E7%A6%BD%E5%9C%96%20%E5%8D%B7-Finches%20and%20bamboo%20MET%20DP151504%20CRD.jpg",
+    "y": "1113",
+    "mat": "丝绸",
+    "loc": "Asian Art",
+    "links": 1
+   },
+   {
+    "qid": "Q60992034",
+    "t": "瑞鶴圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E5%BE%BD%E5%AE%97%20-%20%E7%91%9E%E9%B6%B4%E5%9C%96.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "辽宁省博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q107045449",
+    "t": "绢本着色夏景山水图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Summer%20Mountain.JPG",
+    "y": "1250",
+    "mat": "",
+    "loc": "久遠寺",
+    "links": 1
+   },
+   {
+    "qid": "Q113260443",
+    "t": "写生珍禽图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sketching%20of%20Rare%20Birds%20%E5%86%99%E7%94%9F%E7%8F%8D%E7%A6%BD%E5%9B%BE%E5%8D%B7.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "龙美术馆西岸馆",
+    "links": 1
+   },
+   {
+    "qid": "Q28801723",
+    "t": "Five-colored parakeet on a blossoming apricot tree",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Huizong%20-%20Five-colored%20parakeet%20on%20a%20blossoming%20apricot%20tree%20-%20Google%20Art%20Project.jpg",
+    "y": "1110",
+    "mat": "",
+    "loc": "波士頓美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q116459327",
+    "t": "赵佶梅花绣眼单页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%B5%E4%BD%B6%E6%A2%85%E8%8A%B1%E7%BB%A3%E7%9C%BC%E5%8D%95%E9%A1%B5.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459572",
+    "t": "赵佶枇杷山鸟图页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%B5%E4%BD%B6%E6%9E%87%E6%9D%B7%E5%B1%B1%E9%B8%9F%E5%9B%BE%E9%A1%B5.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459600",
+    "t": "赵佶祥龙石图卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%B5%E4%BD%B6%E7%A5%A5%E9%BE%99%E7%9F%B3%E5%9B%BE%E5%8D%B7.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459606",
+    "t": "赵佶雪江归棹图卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%B5%E4%BD%B6%E9%9B%AA%E6%B1%9F%E5%BD%92%E6%A3%B9%E5%9B%BE%E5%8D%B7.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116459621",
+    "t": "赵佶芙蓉锦鸡图轴",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%B5%E4%BD%B6%E8%8A%99%E8%93%89%E9%94%A6%E9%B8%A1%E5%9B%BE%E8%BD%B4.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   }
+  ]
+ },
+ "崔白": {
+  "qid": "Q709216",
+  "works": [
+   {
+    "qid": "Q19689600",
+    "t": "雙喜圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%9B%99%E5%96%9C%E5%9C%96.jpg",
+    "y": "1061",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q116459624",
+    "t": "崔白寒雀图卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B4%94%E7%99%BD%E5%AF%92%E9%9B%80%E5%9B%BE%E5%8D%B7.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121504428",
+    "t": "宋崔白畫枇杷孔雀　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%95%AB%E6%9E%87%E6%9D%B7%E5%AD%94%E9%9B%80.jpg",
+    "y": "1050",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121539151",
+    "t": "宋崔白蘆花羲愛　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E5%B4%94%E7%99%BD%E8%98%86%E8%8A%B1%E7%BE%B2%E6%84%9B%20%E8%BB%B8.png",
+    "y": "1050",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q124300548",
+    "t": "宋崔白秋浦蓉賓　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%A7%8B%E6%B5%A6%E8%93%89%E5%AE%BE%E8%BD%B4.%E5%AE%8B.%E5%B4%94%E7%99%BD.%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q137981868",
+    "t": "Q137981868",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E5%B4%94%E7%99%BD%E9%9B%99%E5%96%9C%E5%9C%96%20%E8%BB%B8.jpg",
+    "y": "1061",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "梁楷": {
+  "qid": "Q740332",
+  "works": [
+   {
+    "qid": "Q18002387",
+    "t": "李白行吟图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liang%20Kai%20-%20Li%20Bai%20Strolling.jpg",
+    "y": "1300",
+    "mat": "纸",
+    "loc": "東京國立博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q28090964",
+    "t": "名畫琳瑯　冊　宋梁楷潑墨仙人",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Immortal%20in%20Splashed%20Ink.jpg",
+    "y": "1250",
+    "mat": "纸",
+    "loc": "國立故宮博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q132600449",
+    "t": "南宋  梁楷  八高僧故事图卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A2%81%E6%A5%B7%20%E5%85%AB%E9%AB%98%E5%83%A7%E6%95%85%E4%BA%8B%E5%9B%BE%E5%8D%B7%201.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "上海博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q78863528",
+    "t": "澤畔行吟圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E5%AE%8B%20%E6%A2%81%E6%A5%B7%20%E6%BE%A4%E7%95%94%E8%A1%8C%E5%90%9F%E5%9C%96%20%E5%9C%98%E6%89%87-Poet%20strolling%20by%20a%20marshy%20bank%20MET%20DP154133.jpg",
+    "y": "1212",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q106874190",
+    "t": "Winter Birds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liang%20Kai%20-%20Winter%20Birds%20-%201924.88%20-%20Arthur%20M.%20Sackler%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "哈佛藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q116488818",
+    "t": "梁楷（传）右军书扇图卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A2%81%E6%A5%B7%EF%BC%88%E4%BC%A0%EF%BC%89%E5%8F%B3%E5%86%9B%E4%B9%A6%E6%89%87%E5%9B%BE%E5%8D%B7.jpg",
+    "y": "",
+    "mat": "纸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116488822",
+    "t": "梁楷（传）三高游赏图页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A2%81%E6%A5%B7%EF%BC%88%E4%BC%A0%EF%BC%89%E4%B8%89%E9%AB%98%E6%B8%B8%E8%B5%8F%E5%9B%BE%E9%A1%B5.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116488886",
+    "t": "梁楷秋柳双鸦图页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A2%81%E6%A5%B7%E7%A7%8B%E6%9F%B3%E5%8F%8C%E9%B8%A6%E5%9B%BE%E9%A1%B5.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q116488902",
+    "t": "梁楷疏柳寒鸦图页",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A2%81%E6%A5%B7%E7%96%8F%E6%9F%B3%E5%AF%92%E9%B8%A6%E5%9B%BE%E9%A1%B5.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q123514145",
+    "t": "Hotei (Kōsetsu Museum of Art)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hotei%20by%20Liang%20Kai%20%28Kosetsu%20Museum%20of%20Art%29.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "Nakanoshima Kosetsu Museum of Art",
+    "links": 0
+   },
+   {
+    "qid": "Q139083987",
+    "t": "Q139083987",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%A2%81%E6%A5%B7%E6%BD%91%E5%A2%A8%E4%BB%99%E4%BA%BA%EF%BC%88%E5%90%8D%E7%95%AB%E7%90%B3%E7%91%AF%E5%86%8A02%EF%BC%89.jpg",
+    "y": "1201",
+    "mat": "纸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "牧谿": {
+  "qid": "Q3048317",
+  "works": [
+   {
+    "qid": "Q3485647",
+    "t": "六柿图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%85%AD%E6%9F%BF%E5%9B%BE.jpg",
+    "y": "1200",
+    "mat": "",
+    "loc": "龍光院",
+    "links": 6
+   },
+   {
+    "qid": "Q18002305",
+    "t": "Evening bell from mist-shrouded temple",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Evening%20bell%20from%20mist-shrouded%20temple.jpg",
+    "y": "1300",
+    "mat": "纸",
+    "loc": "畠山紀念館",
+    "links": 1
+   },
+   {
+    "qid": "Q60465136",
+    "t": "Dragon; Tiger",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fachang%20Muqi%20-%20Dragon%3B%20Tiger%20-%201958.427%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1262",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q107045345",
+    "t": "Fishing Village at Sunset",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Muqi%20%28Mokkei%29%20-%20Fishing%20Village%20at%20Sunset.jpg",
+    "y": "1300",
+    "mat": "",
+    "loc": "根津美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q130321249",
+    "t": "Eight Views of the Xiao and Xiang Rivers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Muqi%20%28Mokkei%29%20-%20Fishing%20Village%20at%20Sunset.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q60465138",
+    "t": "Dragon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fachang%20Muqi%20-%20Dragon%20and%20Tiger%20-%201958.427.1%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1264",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60465140",
+    "t": "Tiger",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fachang%20Muqi%20%28Chinese%2C%201220-1280%29%20-%20Tiger%20-%201958.427.2%20-%20Cleveland%20Museum%20of%20Art.jpg",
+    "y": "1264",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60474759",
+    "t": "Swallow and Lotus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fachang%20Muqi%20-%20Swallow%20and%20Lotus%20-%201981.34%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1250",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q60475029",
+    "t": "Willow and Magpie",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fachang%20Muqi%20-%20Willow%20and%20Magpie%20-%201982.53%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1250",
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78864729",
+    "t": "Dragon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Muqi%20-%20Dragon%20-%2012.123.2%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1599",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q78864829",
+    "t": "Tiger",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Muqi%20-%20Tiger%20-%2012.123.1%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1599",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q107046448",
+    "t": "猿鶴圖",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Guanyin%2C%20Monkeys%2C%20and%20Crane.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "赵伯驹": {
+  "qid": "Q3372429",
+  "works": [
+   {
+    "qid": "Q116431972",
+    "t": "江山秋色图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B5%B5%E4%BC%AF%E9%A9%B9%E6%B1%9F%E5%B1%B1%E7%A7%8B%E8%89%B2%E5%9B%BE%E5%8D%B7.png",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 1
+   },
+   {
+    "qid": "Q64512881",
+    "t": "Blue-Green Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Boju%20-%20Blue-Green%20Landscape%20-%2020.311%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q64515690",
+    "t": "Mountains of the Immortals",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhao%20Boju%20-%20Mountains%20of%20the%20Immortals%20-%2066.281.9%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "罗得岛设计学院博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q121336508",
+    "t": "宋趙伯駒阿閣圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Palace%20by%20Zhao%20Boju.jpg",
+    "y": "",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121363553",
+    "t": "宋趙伯駒漢宮圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20palais%20Han%20par%20Zhao%20Boju.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q121367924",
+    "t": "宋趙伯駒仙山樓閣　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BB%99%E5%B1%B1%E6%A5%BC%E9%98%81%E5%9B%BE%E8%BD%B4.%E4%BC%A0%E5%AE%8B.%E8%B5%B5%E4%BC%AF%E9%A9%B9%E7%BB%98.%E7%BB%A2%E6%9C%AC%E9%9D%92%E7%BB%BF%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q124292869",
+    "t": "宋趙伯駒春山圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%98%A5%E5%B1%B1%E5%9B%BE%E8%BD%B4.%E4%BC%A0%E5%AE%8B.%E8%B5%B5%E4%BC%AF%E9%A9%B9%E7%BB%98.%E7%BA%B8%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q124300540",
+    "t": "宋趙伯駒停琴摘阮圖　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%81%9C%E7%90%B4%E6%91%98%E9%98%AE%E5%9B%BE%E8%BD%B4.%E4%BC%A0%E5%AE%8B.%E8%B5%B5%E4%BC%AF%E9%A9%B9%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q139379173",
+    "t": "Q139379173",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E8%B6%99%E4%BC%AF%E9%A7%92%E6%BC%A2%E5%AE%AE%E5%9C%96%20%E8%BB%B8.jpg",
+    "y": "1120",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "王希孟": {
+  "qid": "Q626360",
+  "works": [
+   {
+    "qid": "Q112971367",
+    "t": "千里江山图",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%8E%8B%E5%B8%8C%E5%AD%9F%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E5%8D%B7.png",
+    "y": "1113",
+    "mat": "丝绸",
+    "loc": "故宫博物院",
+    "links": 3
+   }
+  ]
+ },
+ "米芾": {
+  "qid": "Q320129",
+  "works": [
+   {
+    "qid": "Q49220419",
+    "t": "Mountains and Water",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mi%20Fu%20-%20Mountains%20and%20Water%20-%201953.27.6%20-%20Yale%20University%20Art%20Gallery.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "耶鲁大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q121409341",
+    "t": "宋米芾春山瑞松　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mi%20Fei%20001.jpg",
+    "y": "1100",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q124292800",
+    "t": "宋李公麟九歌圖米芾書辭　卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B9%9D%E6%AD%8C%E5%9B%BE%E5%8D%B7.%E4%BC%A0%E5%AE%8B.%E6%9D%8E%E5%85%AC%E9%BA%9F%E7%BB%98.%E7%B1%B3%E8%8A%BE%E4%B9%A6%E8%BE%9E.%E7%BB%A2%E6%9C%AC%E6%B0%B4%E5%A2%A8.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.png",
+    "y": "",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "文同": {
+  "qid": "Q1288620",
+  "works": [
+   {
+    "qid": "Q78997019",
+    "t": "Rosy Sunset",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP201218%20CRD.jpg",
+    "y": "1549",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q121366545",
+    "t": "宋文同墨竹　軸",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Tong%20Babmbuk.jpg",
+    "y": "1050",
+    "mat": "丝绸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "苏轼": {
+  "qid": "Q36020",
+  "works": [
+   {
+    "qid": "Q139386097",
+    "t": "Q139386097",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E8%98%87%E6%B0%8F%E4%B8%80%E9%96%80%E6%B3%95%E6%9B%B8%20%E5%86%8A.jpg",
+    "y": "1037",
+    "mat": "纸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   },
+   {
+    "qid": "Q139386483",
+    "t": "Q139386483",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E7%9C%89%E5%B1%B1%E8%98%87%E6%B0%8F%E4%B8%89%E4%B8%96%E9%81%BA%E7%BF%B0%20%E5%86%8A%20%E5%AE%8B%E8%98%87%E8%BB%BE%E5%B0%BA%E7%89%98.jpg",
+    "y": "1085",
+    "mat": "纸",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ },
+ "黄庭坚": {
+  "qid": "Q709460",
+  "works": [
+   {
+    "qid": "Q121699334",
+    "t": "宋黃庭堅自書松風閣詩　卷",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Tingjian-Poem%20on%20the%20Hall%20of%20Pines%20and%20Wind.gif",
+    "y": "1102",
+    "mat": "",
+    "loc": "國立故宮博物院",
+    "links": 0
+   }
+  ]
+ }
+}
