@@ -1,3 +1,4 @@
+import os
 import json,re,sys,os
 from opencc import OpenCC
 cc=OpenCC('t2s')
@@ -6,7 +7,7 @@ REPO='/Users/sli001/Desktop/艺术卡片-发布'
 srcs=sys.argv[1].split(',')          # works1.json,works1b.json
 start=int(sys.argv[2]); N=int(sys.argv[3]); outf=sys.argv[4]
 PER=int(sys.argv[5]) if len(sys.argv)>5 else 6
-LO,HI=(2,9)
+LO,HI=(int(os.environ.get("AC_LINKS_LO",2)), int(os.environ.get("AC_LINKS_HI",9)))
 s=open(f'{REPO}/data.js').read()
 titles={cc.convert(t) for t in re.findall(r'(?<![A-Za-z])t:"([^"]+)"',s)}
 clean=lambda t: re.sub(r'[\s·:：,，。、_\-—]','',re.sub(r'[（(【\[].*?[）)】\]]','',t))
