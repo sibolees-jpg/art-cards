@@ -1,0 +1,2558 @@
+{
+ "伊万·艾瓦佐夫斯基": {
+  "qid": "Q181568",
+  "works": [
+   {
+    "qid": "Q1070896",
+    "t": "第九波濤",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hovhannes%20Aivazovsky%20-%20The%20Ninth%20Wave%20-%20Google%20Art%20Project.jpg",
+    "y": "1850",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 36
+   },
+   {
+    "qid": "Q1982719",
+    "t": "\"水星號\"雙桅橫帆船被兩艘土耳其船攻擊",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%2C%20Brig%20Mercury%20Attacked%20by%20Two%20Turkish%20Ships%201892.jpg",
+    "y": "1892",
+    "mat": "油彩",
+    "loc": "艾瓦佐夫斯基國家美術館",
+    "links": 9
+   },
+   {
+    "qid": "Q4518724",
+    "t": "The Black Sea",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B5%20%D0%BC%D0%BE%D1%80%D0%B5%20%28%D0%BD%D0%B0%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%20%D0%BC%D0%BE%D1%80%D0%B5%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%B5%D1%82%20%D1%80%D0%B0%D0%B7%D1%8B%D0%B3%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%B1%D1%83%D1%80%D1%8F%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1881",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 8
+   },
+   {
+    "qid": "Q4387907",
+    "t": "Rainbow",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%28%D0%93%D0%B0%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29%20%D0%98%D0%B2%D0%B0%D0%BD%20%28%D0%9E%D0%B3%D0%B0%D0%BD%D0%B5%D1%81%29%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A0%D0%B0%D0%B4%D1%83%D0%B3%D0%B0.jpg",
+    "y": "1873",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 6
+   },
+   {
+    "qid": "Q7234368",
+    "t": "A Moonlit Night on the Bosphorus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%28%D0%93%D0%B0%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29%20%D0%98%D0%B2%D0%B0%D0%BD%20%28%D0%9E%D0%B3%D0%B0%D0%BD%D0%B5%D1%81%29%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C%20%D0%BD%D0%B0%20%D0%91%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%B5.jpg",
+    "y": "1894",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 6
+   },
+   {
+    "qid": "Q60674337",
+    "t": "The Wrath of the Seas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20%22anger%20of%20the%20seas%22%20by%20Aivasovsky.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "",
+    "links": 6
+   },
+   {
+    "qid": "Q4110560",
+    "t": "The Maiden's Tower",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%28%D0%93%D0%B0%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29%20%D0%98%D0%B2%D0%B0%D0%BD%20%28%D0%9E%D0%B3%D0%B0%D0%BD%D0%B5%D1%81%29%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%92%D0%B8%D0%B4%20%D0%9B%D0%B5%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B1%D0%B0%D1%88%D0%BD%D0%B8%20%D0%B2%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D0%B5.jpg",
+    "y": "1848",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 5
+   },
+   {
+    "qid": "Q4384735",
+    "t": "A. S. Pushkin at the Black Sea coast",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98.%20%D0%9A.%20%281887%29%20%D0%90.%20%D0%A1.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%20%D0%BD%D0%B0%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D1%83%20%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F%20%282%29.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "V. V. Vereshchagin Mykolaiv Art Museum",
+    "links": 5
+   },
+   {
+    "qid": "Q16699900",
+    "t": "Descent of Noah from Ararat",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Descent%20of%20Noah%20from%20Ararat.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "亚美尼亚国家美术馆",
+    "links": 5
+   },
+   {
+    "qid": "Q135653132",
+    "t": "Ship in a storm",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Ship%20in%20a%20storm%20%28cropped%29.jpg",
+    "y": "1899",
+    "mat": "",
+    "loc": "巴庫",
+    "links": 4
+   },
+   {
+    "qid": "Q6677931",
+    "t": "Theodosia. Moonlight night",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D1%8F.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C.jpg",
+    "y": "1852",
+    "mat": "油彩",
+    "loc": "",
+    "links": 4
+   },
+   {
+    "qid": "Q16698908",
+    "t": "Parade of the Black Sea Fleet",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%20%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%84%D0%BB%D0%BE%D1%82%D0%B0%20%D0%B2%201849%20%D0%B3%D0%BE%D0%B4%D1%83.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "中央海军博物馆",
+    "links": 4
+   }
+  ]
+ },
+ "阿尔希普·库因吉": {
+  "qid": "Q353628",
+  "works": [
+   {
+    "qid": "Q3205872",
+    "t": "第聶伯河上的月夜",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuindzhi%20Moonlit%20night%20on%20the%20Dnieper%201880%20grm%20x2.jpg",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 21
+   },
+   {
+    "qid": "Q3206123",
+    "t": "Ukrainian Night",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuindzhi%20Ukrainian%20night%201876.jpg",
+    "y": "1876",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 10
+   },
+   {
+    "qid": "Q4110167",
+    "t": "乌克兰之夜",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Archip%20Iwanowitsch%20Kuindshi%20007.jpg",
+    "y": "1878",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 10
+   },
+   {
+    "qid": "Q4085405",
+    "t": "A Birch Grove",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Archip%20Iwanowitsch%20Kuindshi%20005.jpg",
+    "y": "1879",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 6
+   },
+   {
+    "qid": "Q3272319",
+    "t": "Chumaks path in Mariupol",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1875.%20Kuindzhi%20Mariupol.jpg",
+    "y": "1875",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 5
+   },
+   {
+    "qid": "Q4252630",
+    "t": "Lake Ladoga",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Archip%20Iwanowitsch%20Kuindshi%20008.jpg",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q4411981",
+    "t": "The North",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arkhip%20Kuindzhi%20-%20North.jpg",
+    "y": "1879",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 5
+   },
+   {
+    "qid": "Q16667013",
+    "t": "Red Sunset on the Dnieper",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1905%20Archip%20Iwanowitsch%20Kuindshi%20Sunset%20Dnieper%20anagoria.JPG",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q3206145",
+    "t": "Dnieper in the morning",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuindzhi%20Dnieper%20in%20the%20morning%201881.jpg",
+    "y": "1881",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q4310991",
+    "t": "On the Island of Valaam",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuindzhi%20At%20Valaam%20island%201873.jpg",
+    "y": "1873",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q4327763",
+    "t": "Night",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/00Kuindzhi%20NochnoeGRM1.jpg",
+    "y": "1908",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q4373703",
+    "t": "After a rain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuindzhi%20After%20a%20rain%201879.jpg",
+    "y": "1879",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   }
+  ]
+ },
+ "伊万·希什金": {
+  "qid": "Q193064",
+  "works": [
+   {
+    "qid": "Q2666439",
+    "t": "Morning in a Pine Forest",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shishkin%2C%20Ivan%20-%20Morning%20in%20a%20Pine%20Forest.jpg",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 30
+   },
+   {
+    "qid": "Q4396378",
+    "t": "Rye Fields",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Shishkin%20-%20%D0%A0%D0%BE%D0%B6%D1%8C%20-%20Google%20Art%20Project.jpg",
+    "y": "1878",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 11
+   },
+   {
+    "qid": "Q4311015",
+    "t": "In the Wild North…",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20%D0%98.%20%D0%98.%20%281891%29%20%D0%9D%D0%B0%20%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%B5%20%D0%B4%D0%B8%D0%BA%D0%BE%D0%BC.jpg",
+    "y": "1891",
+    "mat": "油彩",
+    "loc": "国立基辅俄罗斯艺术博物馆",
+    "links": 6
+   },
+   {
+    "qid": "Q9339735",
+    "t": "The Sun Lit Pines",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BE%D1%81%D0%BD%D1%8B%2C%20%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5%D0%BC%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q16346518",
+    "t": "Rain in an Oak Forest",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Iwan%20Iwanowitsch%20Schischkin%20-%20Rain%20in%20an%20Oak%20Forest.jpg",
+    "y": "1891",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q23011884",
+    "t": "A Forest",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shishkin%20Forest.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "museum storage",
+    "links": 2
+   },
+   {
+    "qid": "Q42419681",
+    "t": "From Neighborhoods Gurzuf. Study",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/From%20Neighborhoods%20Gurzuf%20%28Shishkin%29.jpg",
+    "y": "1879",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q42419785",
+    "t": "View on the Outskirts of St. Petersburg",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Shishkin%20-%20View%20on%20the%20Outskirts%20of%20St.%20Petersburg.JPG",
+    "y": "1856",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q42419937",
+    "t": "Village Courtyard",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%20%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B2%D0%BE%D1%80%201860.jpg",
+    "y": "1860",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q43216403",
+    "t": "Forest",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1880er%20Ivan%20Shishkin%20Wald%20anagoria.JPG",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 1
+   },
+   {
+    "qid": "Q43217683",
+    "t": "Study for the painting \"Lumbering\"",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D1%82%D1%8E%D0%B4%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%A0%D1%83%D0%B1%D0%BA%D0%B0%20%D0%BB%D0%B5%D1%81%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 1
+   },
+   {
+    "qid": "Q43223366",
+    "t": "Countess Mordvinova's Wood. Peterhof",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shishkin%20Ivan%20The%20Forest%20of%20Countess%20Mordvinova%201891.jpg",
+    "y": "1891",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   }
+  ]
+ },
+ "费奥多尔·瓦西里耶夫": {
+  "qid": "Q1422249",
+  "works": [
+   {
+    "qid": "Q16628752",
+    "t": "In the Mountains of the Crimea",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasilyev%20crimea%20mount.JPG",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 5
+   },
+   {
+    "qid": "Q16677404",
+    "t": "Wet Meadow",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedor%20Vasilyev%20-%20%D0%9C%D0%BE%D0%BA%D1%80%D1%8B%D0%B9%20%D0%BB%D1%83%D0%B3%20-%20Google%20Art%20Project.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 5
+   },
+   {
+    "qid": "Q18237569",
+    "t": "Return of the herd",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedor%20Vasilyev%20Return%20of%20the%20herd%201868.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q18635082",
+    "t": "Before the rain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fyodor%20Vasilyev%20Before%20the%20rain%2010990.jpg",
+    "y": "1870",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q100536723",
+    "t": "Swamp in the Forest. Autumn",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fyodor%20Vasilyev%20Swamp%20in%20the%20forest%20Autumn%2011014.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "Mikhaylovsky Palace",
+    "links": 4
+   },
+   {
+    "qid": "Q16631392",
+    "t": "The Volga Lagoon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasilyev%20Volga%20Lagoon%20gtg.jpg",
+    "y": "1870",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q16687339",
+    "t": "After a thunderstorm",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedor%20Vasilyev%20After%20thunderstorm%201868.jpg",
+    "y": "1868",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   },
+   {
+    "qid": "Q16630167",
+    "t": "View of the Volga. Barques",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Volga%20barges.jpg",
+    "y": "1870",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q16643088",
+    "t": "Street in a Village",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedor%20Vasilyev%20Street%20in%20a%20Village%201868.jpg",
+    "y": "1868",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   },
+   {
+    "qid": "Q16684015",
+    "t": "The Thaw",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedor%20Vasilev%20-%20The%20Thaw.JPG",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   },
+   {
+    "qid": "Q18685294",
+    "t": "Thaw",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fyodor%20Vasilyev%20-%20Thaw%20-%20Google%20Art%20Project.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q30066278",
+    "t": "Sunset",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fyodor%20Vasilyev%20Afterglow%20Yerevan.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "亚美尼亚国家美术馆",
+    "links": 1
+   }
+  ]
+ },
+ "阿列克谢·萨符拉索夫": {
+  "qid": "Q353008",
+  "works": [
+   {
+    "qid": "Q1993685",
+    "t": "The Rooks Have Returned",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksey%20Savrasov%20-%20%D0%93%D1%80%D0%B0%D1%87%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BB%D0%B5%D1%82%D0%B5%D0%BB%D0%B8%20-%20Google%20Art%20Project.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 14
+   },
+   {
+    "qid": "Q4414026",
+    "t": "Rustic View",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%9A.%20%D0%A1%D0%B0%D0%B2%D1%80%D0%B0%D1%81%D0%BE%D0%B2%20-%20%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%B8%D0%B4%20%281867%29.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q18543540",
+    "t": "Elk Island in Sokolniki",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Elk%20Island%20by%20Savrasov.jpg",
+    "y": "1869",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   },
+   {
+    "qid": "Q19908024",
+    "t": "View in the neighborhood of Oranienbaum",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savrasov%20oraninienbaum.JPG",
+    "y": "1854",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   },
+   {
+    "qid": "Q19910834",
+    "t": "Country road",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%9A.%20%D0%A1%D0%B0%D0%B2%D1%80%D0%B0%D1%81%D0%BE%D0%B2%20-%20%D0%9F%D1%80%D0%BE%D1%81%D0%B5%D0%BB%D0%BE%D0%BA%20%281873%29.jpg",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   },
+   {
+    "qid": "Q19915896",
+    "t": "The Pechersky Monastery Near Nizhny Novgorod",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savrasov%20pascher%20monastery.JPG",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "Nizhny Novgorod State Art Museum",
+    "links": 3
+   },
+   {
+    "qid": "Q12146961",
+    "t": "Q12146961",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savrasov.Vesna2.1880-s.jpg",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "国立基辅俄罗斯艺术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q31294211",
+    "t": "Q31294211",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/RooksBackOfSavrasov.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q19913288",
+    "t": "Night Scene on the Volga",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%9A.%20%D0%A1%D0%B0%D0%B2%D1%80%D0%B0%D1%81%D0%BE%D0%B2%20-%20%D0%9D%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%20%D0%BD%D0%B0%20%D0%92%D0%BE%D0%BB%D0%B3%D0%B5%20%281871%29.jpg",
+    "y": "1871",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q21607816",
+    "t": "View of the Kremlin from Krimsky bridge in Inclement Weather",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savrasov%20vid%20na%20cremlin.JPG",
+    "y": "1851",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q21617378",
+    "t": "Landscape with a river and angler",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%9A.%20%D0%A1%D0%B0%D0%B2%D1%80%D0%B0%D1%81%D0%BE%D0%B2%20-%20%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%20%D1%81%20%D1%80%D0%B5%D0%BA%D0%BE%D0%B9%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BA%D0%BE%D0%BC%20%281859%29.jpg",
+    "y": "1859",
+    "mat": "油彩",
+    "loc": "拉脫維亞外國藝術美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q43302009",
+    "t": "The Beginning of Spring",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Beginning%20of%20Spring%20%28Savrasov%29.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 0
+   }
+  ]
+ },
+ "康斯坦丁·马科夫斯基": {
+  "qid": "Q460337",
+  "works": [
+   {
+    "qid": "Q21595802",
+    "t": "一场盛大的婚礼",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Boyar%20Wedding%20Feast%20%28Konstantin%20Makovsky%2C%201883%29%20Google%20Cultural%20Institute.jpg",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "希尔伍德庄园",
+    "links": 7
+   },
+   {
+    "qid": "Q22329906",
+    "t": "Christmastide Divination",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konstantin%20Makovsky%20-%20Christmastide%20Divination.jpg",
+    "y": "1905",
+    "mat": "油彩",
+    "loc": "Grodno State Museum of the History of Religion",
+    "links": 2
+   },
+   {
+    "qid": "Q59847790",
+    "t": "Appeal of Minin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Makovsky%20Appeal%20of%20Minin.jpg",
+    "y": "1896",
+    "mat": "油彩",
+    "loc": "Nizhny Novgorod State Art Museum",
+    "links": 2
+   },
+   {
+    "qid": "Q28226547",
+    "t": "The Death of Ivan the Terrible",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Drama%3B%20its%20history%2C%20literature%20and%20influence%20on%20civilization%20%281903%29%20%2814779457424%29.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q136482047",
+    "t": "Q136482047",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Makovsky%20-Portrait%20of%20Prima%20Ballerina%20Iola%20Tornagi%20%28129x78.7%29front.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q17492966",
+    "t": "Grand Duke Alexis of Russia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexey%20Alexandrovich%20by%20K.Makovskiy%20%28Orsay%29.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q20199850",
+    "t": "The Russian Bride's Attire",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Russian%20Bride%27s%20Attire%20by%20Konstantin%20Makovsky%2C%20California%20Palace%20of%20the%20Legion%20of%20Honor.JPG",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "荣勋宫（旧金山）",
+    "links": 0
+   },
+   {
+    "qid": "Q21715876",
+    "t": "Peter the Great in His Studio",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20the%20Great%20in%20His%20Studio.jpg",
+    "y": "1870",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21725664",
+    "t": "Portrait of Count Vladimir Bobrinsky, Lieutenant of the Life-Guards Hussar Regiment",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%20%D0%9C%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%93.%D0%90.%20%D0%91%D0%BE%D0%B1%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE.jpg",
+    "y": "1879",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21727905",
+    "t": "Group Portrait of M.S. Volkov, S.N. Volkova and S.M. Volkov-Monsey",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Makovsky%20Konstantin%20Egorovich%20-%20Group%20Portrait%20of%20M.S.%20Volkov%20S.N.%20Volkova%20and%20S.M.%20Volkov-Manzei.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21741386",
+    "t": "Portrait of Varvara Bibikova",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Makovsky%20Konstantin%20Egorovich%20-%20Portrait%20of%20Varvara%20Bibikova.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27968824",
+    "t": "Portrait of M.G. Savina",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Makovsky%20-%20portrait-of-margarita-savina.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "弗拉基米尔·马科夫斯基": {
+  "qid": "Q740592",
+  "works": [
+   {
+    "qid": "Q124988824",
+    "t": "Secret (V. Makovsky, Tretyakov Gallery)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92.%20%D0%95.%20%D0%9C%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82.png",
+    "y": "1884",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q132444883",
+    "t": "On the boulevard",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Na%20bulvare%20-%20V.Makovskiy%20%281886-7%2C%20GTG%29.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q138606194",
+    "t": "Failure of a bank",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Makovsky%20Bank%20collapse%201881%20gtg.jpg",
+    "y": "1881",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q19913145",
+    "t": "The Peddler",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Peddler%20MET%20ep1972.145.3.bw.R.jpg",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q24694616",
+    "t": "Sergey Korovin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Makovsky%20Sergey%20Korovin.jpg",
+    "y": "1892",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q24699177",
+    "t": "In the birch forest.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82odzimierz%20J.%20Makowski%20-%20In%20a%20birch%20forest%20-%20M.Ob.1520%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1905",
+    "mat": "油彩",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q24699179",
+    "t": "A conversation.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82odzimierz%20J.%20Makowski%20-%20Conversation%20-%20M.Ob.1156%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1910",
+    "mat": "油彩",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q28798264",
+    "t": "Dilettante",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vladimir%20Makovsky%20-%20Dilettante%20-%20Google%20Art%20Project.jpg",
+    "y": "1896",
+    "mat": "油彩",
+    "loc": "Zimmerli Art Museum at Rutgers University",
+    "links": 0
+   },
+   {
+    "qid": "Q43277985",
+    "t": "Maid with children",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anagoria%20Vladimir%20E.%20Makovsky%20Maid%20with%20children.JPG",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q43303226",
+    "t": "Girl with goose in the field",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%94%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0-%D1%81-%D0%B3%D1%83%D1%81%D1%8F%D0%BC%D0%B8-1875.jpg",
+    "y": "1875",
+    "mat": "油彩",
+    "loc": "Nizhniy Tagil State Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q43303441",
+    "t": "Q43303441",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%20%28%D0%9C%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29.jpg",
+    "y": "1898",
+    "mat": "油彩",
+    "loc": "Tyumen Regional Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q50230450",
+    "t": "Q50230450",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pink%20pargis%2C%20Vladimir%20Makovski%2C%20TKM%20TR%202858%20M%20498.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "尼古拉·雅罗申科": {
+  "qid": "Q450949",
+  "works": [
+   {
+    "qid": "Q84723020",
+    "t": "In a Warm Land",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaj%20Alexandrowitsch%20Jaroschenko%20004.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q4127730",
+    "t": "Everywhere life",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1888.%20Nikolaj%20Alexandrowitsch%20Jaroschenko%20008.jpg",
+    "y": "1888",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q50405209",
+    "t": "The Terrorist",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yaroshenko%20Terrorist%201879.jpg",
+    "y": "1881",
+    "mat": "",
+    "loc": "",
+    "links": 3
+   },
+   {
+    "qid": "Q84256070",
+    "t": "The Student Girl",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yaroshenko.%20Kursistka%20%281883%29.jpg",
+    "y": "1883",
+    "mat": "",
+    "loc": "Kaluga Museum of Fine Arts",
+    "links": 3
+   },
+   {
+    "qid": "Q124988793",
+    "t": "Lady with a Cat",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D1%8B%20%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%20%D0%AF%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BA%D0%BE.%20%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%20%D0%AF%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg",
+    "y": "1880",
+    "mat": "",
+    "loc": "Kaluga Museum of Fine Arts",
+    "links": 3
+   },
+   {
+    "qid": "Q96972398",
+    "t": "The Student",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolaj%20Alexandrowitsch%20Jaroschenko%20003.jpg",
+    "y": "1881",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   },
+   {
+    "qid": "Q74179134",
+    "t": "Portrait of Gleb Ivanovich Uspensky",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%93%20%D0%98%20%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%28%D0%AF%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BA%D0%BE%29.jpg",
+    "y": "1884",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q112065100",
+    "t": "Head of the crucified Christ",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ge%20Christ%20Head.jpg",
+    "y": "1892",
+    "mat": "油彩",
+    "loc": "国立基辅俄罗斯艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q112315513",
+    "t": "Little girl with doll",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nadja%20Vol%C5%BEinskaja.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q112668991",
+    "t": "Gipsy Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gypsy%20Woman.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q140500537",
+    "t": "Devdarak Glacier",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Devdarak%20Glacier%20by%20Nikolai%20Aleksandrovich%20Yaroshenko%2C%201894.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "格里戈里·米亚索耶多夫": {
+  "qid": "Q654547",
+  "works": [
+   {
+    "qid": "Q56309559",
+    "t": "Harvest time. Croppers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Grigorij%20Grigorjewitsch%20Mjassojedow%20003.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q65138554",
+    "t": "The Zemstvo Dines",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Grigorij%20Grigorjewitsch%20Mjassojedow%20001.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q24937630",
+    "t": "Portrait of the chess player A. D. Petrov",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Myasoedov%20Chess%20with%20himself%201907.jpg",
+    "y": "1907",
+    "mat": "油彩",
+    "loc": "Chess museum",
+    "links": 3
+   },
+   {
+    "qid": "Q16590726",
+    "t": "Q16590726",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Grigorij%20Grigorjewitsch%20Mjassojedow%20002.jpg",
+    "y": "1882",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q112066232",
+    "t": "Reading of the manifesto of February 19, 1861",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Myasoedov%2016.jpg",
+    "y": "1873",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   },
+   {
+    "qid": "Q122875591",
+    "t": "Q122875591",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9E%D1%81%D0%B8%D1%80%D0%BE%D1%82%D1%96%D0%BB%D0%B8%20%28%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0%20%D0%9C%D1%8F%D1%81%D0%BE%D1%94%D0%B4%D0%BE%D0%B2%D0%B0%29.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "哈尔科夫美术博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q23011816",
+    "t": "A prayer in time of drought.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Myasoyedov%20Prayer%20in%20time%20of%20drought.jpg",
+    "y": "1878",
+    "mat": "油彩",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q43302081",
+    "t": "Q43302081",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%D1%80%D0%BE%D0%BA%20%D0%BF%D1%80%D1%8F%D0%B6%D0%B8%20%28%D0%9C%D1%8F%D1%81%D0%BE%D0%B5%D0%B4%D0%BE%D0%B2%29.jpg",
+    "y": "1859",
+    "mat": "油彩",
+    "loc": "Tyumen Regional Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q43302881",
+    "t": "Candlelight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8%20%28%D0%9C%D1%8F%D1%81%D0%BE%D0%B5%D0%B4%D0%BE%D0%B2%29.jpg",
+    "y": "1901",
+    "mat": "油彩",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q112066239",
+    "t": "A Wharf in Yalta",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MyasoedovGG%20PrVIalte%20VLA.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q112066252",
+    "t": "Escape of Gregoriy Otrepyev  from Inn on the Lithuanian Border .",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Myasoyedov%20G.%20Begstvo%20Grigoriya%20Otrepeva%20iz%20korchmyi%20na%20litovskoy%20granitse.jpg",
+    "y": "1862",
+    "mat": "油彩",
+    "loc": "国家普希金博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "康斯坦丁·萨维茨基": {
+  "qid": "Q958052",
+  "works": [
+   {
+    "qid": "Q2666439",
+    "t": "Morning in a Pine Forest",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shishkin%2C%20Ivan%20-%20Morning%20in%20a%20Pine%20Forest.jpg",
+    "y": "1889",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 30
+   },
+   {
+    "qid": "Q47542592",
+    "t": "To War",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Savitsky%20na%20voinu.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q16691862",
+    "t": "Repair work on the railway",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konstantin%20Apollonowitsch%20Sawizkij%20001.jpg",
+    "y": "1874",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q61754887",
+    "t": "Welcomming the Icon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B0%D0%B2%D0%B8%D1%86%D0%BA%D0%B8%D0%B9%20%D0%9A.%20%D0%90.%20%281878%29%20%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%20%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B.jpg",
+    "y": "1878",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q124051466",
+    "t": "Sea in Normandy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20tenger%20Normandi%C3%A1ban.jpg",
+    "y": "1875",
+    "mat": "油彩",
+    "loc": "Tatarstan State Museum of Fine Arts",
+    "links": 0
+   }
+  ]
+ },
+ "伊拉里翁·普里亚尼什尼科夫": {
+  "qid": "Q1350315",
+  "works": [
+   {
+    "qid": "Q43303809",
+    "t": "Q43303809",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%20%D0%BA%D0%B0%D0%B7%D0%B8%D0%BD%D0%BE%20%D0%B1%D1%8B%D0%BB%20%28%D0%9F%D1%80%D1%8F%D0%BD%D0%B8%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%29.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "Nizhniy Tagil State Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q123258122",
+    "t": "Fire victims",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1871%20Pryanishnikov%20Fire%20victims.jpg",
+    "y": "1871",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "尼古拉·卡萨特金": {
+  "qid": "Q1564907",
+  "works": []
+ },
+ "谢尔盖·伊万诺夫": {
+  "qid": "Q2121678",
+  "works": [
+   {
+    "qid": "Q61729473",
+    "t": "At the Time of Troubles",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20V.%20Ivanov.%20Time%20of%20Troubles.%20Moscow%20region.%20Impostor%27s%20army.%20%281908%29.jpg",
+    "y": "1908",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110638412",
+    "t": "On the road. Death or a migrant.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20V.%20Ivanov.%20On%20the%20road.%20Death%20of%20a%20migrant.%20%281889%29%20v2.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q111821675",
+    "t": "Blind Men",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1883%20Ivanov%20Blinde%20anagoria.JPG",
+    "y": "1883",
+    "mat": "油彩",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q113552943",
+    "t": "Fugitive.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fugitive%20by%20S.V.Ivanov%20%281886%2C%20GTG%29.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q130251490",
+    "t": "Shooting",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shooting%20by%20S.V.%20Ivanov%20%281905%2C%20Museum%20of%20Revolution%2C%20Moscow%29.jpg",
+    "y": "1905",
+    "mat": "油彩",
+    "loc": "俄羅斯現代史博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q130334986",
+    "t": "Arrival of Voivode.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arriving%20of%20voevoda%20by%20S.V.%20Ivanov.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q130342803",
+    "t": "By the prison.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20V.%20Ivanov.%20By%20the%20prison.%20%281884%29.jpg",
+    "y": "1884",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q130342834",
+    "t": "Candle bv the bed",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20V.%20Ivanov.%20Candle%20by%20the%20bed.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "頓內次克藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q130342873",
+    "t": "Female migrant.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20V.%20Ivanov.%20Female%20migrant%20%281886%29.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q130342893",
+    "t": "Foreigners' arrival to Moscow, XVII century.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20V.%20Ivanov.%20Foreigners%27%20arrival%20to%20Moscow%2C%20XVII%20century.%20%281901%29.jpg",
+    "y": "1901",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q130342910",
+    "t": "Peasant in the sled.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20V.%20Ivanov.%20Peasant%20in%20the%20sled.%20%281904-1905%29.jpg",
+    "y": "1904",
+    "mat": "油彩",
+    "loc": "Tatarstan State Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q130342941",
+    "t": "Trade negotiations in the country of Eastern Slavs. Pictures of Russian history.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20V.%20Ivanov.%20Trade%20negotiations%20in%20the%20country%20of%20Eastern%20Slavs.%20Pictures%20of%20Russian%20history.%20%281909%29.jpg",
+    "y": "1909",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "阿波利纳里·瓦斯涅佐夫": {
+  "qid": "Q618906",
+  "works": [
+   {
+    "qid": "Q16695719",
+    "t": "The Northern Land",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bajarmaland.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q52909373",
+    "t": "Probable view of the white-stone Kremlin of Dmitry Donskoy. The end of the 14th century",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Kremlin%20under%20Dmitry%20Donskoj.jpg",
+    "y": "1922",
+    "mat": "纸",
+    "loc": "莫斯科博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q52910131",
+    "t": "In the siege seating. Trinity Bridge and Kutafya Tower",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasnetsov%20V%20Osadu%20Troitsky%20Most.jpg",
+    "y": "1922",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q52923066",
+    "t": "Book shops on the Spassky Bridge at the 17 century",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kniznije%20lavki.jpg",
+    "y": "1916",
+    "mat": "纸",
+    "loc": "莫斯科博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q52924310",
+    "t": "The heyday of the Kremlin. All Saints Bridge and the Kremlin at the end of the 17 century",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B0%D1%81%D1%86%D0%B2%D0%B5%D1%82%20%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.%20%D0%92%D1%81%D0%B5%D1%85%D1%81%D0%B2%D1%8F%D1%82%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D1%81%D1%82%20%D0%B8%20%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%20XVII%20%D0%B2%D0%B5%D0%BA%D0%B0.%201922%2C%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0%20%D0%BD%D0%B0%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D0%BD%D0%B5%2C%20%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%2C%20%D0%B0%D0%BA%D0%B2%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%2C%20%D0%BA%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%88.jpg",
+    "y": "1922",
+    "mat": "纸",
+    "loc": "莫斯科博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q52936706",
+    "t": "Moscow Kremlin. Cathedrals",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Apollinary-vasnetsov-the-kremlin-1892.jpg",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q52938066",
+    "t": "The Moscow Kremlin in the era of Ivan Kalita",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasnetsov%20Kreml%20pri%20Ivane%20kalite.jpg",
+    "y": "1921",
+    "mat": "纸",
+    "loc": "莫斯科博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q52939869",
+    "t": "Defense of Moscow from khan Tokhtamysh. 17th century",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasnetsov%20Oborona%20Moskvy%20ot%20Tohtamysha%201918.jpg",
+    "y": "1918",
+    "mat": "纸",
+    "loc": "Kostroma Historical and Architectural Museum-Reserve",
+    "links": 0
+   },
+   {
+    "qid": "Q52984882",
+    "t": "Traffic on the Resurrection bridge in the 17th century",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasnecov%20Voskresensky%20most%2018%20vek%201926.jpg",
+    "y": "1926",
+    "mat": "纸",
+    "loc": "莫斯科博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q52985464",
+    "t": "Homeland",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Apollimariy%20Vasnetsov%20Rodina%201886.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   }
+  ]
+ },
+ "安德烈·梁布什金": {
+  "qid": "Q502406",
+  "works": [
+   {
+    "qid": "Q11799334",
+    "t": "Wedding train in Moscow (XVII century)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryabushkin%20Wedding%20train%20in%20Moscow%201901%20gtg.jpg",
+    "y": "1901",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   },
+   {
+    "qid": "Q18683112",
+    "t": "Seventeenth-Century Moscow Street on a Public Holiday",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrei%20Ryabushkin%20-%20Seventeenth-Century%20Moscow%20Street%20on%20a%20Public%20Holiday%20-%20Google%20Art%20Project.jpg",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 3
+   },
+   {
+    "qid": "Q20655981",
+    "t": "Q20655981",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%8C%D0%B5%20%D0%B2%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D0%B5.jpg",
+    "y": "1892",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q111668904",
+    "t": "Moscow Girl of the XVII century",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryabushkin%20moscow%20girl.JPG",
+    "y": "1903",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q111668944",
+    "t": "A Young Man Breaking into the Girls' Dance, and the Old Women are in Panic",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D1%82%D0%B5%D1%80%D1%81%D1%8F%20%D0%BF%D0%B0%D1%80%D0%B5%D0%BD%D1%8C%20%D0%B2%20%D1%85%D0%BE%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%2C%20%D0%BD%D1%83%20%D1%81%D1%82%D0%B0%D1%80%D1%83%D1%85%D0%B0%20%D0%BE%D1%85%D0%B0%D1%82%D1%8C.jpg",
+    "y": "1902",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   }
+  ]
+ },
+ "谢尔盖·马柳京": {
+  "qid": "Q3742270",
+  "works": [
+   {
+    "qid": "Q65094589",
+    "t": "Portrait of D. A. Furmanov",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Furmanov%20by%20Malutin.jpg",
+    "y": "1922",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q65964706",
+    "t": "V.I. Lenin on his deathbed",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/V.I.%20Lenin%20on%20his%20deathbed%20-%20Sergey%20Malyutin%20-%20Rouge%20Grand%20Palais%20-%20with%20border.jpg",
+    "y": "1925",
+    "mat": "油彩",
+    "loc": "俄羅斯國家歷史博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q123528094",
+    "t": "Portrait of a son",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1912%20Malyutin%20Portrait%20eines%20Sohnes%20anagoria.JPG",
+    "y": "1912",
+    "mat": "",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q125365139",
+    "t": "Alexey Langovoy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexey%20Langovoy%20by%20Sergey%20Malyutin.jpg",
+    "y": "1914",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q134299891",
+    "t": "Bogdanov-Belskiy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bogdanov-Belskiy%20by%20Sergey%20Malyutin.jpg",
+    "y": "1915",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q135458545",
+    "t": "Valéry Brioussov",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Brusov1920.jpg",
+    "y": "1913",
+    "mat": "",
+    "loc": "State Literature Museum",
+    "links": 0
+   }
+  ]
+ },
+ "菲利普·马利亚温": {
+  "qid": "Q1362444",
+  "works": [
+   {
+    "qid": "Q17494927",
+    "t": "Q17494927",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Three%20peasant%20women%20by%20F.Malyavin%20%281902%29.jpg",
+    "y": "1902",
+    "mat": "油彩",
+    "loc": "奥赛博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q18685270",
+    "t": "Peasant Women",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philipp%20Malyavin%20-%20Peasant%20Women%20-%20Google%20Art%20Project.jpg",
+    "y": "1905",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q18685279",
+    "t": "Whirlwind",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filipp%20Malyavin%20-%20%D0%92%D0%B8%D1%85%D1%80%D1%8C%20-%20Google%20Art%20Project.jpg",
+    "y": "1906",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q85281087",
+    "t": "Women's happiness (Women)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5%20%D1%81%D1%87%D0%B0%D1%81%D1%82%D1%8C%D0%B5%20%28%D0%91%D0%B0%D0%B1%D1%8B%29%20%28%D0%9C%D0%B0%D0%BB%D1%8F%D0%B2%D0%B8%D0%BD%2C%201900-%D0%B5%29.jpg",
+    "y": "1900",
+    "mat": "油彩",
+    "loc": "Chelyabinsk State Art Museum",
+    "links": 0
+   },
+   {
+    "qid": "Q111657960",
+    "t": "BABA IN A HEADSCARF",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/BABA%20IN%20A%20HEADSCARF021l19115.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q113483225",
+    "t": "Nude female",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filipp%20Malyavin%20-%20Nude%20female.jpg",
+    "y": "1910",
+    "mat": "油彩",
+    "loc": "斯洛維尼亞國家美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q113483237",
+    "t": "Porträt der Else Prior Havemann.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filipp%20Malyavin%20-%20Portrait%20of%20Else%20Prior%20Havemann%20-%201940.png",
+    "y": "1940",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q123908889",
+    "t": "A gentleman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20gentleman%20by%20F.%20Malyavin%20%281924%29.jpg",
+    "y": "1924",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q139578733",
+    "t": "Igor Grabar",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Filipp%20Malyavin%2C%20Igor%20Grabar%2C%201895%2C%20Russian%20Museum%20%D0%96-7482%3B%20from%20goskatalog.ru.jpg",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "聖彼得堡",
+    "links": 0
+   }
+  ]
+ },
+ "阿布拉姆·阿尔希波夫": {
+  "qid": "Q80588",
+  "works": [
+   {
+    "qid": "Q19913248",
+    "t": "Ivan Rodin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Rodin%20MET%20ep29.63.bw.R.jpg",
+    "y": "1928",
+    "mat": "油彩",
+    "loc": "大都會藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q25263523",
+    "t": "In the evening.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abram%20J.%20Archipow%20-%20In%20the%20evening%20-%20M.Ob.1525%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1910",
+    "mat": "油彩",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q55770795",
+    "t": "Q55770795",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoportree%2C%20Abram%20Jefimovit%C5%A1%20Arhipov%2C%20EKM%20j%2037269%20VM%20945.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q55772726",
+    "t": "Q55772726",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%BCtarlaps%20punases%2C%20Abram%20Jefimovit%C5%A1%20Arhipov%2C%20EKM%20j%202551%20VM%20382.jpg",
+    "y": "1916",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q56471928",
+    "t": "Q56471928",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kannude%20m%C3%BC%C3%BCja%2C%20Abram%20Jefimovit%C5%A1%20Arhipov%2C%20NLM%20112-14%20K%203-14.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q56523530",
+    "t": "Woman in Pink",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20in%20Pink%20%28Arkhipov%29.jpg",
+    "y": "1919",
+    "mat": "油彩",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q110975442",
+    "t": "po reke oke",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arhipov%20po%20reke%20oke.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110975896",
+    "t": "Waiting for the Boat",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arhipov%20led%20proshel.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110975902",
+    "t": "Q110975902",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arhipov%20radonica.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q111822250",
+    "t": "Washer Women",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abram%20Jefimowitsch%20Archipow%20002.jpg",
+    "y": "1901",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q114073613",
+    "t": "Q114073613",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abram%20Jefimowitsch%20Archipow%20001.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q114073628",
+    "t": "Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abram%20archipov%2C%20paesaggio%2C%20ante%201924.jpg",
+    "y": "1924",
+    "mat": "",
+    "loc": "Galleria d'arte moderna of Genoa",
+    "links": 0
+   }
+  ]
+ },
+ "斯坦尼斯拉夫·茹科夫斯基": {
+  "qid": "Q2498462",
+  "works": [
+   {
+    "qid": "Q17043262",
+    "t": "Winter landscape. Vyatka",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D1%96%D0%BC%D0%BE%D0%B2%D1%8B%20%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6.%20%D0%92%D1%8F%D1%82%D0%BA%D0%B0.%20%28%D0%A0%D0%B0%D1%82%D0%BE%D0%BD%D0%B4%D0%B0%20%D1%9E%20%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D1%9E%D1%81%D0%BA%D1%96%D0%BC%20%D1%81%D0%B0%D0%B4%D0%B7%D0%B5%29%20%D0%96%D1%83%D0%BA%D0%BE%D1%9E%D1%81%D0%BA%D1%96.jpg",
+    "y": "1921",
+    "mat": "",
+    "loc": "國立白俄羅斯美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q21605404",
+    "t": "Q21605404",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BF%D0%BE%D1%88%D0%BD%D1%96%20%D1%81%D0%BD%D0%B5%D0%B3%20%D0%96%D1%83%D0%BA%D0%BE%D1%9E%D1%81%D0%BA%D1%96.jpg",
+    "y": "1896",
+    "mat": "油彩",
+    "loc": "國立白俄羅斯美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q21605406",
+    "t": "Entrance to the cemetery",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20%C5%BBukowski%20%E2%80%94%20Uvahod%20na%20mogilki.Jpg",
+    "y": "1896",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q55770254",
+    "t": "Q55770254",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maastik%20j%C3%A4rvega%2C%20Stanislav%20Zhukovsky%2C%20EKM%20j%2037953%20VM%20948.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q104598143",
+    "t": "Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20%C5%BBukowski%20-%20Landscape%20-%20MP%201406%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1895",
+    "mat": "tempera",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q104626617",
+    "t": "Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20%C5%BBukowski%20-%20Landscape%20-%20MP%201347%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1916",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q104627056",
+    "t": "Remote Russian north – Vyatka",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20%C5%BBukowski%20-%20Remote%20Russian%20north%20%E2%80%93%20Vyatka%20-%20MP%201414%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1920",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q104627958",
+    "t": "Midnight",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20%C5%BBukowski%20-%20Midnight%20-%20MP%201130%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1922",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q104628062",
+    "t": "Before the masquerade",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20%C5%BBukowski%20-%20Before%20the%20masquerade%20-%20MP%20809%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1923",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q104766826",
+    "t": "Old Library",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20%C5%BBukowski%20-%20Old%20Library%20-%20MNK%20II-b-138%20-%20National%20Museum%20in%20Krak%C3%B3w.jpg",
+    "y": "1916",
+    "mat": "油彩",
+    "loc": "克拉科夫國家博物館",
+    "links": 0
+   }
+  ]
+ },
+ "伊戈尔·格拉巴里": {
+  "qid": "Q1030307",
+  "works": [
+   {
+    "qid": "Q116784675",
+    "t": "February azure",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Grabar%20February%20azure%201904%20gtg.jpg",
+    "y": "1904",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 7
+   }
+  ]
+ },
+ "马蒂罗斯·萨里扬": {
+  "qid": "Q718409",
+  "works": [
+   {
+    "qid": "Q28925577",
+    "t": "Dogs in Constantinople",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1910.%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8.jpg",
+    "y": "1910",
+    "mat": "tempera",
+    "loc": "Martiros Saryan Museum",
+    "links": 2
+   },
+   {
+    "qid": "Q28966350",
+    "t": "Egyptian masks",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%81%D0%BA%D0%B8.jpeg",
+    "y": "1911",
+    "mat": "tempera",
+    "loc": "亚美尼亚国家美术馆",
+    "links": 2
+   },
+   {
+    "qid": "Q34993777",
+    "t": "Date Palm. Egypt",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1911.%20%D0%A4%D0%B8%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0.%20%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82.jpg",
+    "y": "1911",
+    "mat": "tempera",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q28854839",
+    "t": "Walking Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B4%D1%83%D1%89%D0%B0%D1%8F%20%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0.jpeg",
+    "y": "1911",
+    "mat": "tempera",
+    "loc": "Martiros Saryan Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q28871584",
+    "t": "Night Landscape. Egypt",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6.jpeg",
+    "y": "1911",
+    "mat": "tempera",
+    "loc": "Martiros Saryan Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q28933638",
+    "t": "By the Sea. Sphinx",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/By%20the%20Sea.%20Sphinx.jpg",
+    "y": "1908",
+    "mat": "tempera",
+    "loc": "Martiros Saryan Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q28966281",
+    "t": "By the Well. Hot Day",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/By%20the%20Well.%20Hot%20Day%2C%201908.jpg",
+    "y": "1908",
+    "mat": "tempera",
+    "loc": "Martiros Saryan Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q28969509",
+    "t": "Self-portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stamp%20of%20Armenia%20h322.jpg",
+    "y": "1942",
+    "mat": "油彩",
+    "loc": "亚美尼亚国家美术馆",
+    "links": 1
+   },
+   {
+    "qid": "Q42807110",
+    "t": "Panel \"Armenia\"",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Murals%20at%20Sundukyan%20State%20Academic%20Theatre.jpg",
+    "y": "1965",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q97357009",
+    "t": "Q97357009",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aksel%20Bakunts%20museum%200558%2014.jpg",
+    "y": "1935",
+    "mat": "油彩",
+    "loc": "Axel Bakunts House-Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q108473710",
+    "t": "Q108473710",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D4%B1%D6%80%D5%A1%D5%B4%20%D4%BD%D5%A1%D5%B9%D5%A1%D5%BF%D6%80%D5%B5%D5%A1%D5%B6%D5%AB%20%D5%A4%D5%AB%D5%B4%D5%A1%D5%B6%D5%AF%D5%A1%D6%80%D5%A8%20%28%D5%8D%D5%A1%D6%80%D5%B5%D5%A1%D5%B6%29%2C%201963%20%D5%A9%D5%BE%D5%A1%D5%AF%D5%A1%D5%B6.jpg",
+    "y": "1963",
+    "mat": "油彩",
+    "loc": "Aram Khachaturian Museum",
+    "links": 1
+   },
+   {
+    "qid": "Q130534815",
+    "t": "Terrace with three figures",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Martiros%20Saryan%2C%20Terrace%20with%20three%20figures%2C%20ca.%201906.jpg",
+    "y": "1906",
+    "mat": "紙板",
+    "loc": "Radishchev Art Museum",
+    "links": 0
+   }
+  ]
+ },
+ "瓦西里·特罗皮宁": {
+  "qid": "Q434561",
+  "works": [
+   {
+    "qid": "Q4242050",
+    "t": "Lace-maker",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Tropinin%20-%20%D0%9A%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BD%D0%B8%D1%86%D0%B0%20-%20Google%20Art%20Project.jpg",
+    "y": "1823",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q124517980",
+    "t": "Portrait of Alexander Pushkin.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/AleksandrPushkin.jpg",
+    "y": "1827",
+    "mat": "油彩",
+    "loc": "国家普希金博物馆",
+    "links": 2
+   },
+   {
+    "qid": "Q20076612",
+    "t": "Lady from Podolia",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20from%20Podolye%20by%20V.Tropinin%20%28b.%201821%2C%20Kursk%29.jpg",
+    "y": "1821",
+    "mat": "油彩",
+    "loc": "Kursk State Art Gallery",
+    "links": 1
+   },
+   {
+    "qid": "Q116432553",
+    "t": "Self-Portrait in Front of the Kremlin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tropinin-self.jpg",
+    "y": "1846",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   },
+   {
+    "qid": "Q18689422",
+    "t": "Portrait of K.G.Ravich",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Tropinin%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%9A.%D0%93.%D0%A0%D0%B0%D0%B2%D0%B8%D1%87%D0%B0%20-%20Google%20Art%20Project.jpg",
+    "y": "1823",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q18689423",
+    "t": "Portrait of A. V. Tropinin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Tropinin%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%90.%D0%92.%D0%A2%D1%80%D0%BE%D0%BF%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0%20-%20Google%20Art%20Project.jpg",
+    "y": "1818",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q21715959",
+    "t": "Portrait of the Merchant Alexander Sapozhnikov",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20Merchant%20Alexander%20Sapozhnikov.jpg",
+    "y": "1826",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21723579",
+    "t": "Portrait of Sergei Volkonsky",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Tropinin%2022.jpg",
+    "y": "1824",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21730493",
+    "t": "Portrait of P.I. Sapoznikova",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Tropinin%20-%20Portrait%20of%20P.I.%20Sapoznikova%20-%20WGA23077.jpg",
+    "y": "1826",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q24691495",
+    "t": "Portrait of an Ukrainian peasant.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tropinin%20Ukrainian%20peasant.jpg",
+    "y": "1820",
+    "mat": "油彩",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q26250677",
+    "t": "Portrait of a man",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wasyl%20A.%20Tropinin%20-%20Portrait%20of%20a%20man%20-%20M.Ob.799%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "1820",
+    "mat": "油彩",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q43276904",
+    "t": "The Peasant Boy with a Hatchet",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D1%80%D0%BE%D0%BF%D0%B8%D0%BD%D0%B8%D0%BD%20%D0%9C%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA-%D1%81-%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%B8%D0%BA%D0%BE%D0%BC%201810.jpg",
+    "y": "1810",
+    "mat": "油彩",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 0
+   }
+  ]
+ },
+ "奥列斯特·基普连斯基": {
+  "qid": "Q367120",
+  "works": [
+   {
+    "qid": "Q18688281",
+    "t": "Alexander Pushkin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orest%20Kiprensky%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BF%D0%BE%D1%8D%D1%82%D0%B0%20%D0%90.%D0%A1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0%20-%20Google%20Art%20Project.jpg",
+    "y": "1827",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q18785989",
+    "t": "Gazette readers in Naples",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orest%20Kiprensky%20010.jpeg",
+    "y": "1831",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q115695379",
+    "t": "Portrait of Life Guard Colonel Yevgraf Davydov",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orest%20Kiprensky%20-%20Portrait%20of%20Life%20Guard%20Colonel%20Yevgraf%20Davydov%20-%20Google%20Art%20Project.jpg",
+    "y": "1809",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q18688282",
+    "t": "Portrait of A.A.Chelishchev",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orest%20Kiprensky%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%90.%D0%90.%D0%A7%D0%B5%D0%BB%D0%B8%D1%89%D0%B5%D0%B2%D0%B0%20-%20Google%20Art%20Project.jpg",
+    "y": "1808",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q21725080",
+    "t": "Portrait of Count Grigory Kushelev (1754-1833)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9E%D1%80%D0%B5%D1%81%D1%82%20%D0%90.%20%D0%9A%D0%B8%D0%BF%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%B3%D1%80%D0%B0%D1%84%D0%B0%20%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%20%D0%93.%20%D0%9A%D1%83%D1%88%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%20%28%D0%BE.1827%29.jpg",
+    "y": "1827",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21727635",
+    "t": "Portrait of Zinaida Volkonskaya",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Z.Volkonskaya%20by%20O.Kiprenskiy%20%281830%2C%20Hermitage%29.jpg",
+    "y": "1830",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21732301",
+    "t": "Portrait of Golovnin, Captain I Rank",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Golovnin%20VM.jpg",
+    "y": "1815",
+    "mat": "",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q29805664",
+    "t": "Portrait of D. N. Filosofov",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/D.N.%20Filosofov%20by%20O.Kiprensky%20%281826%2C%20Armenia%29.jpg",
+    "y": "1826",
+    "mat": "油彩",
+    "loc": "亚美尼亚国家美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q52899842",
+    "t": "拿坡里渔男孩",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B8%D0%BF%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9E.%20%D0%90.%20%281829%29%20%D0%9D%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA%D0%B8-%D1%80%D1%8B%D0%B1%D0%B0%D0%BA%D0%B8.jpg",
+    "y": "1829",
+    "mat": "油彩",
+    "loc": "那不勒斯王宫",
+    "links": 0
+   },
+   {
+    "qid": "Q104541995",
+    "t": "Portrait of Anastasia Shcherbatov",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orest%20Kiprensky%20-%20Portrait%20of%20Anastasia%20Shcherbatov%20-%20M.Ob.1161%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q104543510",
+    "t": "Gardener resting",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orest%20Kiprensky%20-%20Gardener%20resting%20-%20M.Ob.157%20MNW%20-%20National%20Museum%20in%20Warsaw.jpg",
+    "y": "",
+    "mat": "油彩",
+    "loc": "華沙國家博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q109457817",
+    "t": "Portrait of Count G. G.  Kushelev",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kushelev%20by%20Kiprensky%20%28Kharkiv%29.jpg",
+    "y": "1825",
+    "mat": "油彩",
+    "loc": "哈尔科夫美术博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "卡尔·布留洛夫": {
+  "qid": "Q4768",
+  "works": [
+   {
+    "qid": "Q2521909",
+    "t": "庞贝城的末日",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Brullov%20-%20The%20Last%20Day%20of%20Pompeii%20-%20Google%20Art%20Project.jpg",
+    "y": "1833",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 27
+   },
+   {
+    "qid": "Q4127254",
+    "t": "Horsewoman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1832.%20BRULLOV%20VSADNICA1.jpg",
+    "y": "1832",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 8
+   },
+   {
+    "qid": "Q4205253",
+    "t": "Italian Midday (1827 version)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Brjullov%20Italianskij%20Poldenj.jpg",
+    "y": "1827",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q28360775",
+    "t": "Fortune-teller Svetlana",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Svetlana%20at%20fortune-telling%20by%20K.Brullov%20%281836%2C%20Nizhniy%20Novgorod%20museum%29.jpg",
+    "y": "1836",
+    "mat": "油彩",
+    "loc": "Nizhny Novgorod State Art Museum",
+    "links": 6
+   },
+   {
+    "qid": "Q4205261",
+    "t": "Italian morning",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Brjullov%20Italianskoe%20Utro.jpg",
+    "y": "1823",
+    "mat": "",
+    "loc": "Kunsthalle Kiel",
+    "links": 5
+   },
+   {
+    "qid": "Q118746671",
+    "t": "Q118746671",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/BrullovKP%20OsadaPskovPolGTG.jpg",
+    "y": "1843",
+    "mat": "油彩",
+    "loc": "",
+    "links": 2
+   },
+   {
+    "qid": "Q118770385",
+    "t": "Genserich's Invasion of Rome",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Genseric%20sacking%20rome%20456.jpg",
+    "y": "1836",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q131721641",
+    "t": "Christ in the Tomb",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81%20%D0%B2%D0%BE%20%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "俄羅斯博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q18687815",
+    "t": "Bathsheba",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Bryullov%20%28Bryullo%29%20-%20%D0%92%D0%B8%D1%80%D1%81%D0%B0%D0%B2%D0%B8%D1%8F%20-%20Google%20Art%20Project.jpg",
+    "y": "1832",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   },
+   {
+    "qid": "Q18687819",
+    "t": "自画像",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Bryullov%20%28Bryullo%29%20-%20%D0%90%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20-%20Google%20Art%20Project.jpg",
+    "y": "1848",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   },
+   {
+    "qid": "Q25444518",
+    "t": "The Assassination of Inês de Castro",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Briullov%2001.jpeg",
+    "y": "1834",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q27516610",
+    "t": "Portrait of Mathieu Wielgorsky",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D1%80%D1%8E%D0%BB%D0%BB%D0%BE%D0%B2%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D0%B0%20%D0%9C.%20%D0%92%D0%B8%D0%B5%D0%BB%D1%8C%D0%B5%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE.jpg",
+    "y": "1828",
+    "mat": "画布",
+    "loc": "國立白俄羅斯美術館",
+    "links": 1
+   }
+  ]
+ },
+ "亚历山大·伊万诺夫": {
+  "qid": "Q76829",
+  "works": [
+   {
+    "qid": "Q4536026",
+    "t": "The Appearance of Christ Before the People",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87%20%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20-%20%D0%AF%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B0%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D1%83%20%28%D0%AF%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9C%D0%B5%D1%81%D1%81%D0%B8%D0%B8%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1847",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 16
+   },
+   {
+    "qid": "Q11690350",
+    "t": "Appearance of Jesus Christ to Maria Magdalena",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Ivanov%20-%20Christ%27s%20Appearance%20to%20Mary%20Magdalene%20after%20the%20Resurrection%20-%20Google%20Art%20Project.jpg",
+    "y": "1835",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 6
+   },
+   {
+    "qid": "Q18683074",
+    "t": "Via Appia at Sunset",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksander%20Ivanov%20-%20%D0%90%D0%BF%D0%BF%D0%B8%D0%B5%D0%B2%D0%B0%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0%20%28Via%20Appia%29%20%D0%BF%D1%80%D0%B8%20%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5%20%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B0%20-%20Google%20Art%20Project.jpg",
+    "y": "1845",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   },
+   {
+    "qid": "Q11731709",
+    "t": "Joseph interprets the butler's and the baker's dreams",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandr%20Ivanov%20025.jpg",
+    "y": "1827",
+    "mat": "",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q11827166",
+    "t": "Priam asks Achilles to return Hector's body",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandr%20Ivanov%20005.jpg",
+    "y": "1824",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   },
+   {
+    "qid": "Q22009495",
+    "t": "Archangel Gabriel struck dumb Zachariah",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandr%20Ivanov%20010.jpg",
+    "y": "1837",
+    "mat": "",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q18683072",
+    "t": "Water and Stones near Palazzuola",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Ivanov%20-%20Water%20and%20Stones%20near%20Palazzuola%20-%20Google%20Art%20Project.jpg",
+    "y": "1850",
+    "mat": "纸",
+    "loc": "Mikhaylovsky Palace",
+    "links": 0
+   },
+   {
+    "qid": "Q19962900",
+    "t": "The Atelier of Alexander Ivanov in Rome",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Atelier%20of%20Alexander%20Ivanov%20in%20Rome%201830s.jpg",
+    "y": "1830",
+    "mat": "纸",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q56062717",
+    "t": "The Appearance of Christ Before the People",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Galerie%20Tretiakov%20-%20Alexandre%20Ivanov%20-%20L%27Apparition%20du%20Christ%20au%20peuple%20%28%C3%A9bauche%29.jpg",
+    "y": "1830",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   }
+  ]
+ },
+ "帕维尔·费多托夫": {
+  "qid": "Q248597",
+  "works": [
+   {
+    "qid": "Q18688348",
+    "t": "Major's marriage proposal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavel%20Fedotov%20-%20%D0%A1%D0%B2%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D1%82%D0%B2%D0%BE%20%D0%BC%D0%B0%D0%B9%D0%BE%D1%80%D0%B0%20-%20Google%20Art%20Project.jpg",
+    "y": "1848",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 5
+   },
+   {
+    "qid": "Q18688347",
+    "t": "\"The fresh cavalier.\" The 'morning after' of an official who has received his first state order",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavel%20Fedotov%20-%20The%20fresh%20cavalier%20-%20Google%20Art%20Project.jpg",
+    "y": "1846",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q4066483",
+    "t": "Encore, again Encore!",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavel%20Fedotov%20-%20Encore%2C%20again%20Encore%21.jpg",
+    "y": "1851",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   },
+   {
+    "qid": "Q115005202",
+    "t": "Breakfast of an aristocrat",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedotov%20zavt%20arist.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q18688346",
+    "t": "The Major Makes a Proposal",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavel%20Fedotov%20-%20The%20Major%20Makes%20a%20Proposal%20%28Inspecting%20a%20Bride%20in%20a%20Merchant%27s%20House%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1851",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q111719734",
+    "t": "Q111719734",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shepetkovsky-Aleksandr-Kirillovich.jPeG",
+    "y": "1843",
+    "mat": "纸",
+    "loc": "國立白俄羅斯美術館",
+    "links": 0
+   }
+  ]
+ },
+ "尼古拉·葛": {
+  "qid": "Q457976",
+  "works": [
+   {
+    "qid": "Q11800605",
+    "t": "The Last Supper",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ge%20001.jpg",
+    "y": "1863",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 10
+   },
+   {
+    "qid": "Q21041551",
+    "t": "Peter the Great Interrogating the Tsarevich Alexei Petrovich at Peterhof",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20the%20Great%20Interrogating%20the%20Tsarevich%20Alexei%20Petrovich.jpg",
+    "y": "1871",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 9
+   },
+   {
+    "qid": "Q4517307",
+    "t": "\"What is truth?\" Christ and Pilate",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/What%20is%20truth.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q120973963",
+    "t": "Crucifixus (Nikolay Ge, 1884)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%93%D0%B5.%20%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5.jpg",
+    "y": "1884",
+    "mat": "",
+    "loc": "Museum of Don Cossacks",
+    "links": 3
+   },
+   {
+    "qid": "Q9274352",
+    "t": "Golgotha",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ge%20golgofa.jpg",
+    "y": "1893",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 2
+   },
+   {
+    "qid": "Q129588499",
+    "t": "Crucifixion",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5%2C%20%D0%93%D0%B5%2C%201894.pdf",
+    "y": "1894",
+    "mat": "油彩",
+    "loc": "不明",
+    "links": 2
+   },
+   {
+    "qid": "Q4445298",
+    "t": "The Judgment of the Sanhedrin: He is Guilty!",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Judgment%20of%20the%20Sanhedrin-%20He%20is%20Guilty%21.jpg",
+    "y": "1892",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   },
+   {
+    "qid": "Q21725384",
+    "t": "Portrait of Alexander Herzen",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Herzen%20ge.jpg",
+    "y": "1867",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 1
+   },
+   {
+    "qid": "Q17117194",
+    "t": "Achilles Lamenting the Death of Patroclus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolay%20Ge%20002.jpeg",
+    "y": "1855",
+    "mat": "油彩",
+    "loc": "國立白俄羅斯美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q21725225",
+    "t": "Portrait of Nikolai Nekrasov",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolay%20Nekrasov%20by%20Ge.jpg",
+    "y": "1872",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q21741367",
+    "t": "Portrait of Yekaterina Ge, the Artist's Daughter-in-Law",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Yekaterina%20Ge%2C%20the%20Artist%27s%20Daughter-in-Law.jpg",
+    "y": "1880",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q27974554",
+    "t": "Portrait of Princess Olga Volkonskaya (nee Kleinmichel)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kleinmichel%20Olga%20by%20Nikolay%20Ge.jpg",
+    "y": "1882",
+    "mat": "油彩",
+    "loc": "埃尔米塔日博物馆",
+    "links": 0
+   }
+  ]
+ },
+ "瓦西里·苏里科夫二": {
+  "qid": "Q110228",
+  "works": [
+   {
+    "qid": "Q4478998",
+    "t": "近卫军临刑的早晨",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20matin%20de%20l%27%20ex%C3%A9cution%20des%20streltsy.jpg",
+    "y": "1881",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 15
+   },
+   {
+    "qid": "Q4095553",
+    "t": "女贵族莫洛卓娃",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Surikov%20-%20%D0%91%D0%BE%D1%8F%D1%80%D1%8B%D0%BD%D1%8F%20%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%20-%20Google%20Art%20Project.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 11
+   },
+   {
+    "qid": "Q4110459",
+    "t": "攻陷雪城",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Surikov%20-%20Taking%20a%20Snow%20Town%20-%20Google%20Art%20Project.jpg",
+    "y": "1891",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 7
+   },
+   {
+    "qid": "Q18689417",
+    "t": "叶尔马克征服西伯利亚",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Surikov%20-%20Yermak%27s%20Conquest%20of%20Siberia%20-%20Google%20Art%20Project.jpg",
+    "y": "1895",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 5
+   },
+   {
+    "qid": "Q7225002",
+    "t": "Menshikov in Berezovo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/SurikovMenshikovBerezovo.jpg",
+    "y": "1883",
+    "mat": "",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q18689416",
+    "t": "Suvorov Crossing the Alps in 1799",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Surikov%20-%20Suvorov%20Crossing%20the%20Alps%20in%201799%20-%20Google%20Art%20Project.jpg",
+    "y": "1899",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 4
+   },
+   {
+    "qid": "Q123012549",
+    "t": "Stepan Razin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stenka%20Razin%20by%20Vasily%20Surikov%201906.jpg",
+    "y": "1906",
+    "mat": "油彩",
+    "loc": "俄羅斯博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q124743045",
+    "t": "Q124743045",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsarevna%20visiting%20monastery%20by%20Surikov%20%281912%29.jpg",
+    "y": "1912",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 1
+   },
+   {
+    "qid": "Q27102711",
+    "t": "Q27102711",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92.%20%D0%98.%20%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2.%20%D0%9F%D0%BE%D0%BC%D0%BF%D0%B5%D1%8F.%20%D0%94%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B.%201884.jpg",
+    "y": "1884",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q43303827",
+    "t": "Wife of the bearded archer (Etude for the picture morning of the execution of the Strelitz,\" 1881)\"",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%96%D0%B5%D0%BD%D0%B0%20%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B3%D0%BE%20%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0%20%28%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%29.jpg",
+    "y": "1879",
+    "mat": "油彩",
+    "loc": "Yekaterinburg Museum of Fine Arts",
+    "links": 0
+   },
+   {
+    "qid": "Q123378825",
+    "t": "Portrait of Olga Wassiljewna Surikowa, the artist's daughter (Girl with Doll)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassilij%20Iwanowitsch%20Surikow%20007.jpg",
+    "y": "1888",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 0
+   },
+   {
+    "qid": "Q125577009",
+    "t": "Anastasia Dobrinskaya",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anastasia%20Dobrinskaya%20by%20Surikov%20%281911%2C%20GRM%29%20FRAME%2003.jpg",
+    "y": "1911",
+    "mat": "",
+    "loc": "俄羅斯博物館",
+    "links": 0
+   }
+  ]
+ },
+ "伊利亚·奥斯特罗霍夫": {
+  "qid": "Q4339141",
+  "works": [
+   {
+    "qid": "Q18242481",
+    "t": "Golden Autumn",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ostroukhov%20Golden%20Autumn%201886%20gtg.jpg",
+    "y": "1886",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 4
+   },
+   {
+    "qid": "Q18277611",
+    "t": "Siverko",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ostrouhov%20Siverko.jpg",
+    "y": "1890",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   },
+   {
+    "qid": "Q28057097",
+    "t": "First green of spring",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ostroukhov%20First%20Green%20of%20Spring.jpg",
+    "y": "1887",
+    "mat": "油彩",
+    "loc": "特列季亚科夫画廊",
+    "links": 3
+   }
+  ]
+ }
+}
