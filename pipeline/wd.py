@@ -9,7 +9,7 @@ def sparql(q,tries=3):
     return None
 def works_of(qid,limit=14,prop='P170'):
     """prop: P170=creator(绘画/雕塑) | P84=architect(建筑)"""
-    TYPES = ('wd:Q3305213 wd:Q93184 wd:Q11060274 wd:Q860861 wd:Q15711026' if prop=='P170'
+    TYPES = ('wd:Q3305213 wd:Q93184 wd:Q11060274 wd:Q860861 wd:Q15711026 wd:Q125191 wd:Q1885014 wd:Q4502142' if prop=='P170'
              else 'wd:Q41176 wd:Q811979 wd:Q1021645 wd:Q24354 wd:Q16970 wd:Q33506 wd:Q11303')
     q=f'''SELECT ?w ?wLabel ?img ?date ?matLabel ?locLabel ?links WHERE {{
   ?w wdt:{prop} wd:{qid}; wdt:P18 ?img; wikibase:sitelinks ?links.

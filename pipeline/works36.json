@@ -1,399 +1,179 @@
 {
- "保罗·克利": {
-  "qid": "Q44007",
-  "works": [
-   {
-    "qid": "Q537640",
-    "t": "新天使",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelus%20Novus%2C%201920%20-%20Paul%20Klee.jpg",
-    "y": "1920",
-    "mat": "纸",
-    "loc": "以色列博物館",
-    "links": 14
-   },
-   {
-    "qid": "Q60497141",
-    "t": "Senecio",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%2C%201922%2C%20Senecio%2C%20oil%20on%20gauze%2C%2040.3%20%C3%97%2037.4%20cm%2C%20Kunstmuseum%20Basel.jpg",
-    "y": "1922",
-    "mat": "油彩",
-    "loc": "巴塞爾美術館",
-    "links": 6
-   },
-   {
-    "qid": "Q3210239",
-    "t": "鸣啭机",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Zwitscher-Maschine%20%28Twittering%20Machine%29%2C%201922%20-%20Paul%20Klee.jpg",
-    "y": "1922",
-    "mat": "",
-    "loc": "瑞士",
-    "links": 6
-   },
-   {
-    "qid": "Q41696660",
-    "t": "Villa R",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Villa%20R%2C%201919%20-%20Paul%20Klee.jpg",
-    "y": "1919",
-    "mat": "油彩",
-    "loc": "巴塞爾美術館",
-    "links": 5
-   },
-   {
-    "qid": "Q2365608",
-    "t": "Sumpflegende",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sumpflegende%2C%201919%20-%20Paul%20Klee.jpg",
-    "y": "1919",
-    "mat": "油彩",
-    "loc": "邦立漢諾威博物館",
-    "links": 5
-   },
-   {
-    "qid": "Q29784159",
-    "t": "Angel, Still Groping",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%20~%20Engel%2C%20noch%20tastend%20~%201939.jpg",
-    "y": "1939",
-    "mat": "纸",
-    "loc": "伯尔尼",
-    "links": 4
-   },
-   {
-    "qid": "Q30078904",
-    "t": "Limits of Reason",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Grenzen%20des%20Verstandes%2C%20Paul%20Klee.jpg",
-    "y": "1927",
-    "mat": "tempera",
-    "loc": "现代艺术陈列馆",
-    "links": 4
-   },
-   {
-    "qid": "Q62701395",
-    "t": "Architecture",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Architektur%20%2C%201923%20-%20Paul%20Klee.jpg",
-    "y": "1923",
-    "mat": "油彩",
-    "loc": "新國立美術館",
-    "links": 4
-   },
-   {
-    "qid": "Q21153070",
-    "t": "Camel (in Rhythmic Landscape with Trees)",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%20Kamel%20in%20rhythmischer%20Baumlandschaft%20klein.jpg",
-    "y": "1920",
-    "mat": "油彩",
-    "loc": "北莱茵-威斯特法伦艺术品收藏馆",
-    "links": 4
-   },
-   {
-    "qid": "Q21711782",
-    "t": "Rotating House",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Revolving%20House%20by%20Paul%20Klee%2C%201921%20AD%2C%20gouache%20on%20cheesecloth%20on%20paper%20-%20Museo%20Nacional%20Centro%20de%20Arte%20Reina%20Sof%C3%ADa%20-%20DSC08792.JPG",
-    "y": "1921",
-    "mat": "",
-    "loc": "提森-博内米萨博物馆",
-    "links": 4
-   },
-   {
-    "qid": "Q1589802",
-    "t": "Highway and Byways",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hauptweg%20und%20Nebenwege%20-%20Paul%20Klee%20-%20Museum%20Ludwig-7026%20%28cropped%29.jpg",
-    "y": "1929",
-    "mat": "油彩",
-    "loc": "路德維希博物館",
-    "links": 4
-   },
-   {
-    "qid": "Q16487556",
-    "t": "Ad Parnassum",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ad%20Parnassum%20%28originaler%2C%20gefasster%20Holzrahmen%29%2C%20Paul%20Klee%20%281932%29.jpg",
-    "y": "1932",
-    "mat": "tempera",
-    "loc": "Kunstmuseum und Kunsthistorisches Seminar (building)",
-    "links": 4
-   }
-  ]
+ "安塞尔·亚当斯": {
+  "qid": "Q60809",
+  "works": []
  },
- "瓦西里·康定斯基": {
-  "qid": "Q61064",
+ "多萝西娅·兰格": {
+  "qid": "Q230673",
+  "works": []
+ },
+ "沃克·埃文斯": {
+  "qid": "Q363308",
+  "works": []
+ },
+ "爱德华·韦斯顿": {
+  "qid": "Q346988",
+  "works": []
+ },
+ "保罗·斯特兰德": {
+  "qid": "Q453839",
+  "works": []
+ },
+ "阿尔弗雷德·施蒂格利茨": {
+  "qid": "Q313055",
+  "works": []
+ },
+ "刘易斯·海因": {
+  "qid": "Q347194",
+  "works": []
+ },
+ "雅各布·里斯": {
+  "qid": "Q379211",
+  "works": []
+ },
+ "尤金·阿杰": {
+  "qid": "Q322030",
   "works": [
    {
-    "qid": "Q2990634",
-    "t": "Composition VII",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Composition%20VII%20-%20Wassily%20Kandinsky%2C%20GAC.jpg",
-    "y": "1913",
-    "mat": "油彩",
-    "loc": "特列季亚科夫画廊",
-    "links": 12
+    "qid": "Q79936331",
+    "t": "Fountain of the L'École Polytechnique",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Atget%20-%20Fountain%20of%20the%20L%27%C3%89cole%20Polytechnique%20-%201985.116%20-%20Cleveland%20Museum%20of%20Art.jpg",
+    "y": "1902",
+    "mat": "蛋白印相",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
    },
    {
-    "qid": "Q3793374",
-    "t": "藍騎士",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky-Blue%20Rider.jpg",
-    "y": "1903",
-    "mat": "油彩",
-    "loc": "俄罗斯",
-    "links": 11
-   },
-   {
-    "qid": "Q16543389",
-    "t": "Composition VI",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201913%20-%20Composition%206.jpg",
-    "y": "1913",
-    "mat": "油彩",
-    "loc": "埃尔米塔日博物馆",
-    "links": 9
-   },
-   {
-    "qid": "Q18705520",
-    "t": "On White II",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201923%20-%20On%20White%20II.jpg",
+    "qid": "Q79936333",
+    "t": "Versailles, Fountain of Enceladus",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Atget%20-%20Versailles%2C%20Fountain%20of%20Enceladus%20-%201985.117%20-%20Cleveland%20Museum%20of%20Art.jpg",
     "y": "1923",
-    "mat": "油彩",
-    "loc": "國立現代藝術博物館",
-    "links": 9
+    "mat": "蛋白印相",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
    },
    {
-    "qid": "Q18705525",
-    "t": "Yellow-Red-Blue",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20Jaune%20Rouge%20Bleu.jpg",
+    "qid": "Q79947662",
+    "t": "Hôtel Cheruseau, Rue Louis en L'Ile",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Atget%20-%20H%C3%B4tel%20Cheruseau%2C%20Rue%20Louis%20en%20L%27Ile%20-%201993.88%20-%20Cleveland%20Museum%20of%20Art.jpg",
+    "y": "1905",
+    "mat": "蛋白印相",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q79986402",
+    "t": "The Park at Sceaux [April 1925, 7a.m.]",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Atget%20-%20The%20Park%20at%20Sceaux%20April%201925%2C%207a.m.%20-%202002.68%20-%20Cleveland%20Museum%20of%20Art.jpg",
     "y": "1925",
-    "mat": "油彩",
-    "loc": "龐畢度中心",
-    "links": 9
+    "mat": "",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
    },
    {
-    "qid": "Q3685303",
-    "t": "Composition X",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201939%20-%20Composition%2010.jpg",
-    "y": "1939",
-    "mat": "油彩",
-    "loc": "北莱茵-威斯特法伦艺术品收藏馆",
-    "links": 8
-   },
-   {
-    "qid": "Q3825010",
-    "t": "Colorful Life",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%201.jpg",
-    "y": "1907",
-    "mat": "油彩",
-    "loc": "伦巴赫美术馆",
-    "links": 8
-   },
-   {
-    "qid": "Q19609199",
-    "t": "Composition VIII",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20Composition%208%2C%20July%201923.jpg",
+    "qid": "Q79986405",
+    "t": "Nymphéa",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Atget%20-%20Nymph%C3%A9a%20-%202002.69%20-%20Cleveland%20Museum%20of%20Art.jpg",
     "y": "1923",
-    "mat": "油彩",
-    "loc": "所羅門·古根漢美術館",
-    "links": 7
+    "mat": "蛋白印相",
+    "loc": "克利夫蘭藝術博物館",
+    "links": 0
    },
    {
-    "qid": "Q18705560",
-    "t": "Composition IX",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201936%20-%20Composition%209.jpg",
-    "y": "1936",
-    "mat": "油彩",
-    "loc": "國立現代藝術博物館",
-    "links": 6
-   },
-   {
-    "qid": "Q3609042",
-    "t": "Several Circles",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vassily%20Kandinsky%2C%201926%20-%20Several%20Circles%2C%20Gugg%200910%2025.jpg",
-    "y": "1926",
-    "mat": "油彩",
-    "loc": "所羅門·古根漢美術館",
-    "links": 6
-   },
-   {
-    "qid": "Q3641124",
-    "t": "Sky Blue",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wassily%20Kandinsky%20-%20Sky%20Blue%2C%201940.jpg",
-    "y": "1940",
-    "mat": "油彩",
-    "loc": "國立現代藝術博物館",
-    "links": 6
-   },
-   {
-    "qid": "Q3874360",
-    "t": "In Grey",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20Im%20Grau%2C%201919%2C%20GAC.jpg",
-    "y": "1919",
-    "mat": "油彩",
-    "loc": "龐畢度中心",
-    "links": 6
+    "qid": "Q104377803",
+    "t": "Q104377803",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Atget%20-%20Cour%20de%20maison%20avec%20linge%20s%C3%A9chant%20-%20P2462%20-%20Mus%C3%A9e%20Carnavalet.jpg",
+    "y": "1900",
+    "mat": "",
+    "loc": "卡纳瓦莱博物馆",
+    "links": 0
    }
   ]
  },
- "李奥内·费宁格": {
-  "qid": "Q158255",
+ "纳达尔": {
+  "qid": "Q40116",
   "works": [
    {
-    "qid": "Q107630974",
-    "t": "The Cathedral in Halle",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyonel%20Feininger%20-%20Der%20Dom%20in%20Halle%201931.jpg",
-    "y": "1931",
-    "mat": "油彩",
-    "loc": "Moritzburg Art Museum",
-    "links": 1
-   },
+    "qid": "Q108795990",
+    "t": "M. le comte de Morny (d'après une photographie de Nadar) BOYER 1901",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/BOYER%201901%20-%20M.%20le%20comte%20de%20Morny%20%28d%27apr%C3%A8s%20une%20photographie%20de%20Nadar%29.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "Rare book library of Clermont Auvergne Métropole",
+    "links": 0
+   }
+  ]
+ },
+ "朱莉娅·玛格丽特·卡梅隆": {
+  "qid": "Q230120",
+  "works": []
+ },
+ "罗杰·芬顿": {
+  "qid": "Q345666",
+  "works": []
+ },
+ "马修·布雷迪": {
+  "qid": "Q187850",
+  "works": []
+ },
+ "爱德华·迈布里奇": {
+  "qid": "Q190568",
+  "works": []
+ },
+ "卡尔顿·沃特金斯": {
+  "qid": "Q2939083",
+  "works": []
+ },
+ "蒂莫西·奥沙利文": {
+  "qid": "Q1371063",
+  "works": []
+ },
+ "古斯塔夫·勒·格雷": {
+  "qid": "Q982549",
+  "works": [
    {
-    "qid": "Q19882543",
-    "t": "Gelmeroda IV",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Feininger%2C%20Lyonel%20-%20Gelmeroda%20IV.jpg",
-    "y": "1915",
+    "qid": "Q115048484",
+    "t": "Portrait de Mme G. L.",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20de%20Mme%20G%20L%20%28Palmira%20Leonardi%2C%20wife%20of%20Gustave%20Le%20Gray%29.jpg",
+    "y": "1853",
     "mat": "油彩",
-    "loc": "所羅門·古根漢美術館",
+    "loc": "奥赛博物馆",
     "links": 0
    },
    {
-    "qid": "Q111797901",
-    "t": "Red Tower II",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyonel%20Feininger%20-%20Roter%20Turm%20II%201930.jpg",
-    "y": "1930",
+    "qid": "Q118208262",
+    "t": "Q118208262",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Empress%20Eugenie%20by%20Gustave%20Le%20Gray%20%28gift%20from%20Isma%27il%20Pasha%29.jpg",
+    "y": "1869",
     "mat": "油彩",
-    "loc": "Kunstmuseum Mülheim an der Ruhr",
-    "links": 0
-   },
-   {
-    "qid": "Q138861790",
-    "t": "Geranium (Harlequin and Clown)",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyonel%20Feininger%20Geranium%20%28Harlequin%20and%20Clown%29.jpg",
-    "y": "1908",
-    "mat": "纸",
     "loc": "",
     "links": 0
    }
   ]
  },
- "奥斯卡·施莱默": {
-  "qid": "Q458816",
+ "威廉·亨利·福克斯·塔尔博特": {
+  "qid": "Q299565",
   "works": [
    {
-    "qid": "Q19884184",
-    "t": "Bauhaus Stairway",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oskar%20Schlemmer%20-%20Bauhaustreppe%201932.jpg",
-    "y": "1932",
-    "mat": "油彩",
-    "loc": "現代藝術博物館",
-    "links": 3
-   },
-   {
-    "qid": "Q22570081",
-    "t": "Concentric Group",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konzentrische%20Gruppe%20-%20Oskar%20Schlemmer.jpg",
-    "y": "1925",
-    "mat": "油彩",
-    "loc": "斯图加特州立绘画馆",
-    "links": 3
-   },
-   {
-    "qid": "Q30079698",
-    "t": "Danceress (The Gesture)",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20-%20Dancer%20by%20Oskar%20Schlemmer%2002.jpg",
-    "y": "1922",
-    "mat": "tempera",
-    "loc": "现代艺术陈列馆",
-    "links": 1
-   },
-   {
-    "qid": "Q83980078",
-    "t": "Interior with Four Figures, Roman",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oskar%20Schlemmer%20-%20Vier%20Figuren%20im%20Raum%201925.jpg",
-    "y": "1925",
-    "mat": "油彩",
-    "loc": "巴塞爾美術館",
-    "links": 1
-   },
-   {
-    "qid": "Q131586334",
-    "t": "Group of Fourteen in Imaginary Architecture",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vierzehnergruppe%20in%20imaginarer%20Architektur%20-%20Oskar%20Schlemmer%20-%20Museum%20Ludwig-7028%20%28cropped%29.jpg",
-    "y": "1930",
-    "mat": "tempera",
-    "loc": "路德維希博物館",
-    "links": 1
-   },
-   {
-    "qid": "Q28002692",
-    "t": "Q28002692",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oskar%20Schlemmer%20-%20Gassenwinkel%20-%204350%20-%20%C3%96sterreichische%20Galerie%20Belvedere.jpg",
-    "y": "1911",
+    "qid": "Q104213316",
+    "t": "Dandelion Seeds",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/-Dandelion%20Seeds-%20MET%20DP106960.jpg",
+    "y": "",
     "mat": "",
-    "loc": "奥地利美景宫美术馆",
-    "links": 0
-   },
-   {
-    "qid": "Q47517932",
-    "t": "Jagdschloss Grunewald",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oskar%20Schlemmer%20-%20Jagdschlo%C3%9F%20Grunewald%20-%20BG-M%200418-77%20-%20Berlinische%20Galerie.jpg",
-    "y": "1912",
-    "mat": "油彩",
-    "loc": "柏林畫廊",
-    "links": 0
-   },
-   {
-    "qid": "Q64800125",
-    "t": "Dinner Party",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1935%20Schlemmer%20Tischgesellschaft%20anagoria.JPG",
-    "y": "1935",
-    "mat": "画布",
-    "loc": "施泰德艺术馆",
-    "links": 0
-   },
-   {
-    "qid": "Q97579691",
-    "t": "A vase of gladiolus and dalias",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Schlemmer%20A%20vase%20of%20gladiolus%20and%20dalias.jpg",
-    "y": "1925",
-    "mat": "油彩",
-    "loc": "若望·保祿二世藏品博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q97579825",
-    "t": "Stairway Scene",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1932%20Schlemmer%20Treppenszene%20anagoria.JPG",
-    "y": "1932",
-    "mat": "",
-    "loc": "漢堡美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q107449988",
-    "t": "Nude, Woman, and Approaching Figure",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Schlemmer%2C%20Oskar%20-%20Nude%2C%20Woman%2C%20and%20Approaching%20Man%20-%20Nationalgalerie%20Berlin.jpg",
-    "y": "1925",
-    "mat": "油彩",
-    "loc": "新國立美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q123577407",
-    "t": "Q123577407",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1930%20Schlemmer-Frauenschule.JPG",
-    "y": "1930",
-    "mat": "",
-    "loc": "",
+    "loc": "大都會藝術博物館",
     "links": 0
    }
   ]
  },
- "约瑟夫·阿尔伯斯": {
-  "qid": "Q170071",
-  "works": [
-   {
-    "qid": "Q97590512",
-    "t": "Structural Constellation – Two Supraportes",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnster%2C%20LWL-Museum%20f%C3%BCr%20Kunst%20und%20Kultur%2C%20Kunstwerk%20%22Strukturale%20Konstellation%20%E2%80%93%20Zwei%20Supraporten%22%20--%202020%20--%208281.jpg",
-    "y": "1969",
-    "mat": "不鏽鋼",
-    "loc": "明斯特",
-    "links": 1
-   }
-  ]
+ "奥古斯特·桑德": {
+  "qid": "Q61530",
+  "works": []
  },
- "拉斯洛·莫霍利-纳吉": {
+ "卡尔·布洛斯费尔德": {
+  "qid": "Q61848",
+  "works": []
+ },
+ "拉兹洛·莫霍利-纳吉": {
   "qid": "Q160448",
   "works": [
    {
@@ -506,423 +286,6 @@
    }
   ]
  },
- "库尔特·施维特斯": {
-  "qid": "Q155158",
-  "works": [
-   {
-    "qid": "Q1922245",
-    "t": "Merzbau",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hanover%20Merzbau.jpg",
-    "y": "1933",
-    "mat": "",
-    "loc": "",
-    "links": 5
-   },
-   {
-    "qid": "Q21712104",
-    "t": "Merzbild 1A (The Psychiatrist)",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Merzbild%201A%20%28The%20Psychiatrist%29%20%281919%29.jpg",
-    "y": "1919",
-    "mat": "",
-    "loc": "提森-博内米萨博物馆",
-    "links": 0
-   },
-   {
-    "qid": "Q21713097",
-    "t": "Merz 1925, 1. Relief in the Blue Square",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Merz%201925%2C%201.%20Relief%20in%20Blue%20Square%201925.jpg",
-    "y": "1925",
-    "mat": "",
-    "loc": "提森-博内米萨博物馆",
-    "links": 0
-   },
-   {
-    "qid": "Q21713121",
-    "t": "Merzbild Kijkduin",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Merzbild%20Kijkduin%20%281923%29.jpg",
-    "y": "1923",
-    "mat": "",
-    "loc": "提森-博内米萨博物馆",
-    "links": 0
-   },
-   {
-    "qid": "Q105417460",
-    "t": "Milk Flower",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20schwitters%20milk%20flower%20094541%29.jpg",
-    "y": "1947",
-    "mat": "",
-    "loc": "",
-    "links": 0
-   },
-   {
-    "qid": "Q124253695",
-    "t": "Abtraction 26. Delicate Symphony",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abtraction%2026.%20Delicate%20Symphony.jpg",
-    "y": "1918",
-    "mat": "油彩",
-    "loc": "",
-    "links": 0
-   },
-   {
-    "qid": "Q129176308",
-    "t": "The Und-Picture",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/DasUndbild.jpg",
-    "y": "1919",
-    "mat": "水粉画",
-    "loc": "斯图加特州立绘画馆",
-    "links": 0
-   },
-   {
-    "qid": "Q129442830",
-    "t": "Untitled",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kurt%20Schwitters%20-%20Sans%20titre.jpg",
-    "y": "1947",
-    "mat": "纸",
-    "loc": "格拉内博物馆",
-    "links": 0
-   },
-   {
-    "qid": "Q131587456",
-    "t": "Merzpicture 9 b (The Big Picture Of Me)",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Merz-Painting%209b%20%28also%20known%20as%20%27The%20Big%20Me-Painting%27%29.jpg",
-    "y": "1919",
-    "mat": "纸",
-    "loc": "路德維希博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q135781125",
-    "t": "C67 Ancient Cave",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C67%20Ancient%20Cave.jpg",
-    "y": "1946",
-    "mat": "",
-    "loc": "",
-    "links": 0
-   }
-  ]
- },
- "汉斯·阿尔普": {
-  "qid": "Q153739",
-  "works": [
-   {
-    "qid": "Q90602935",
-    "t": "云牧人",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pastor%20de%20Nubes%20o%20Formes%20de%20Lutin.JPG",
-    "y": "1954",
-    "mat": "青铜",
-    "loc": "加拉加斯大学城",
-    "links": 3
-   },
-   {
-    "qid": "Q5418545",
-    "t": "Evocation of a Form: Human, Lunar, Spectral",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Evocation%20of%20a%20Form%20Human%20Lunar%20Spectral.jpg",
-    "y": "1950",
-    "mat": "",
-    "loc": "赫希洪博物館和雕塑園",
-    "links": 2
-   },
-   {
-    "qid": "Q27615760",
-    "t": "Schalenboom",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Arp%20-%20Schalenboom%20-%201947-54%20-%20Middelheimmuseum.jpg",
-    "y": "1947",
-    "mat": "青铜",
-    "loc": "米德爾海姆博物館",
-    "links": 1
-   },
-   {
-    "qid": "Q99203631",
-    "t": "Berger de Nuages",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hoge%20Veluwe%20Holland%2C%20sculpture%20garden%2C%20Hans%20Arp%2C%20Berger%20de%20nuages%2C%201953%20-%20panoramio.jpg",
-    "y": "1953",
-    "mat": "",
-    "loc": "sculpture garden of the Kröller-Müller Museum",
-    "links": 1
-   },
-   {
-    "qid": "Q109608170",
-    "t": "Wolkenschale",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolkenschale.jpg",
-    "y": "1961",
-    "mat": "大理岩",
-    "loc": "",
-    "links": 1
-   },
-   {
-    "qid": "Q110826366",
-    "t": "Scrutant l'horizon",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Denhaag%20kunstwerk%20scrutant%20l%27horizon.jpg",
-    "y": "1964",
-    "mat": "斑岩",
-    "loc": "",
-    "links": 1
-   },
-   {
-    "qid": "Q110829673",
-    "t": "Bausteinsäule",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bausteins%C3%A4ule%20von%20Hans%20Arp%2C%20Schule%20f%C3%BCr%20Gestaltung%20Basel.jpg",
-    "y": "1961",
-    "mat": "混凝土",
-    "loc": "Schule für Gestaltung Basel",
-    "links": 1
-   },
-   {
-    "qid": "Q121508788",
-    "t": "Resting Leaf",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fontaine%20de%20la%20place%20des%20Florentins.jpg",
-    "y": "1965",
-    "mat": "青铜",
-    "loc": "Place des Florentins",
-    "links": 1
-   },
-   {
-    "qid": "Q121510535",
-    "t": "Resting Leaf",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/P1020726.JPG",
-    "y": "1959",
-    "mat": "青铜",
-    "loc": "Sculpture museum of Glaskasten",
-    "links": 1
-   }
-  ]
- },
- "马克斯·恩斯特": {
-  "qid": "Q154842",
-  "works": [
-   {
-    "qid": "Q3223171",
-    "t": "Le Grand Assistant",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20Le%20Grand%20Assistant%20Paris.jpg",
-    "y": "1967",
-    "mat": "青铜",
-    "loc": "Quartier de l'Horloge",
-    "links": 2
-   },
-   {
-    "qid": "Q127587144",
-    "t": "Q127587144",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20max%20habakuk%20d%C3%BCsseldorf.jpg",
-    "y": "1971",
-    "mat": "青铜",
-    "loc": "",
-    "links": 2
-   }
-  ]
- },
- "伊夫·唐吉": {
-  "qid": "Q164720",
-  "works": [
-   {
-    "qid": "Q97190375",
-    "t": "At 4 O'Clock in the Summer, Hope",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20quatre%20heures%20d%27%C3%A9t%C3%A9%2C%20l%27espoir%20Yves%20Tanguy.jpg",
-    "y": "1929",
-    "mat": "油彩",
-    "loc": "國立現代藝術博物館",
-    "links": 3
-   },
-   {
-    "qid": "Q19883963",
-    "t": "Mama, Papa Is Wounded!",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mama%2C%20Papa%20is%20Wounded%21.jpg",
-    "y": "1927",
-    "mat": "油彩",
-    "loc": "現代藝術博物館",
-    "links": 2
-   },
-   {
-    "qid": "Q19883036",
-    "t": "Promontory Palace",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Palais%20promontoire%20%28Tanguy%29.jpg",
-    "y": "1931",
-    "mat": "",
-    "loc": "所羅門·古根漢美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q19883039",
-    "t": "The Sun in Its Jewel Case",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20soleil%20dans%20son%20%C3%A9crin%20%28Tanguy%29.jpg",
-    "y": "1937",
-    "mat": "",
-    "loc": "所羅門·古根漢美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q19883040",
-    "t": "There, Motion Has Not Yet Ceased",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A0%20ne%20finit%20pas%20encore%20le%20mouvement%20%28Tanguy%29.jpg",
-    "y": "1945",
-    "mat": "",
-    "loc": "所羅門·古根漢美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q19883943",
-    "t": "Q19883943",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yves%20Tanguy%20-%20Vite%21%20Vite%21%20%281926%29%20-%20Museum%20of%20Modern%20Art.jpg",
-    "y": "1926",
-    "mat": "油彩",
-    "loc": "現代藝術博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q19887229",
-    "t": "Multiplication of the Arcs",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yves%20Tanguy%20-%20Multiplication%20des%20arcs%20%281954%29.jpg",
-    "y": "1954",
-    "mat": "油彩",
-    "loc": "現代藝術博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q21712033",
-    "t": "Still and Always",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yves%20Tanguy%20-%20Encore%20et%20toujours%20%281942%29.jpg",
-    "y": "1942",
-    "mat": "油彩",
-    "loc": "提森-博内米萨博物馆",
-    "links": 0
-   },
-   {
-    "qid": "Q21713169",
-    "t": "Imaginary Numbers",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yves%20Tanguy%20-%20Nombres%20imaginaires%20%281954%29.jpg",
-    "y": "1954",
-    "mat": "油彩",
-    "loc": "提森-博内米萨博物馆",
-    "links": 0
-   },
-   {
-    "qid": "Q77477098",
-    "t": "Indefinite Divisibility",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yves%20Tanguy%20-%20Divisibilit%C3%A9%20ind%C3%A9finie%20%281942%29.jpg",
-    "y": "1942",
-    "mat": "油彩",
-    "loc": "歐布萊-諾克斯美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q130304482",
-    "t": "Q130304482",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yves%20Tanguy%20-%20Nid%20d%20amphioxius.jpg",
-    "y": "1936",
-    "mat": "油彩",
-    "loc": "格勒諾布爾美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q131631447",
-    "t": "The Lovers",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yves%20Tanguy%20-%20Les%20amoureux%20-%20Google%20Arts%20%26%20Culture.jpg",
-    "y": "1929",
-    "mat": "油彩",
-    "loc": "弗柯望博物館",
-    "links": 0
-   }
-  ]
- },
- "安德烈·马松": {
-  "qid": "Q312529",
-  "works": []
- },
- "勒内·马格利特": {
-  "qid": "Q7836",
-  "works": [
-   {
-    "qid": "Q1061035",
-    "t": "形象的叛逆",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Magritte%20treachery.jpg",
-    "y": "1929",
-    "mat": "油彩",
-    "loc": "The Broad",
-    "links": 32
-   },
-   {
-    "qid": "Q2292041",
-    "t": "人的境況 (繪畫)",
-    "img": "http://www.wikidata.org/.well-known/genid/bc27e616b2eec2b9a6eefda6ab7a3a7c",
-    "y": "1933",
-    "mat": "油彩",
-    "loc": "國家藝廊",
-    "links": 1
-   },
-   {
-    "qid": "Q120801357",
-    "t": "Les barricades mystérieuses",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20barricades%20myst%C3%A9rieuses%2C%20Brussels.jpg",
-    "y": "1961",
-    "mat": "",
-    "loc": "布鲁塞尔广场会议中心",
-    "links": 0
-   }
-  ]
- },
- "保罗·德尔沃": {
-  "qid": "Q164712",
-  "works": [
-   {
-    "qid": "Q28110225",
-    "t": "The Beautiful Night",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Casa%20de%20La%20Moneda.%20Donaci%C3%B3n%20botero.jpg",
-    "y": "1962",
-    "mat": "油彩",
-    "loc": "Botero Museum",
-    "links": 1
-   },
-   {
-    "qid": "Q56395001",
-    "t": "Gildehuizen op de Grote Markt",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gildehuizen%20op%20de%20Grote%20Markt.jpg",
-    "y": "1953",
-    "mat": "",
-    "loc": "",
-    "links": 0
-   },
-   {
-    "qid": "Q111434612",
-    "t": "Nos vieux trams bruxellois",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruxelles%20-%20Brussel%20-%20Bourse%20-%20Beurs%20%2813197785673%29.jpg",
-    "y": "1978",
-    "mat": "油彩",
-    "loc": "证券交易所-大广场站",
-    "links": 0
-   }
-  ]
- },
- "莱昂诺拉·卡林顿": {
-  "qid": "Q233207",
-  "works": [
-   {
-    "qid": "Q41793342",
-    "t": "How Doth the Little Crocodile",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cocodrilo%20LeonoraCarrington.jpg",
-    "y": "2000",
-    "mat": "",
-    "loc": "",
-    "links": 5
-   }
-  ]
- },
- "雷梅迪奥斯·瓦罗": {
-  "qid": "Q235275",
-  "works": [
-   {
-    "qid": "Q134106656",
-    "t": "Homo rodans",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Surrealist%20sculpture%20made%20of%20bones%20left%20over%20from%20a%20dinner%20party%20%2851893663379%29.jpg",
-    "y": "1959",
-    "mat": "骨骼",
-    "loc": "私人收藏",
-    "links": 2
-   }
-  ]
- },
- "多萝西娅·坦宁": {
-  "qid": "Q234324",
-  "works": []
- },
  "曼·雷": {
   "qid": "Q46139",
   "works": [
@@ -946,279 +309,46 @@
    }
   ]
  },
- "汉娜·霍赫": {
-  "qid": "Q463411",
-  "works": [
-   {
-    "qid": "Q114143498",
-    "t": "Resignation",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Resignation%20by%20Hannah%20Hoch%2C%201928%2C%20oil%20on%20canvas%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC02370.jpg",
-    "y": "1928",
-    "mat": "油彩",
-    "loc": "日耳曼國家博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q114143738",
-    "t": "Man and Machine",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Man%20and%20Machine%20by%20Hannah%20Hoch%2C%201921%2C%20oil%20on%20canvas%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC02361.jpg",
-    "y": "1921",
-    "mat": "油彩",
-    "loc": "日耳曼國家博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q114240156",
-    "t": "Creatures",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Creatures%20by%20Hannah%20Hoch%2C%201926-1929%2C%20oil%20on%20canvas%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC02365.jpg",
-    "y": "1927",
-    "mat": "油彩",
-    "loc": "日耳曼國家博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q115160028",
-    "t": "Dancing into the Dark",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dancing%20into%20the%20Dark%2C%20by%20Hannah%20Hoch%2C%201919%2C%20oil%20on%20cardboard%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC02374.jpg",
-    "y": "1919",
-    "mat": "油彩",
-    "loc": "日耳曼國家博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q115160139",
-    "t": "Birth",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Birth%20by%20Hannah%20Hoch%2C%201924%2C%20oil%20on%20canvas%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC02359.jpg",
-    "y": "1924",
-    "mat": "油彩",
-    "loc": "日耳曼國家博物館",
-    "links": 0
-   }
-  ]
- },
- "约翰·哈特菲尔德": {
-  "qid": "Q168671",
+ "安德烈·柯特兹": {
+  "qid": "Q241754",
   "works": []
  },
- "拉乌尔·豪斯曼": {
-  "qid": "Q84503",
-  "works": [
-   {
-    "qid": "Q115160223",
-    "t": "Porträt of Hannah Höch",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hannah%20Hoch%20by%20Raoul%20Hausmann%2C%201915%2C%20oil%20on%20canvas%20-%20Germanisches%20Nationalmuseum%20-%20Nuremberg%2C%20Germany%20-%20DSC02367.jpg",
-    "y": "1915",
-    "mat": "油彩",
-    "loc": "日耳曼國家博物館",
-    "links": 0
-   }
-  ]
- },
- "索菲·陶柏-阿尔普": {
-  "qid": "Q254395",
-  "works": [
-   {
-    "qid": "Q138581656",
-    "t": "Tête Dada",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20taeuber-arp%2C%20testa%20dada%2C%201920%2C%2002.JPG",
-    "y": "1920",
-    "mat": "木材",
-    "loc": "國立現代藝術博物館",
-    "links": 2
-   },
-   {
-    "qid": "Q106713725",
-    "t": "Composition Aubette",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Composition%20Aubette-%20Sophie%20Taeuber-Arp.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "瓦倫西亞現代美術館",
-    "links": 1
-   },
-   {
-    "qid": "Q22117296",
-    "t": "Composition Dada",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Taeuber-Arp%20Composition%20Dada%201920.jpg",
-    "y": "1920",
-    "mat": "",
-    "loc": "",
-    "links": 0
-   },
-   {
-    "qid": "Q22117297",
-    "t": "Composition with Diagonals and Cross",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Taeuber-Arp%20Komposition%20mit%20Diagonalen%20und%20Kreis.jpg",
-    "y": "1916",
-    "mat": "",
-    "loc": "",
-    "links": 0
-   },
-   {
-    "qid": "Q22117300",
-    "t": "Composition",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Taeuber-Arp%20-%20Kompozycja%20r.jpg",
-    "y": "1931",
-    "mat": "纸",
-    "loc": "罗兹艺术博物馆",
-    "links": 0
-   },
-   {
-    "qid": "Q22117301",
-    "t": "Composition",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Taeuber-Arp%20-%20Kompozycja.jpg",
-    "y": "1931",
-    "mat": "油彩",
-    "loc": "罗兹艺术博物馆",
-    "links": 0
-   },
-   {
-    "qid": "Q48115391",
-    "t": "Q48115391",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Taeuber-Arp%2C%20Coupe%20Dada.jpg",
-    "y": "1916",
-    "mat": "木材",
-    "loc": "斯特拉斯堡現代美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q131585833",
-    "t": "Q131585833",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Taeuber-Arp%20-%20Triptyque.%20Composition%20verticale-horizontale%20%C3%A0%20triangles%20r%C3%A9ciproques%20-%201958-0023.a-c%20-%20Kunsthaus%20Z%C3%BCrich.jpg",
-    "y": "1918",
-    "mat": "",
-    "loc": "蘇黎世美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q132165645",
-    "t": "Composition désaxée à lignes blanches",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Taeuber-Arp%2C%20Composition%20d%C3%A9sax%C3%A9e%20%C3%A0%20lignes%20blanches.jpg",
-    "y": "1926",
-    "mat": "纸",
-    "loc": "斯特拉斯堡現代美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q132165735",
-    "t": "Composition à motifs d'arceaux ou Composition Horizontale-Verticale",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20Taeuber-Arp%2C%20Composition%20%C3%A0%20motifs%20d%27arceaux%20ou%20Composition%20Horizontale-Verticale.jpg",
-    "y": "1918",
-    "mat": "纸",
-    "loc": "斯特拉斯堡現代美術館",
-    "links": 0
-   }
-  ]
- },
- "马塞尔·杨科": {
-  "qid": "Q366217",
+ "布拉塞": {
+  "qid": "Q354804",
   "works": []
  },
- "弗朗蒂谢克·库普卡": {
-  "qid": "Q167414",
+ "亨利·卡蒂埃-布列松": {
+  "qid": "Q156567",
+  "works": []
+ },
+ "罗伯特·卡帕": {
+  "qid": "Q152524",
+  "works": []
+ },
+ "贝伦妮丝·阿博特": {
+  "qid": "Q231861",
+  "works": []
+ },
+ "伊莫金·坎宁安": {
+  "qid": "Q238678",
+  "works": []
+ },
+ "爱德华·斯泰肯": {
+  "qid": "Q313899",
   "works": [
    {
-    "qid": "Q28093861",
-    "t": "The Yellow Scale",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Yellow%20Scale.jpg",
-    "y": "1907",
-    "mat": "油彩",
-    "loc": "休士頓美術館",
-    "links": 2
-   },
-   {
-    "qid": "Q20816563",
-    "t": "Disks of Newton",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%28125%29.png",
-    "y": "1912",
-    "mat": "油彩",
-    "loc": "费城艺术博物馆",
-    "links": 1
-   },
-   {
-    "qid": "Q19882698",
-    "t": "The Colored One",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%2817%29.png",
-    "y": "",
+    "qid": "Q20192303",
+    "t": "Le Tournesol (The Sunflower)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20tournesol%20-%20Steichen.PNG",
+    "y": "1920",
     "mat": "",
-    "loc": "所羅門·古根漢美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q19882703",
-    "t": "Divertimento I",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%287%29.png",
-    "y": "1935",
-    "mat": "纸",
-    "loc": "所羅門·古根漢美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q19883598",
-    "t": "Red and Blue Disks",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%28131%29.png",
-    "y": "",
-    "mat": "油彩",
-    "loc": "現代藝術博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q20191650",
-    "t": "Localization of Graphic Motifs II",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%28194%29.png",
-    "y": "1912",
-    "mat": "油彩",
     "loc": "國家藝廊",
     "links": 0
    },
    {
-    "qid": "Q134883025",
-    "t": "Dynamic Disks",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%286%29.png",
-    "y": "1933",
-    "mat": "纸",
-    "loc": "所羅門·古根漢美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q134884693",
-    "t": "Complex",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%28128%29.png",
-    "y": "",
-    "mat": "",
-    "loc": "",
-    "links": 0
-   },
-   {
-    "qid": "Q134889101",
-    "t": "Study for “Disks of Newton”",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%2871%29.png",
-    "y": "",
-    "mat": "",
-    "loc": "",
-    "links": 0
-   },
-   {
-    "qid": "Q134889126",
-    "t": "Study for “Cosmic Spring”",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%2873%29.png",
-    "y": "",
-    "mat": "",
-    "loc": "",
-    "links": 0
-   },
-   {
-    "qid": "Q134889205",
-    "t": "Untitled Study",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%2874%29.png",
-    "y": "",
-    "mat": "",
-    "loc": "",
-    "links": 0
-   },
-   {
-    "qid": "Q134891360",
-    "t": "Untitled (2)",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%2872%29.png",
+    "qid": "Q105537274",
+    "t": "Moonlit Pond, Mamaronek",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MOONLIT%20POND%2C%20MAMARONEK%20%29.jpg",
     "y": "",
     "mat": "",
     "loc": "",
@@ -1226,98 +356,8 @@
    }
   ]
  },
- "奥古斯特·埃尔宾": {
-  "qid": "Q706359",
-  "works": [
-   {
-    "qid": "Q99518141",
-    "t": "Portrait de Madame Herbin",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Strasbourg%20Mus%C3%A9e%20d%27art%20moderne%20et%20contemporain%20f%C3%A9vrier%202014-22.jpg",
-    "y": "1922",
-    "mat": "油彩",
-    "loc": "斯特拉斯堡現代美術館",
-    "links": 0
-   }
-  ]
- },
- "让·埃利翁": {
-  "qid": "Q728088",
+ "阿尔文·兰登·科伯恩": {
+  "qid": "Q449156",
   "works": []
- },
- "尼古拉·德·斯塔埃尔": {
-  "qid": "Q470551",
-  "works": []
- },
- "让·福特里耶": {
-  "qid": "Q537838",
-  "works": []
- },
- "沃尔斯": {
-  "qid": "Q553952",
-  "works": []
- },
- "让·杜布菲": {
-  "qid": "Q170076",
-  "works": [
-   {
-    "qid": "Q6906917",
-    "t": "Monument with Standing Beast",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20with%20Standing%20Beast.jpg",
-    "y": "1984",
-    "mat": "",
-    "loc": "詹姆斯·R·湯普森中心",
-    "links": 5
-   },
-   {
-    "qid": "Q18844630",
-    "t": "Jardin d'émail",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jardin%20d%27%C3%A9mail%20vanaf%20heuvel.JPG",
-    "y": "1974",
-    "mat": "混凝土",
-    "loc": "sculpture garden of the Kröller-Müller Museum",
-    "links": 4
-   },
-   {
-    "qid": "Q3533222",
-    "t": "Tour aux figures",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parc%20de%20l%27%C3%AEle%20Saint-Germain%2001.jpg",
-    "y": "1985",
-    "mat": "金屬",
-    "loc": "",
-    "links": 2
-   },
-   {
-    "qid": "Q3220400",
-    "t": "Le Bel costumé",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Bel%20costum%C3%A9.jpg",
-    "y": "1973",
-    "mat": "环氧树脂",
-    "loc": "杜樂麗花園",
-    "links": 1
-   },
-   {
-    "qid": "Q18844651",
-    "t": "Arbre biplan",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27arbre%20biplan.JPG",
-    "y": "1969",
-    "mat": "环氧树脂",
-    "loc": "",
-    "links": 1
-   }
-  ]
- },
- "阿尔贝托·贾科梅蒂": {
-  "qid": "Q157194",
-  "works": [
-   {
-    "qid": "Q706964",
-    "t": "L'Homme qui marche I",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/CHF100%208%20back.jpg",
-    "y": "1956",
-    "mat": "青铜",
-    "loc": "卡內基美術館",
-    "links": 15
-   }
-  ]
  }
 }
