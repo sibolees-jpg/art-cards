@@ -6,7 +6,8 @@ out={}
 for zh,en in names:
     q=qid_of(en)
     if not q: print('解析失败',zh,en,flush=True); continue
-    ws=works_of(q,12)
+    PROP=os.environ.get("AC_PROP","P170")
+    ws=works_of(q,12,PROP)
     out[zh]={"qid":q,"works":ws}
     print(f'{zh:<14}{q:<12}{len(ws)}',flush=True)
     time.sleep(1.5)

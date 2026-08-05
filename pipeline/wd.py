@@ -7,10 +7,13 @@ def sparql(q,tries=3):
         try: return json.loads(r.stdout)
         except Exception: time.sleep(4*(k+1))
     return None
-def works_of(qid,limit=14):
+def works_of(qid,limit=14,prop='P170'):
+    """prop: P170=creator(绘画/雕塑) | P84=architect(建筑)"""
+    TYPES = ('wd:Q3305213 wd:Q93184 wd:Q11060274 wd:Q860861 wd:Q15711026' if prop=='P170'
+             else 'wd:Q41176 wd:Q811979 wd:Q1021645 wd:Q24354 wd:Q16970 wd:Q33506 wd:Q11303')
     q=f'''SELECT ?w ?wLabel ?img ?date ?matLabel ?locLabel ?links WHERE {{
-  ?w wdt:P170 wd:{qid}; wdt:P18 ?img; wikibase:sitelinks ?links.
-  ?w wdt:P31/wdt:P279* ?type. VALUES ?type {{ wd:Q3305213 wd:Q93184 wd:Q11060274 wd:Q860861 wd:Q15711026 }}
+  ?w wdt:{prop} wd:{qid}; wdt:P18 ?img; wikibase:sitelinks ?links.
+  ?w wdt:P31/wdt:P279* ?type. VALUES ?type {{ {TYPES} }}
   OPTIONAL {{ ?w wdt:P571 ?date. }} OPTIONAL {{ ?w wdt:P186 ?mat. }} OPTIONAL {{ ?w wdt:P276 ?loc. }}
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "zh,zh-cn,zh-hans,en". }}
 }} ORDER BY DESC(?links) LIMIT {limit*3}'''
