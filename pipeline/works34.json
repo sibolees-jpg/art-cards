@@ -1,728 +1,1128 @@
 {
- "顾恺之": {
-  "qid": "Q378555",
+ "歌川国芳": {
+  "qid": "Q317736",
   "works": [
    {
-    "qid": "Q921351",
-    "t": "女史箴图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ku%20K%27ai-chih%20001.jpg",
-    "y": "0700",
-    "mat": "",
-    "loc": "大英博物馆",
-    "links": 6
-   },
-   {
-    "qid": "Q22079066",
-    "t": "洛神賦圖",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gu%20Kaizhi%20river%20Lo.jpg",
-    "y": "",
+    "qid": "Q7678417",
+    "t": "相馬之古内裏",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Takiyasha%20the%20Witch%20and%20the%20Skeleton%20Spectre%2C%20by%20Utagawa%20Kuniyoshi.jpg",
+    "y": "1844",
     "mat": "",
     "loc": "",
-    "links": 4
-   },
-   {
-    "qid": "Q9445481",
-    "t": "列女仁智图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gu%20Kaizhi.%20Wise%20and%20Benevolent%20Women.%20Scroll.%20Song%20copy%20of%204%20century%20work.%20Palace%20museum%2C%20Beizing.jpg",
-    "y": "0350",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 2
-   }
-  ]
- },
- "阎立本": {
-  "qid": "Q721435",
-  "works": [
-   {
-    "qid": "Q4997694",
-    "t": "步辇图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Buliantu.jpg",
-    "y": "0700",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
     "links": 8
    },
    {
-    "qid": "Q838214",
-    "t": "古帝王图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yan%20Liben.%20Thirteen%20Emperors.%20Boston%2C%20Museum%20of%20the%20Fine%20Arts.jpg",
-    "y": "0650",
-    "mat": "",
-    "loc": "波士頓美術館",
-    "links": 6
-   },
-   {
-    "qid": "Q15938102",
-    "t": "萧翼赚兰亭图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yan%20Liben.%20Xiao%20Yi%20Trying%20to%20Swipe%20the%20Lanting%20Scroll.%20National%20Palace%20Museum%2C%20Taipei.jpg",
-    "y": "0700",
-    "mat": "",
+    "qid": "Q21295949",
+    "t": "Ushiwaka-maru being taught the art of swordsmanship from Sojo-bo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/KuniyoshiUshiwakaTengu.jpg",
+    "y": "1851",
+    "mat": "纸",
     "loc": "",
-    "links": 2
+    "links": 0
    },
    {
-    "qid": "Q121543807",
-    "t": "唐閻立本王會圖　卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%8E%8B%E4%BC%9A%E5%9B%BE%20%E5%94%90%E9%98%8E%E7%AB%8B%E6%9C%AC.jpg",
+    "qid": "Q28798250",
+    "t": "Landscapes and Beauties- Feeling Like Reading the Next Volume",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Kuniyoshi%20-%20Landscapes%20and%20Beauties-%20Feeling%20Like%20Reading%20the%20Next%20Volume%20-%20Google%20Art%20Project.jpg",
     "y": "",
     "mat": "",
-    "loc": "國立故宮博物院",
+    "loc": "東京國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q28798251",
+    "t": "One Hundred and Eight Heroes from the Chinese Tale, The Water Margin- Zhang Shun, alias White Stripe...",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Kuniyoshi%20-%20One%20Hundred%20and%20Eight%20Heroes%20from%20the%20Chinese%20Tale%2C%20The%20Water%20Margin-%20Zhang%20Shun%2C%20alias%20White%20Stripe...%20-%20Google%20Art%20Project.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "東京國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q29509004",
+    "t": "Q29509004",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Kuniyoshi%20Nichiren%20in%20the%20snow.jpg",
+    "y": "1835",
+    "mat": "纸",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q29509546",
+    "t": "The Flute",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Kuniyoshi%20Benkei%20and%20Ushiwakamaru.jpg",
+    "y": "1855",
+    "mat": "纸",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q29509642",
+    "t": "Tamatori escaping from the Dragon King",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Kuniyoshi%20Tamatori%20escaping%20from%20the%20Dragon%20King.jpg",
+    "y": "1844",
+    "mat": "纸",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q36463368",
+    "t": "Q36463368",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Utagawa%20Kuniyoshi%20Soga-no%20Hakomaru.jpg",
+    "y": "1845",
+    "mat": "",
+    "loc": "museum storage",
+    "links": 0
+   },
+   {
+    "qid": "Q50814099",
+    "t": "大納言行成女",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dainagon%20Yukinari%20musume%20%E5%A4%A7%E7%B4%8D%E8%A8%80%E8%A1%8C%E6%88%90%E5%A5%B3%20%28The%20Daughter%20of%20Dainagon%20Yukinari%29%20%28BM%202008%2C3037.15624%29.jpg",
+    "y": "1842",
+    "mat": "纸",
+    "loc": "阿須摩林博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q69392094",
+    "t": "Oniwakamaru and the Giant Carp Fight Underwater",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oniwakamaru%20and%20the%20Giant%20Carp%20Fight%20Underwater%20by%20Utagawa%20Kuniyoshi%2C%201835.jpg",
+    "y": "1835",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q69483142",
+    "t": "Mikawa Province Jōruri-hime",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikawa%20LACMA%20M.2007.152.73.jpg",
+    "y": "1845",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q69705902",
+    "t": "6 yō sei kuniyoshi jiman senbu bungaku shōnin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mongaku%20doing%20penace%20at%20the%20Nachi%20waterfall.jpg",
+    "y": "1860",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "月冈芳年": {
+  "qid": "Q467337",
+  "works": [
+   {
+    "qid": "Q62580765",
+    "t": "Shinobugaoka moon (Shinobugaoka no tsuki)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yoshitoshi%20-%20100%20Aspects%20of%20the%20Moon%20-%2076.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
     "links": 1
    },
    {
-    "qid": "Q115773252",
-    "t": "唐太宗纳谏图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%87%A8%E9%96%BB%E7%AB%8B%E6%9C%AC%E7%95%AB%E5%94%90%E5%A4%AA%E5%AE%97%E7%B4%8D%E8%AB%AB%E5%9C%96.jpg",
-    "y": "",
+    "qid": "Q62581007",
+    "t": "Woman watching the shadow of a pine branch cast by the moon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yoshitoshi%20-%20100%20Aspects%20of%20the%20Moon%20-%205-2.jpg",
+    "y": "1892",
     "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
+    "loc": "",
+    "links": 1
    },
    {
-    "qid": "Q121366560",
-    "t": "唐閻立本職貢圖　卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tribute%20Bearers%20by%20Yan%20Liben%20and%20Yan%20Lide.%20Palace%20Museum%2C%20Beijing.jpg",
-    "y": "",
+    "qid": "Q19766300",
+    "t": "The Woman Kansuke Slaying an Assailant with a Sword",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Woman%20Kansuke%20Slaying%20an%20Assailant%20with%20a%20Sword%20LACMA%20M.84.31.366.jpg",
+    "y": "1866",
     "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q123384201",
-    "t": "唐閻立本竹林五君圖　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%AB%B9%E6%9E%97%E4%BA%94%E5%90%9B%E5%9B%BE%E8%BD%B4.%E5%94%90.%E9%98%8E%E7%AB%8B%E6%9C%AC%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q138047574",
-    "t": "Q138047574",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%94%90%E9%96%BB%E7%AB%8B%E6%9C%AC%E7%95%AB%E8%95%AD%E7%BF%BC%E8%B3%BA%E8%98%AD%E4%BA%AD%E5%9C%96%20%E5%8D%B7.jpg",
-    "y": "",
-    "mat": "纸",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q140528661",
-    "t": "Q140528661",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%94%90%E9%96%BB%E7%AB%8B%E6%9C%AC%E8%81%B7%E8%B2%A2%E5%9C%96%20%E5%8D%B7.jpg",
-    "y": "",
-    "mat": "丝绸",
     "loc": "",
     "links": 0
-   }
-  ]
- },
- "吴道子": {
-  "qid": "Q1196022",
-  "works": [
-   {
-    "qid": "Q64514457",
-    "t": "观音童子像",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Daozi%20-%20Guanyin%20and%20Child%20-%2020.1038%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "罗得岛设计学院博物馆",
-    "links": 0
    },
    {
-    "qid": "Q78743794",
-    "t": "观音像",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Daozi%20-%20Guanyin%20-%2029.100.439%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "qid": "Q52899369",
+    "t": "The Ghost of Yugao",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Genji%20yugao%20maki.jpg",
     "y": "1885",
     "mat": "",
-    "loc": "大都會藝術博物館",
+    "loc": "",
     "links": 0
-   }
-  ]
- },
- "张萱": {
-  "qid": "Q565370",
-  "works": [
-   {
-    "qid": "Q24971139",
-    "t": "捣练图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Court%20Ladies%20Preparing%20Newly%20Woven%20Silk.jpg",
-    "y": "1101",
-    "mat": "",
-    "loc": "波士頓美術館",
-    "links": 6
    },
    {
-    "qid": "Q18720713",
-    "t": "虢國夫人游春圖",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%99%A2%E5%9B%BD%E5%A4%AB%E4%BA%BA%E6%B8%B8%E6%98%A5%E5%9B%BE.jpg",
-    "y": "",
+    "qid": "Q61851896",
+    "t": "Saitō Oniwakamaru on a Carp",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Saito%20Oniwakamaru%20on%20a%20Carp%20LACMA%20M.84.31.432.jpg",
+    "y": "1873",
     "mat": "",
     "loc": "",
-    "links": 3
+    "links": 0
    },
    {
-    "qid": "Q64512825",
-    "t": "Woman on a Horse",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Xuan%20-%20Woman%20on%20a%20Horse%20-%2021.089%20-%20Rhode%20Island%20School%20of%20Design%20Museum.jpg",
-    "y": "",
+    "qid": "Q61852358",
+    "t": "Tōbōsaku, Miura Daisuke Yoshiaki, and the Son of Urashima Tarō Drinking Wine",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tobosaku%2C%20Miura%20Daisuke%20Yoshiaki%2C%20and%20the%20Son%20of%20Urashima%20Taro%20Drinking%20Wine%20LACMA%20M.84.31.51.jpg",
+    "y": "1873",
     "mat": "",
-    "loc": "罗得岛设计学院博物馆",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q61949470",
+    "t": "Sakuma Daigaku",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sakuma%20Daigaku.jpg",
+    "y": "1868",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q61949570",
+    "t": "Horii Tsuneemon Crucified",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Horii%20Tsuneemon%20Crucified%20LACMA%20M.84.31.447.jpg",
+    "y": "1868",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q61949673",
+    "t": "Sugenoya Kuemon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sugenoya%20Kuemon.jpg",
+    "y": "1868",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q61949896",
+    "t": "Senhime",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Senhime.jpg",
+    "y": "1868",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q61950051",
+    "t": "Geki Magohachi in Smoke and Rifle Fire",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Geki%20Magohachi%20in%20Smoke%20and%20Rifle%20Fire%20LACMA%20M.84.31.241.jpg",
+    "y": "1868",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q61950632",
+    "t": "Hida no Tatewaki Wearing a Red Wig",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hida%20no%20Tatewaki%20Wearing%20a%20Red%20Wig%20LACMA%20M.84.31.312.jpg",
+    "y": "1868",
+    "mat": "",
+    "loc": "",
     "links": 0
    }
   ]
  },
- "周昉": {
-  "qid": "Q197963",
-  "works": []
- },
- "韩滉": {
-  "qid": "Q31758",
+ "河锅晓斋": {
+  "qid": "Q2838030",
   "works": [
    {
-    "qid": "Q10881982",
-    "t": "五牛圖",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%9F%A9%E6%BB%89%E4%BA%94%E7%89%9B%E5%9B%BE%E5%8D%B7.png",
-    "y": "",
-    "mat": "纸",
-    "loc": "故宫博物院",
-    "links": 2
+    "qid": "Q20879854",
+    "t": "Squirrels Eating Chestnuts",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Squirrels%20Eating%20Chestnuts%20LACMA%20M.84.31.515.jpg",
+    "y": "1886",
+    "mat": "",
+    "loc": "洛杉磯郡藝術博物館",
+    "links": 0
    },
    {
-    "qid": "Q49194777",
-    "t": "The Three Religions: Confucius, Laozi and Buddha",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Han%20Huang%20-%20The%20Three%20Religions%2C%20Confucius%2C%20Laozi%20and%20Buddha%20-%201952.52.23%20-%20Yale%20University%20Art%20Gallery.jpg",
+    "qid": "Q20879858",
+    "t": "Yamauba and Kintarō",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yamauba%20and%20Kintaro%20LACMA%20M.84.31.520.jpg",
+    "y": "1850",
+    "mat": "",
+    "loc": "洛杉磯郡藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q20879860",
+    "t": "Yang Guifei Adjusting her Hair",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yang%20Guifei%20Adjusting%20her%20Hair%20LACMA%20M.84.31.521.jpg",
+    "y": "1850",
+    "mat": "",
+    "loc": "洛杉磯郡藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q49205384",
+    "t": "Playful Demon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kawanabe%20Kyosai%20-%20Playful%20Demon%20-%202006.210.13a-b%20-%20Yale%20University%20Art%20Gallery.jpg",
     "y": "",
     "mat": "",
     "loc": "耶鲁大学美术馆",
     "links": 0
    },
    {
-    "qid": "Q116459361",
-    "t": "韩滉丰稔图卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%9F%A9%E6%BB%89%E4%B8%B0%E7%A8%94%E5%9B%BE%E5%8D%B7.png",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 0
-   }
-  ]
- },
- "韩干": {
-  "qid": "Q561952",
-  "works": [
-   {
-    "qid": "Q28092249",
-    "t": "照夜白圖",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%94%90%20%E9%9F%93%E5%B9%B9%20%E7%85%A7%E5%A4%9C%E7%99%BD%E5%9C%96%20%E5%8D%B7-Night-Shining%20White%20MET%20DP153679.jpg",
-    "y": "0700",
-    "mat": "纸",
-    "loc": "大都會藝術博物館",
-    "links": 16
-   },
-   {
-    "qid": "Q28092208",
-    "t": "牧馬圖",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%8D%E7%BB%98%E9%9B%86%E7%8F%8D%E5%86%8C%203%20%E5%94%90%20%E9%9F%A9%E5%B9%B2%20%E7%89%A7%E9%A9%AC%E5%9B%BE.jpg",
-    "y": "0750",
-    "mat": "丝绸",
-    "loc": "國立故宮博物院",
-    "links": 2
-   },
-   {
-    "qid": "Q140469635",
-    "t": "Q140469635",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%8D%E7%B9%AA%E9%9B%86%E7%8F%8D%20%E5%86%8A%20%E5%94%90%E9%9F%93%E5%B9%B9%E7%89%A7%E9%A6%AC%E5%9C%96.jpg",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "",
-    "links": 0
-   }
-  ]
- },
- "李思训": {
-  "qid": "Q709576",
-  "works": [
-   {
-    "qid": "Q121339028",
-    "t": "唐李思訓江帆樓閣　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Sixun%20boats.jpg",
-    "y": "0750",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   }
-  ]
- },
- "展子虔": {
-  "qid": "Q551380",
-  "works": [
-   {
-    "qid": "Q116303846",
-    "t": "游春图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B1%95%E5%AD%90%E8%99%94%E6%B8%B8%E6%98%A5%E5%9B%BE%E5%8D%B7.png",
-    "y": "0600",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 2
-   },
-   {
-    "qid": "Q121127108",
-    "t": "名繪集珍　冊 　隋展子虔授經圖",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%9A%8B%E5%B1%95%E5%AD%90%E8%99%94%E6%8E%88%E7%B6%93%E5%9C%96.jpg",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "國立故宮博物院",
-    "links": 0
-   }
-  ]
- },
- "荆浩": {
-  "qid": "Q2665475",
-  "works": [
-   {
-    "qid": "Q10904213",
-    "t": "匡廬圖",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jing%20Hao.Mount%20Kuanglu.%20National%20Palace%20Museum%2C%20Taipei%2C%20Taiwan.jpg",
-    "y": "0900",
-    "mat": "丝绸",
-    "loc": "國立故宮博物院",
-    "links": 1
-   },
-   {
-    "qid": "Q140461550",
-    "t": "Q140461550",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%94%E4%BB%A3%E6%A2%81%E8%8D%8A%E6%B5%A9%E5%8C%A1%E5%BB%AC%E5%9C%96%20%E8%BB%B8.jpg",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "",
-    "links": 0
-   }
-  ]
- },
- "关仝": {
-  "qid": "Q2559287",
-  "works": [
-   {
-    "qid": "Q121363466",
-    "t": "五代梁關仝秋山晚翠　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Late%20Greenery%20of%20Autumn%20Mountains.png",
-    "y": "",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q121363485",
-    "t": "五代梁關仝畫關山行旅　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%85%B3%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9B%BE%E8%BD%B4.%E4%BA%94%E4%BB%A3%E6%A2%81%E5%85%B3%E4%BB%9D%E7%94%BB.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   }
-  ]
- },
- "黄筌": {
-  "qid": "Q5925674",
-  "works": []
- },
- "徐熙": {
-  "qid": "Q3136543",
-  "works": [
-   {
-    "qid": "Q121336743",
-    "t": "五代南唐徐熙玉堂富貴圖　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%8E%89%E5%A0%82%E5%AF%8C%E8%B4%B5%E5%9B%BE%E8%BD%B4.%E4%BA%94%E4%BB%A3%E5%8D%97%E5%94%90.%E5%BE%90%E7%86%99%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q132692042",
-    "t": "南唐　徐熙雪竹图轴",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Xu%20Xi%20-%20Snowy%20Bamboo.jpg",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "上海博物馆",
-    "links": 0
-   }
-  ]
- },
- "顾闳中": {
-  "qid": "Q740673",
-  "works": [
-   {
-    "qid": "Q7194972",
-    "t": "韩熙载夜宴图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gu%20Hongzhong%27s%20Night%20Revels%201%20edit.jpg",
-    "y": "0960",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 7
-   }
-  ]
- },
- "周文矩": {
-  "qid": "Q835924",
-  "works": [
-   {
-    "qid": "Q10563863",
-    "t": "重屏会棋图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%91%A8%E6%96%87%E7%9F%A9%E9%87%8D%E5%B1%8F%E4%BC%9A%E6%A3%8B%E5%9B%BE%E5%8D%B7.png",
-    "y": "0950",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 2
-   },
-   {
-    "qid": "Q78870319",
-    "t": "琉璃堂人物图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20-%20Scholars%20of%20the%20Liuli%20Hall%20-%201977.49%20-%20Metropolitan%20Museum%20of%20Art.jpg",
-    "y": "1283",
-    "mat": "",
-    "loc": "大都會藝術博物館",
-    "links": 1
-   },
-   {
-    "qid": "Q116459659",
-    "t": "文苑图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%91%A8%E6%96%87%E7%9F%A9%E7%90%89%E7%92%83%E5%A0%82%E4%BA%BA%E7%89%A9%E5%9B%BE%E5%8D%B7.png",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 1
-   },
-   {
-    "qid": "Q60472972",
-    "t": "In the Palace",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhou%20Wenju%20-%20In%20the%20Palace%20-%201976.1%20-%20Cleveland%20Museum%20of%20Art.tif",
-    "y": "1133",
-    "mat": "",
-    "loc": "克利夫蘭藝術博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q78828314",
-    "t": "Spring Morning in the Tang Court",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhou%20Wenju%20-%20Spring%20Morning%20in%20the%20Tang%20Court%20-%2042.61%20-%20Metropolitan%20Museum%20of%20Art.jpg",
-    "y": "1834",
+    "qid": "Q52161429",
+    "t": "Frolicking Figures and Animals",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%20DP231891.jpg",
+    "y": "1870",
     "mat": "",
     "loc": "大都會藝術博物館",
     "links": 0
    },
    {
-    "qid": "Q116558290",
-    "t": "宋元集册第二本-周文矩西子浣纱图页",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E5%85%83%E9%9B%86%E5%86%8C%E7%AC%AC%E4%BA%8C%E6%9C%AC-%E5%91%A8%E6%96%87%E7%9F%A9%E8%A5%BF%E5%AD%90%E6%B5%A3%E7%BA%B1%E5%9B%BE%E9%A1%B5.png",
-    "y": "",
-    "mat": "",
-    "loc": "故宫博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q121504519",
-    "t": "五代南唐周文矩仕女圖　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%94%E4%BB%A3%E5%8D%97%E5%94%90%E5%91%A8%E6%96%87%E7%9F%A9%E4%BB%95%E5%A5%B3%E5%9C%96%20%E8%BB%B8.png",
-    "y": "",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q123693208",
-    "t": "五代南唐周文矩荷亭奕釣仕女圖　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%8D%B7%E4%BA%AD%E5%A5%95%E9%92%93%E4%BB%95%E5%A5%B3%E5%9B%BE%E8%BD%B4.%E6%97%A7%E4%BC%A0%E4%BA%94%E4%BB%A3%E5%8D%97%E5%94%90.%E5%91%A8%E6%96%87%E7%9F%A9%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q124292866",
-    "t": "五代南唐周文矩仕女圖　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BB%95%E5%A5%B3%E5%9B%BE%E8%BD%B4.%E4%BC%A0%E4%BA%94%E4%BB%A3%E5%8D%97%E5%94%90%E5%91%A8%E6%96%87%E7%9F%A9%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   }
-  ]
- },
- "易元吉": {
-  "qid": "Q1261786",
-  "works": [
-   {
-    "qid": "Q78813065",
-    "t": "Twelve Designs for Circular Mirror",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yi%20Yuanji%20-%20Twelve%20Designs%20for%20Circular%20Mirror%20-%2013.220.100a%E2%80%93l%20-%20Metropolitan%20Museum%20of%20Art.jpg",
-    "y": "1639",
-    "mat": "",
-    "loc": "大都會藝術博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q121366531",
-    "t": "宋易元吉猴貓圖　卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%8C%B4%E8%B2%93%E5%9C%96.jpg",
-    "y": "1050",
-    "mat": "丝绸",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q121698002",
-    "t": "藝苑藏真（上）　冊　宋易元吉喬柯猿挂",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yi-Yuanji-Fan-painting-Two-gibbons.jpg",
-    "y": "1050",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q124292860",
-    "t": "宋易元吉三元得路圖　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B8%89%E5%85%83%E5%BE%97%E8%B7%AF%E5%9B%BE%E8%BD%B4.%E4%BC%A0%E5%AE%8B.%E6%98%93%E5%85%83%E5%90%89%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.tif",
-    "y": "",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   }
-  ]
- },
- "文彦博": {
-  "qid": "Q20815943",
-  "works": []
- },
- "李公麟": {
-  "qid": "Q716389",
-  "works": [
-   {
-    "qid": "Q60849429",
-    "t": "五马图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8C%97%E5%AE%8B%20%E6%9D%8E%E5%85%AC%E9%BA%9F%20%E4%BA%94%E9%A9%AC%E5%9B%BE.jpg",
-    "y": "1050",
-    "mat": "",
-    "loc": "東京國立博物館",
-    "links": 4
-   },
-   {
-    "qid": "Q121363572",
-    "t": "宋李公麟山莊圖　卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Gonglin-Mountain%20Villa.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 1
-   },
-   {
-    "qid": "Q60474792",
-    "t": "Dwelling in the Longmian (\"Sleeping Dragon\") Mountains",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Gonglin%20-%20Dwelling%20in%20the%20Longmian%20%28%22Sleeping%20Dragon%22%29%20Mountains%20-%201981.57%20-%20Cleveland%20Museum%20of%20Art.tiff",
-    "y": "1199",
-    "mat": "",
-    "loc": "克利夫蘭藝術博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q78742564",
-    "t": "Portrait of Lady",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MET%2029%20100%20477%20O1%20sf.jpg",
+    "qid": "Q60475263",
+    "t": "Painting Party",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kawanabe%20Kyosai%20-%20Painting%20Party%20-%201983.88%20-%20Cleveland%20Museum%20of%20Art.tif",
     "y": "1880",
     "mat": "",
-    "loc": "大都會藝術博物館",
+    "loc": "克利夫蘭藝術博物館",
     "links": 0
    },
    {
-    "qid": "Q78868203",
-    "t": "The Classic of Filial Piety",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8C%97%E5%AE%8B%20%E6%9D%8E%E5%85%AC%E9%BA%9F%20%E5%AD%9D%E7%B6%93%E5%9C%96%20%E5%8D%B7-The%20Classic%20of%20Filial%20Piety%20MET%20DP151528.jpg",
-    "y": "1085",
-    "mat": "",
-    "loc": "大都會藝術博物館",
-    "links": 0
-   },
-   {
-    "qid": "Q106769172",
-    "t": "Guanyin Pouring Water",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Gonglin%20%E6%9D%8E%E5%85%AC%E9%BA%9F%20-%20Guanyin%20Pouring%20Water%20-%20y1946-129%20-%20Princeton%20University%20Art%20Museum.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "普林斯頓大學美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q106769750",
-    "t": "Immortal Riding on Dragon, in Qing style",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Gonglin%20%E6%9D%8E%E5%85%AC%E9%BA%9F%20-%20Immortal%20Riding%20on%20Dragon%2C%20in%20Qing%20style%20-%20y1947-43%20-%20Princeton%20University%20Art%20Museum.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "普林斯頓大學美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q106777047",
-    "t": "The Tributors",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Gonglin%20%E6%9D%8E%E5%85%AC%E9%BA%9F%20-%20The%20Tributors%20-%20y1968-205%20a-h%20-%20Princeton%20University%20Art%20Museum.jpg",
-    "y": "",
-    "mat": "",
-    "loc": "普林斯頓大學美術館",
-    "links": 0
-   },
-   {
-    "qid": "Q116443817",
-    "t": "临韦偃牧放图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E5%85%AC%E9%BA%9F%E4%B8%B4%E9%9F%A6%E5%81%83%E7%89%A7%E6%94%BE%E5%9B%BE%E5%8D%B7.png",
-    "y": "1085",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q116449541",
-    "t": "维摩演教图",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E5%85%AC%E9%BA%9F%E7%BB%B4%E6%91%A9%E6%BC%94%E6%95%99%E5%9B%BE%E5%8D%B7%EF%BC%88%E4%BC%A0%EF%BC%89.png",
-    "y": "",
-    "mat": "纸",
-    "loc": "故宫博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q121366770",
-    "t": "宋李公麟畫麗人行　卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Kung-lin%20001.jpg",
-    "y": "1150",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q124292800",
-    "t": "宋李公麟九歌圖米芾書辭　卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B9%9D%E6%AD%8C%E5%9B%BE%E5%8D%B7.%E4%BC%A0%E5%AE%8B.%E6%9D%8E%E5%85%AC%E9%BA%9F%E7%BB%98.%E7%B1%B3%E8%8A%BE%E4%B9%A6%E8%BE%9E.%E7%BB%A2%E6%9C%AC%E6%B0%B4%E5%A2%A8.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.png",
-    "y": "",
-    "mat": "",
-    "loc": "國立故宮博物院",
-    "links": 0
-   }
-  ]
- },
- "王诜": {
-  "qid": "Q17990021",
-  "works": []
- },
- "李嵩": {
-  "qid": "Q3179306",
-  "works": [
-   {
-    "qid": "Q60469088",
-    "t": "The Knickknack Peddler",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Song%20-%20The%20Knickknack%20Peddler%20-%201963.582%20-%20Cleveland%20Museum%20of%20Art.tiff",
-    "y": "1212",
+    "qid": "Q60475582",
+    "t": "Hell Courtesan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kawanabe%20Kyosai%20-%20Beauty%20Before%20a%20Screen%20-%201985.268%20-%20Cleveland%20Museum%20of%20Art.tif",
+    "y": "1870",
     "mat": "",
     "loc": "克利夫蘭藝術博物館",
     "links": 0
    },
    {
-    "qid": "Q116459210",
-    "t": "李嵩花篮图页",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E5%B5%A9%E8%8A%B1%E7%AF%AE%E5%9B%BE%E9%A1%B5.png",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q116459569",
-    "t": "李嵩骷髅幻戏图页",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E5%B5%A9%E9%AA%B7%E9%AB%85%E5%B9%BB%E6%88%8F%E5%9B%BE%E9%A1%B5.png",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q116459627",
-    "t": "李嵩钱塘观潮图卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E5%B5%A9%E9%92%B1%E5%A1%98%E8%A7%82%E6%BD%AE%E5%9B%BE%E5%8D%B7.png",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q116459674",
-    "t": "李嵩货郎图卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E5%B5%A9%E8%B4%A7%E9%83%8E%E5%9B%BE%E5%8D%B7.png",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "故宫博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q121322862",
-    "t": "宋李嵩聽阮圖　軸",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%AC%E9%98%AE%E5%9B%BE%E8%BD%B4.%E5%AE%8B.%E6%9D%8E%E5%B5%A9.%E7%BB%98.%E7%BB%A2%E6%9C%AC%E8%AE%BE%E8%89%B2.%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F.jpg",
-    "y": "",
-    "mat": "丝绸",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q121366695",
-    "t": "名賢妙蹟　冊　宋李嵩市擔嬰戲",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Sung%20001.jpg",
-    "y": "1210",
+    "qid": "Q78612129",
+    "t": "Boy’s Day Carp Streamer and Shōki Banner",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kawanabe%20Ky%C5%8Dsai%20-%20Boy%E2%80%99s%20Day%20Carp%20Streamer%20and%20Sh%C5%8Dki%20Banner%20-%202018.22%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1850",
     "mat": "",
-    "loc": "國立故宮博物院",
+    "loc": "大都會藝術博物館",
     "links": 0
    },
    {
-    "qid": "Q121411546",
-    "t": "紈扇畫冊　冊　宋李嵩月夜看潮圖",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Watching%20the%20Tide%20on%20a%20Moonlit%20Night.jpg",
-    "y": "1250",
+    "qid": "Q78730060",
+    "t": "Sketches of East Asian Legendary Figures",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kawanabe%20Ky%C5%8Dsai%20-%20Sketches%20of%20East%20Asian%20Legendary%20Figures%20-%2037.138%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1878",
     "mat": "",
-    "loc": "國立故宮博物院",
+    "loc": "大都會藝術博物館",
     "links": 0
    },
    {
-    "qid": "Q121462772",
-    "t": "歷代集繪　冊　宋李嵩花籃",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Basket%20of%20Flowers%20-%20Li%20Song.jpg",
-    "y": "1150",
-    "mat": "丝绸",
-    "loc": "國立故宮博物院",
+    "qid": "Q78730673",
+    "t": "Three Kyōgen Dancers",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kawanabe%20Ky%C5%8Dsai%20-%20Three%20Ky%C5%8Dgen%20Dancers%20-%2037.119.6%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1878",
+    "mat": "",
+    "loc": "大都會藝術博物館",
     "links": 0
    },
    {
-    "qid": "Q132594141",
-    "t": "宋  李嵩  西湖图卷",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E5%B5%A9%20%E8%A5%BF%E6%B9%96%E5%9B%BE%E5%8D%B7.jpg",
-    "y": "",
-    "mat": "纸",
-    "loc": "上海博物馆",
+    "qid": "Q78730918",
+    "t": "Preliminary Drawings of Demons",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kawanabe%20Ky%C5%8Dsai%20-%20Preliminary%20Drawings%20of%20Demons%20-%2037.119.5%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1878",
+    "mat": "",
+    "loc": "大都會藝術博物館",
     "links": 0
    },
    {
-    "qid": "Q139044469",
-    "t": "Q139044469",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%8B%E6%9D%8E%E5%B5%A9%E6%9C%88%E5%A4%9C%E7%9C%8B%E6%BD%AE%E5%9C%96%EF%BC%88%E7%B4%88%E6%89%87%E7%95%AB%E5%86%8A01%EF%BC%89.jpg",
-    "y": "1100",
-    "mat": "丝绸",
-    "loc": "國立故宮博物院",
-    "links": 0
-   },
-   {
-    "qid": "Q139379477",
-    "t": "Q139379477",
-    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%90%8D%E8%B3%A2%E5%A6%99%E8%B9%9F%20%E5%86%8A%20%E5%AE%8B%E6%9D%8E%E5%B5%A9%E5%B8%82%E6%93%94%E5%AC%B0%E6%88%B2.jpg",
-    "y": "1170",
-    "mat": "丝绸",
-    "loc": "國立故宮博物院",
+    "qid": "Q78731052",
+    "t": "Sketches of Birds and Animals",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kawanabe%20Ky%C5%8Dsai%20-%20Sketches%20of%20Birds%20and%20Animals%20-%2037.119.2%20-%20Metropolitan%20Museum%20of%20Art.jpg",
+    "y": "1868",
+    "mat": "",
+    "loc": "大都會藝術博物館",
     "links": 0
    }
   ]
+ },
+ "小林清亲": {
+  "qid": "Q3121142",
+  "works": [
+   {
+    "qid": "Q104502133",
+    "t": "Sketches of Famous Places in Japan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NDL-DC%202542755-01%20Kobayashi%20Kiyochika%20T070429.jpg",
+    "y": "1896",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q104502732",
+    "t": "One Hundred Views of Musashi",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20maan%20bij%20Shinagawa%20Shinagawa%20mikoshi%20no%20tsuki%20%28titel%20op%20object%29%20Honderd%20gezichten%20op%20de%20provincie%20Musashi%20%28serietitel%29%20Musashi%20hyakkei%20no%20uchi%20%28serietitel%20op%20object%29%2C%20RP-P-1983-102.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q104502828",
+    "t": "Flower Designs",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bunka%20no%20koro%20%E6%96%87%E5%8C%96%E3%83%8E%E9%A0%83%20%28Around%20the%20Bunka%20Era%29%20%28BM%201906%2C1220%2C0.1640.1-3%201%29.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q126120041",
+    "t": "The Fury of Monk Raigō",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B0%8F%E6%9E%97%E6%B8%85%E8%A6%AA%E7%AD%86%20%E9%A0%BC%E8%B1%AA%E9%98%BF%E9%97%8D%E6%A2%A8-The%20Fury%20of%20Monk%20Raig%C5%8D%20MET%20DP-14063-022.jpg",
+    "y": "1900",
+    "mat": "",
+    "loc": "大都會藝術博物館",
+    "links": 1
+   },
+   {
+    "qid": "Q55496508",
+    "t": "Battle of Phungdo",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Phungdo.jpg",
+    "y": "1894",
+    "mat": "木版画",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q78741792",
+    "t": "The Majesty of the Empire",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kobayashi%20Kiyochika%20-%20The%20Majesty%20of%20the%20Empire%20-%201060-2010%20-%20Saint%20Louis%20Art%20Museum.jpg",
+    "y": "1895",
+    "mat": "",
+    "loc": "圣路易斯艺术博物馆",
+    "links": 0
+   },
+   {
+    "qid": "Q106777143",
+    "t": "The Great Fire at Ryōgoku Bridge",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kobayashi%20Kiyochika%20%E5%B0%8F%E6%9E%97%E6%B8%85%E8%A6%AA%20-%20The%20Great%20Fire%20at%20Ry%C5%8Dgoku%20Bridge%20-%202009-77%20-%20Princeton%20University%20Art%20Museum.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "普林斯頓大學美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q108664441",
+    "t": "View of Takanawa Ushimachi under a Shrouded Moon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kobayashi%20Kiyochika%20%281879%29%20View%20of%20Takanawa%20Ushimachi%20under%20a%20Shrouded%20Moon.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "川濑巴水": {
+  "qid": "Q344166",
+  "works": [
+   {
+    "qid": "Q103839496",
+    "t": "Morning on the Daikon Wharf",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NDL-DC%202586549-03%20Kawase%20Hasui%20S02%20crd.jpg",
+    "y": "1927",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "吉田博": {
+  "qid": "Q2916723",
+  "works": [
+   {
+    "qid": "Q64572563",
+    "t": "Memories of Japan",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hiroshi%20Yoshida%20-%20Memories%20of%20Japan%20-%2099.3%20-%20Detroit%20Institute%20of%20Arts.jpg",
+    "y": "1900",
+    "mat": "",
+    "loc": "底特律藝術學院",
+    "links": 0
+   },
+   {
+    "qid": "Q112184642",
+    "t": "Nude Woman with Lions",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yoshida%20Hiroshi%20-%20Nude%20Woman%20with%20Lions%20%28s%C4%93ka%29.jpg",
+    "y": "1909",
+    "mat": "",
+    "loc": "東京國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q113193792",
+    "t": "Hirosaki Castle",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yoshida%20Hiroshi%20-%20Hirosaki%20Castle%20%28Hirosaki%20j%C3%B4%29%2C%20from%20the%20series%20Eight%20Scenes%20of%20Cherry%20Blossoms%20%28Sakura%20hachidai%29%2C%20Museum%20of%20Fine%20Arts%20Boston.jpg",
+    "y": "1935",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q113487261",
+    "t": "Kumoi Cherry Trees",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hiroshi%20Yoshida%20-%20Kumoi-Zakura%20%28Kumoi%20Cherry%20Trees%29%20-%20Google%20Art%20Project.jpg",
+    "y": "1920",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q136536562",
+    "t": "Daidōmon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Daid%C5%8Dmon%20%28la%20Porte%20de%20Taedong%29%2C%20Pyongyang%2C%20actuelle%20Cor%C3%A9e%20du%20Nord.jpg",
+    "y": "1937",
+    "mat": "纸",
+    "loc": "",
+    "links": 0
+   }
+  ]
+ },
+ "伊东深水": {
+  "qid": "Q2060569",
+  "works": []
+ },
+ "桥口五叶": {
+  "qid": "Q2346122",
+  "works": [
+   {
+    "qid": "Q133844512",
+    "t": "Yokugo no onna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Goy%C5%8D%20Hashiguchi%20%281915%29%20Yokugo%20no%20onna.png",
+    "y": "1915",
+    "mat": "木材",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q133844577",
+    "t": "Kami sukeru onna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hashiguchi%20Goyo%20-%20Woman%20in%20Blue%20Combing%20Her%20Hair%20-%20Walters%2095880.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q133844680",
+    "t": "Goyo Kesho no onna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Make-up%2C%20RP-P-1999-83.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q133844730",
+    "t": "Yokugo no onna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Woman%20after%20bath%20%28Yokugo%20no%20onna%29%20%28CBL%20J%202792%29.jpg",
+    "y": "1920",
+    "mat": "",
+    "loc": "日本",
+    "links": 1
+   },
+   {
+    "qid": "Q133844778",
+    "t": "Natsugoromo no onna",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Woman%20in%20Summer%20Robe%20%28CBL%20J%202793%29.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q133852613",
+    "t": "Onsen yado",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hashiguchi%20Goyo%20-%20Woman%20at%20a%20Hot%20Spring%20Hotel%20-%20Google%20Art%20Project.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "",
+    "links": 1
+   },
+   {
+    "qid": "Q68518154",
+    "t": "Woman after the Bath",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hashiguchi%20Goyo%20-%20Tsuru%20Nakatani%20after%20the%20Bath%20%28Obverse%29%3B%20Tsuru%20Nakatani%20Reading%20a%20Book%20%28Reverse%29%20-%20Walters%2035304.jpg",
+    "y": "1920",
+    "mat": "纸",
+    "loc": "沃爾特斯藝術博物館",
+    "links": 0
+   }
+  ]
+ },
+ "镝木清方": {
+  "qid": "Q1241113",
+  "works": []
+ },
+ "上村松园": {
+  "qid": "Q275018",
+  "works": [
+   {
+    "qid": "Q113487164",
+    "t": "焰 (绘画)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Uemura-Flame-1918.jpg",
+    "y": "1918",
+    "mat": "丝绸",
+    "loc": "東京國立博物館",
+    "links": 2
+   },
+   {
+    "qid": "Q110279143",
+    "t": "Daughter Miyuki",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Uemura%20Shoen%20-%20Daughter%20Miyuki%20-%20Google%20Art%20Project.jpg",
+    "y": "1914",
+    "mat": "",
+    "loc": "足立美術館",
+    "links": 0
+   }
+  ]
+ },
+ "横山大观": {
+  "qid": "Q2034441",
+  "works": [
+   {
+    "qid": "Q25217972",
+    "t": "Metempsychosis",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Metempsychosis%20by%20Yokoyama%20Taikan%20%28National%20Museum%20of%20Modern%20Art%20Tokyo%29.jpg",
+    "y": "1923",
+    "mat": "",
+    "loc": "東京國立近代美術館",
+    "links": 2
+   },
+   {
+    "qid": "Q110301334",
+    "t": "Selflessness",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yokoyama%20Taikan%20-%20Innocence%20-%20Google%20Art%20Project.jpg",
+    "y": "1897",
+    "mat": "",
+    "loc": "足立美術館",
+    "links": 0
+   }
+  ]
+ },
+ "下村观山": {
+  "qid": "Q2113306",
+  "works": [
+   {
+    "qid": "Q103833010",
+    "t": "White Fox",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20White%20Fox%20-%20P3n20%20-%20Isabella%20Stewart%20Gardner%20Museum.jpg",
+    "y": "1913",
+    "mat": "",
+    "loc": "伊莎貝拉·史都華·嘉納藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q112063559",
+    "t": "Q112063559",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20Cremation%20of%20Buddha.jpg",
+    "y": "1898",
+    "mat": "",
+    "loc": "橫濱美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q112063627",
+    "t": "Death of Tsugunobu (from the Tale of Heike)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20Death%20of%20Tsugunobu%28from%20the%20Tale%20of%20Heike%29.jpg",
+    "y": "1897",
+    "mat": "",
+    "loc": "东京艺术大学大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q112071118",
+    "t": "Autumn among Trees",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20Autumn%20among%20Trees.jpg",
+    "y": "1907",
+    "mat": "",
+    "loc": "東京國立近代美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q112071969",
+    "t": "Hakubyo Mashozu",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20Hakubyo%20Mashozu.jpg",
+    "y": "1910",
+    "mat": "",
+    "loc": "東京國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q112072413",
+    "t": "Lady Yuya Going to See Cherry Blossoms (From the Tale of Heike)",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20Lady%20Yuya%20Going%20to%20See%20Cherry%20Blossoms%20%28From%20the%20Tale%20of%20Heike%29.jpg",
+    "y": "1894",
+    "mat": "",
+    "loc": "东京艺术大学大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q112072492",
+    "t": "Birth of Buddha",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20Birth%20of%20Buddha.jpg",
+    "y": "1896",
+    "mat": "",
+    "loc": "东京艺术大学大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q112072869",
+    "t": "Mt. Ogura",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20Ogurayama.jpg",
+    "y": "1909",
+    "mat": "",
+    "loc": "橫濱美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q112072950",
+    "t": "White Fox",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20White%20Fox%20%28right%20screen%29.jpg",
+    "y": "1918",
+    "mat": "",
+    "loc": "東京國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q112073342",
+    "t": "Spring Rain",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimomura%20Kanzan%20-%20Spring%20Rain%20%28right%20screen%29.jpg",
+    "y": "1916",
+    "mat": "",
+    "loc": "東京國立博物館",
+    "links": 0
+   }
+  ]
+ },
+ "菱田春草": {
+  "qid": "Q2113595",
+  "works": [
+   {
+    "qid": "Q110263240",
+    "t": "Cat and Plum Blossoms",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hishida%20shunso%20-%20Cat%20and%20Plum%20Blossoms%20-%20Google%20Art%20Project.jpg",
+    "y": "1906",
+    "mat": "",
+    "loc": "足立美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q49197577",
+    "t": "Herd Boy",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hishida%20Shunso%20-%20Herd%20Boy%20-%202002.27.7%20-%20Yale%20University%20Art%20Gallery.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "耶鲁大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q106864406",
+    "t": "Fisherman in a Mist-Enshrouded Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hishida%20Shuns%C5%8D%20-%20Fisherman%20in%20a%20Mist-Enshrouded%20Landscape%20-%201984.259%20-%20Harvard%20Art%20Museums.jpg",
+    "y": "",
+    "mat": "",
+    "loc": "哈佛藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q110267943",
+    "t": "Hydrangeas",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hishida%20shunso%20-%20Hydrangeas%20-%20Google%20Art%20Project.jpg",
+    "y": "1902",
+    "mat": "",
+    "loc": "足立美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q112062935",
+    "t": "Reflection in the Water",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hishida%20Shuns%C5%8D%20-%20Reflection%20in%20the%20Water.jpg",
+    "y": "1897",
+    "mat": "",
+    "loc": "东京艺术大学大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q112063089",
+    "t": "Kikujido",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hishida%20Shuns%C5%8D%20-%20Kikujido.jpg",
+    "y": "1900",
+    "mat": "",
+    "loc": "Iida City Museum",
+    "links": 0
+   },
+   {
+    "qid": "Q112063346",
+    "t": "Q112063346",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hishida%20Shuns%C5%8D%20-%20Rahusen.jpg",
+    "y": "1901",
+    "mat": "",
+    "loc": "長野縣立美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q112070940",
+    "t": "Mahakasyapa smiling at the lotus flower",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hishida%20Shuns%C5%8D%20-%20Mahakasyapa%20smiling%20at%20the%20lotus%20flower.jpg",
+    "y": "1897",
+    "mat": "",
+    "loc": "東京國立博物館",
+    "links": 0
+   }
+  ]
+ },
+ "前田青邨": {
+  "qid": "Q3477943",
+  "works": []
+ },
+ "安田靫彦": {
+  "qid": "Q3571973",
+  "works": []
+ },
+ "小林古径": {
+  "qid": "Q3198111",
+  "works": []
+ },
+ "速水御舟": {
+  "qid": "Q5625249",
+  "works": [
+   {
+    "qid": "Q115756246",
+    "t": "Galline",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gyoshu%20hayami%2C%20galline%2C%201924%2C%2001.jpg",
+    "y": "1924",
+    "mat": "",
+    "loc": "東京國立近代美術館",
+    "links": 0
+   }
+  ]
+ },
+ "村上华岳": {
+  "qid": "Q3191845",
+  "works": []
+ },
+ "岸田刘生": {
+  "qid": "Q3021493",
+  "works": [
+   {
+    "qid": "Q18687862",
+    "t": "Woman with a Pumpkin",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kishida%20Ryusei%20-%20Woman%20with%20a%20Pumpkin%20-%20Google%20Art%20Project.jpg",
+    "y": "1914",
+    "mat": "油彩",
+    "loc": "普利司通美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q18687866",
+    "t": "Seated Portrait of Reiko with a Doll",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kishida%20Ryusei%20-%20Seated%20Portrait%20of%20Reiko%20with%20a%20Doll%20-%20Google%20Art%20Project.jpg",
+    "y": "1920",
+    "mat": "水彩",
+    "loc": "普利司通美術館",
+    "links": 0
+   }
+  ]
+ },
+ "万铁五郎": {
+  "qid": "Q7706856",
+  "works": [
+   {
+    "qid": "Q111239890",
+    "t": "Nude Beauty",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nude%20Beauty%20by%20Tetsugoro%20Yorozu%2C%201912%2C%20oil%20on%20canvas%20-%20National%20Museum%20of%20Modern%20Art%2C%20Tokyo%20-%20DSC06537.JPG",
+    "y": "1912",
+    "mat": "油彩",
+    "loc": "東京國立近代美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q112208361",
+    "t": "Q112208361",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kumonoaru%20jigazou.JPG",
+    "y": "1900",
+    "mat": "",
+    "loc": "岩手縣立美術館",
+    "links": 0
+   }
+  ]
+ },
+ "青木繁": {
+  "qid": "Q347298",
+  "works": [
+   {
+    "qid": "Q111941451",
+    "t": "Paradise Under the Sea",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/AOKI%20Shigeru%20-%20Paradise%20under%20the%20Sea.jpg",
+    "y": "1907",
+    "mat": "油彩",
+    "loc": "普利司通美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q18689348",
+    "t": "Seascape, Mera",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aoki%20Shigeru%20-%20Seascape%2C%20Mera%20-%20Google%20Art%20Project.jpg",
+    "y": "1904",
+    "mat": "油彩",
+    "loc": "普利司通美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q18689350",
+    "t": "The Tempyo Era",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aoki%20Shigeru%20-%20The%20Tempyo%20Era%20-%20Google%20Art%20Project.jpg",
+    "y": "1904",
+    "mat": "油彩",
+    "loc": "普利司通美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q110264303",
+    "t": "Sea at Sunset",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/AokiShigeru-1910-Sea%20at%20Sunset.png",
+    "y": "1910",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q110929728",
+    "t": "Hot spring",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Onsen%20by%20Shigeru%20Aoki.jpg",
+    "y": "1910",
+    "mat": "",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q111143692",
+    "t": "Enjoyment",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/AokiShigeru-1904-Enjoyment-1.png",
+    "y": "1904",
+    "mat": "油彩",
+    "loc": "大原美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q111143712",
+    "t": "Pray at Dawn",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/AokiShigeru-1907-Pray%20at%20Dawn.png",
+    "y": "1907",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q111143723",
+    "t": "Hot Spring",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/AokiShigeru-1910-Hot%20Spring-2.png",
+    "y": "1910",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q111315528",
+    "t": "Boats Mooring under the Moon",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Boats%20Mooring%20under%20the%20Moon%20by%20Aoki%20Shigeru%20%28Ishibashi%20Museum%20of%20Art%29.jpg",
+    "y": "1908",
+    "mat": "油彩",
+    "loc": "普利司通美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q112034350",
+    "t": "Escape from the Land of the Dead",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Escape%20from%20the%20Land%20of%20the%20Dead%20by%20Aoki%20Shigeru%20%28Geidai%20Museum%29.jpg",
+    "y": "1903",
+    "mat": "",
+    "loc": "东京艺术大学大学美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q112190924",
+    "t": "The Legendary Prince Yamato Takeru",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yamato%20Takeru%20no%20Mikoto%20by%20Shigeru%20Aoki.jpg",
+    "y": "1906",
+    "mat": "",
+    "loc": "東京國立博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q129711179",
+    "t": "Rotation",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/AokiShigeru-1903-Rotation-2.png",
+    "y": "1903",
+    "mat": "油彩",
+    "loc": "普利司通美術館",
+    "links": 0
+   }
+  ]
+ },
+ "中村彝": {
+  "qid": "Q11365580",
+  "works": [
+   {
+    "qid": "Q136479825",
+    "t": "Portrait of Vasilii Eroshenko",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Vasilii%20Yaroschenko%20by%20Nakamura%20Tsune%20%28National%20Museum%20of%20Modern%20Art%2C%20Tokyo%29.jpg",
+    "y": "1920",
+    "mat": "油彩",
+    "loc": "東京國立近代美術館",
+    "links": 1
+   },
+   {
+    "qid": "Q18689398",
+    "t": "Self-Portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nakamura%20Tsune%20-%20Self-Portrait%20-%20Google%20Art%20Project.jpg",
+    "y": "1909",
+    "mat": "油彩",
+    "loc": "普利司通美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q111100002",
+    "t": "Study for Female Nude",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NakamuraTsune-1908-Study%20for%20Female%20Nude.png",
+    "y": "1908",
+    "mat": "油彩",
+    "loc": "Museum of Modern Art, Ibaraki",
+    "links": 0
+   },
+   {
+    "qid": "Q111100028",
+    "t": "A Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NakamuraTsune-1911-A%20Woman.png",
+    "y": "1911",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q111100041",
+    "t": "A Girl",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NakamuraTsune-1913-A%20Girl.png",
+    "y": "1913",
+    "mat": "油彩",
+    "loc": "橫須賀美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q111103876",
+    "t": "Portrait of a Woman",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NakamuraTsune-1913-Portrait%20of%20a%20Woman.png",
+    "y": "1913",
+    "mat": "油彩",
+    "loc": "美伊娜多美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q111103886",
+    "t": "A Girl",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NakamuraTsune-1914-A%20Girl-2.png",
+    "y": "1914",
+    "mat": "油彩",
+    "loc": "美伊娜多美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q111103910",
+    "t": "A Girl",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NakamuraTsune-1914-A%20Girl-3.png",
+    "y": "1914",
+    "mat": "油彩",
+    "loc": "",
+    "links": 0
+   },
+   {
+    "qid": "Q111103927",
+    "t": "Girl Nude",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NakamuraTsune-1914-Girl%20Nude.png",
+    "y": "1914",
+    "mat": "油彩",
+    "loc": "爱知县美术馆",
+    "links": 0
+   },
+   {
+    "qid": "Q111103956",
+    "t": "Nude",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NakamuraTsune-1916-Nude.png",
+    "y": "1916",
+    "mat": "油彩",
+    "loc": "Museum of Modern Art, Ibaraki",
+    "links": 0
+   },
+   {
+    "qid": "Q111982275",
+    "t": "Self-portrait",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/NakamuraTsune-1909-Self-Portrait-3.png",
+    "y": "1909",
+    "mat": "油彩",
+    "loc": "Utsunomiya Museum of Art",
+    "links": 0
+   }
+  ]
+ },
+ "古贺春江": {
+  "qid": "Q3128001",
+  "works": [
+   {
+    "qid": "Q112034088",
+    "t": "Sea",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Koga%20Harue%20-%20Sea.jpg",
+    "y": "1929",
+    "mat": "",
+    "loc": "東京國立近代美術館",
+    "links": 0
+   },
+   {
+    "qid": "Q112034166",
+    "t": "Make-up outside the Window",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Koga%20Harue%20-%20Make-up%20outside%20the%20Window.jpg",
+    "y": "1930",
+    "mat": "",
+    "loc": "神奈川縣立近代美術館",
+    "links": 0
+   }
+  ]
+ },
+ "国吉康雄": {
+  "qid": "Q3571991",
+  "works": [
+   {
+    "qid": "Q20490968",
+    "t": "Landscape",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasuo%20Kuniyoshi%20-%20Landscape%20-%201965.38%20-%20Smithsonian%20American%20Art%20Museum.jpg",
+    "y": "1920",
+    "mat": "油彩",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q20490969",
+    "t": "Strong Woman and Child",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasuo%20Kuniyoshi%20-%20Strong%20Woman%20and%20Child%20-%20Smithsonian.jpg",
+    "y": "1925",
+    "mat": "油彩",
+    "loc": "史密森尼美國藝術博物館",
+    "links": 0
+   },
+   {
+    "qid": "Q28797991",
+    "t": "Dream",
+    "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuniyoshi%20Yasuo%20-%20Dream%20-%20Google%20Art%20Project.jpg",
+    "y": "1922",
+    "mat": "",
+    "loc": "普利司通美術館",
+    "links": 0
+   }
+  ]
+ },
+ "藤田嗣治": {
+  "qid": "Q261846",
+  "works": []
  }
 }
