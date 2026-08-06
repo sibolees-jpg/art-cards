@@ -1,6 +1,6 @@
-import json,os,io,urllib.request,re
+import json,os,io,re
 from PIL import Image
-UA={'User-Agent':'art-cards/1.0 (educational contact: sibo.lees@gmail.com)'}
+from fetchimg import fetch
 REPO='/Users/sli001/Desktop/艺术卡片-发布'
 have=set(json.load(open('/tmp/have_cn.json')))
 haveT={x.split('|',1)[1] for x in have}
@@ -8,8 +8,8 @@ def norm(t):
     t=re.sub(r'\.(jpg|jpeg|png|tif|tiff|webp)$','',t,flags=re.I)
     t=re.sub(r'[_\-–—]+',' ',t)
     return re.sub(r'\s+',' ',t).strip()
-src=json.load(open('cnworks4.json'))
-nid=11500; out=[]; skip=0
+src=json.load(open('romeworks.json'))
+nid=11600; out=[]; skip=0
 for a,rows in src.items():
     n=0
     for r in rows:
@@ -19,7 +19,7 @@ for a,rows in src.items():
         if not r.get('url'): continue
         f=f'{REPO}/imgs/{nid}.webp'
         try:
-            d=urllib.request.urlopen(urllib.request.Request(r['url'],headers=UA),timeout=60).read()
+            d=fetch(r['url'])
             im=Image.open(io.BytesIO(d)).convert('RGB'); w,h=im.size
             if min(w,h)<380: continue
             rr=w/h
@@ -31,7 +31,8 @@ for a,rows in src.items():
             im.save(f,'WEBP',quality=82)
             out.append({'id':nid,'a':a,'zh':t,'file':r['title']})
             nid+=1; n+=1
-        except Exception as e: pass
+        except Exception:
+            pass
     print(f'{a:<10} +{n}',flush=True)
-json.dump(out,open('pick85.json','w'),ensure_ascii=False,indent=1)
+json.dump(out,open('pick86.json','w'),ensure_ascii=False,indent=1)
 print('下载:',len(out),'| 因查重跳过:',skip)
