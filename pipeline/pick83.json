@@ -1,407 +1,1172 @@
 [
  {
-  "id": 9978,
-  "zh": "Jupiter and Mercury at Phi",
-  "qid": "Q11729457",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Adam%20Elsheimer%20-%20Jupiter%20and%20Mercury%20in%20the%20House%20of%20Philemon%20and%20Baucis.jpg",
-  "y": "1609",
-  "loc": "历代大师画廊",
-  "a": "亚当·埃尔斯海默"
+  "id": 11162,
+  "zh": "The Banquet of Cleopatra",
+  "qid": "Q18167078",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambattista%20Tiepolo%20-%20The%20Banquet%20of%20Cleopatra%20-%20Google%20Art%20Project.jpg",
+  "y": "1743",
+  "loc": "維多利亞國立美術館",
+  "a": "乔瓦尼·巴蒂斯塔·提埃波罗"
  },
  {
-  "id": 9979,
-  "zh": "Timoclea Kills the Captain",
-  "qid": "Q56818977",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sirani%2C%20Elisabetta%20-%20Timoclea%20uccide%20il%20capitano%20di%20Alessandro%20Magno%20-%201659.jpg",
-  "y": "1659",
-  "loc": "卡波迪蒙特美術館",
-  "a": "伊丽莎白塔·西拉尼"
- },
- {
-  "id": 9980,
-  "zh": "Portia Wounding her Thigh",
-  "qid": "Q58083055",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Elisabetta%20Sirani%20-%20Portia%20wounding%20her%20thigh.jpg",
-  "y": "1664",
-  "loc": "Casa Saraceni",
-  "a": "伊丽莎白塔·西拉尼"
- },
- {
-  "id": 9981,
-  "zh": "Virgin and Child",
-  "qid": "Q61996489",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sirani%20Virgin%20and%20Child.jpg",
-  "y": "1663",
-  "loc": "國際女性藝術博物館",
-  "a": "伊丽莎白塔·西拉尼"
- },
- {
-  "id": 9982,
-  "zh": "Still Life with Cheeses, A",
-  "qid": "Q19318363",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Still%20Life%20with%20Cheeses%2C%20Almonds%20and%20Pretzels.jpg",
-  "y": "1615",
-  "loc": "Mauritshuis - room 3",
-  "a": "克拉拉·彼得斯"
- },
- {
-  "id": 9983,
-  "zh": "Still Life with Fish",
-  "qid": "Q19318258",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Stilleven%20met%20vis%2C%20Clara%20Peeters%2C%2017de%20eeuw%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%20834.jpg",
-  "y": "1600",
-  "loc": "皇家安特衛普美術館",
-  "a": "克拉拉·彼得斯"
- },
- {
-  "id": 9984,
-  "zh": "Still life with flowers an",
-  "qid": "Q19318865",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Still%20Life%20with%20Flowers%20and%20Gold%20Cups%20of%20Honour%20-%20Clara%20Peeters%20-%20Google%20Cultural%20Institute.jpg",
-  "y": "1612",
-  "loc": "Staatliche Kunsthalle Karlsruhe",
-  "a": "克拉拉·彼得斯"
- },
- {
-  "id": 9985,
-  "zh": "Still life with cheese, ar",
-  "qid": "Q19318209",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/WLA%20lacma%20Clara%20Peeters%20still%20life.jpg",
-  "y": "1625",
-  "loc": "洛杉磯郡藝術博物館",
-  "a": "克拉拉·彼得斯"
- },
- {
-  "id": 9986,
-  "zh": "Still life of fish with a ",
-  "qid": "Q19318245",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Bodeg%C3%B3n%20%28Prado%29%2002.jpg",
-  "y": "1611",
-  "loc": "普拉多博物馆",
-  "a": "克拉拉·彼得斯"
- },
- {
-  "id": 9987,
-  "zh": "Game piece with poultry",
-  "qid": "Q19318473",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Peeters%20-%20Bodeg%C3%B3n%20%28Prado%29%2001.jpg",
-  "y": "1611",
-  "loc": "普拉多博物馆",
-  "a": "克拉拉·彼得斯"
- },
- {
-  "id": 9988,
-  "zh": "Mars and Venus at the ches",
-  "qid": "Q24955869",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MarsandVenusinChess.jpg",
-  "y": "1635",
-  "loc": "Augusteum",
-  "a": "克里斯托弗·帕多万尼诺"
- },
- {
-  "id": 9989,
-  "zh": "Trittico di Sant'Andrea",
-  "qid": "Q101474848",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/01%20trittico%20di%20Sant%27Andrea.jpg",
-  "y": "1631",
-  "loc": "圣安德肋堂 (贝加莫)",
-  "a": "克里斯托弗·帕多万尼诺"
- },
- {
-  "id": 9990,
-  "zh": "Roman Charity",
-  "qid": "Q27700025",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaspar%20de%20Crayer%20-%20Caritas%20Romana%20%28Prado%29.jpg",
-  "y": "1620",
-  "loc": "普拉多博物馆",
-  "a": "加斯帕·德·克拉耶"
- },
- {
-  "id": 9991,
-  "zh": "Drunken Silenus",
-  "qid": "Q3960488",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20van%20Dyck%20-%20Drunken%20Silenus.jpg",
-  "y": "1619",
-  "loc": "历代大师画廊",
-  "a": "安东尼·凡·戴克"
- },
- {
-  "id": 9992,
-  "zh": "約翰·斯圖亞特勛爵和他的兄弟伯納德·斯圖亞特勛爵",
-  "qid": "Q3937593",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir-Anthony-van-Dyck-Lord-John-Stuart-and-His-Brother-Lord-Bernard-Stuart.jpg",
-  "y": "1638",
-  "loc": "国家美术馆",
-  "a": "安东尼·凡·戴克"
- },
- {
-  "id": 9993,
-  "zh": "参孙和大利拉 (范戴克，1630年)",
-  "qid": "Q3948607",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20van%20Dyck%20-%20Samson%20and%20Delilah%20-%20Google%20Art%20Project.jpg",
-  "y": "1630",
-  "loc": "艺术史博物馆",
-  "a": "安东尼·凡·戴克"
- },
- {
-  "id": 9994,
-  "zh": "Equestrian Portrait of Cha",
-  "qid": "Q3937481",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%20-%20Equestrian%20Portrait%20of%20Charles%20I%20-%20National%20Gallery%2C%20London.jpg",
-  "y": "1630",
-  "loc": "国家美术馆",
-  "a": "安东尼·凡·戴克"
- },
- {
-  "id": 9995,
-  "zh": "The Vision of the Blessed ",
-  "qid": "Q16038543",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthonis%20van%20Dyck%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Mystische%20Verlobung%20des%20Seligen%20Hermann%20Joseph%20mit%20Maria%20-%20GG%20488%20-%20Kunsthistorisches%20Museum.jpg",
-  "y": "1629",
-  "loc": "艺术史博物馆",
-  "a": "安东尼·凡·戴克"
- },
- {
-  "id": 9996,
-  "zh": "Crucifixion",
-  "qid": "Q20083777",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20van%20Dick%20christ%20croix.jpg",
-  "y": "1630",
-  "loc": "里爾美術宮",
-  "a": "安东尼·凡·戴克"
- },
- {
-  "id": 9997,
-  "zh": "Portrait of Tognina Gonsal",
-  "qid": "Q69495936",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lavinia%20Fontana%20-%20Portrait%20of%20Antonietta%20Gonzalez%20-%20WGA07981.jpg",
-  "y": "1595",
-  "loc": "布卢瓦城堡",
-  "a": "拉维尼娅·丰塔纳"
- },
- {
-  "id": 9998,
-  "zh": "Portrait of the Gozzadini ",
-  "qid": "Q30593933",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Famille%20Gozzadini%2C%20par%20Lavinia%20Fontana.jpg",
-  "y": "1584",
-  "loc": "國立博洛尼亞美術館",
-  "a": "拉维尼娅·丰塔纳"
- },
- {
-  "id": 9999,
-  "zh": "Minerva dressing",
-  "qid": "Q120006904",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Minerva%20dressing%20by%20Lavinia%20Fontana%20%281613%29.jpg",
-  "y": "1613",
-  "loc": "鮑格才美術館",
-  "a": "拉维尼娅·丰塔纳"
- },
- {
-  "id": 10000,
-  "zh": "Self-portrait at the Virgi",
-  "qid": "Q19931300",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20at%20the%20Clavichord%20with%20a%20Servant%20by%20Lavinia%20Fontana.jpg",
-  "y": "1577",
-  "loc": "聖路卡學院",
-  "a": "拉维尼娅·丰塔纳"
- },
- {
-  "id": 10001,
-  "zh": "Judith with the Head of Ho",
-  "qid": "Q118145210",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20with%20the%20Head%20of%20Holofernes%20%281600%2C%20MDB%29.jpg",
-  "y": "1595",
-  "loc": "Davia Bargellini Museum",
-  "a": "拉维尼娅·丰塔纳"
- },
- {
-  "id": 10002,
-  "zh": "Portrait of a Sitting Man ",
-  "qid": "Q18822372",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20d%27homme%20assis%20feuilletant%20un%20livre%2C%20par%20Lavinia%20Fontana.jpg",
-  "y": "1577",
-  "loc": "波爾多美術館",
-  "a": "拉维尼娅·丰塔纳"
- },
- {
-  "id": 10003,
-  "zh": "朱迪思·莱斯特的自画像",
-  "qid": "Q18888002",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-portrait%20by%20Judith%20Leyster.jpg",
-  "y": "1630",
-  "loc": "國家藝廊",
-  "a": "朱迪思·莱斯特"
- },
- {
-  "id": 10004,
-  "zh": "Merry Trio",
-  "qid": "Q4109849",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20Merry%20Trio.jpg",
-  "y": "1631",
-  "loc": "",
-  "a": "朱迪思·莱斯特"
- },
- {
-  "id": 10005,
-  "zh": "The Jolly Toper",
-  "qid": "Q17324463",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20vrolijke%20drinker%20Rijksmuseum%20SK-A-1685.jpeg",
-  "y": "1629",
-  "loc": "弗蘭斯·哈爾斯博物館",
-  "a": "朱迪思·莱斯特"
- },
- {
-  "id": 10006,
-  "zh": "The Serenade",
-  "qid": "Q17328328",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/De%20serenade%20Rijksmuseum%20SK-A-2326.jpeg",
-  "y": "1629",
-  "loc": "阿姆斯特丹国家博物馆",
-  "a": "朱迪思·莱斯特"
- },
- {
-  "id": 10007,
-  "zh": "A Game of Tric Trac",
-  "qid": "Q19326698",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%20A%20Game%20of%20Tric%20Trac.jpg",
-  "y": "1630",
-  "loc": "伍斯特艺术博物馆",
-  "a": "朱迪思·莱斯特"
- },
- {
-  "id": 10008,
-  "zh": "The Last Drop",
-  "qid": "Q18857549",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Leyster%2C%20Dutch%20%28active%20Haarlem%20and%20Amsterdam%29%20-%20The%20Last%20Drop%20%28The%20Gay%20Cavalier%29%20-%20Google%20Art%20Project.jpg",
-  "y": "1639",
-  "loc": "费城艺术博物馆",
-  "a": "朱迪思·莱斯特"
- },
- {
-  "id": 10009,
-  "zh": "Portrait of Abraham Graphe",
-  "qid": "Q21614213",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20de%20Vos%20-%20Portrait%20of%20Abraham%20Grapheus.jpg",
-  "y": "1619",
-  "loc": "皇家安特衛普美術館",
-  "a": "科内利斯·德·沃斯"
- },
- {
-  "id": 10010,
-  "zh": "Portrait of Jan Vekemans",
-  "qid": "Q47498712",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cornelis%20De%20Vos%20-%20Portret%20van%20Jan%20Vekemans%20-%20Portrait%20de%20Jan%20Vekemans%20-%20Erfgoedfonds%20Koning%20Boudewijnstichting%20-%20Fonds%20du%20Patrimoine%20Fondation%20Roi%20Baudouin.jpg",
-  "y": "1624",
-  "loc": "Museum Mayer van den Bergh",
-  "a": "科内利斯·德·沃斯"
- },
- {
-  "id": 10011,
-  "zh": "Dice Players and Courtesan",
-  "qid": "Q111902743",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Amiens%2C%20mus%C3%A9e%20de%20Picardie%2C%20Joueurs%20de%20d%C3%A9s%20et%20courtisanes%20de%20Cornelis%20de%20Vos%2006.jpg",
-  "y": "1635",
-  "loc": "皮卡第博物馆",
-  "a": "科内利斯·德·沃斯"
- },
- {
-  "id": 10012,
-  "zh": "Self-portrait at the Spinn",
-  "qid": "Q23012270",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Autoritratto%20alla%20spinetta%2C%20Sofonisba%20Anguissola%20001.JPG",
-  "y": "1555",
-  "loc": "卡波迪蒙特美術館",
-  "a": "索福尼斯巴·安圭索拉"
- },
- {
-  "id": 10013,
-  "zh": "Portrait of Minerva Anguis",
-  "qid": "Q15974358",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofonisba%20Anguissola%20-%20Portrait%20of%20Minerva%20Anguissola%20-%20WGA0700.jpg",
-  "y": "1560",
-  "loc": "布雷拉画廊",
-  "a": "索福尼斯巴·安圭索拉"
- },
- {
-  "id": 10014,
-  "zh": "Portrait of Prince Alessan",
-  "qid": "Q23011388",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Farnese%2C%20S.%20Anguisciola.jpg",
-  "y": "1560",
-  "loc": "愛爾蘭國立美術館",
-  "a": "索福尼斯巴·安圭索拉"
- },
- {
-  "id": 10015,
-  "zh": "The Artist's Sister Elena ",
-  "qid": "Q23009799",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Elena%20Anguissola%20-%20Sonofisba%20Anguissola%20%28Southampton%20City%20Art%20Gallery%29.jpg",
-  "y": "1540",
-  "loc": "Southampton City Art Gallery",
-  "a": "索福尼斯巴·安圭索拉"
- },
- {
-  "id": 10016,
-  "zh": "Portrait of Marquess Massi",
-  "qid": "Q23011335",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/MassimilianoStampa.jpg",
-  "y": "1557",
+  "id": 11163,
+  "zh": "Scipio Africanus Freeing M",
+  "qid": "Q38197",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20-%20Scipio%20Africanus%20Freeing%20Massiva%20-%20Walters%2037657.jpg",
+  "y": "1719",
   "loc": "沃爾特斯藝術博物館",
-  "a": "索福尼斯巴·安圭索拉"
+  "a": "乔瓦尼·巴蒂斯塔·提埃波罗"
  },
  {
-  "id": 10017,
-  "zh": "Portrait of Elisabeth of V",
-  "qid": "Q23011676",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth.of.Valois.JPG",
-  "y": "1561",
-  "loc": "普拉多博物馆",
-  "a": "索福尼斯巴·安圭索拉"
+  "id": 11164,
+  "zh": "The Visit of Henry III to ",
+  "qid": "Q5968478",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiepolo%20Reception%20of%20Henri%20III%20at%20Villa%20Contarini.jpg",
+  "y": "1750",
+  "loc": "雅克馬爾-安德烈博物館",
+  "a": "乔瓦尼·巴蒂斯塔·提埃波罗"
  },
  {
-  "id": 10018,
-  "zh": "Apollo and Marsyas",
-  "qid": "Q112333176",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Apollo%20and%20Marsyas%20by%20Johann%20Liss%20-%20Gallerie%20Accademia.jpg",
-  "y": "1627",
+  "id": 11165,
+  "zh": "Deposition",
+  "qid": "Q17390181",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Deposicao%20Cristo%20Tumulo-Tie.jpg",
+  "y": "1767",
+  "loc": "國立古代美術館",
+  "a": "乔瓦尼·巴蒂斯塔·提埃波罗"
+ },
+ {
+  "id": 11166,
+  "zh": "The Rape of Europa",
+  "qid": "Q25442922",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Rape%20of%20Europa%20by%20Giambattista%20Tiepolo%20-%20Gallerie%20Accademia.jpg",
+  "y": "1725",
   "loc": "學院美術館",
-  "a": "约翰·利斯"
+  "a": "乔瓦尼·巴蒂斯塔·提埃波罗"
  },
  {
-  "id": 10019,
-  "zh": "Judith with the Head of Ho",
-  "qid": "Q23010104",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20with%20the%20head%20of%20Holofernes.jpg",
-  "y": "1596",
-  "loc": "約翰與及梅波·瑞霖藝術博物館",
-  "a": "费德·加莱齐娅"
+  "id": 11167,
+  "zh": "Death of Consul L. J. Brut",
+  "qid": "Q20093134",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Battista%20Tiepolo%20027.jpg",
+  "y": "1727",
+  "loc": "艺术史博物馆",
+  "a": "乔瓦尼·巴蒂斯塔·提埃波罗"
  },
  {
-  "id": 10020,
-  "zh": "Portrait of Paolo Morigia",
-  "qid": "Q29654663",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Paolo%20Morigia%20%28by%20Fede%20Galizia%29%20%E2%80%93%20Pinacoteca%20Ambrosiana.jpg",
-  "y": "1593",
-  "loc": "Pinacoteca Ambrosiana",
-  "a": "费德·加莱齐娅"
+  "id": 11168,
+  "zh": "Morning in a Pine Forest",
+  "qid": "Q2666439",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Shishkin%2C%20Ivan%20-%20Morning%20in%20a%20Pine%20Forest.jpg",
+  "y": "1889",
+  "loc": "特列季亚科夫画廊",
+  "a": "伊万·希什金"
  },
  {
-  "id": 10021,
-  "zh": "Still Life with Fruit",
-  "qid": "Q97306392",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/CTB.1956.12%20bodegon-frutas%20-%20Still%20Life%20with%20Fruit%20-%20Louise%20Moillon.jpg",
-  "y": "1637",
+  "id": 11169,
+  "zh": "Rye Fields",
+  "qid": "Q4396378",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Shishkin%20-%20%D0%A0%D0%BE%D0%B6%D1%8C%20-%20Google%20Art%20Project.jpg",
+  "y": "1878",
+  "loc": "特列季亚科夫画廊",
+  "a": "伊万·希什金"
+ },
+ {
+  "id": 11170,
+  "zh": "From Neighborhoods Gurzuf.",
+  "qid": "Q42419681",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/From%20Neighborhoods%20Gurzuf%20%28Shishkin%29.jpg",
+  "y": "1879",
+  "loc": "俄羅斯博物館",
+  "a": "伊万·希什金"
+ },
+ {
+  "id": 11171,
+  "zh": "Study for the painting \"Lu",
+  "qid": "Q43217683",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D1%82%D1%8E%D0%B4%20%D0%BA%20%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%20%D0%A0%D1%83%D0%B1%D0%BA%D0%B0%20%D0%BB%D0%B5%D1%81%D0%B0%20%28%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%29.jpg",
+  "y": "1867",
+  "loc": "Yekaterinburg Museum of Fine Arts",
+  "a": "伊万·希什金"
+ },
+ {
+  "id": 11172,
+  "zh": "Forest. Study",
+  "qid": "Q50807842",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Forest%20%28Shishkin%29.jpg",
+  "y": "1900",
+  "loc": "",
+  "a": "伊万·希什金"
+ },
+ {
+  "id": 11173,
+  "zh": "第九波濤",
+  "qid": "Q1070896",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hovhannes%20Aivazovsky%20-%20The%20Ninth%20Wave%20-%20Google%20Art%20Project.jpg",
+  "y": "1850",
+  "loc": "俄羅斯博物館",
+  "a": "伊万·艾瓦佐夫斯基"
+ },
+ {
+  "id": 11174,
+  "zh": "A. S. Pushkin at the Black",
+  "qid": "Q4384735",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98.%20%D0%9A.%20%281887%29%20%D0%90.%20%D0%A1.%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%20%D0%BD%D0%B0%20%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D1%83%20%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%BE%D1%80%D1%8F%20%282%29.jpg",
+  "y": "1887",
+  "loc": "V. V. Vereshchagin Mykolaiv Art Museum",
+  "a": "伊万·艾瓦佐夫斯基"
+ },
+ {
+  "id": 11175,
+  "zh": "Descent of Noah from Arara",
+  "qid": "Q16699900",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Descent%20of%20Noah%20from%20Ararat.jpg",
+  "y": "1887",
+  "loc": "亚美尼亚国家美术馆",
+  "a": "伊万·艾瓦佐夫斯基"
+ },
+ {
+  "id": 11176,
+  "zh": "Ship in a storm",
+  "qid": "Q135653132",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aivazovsky%20-%20Ship%20in%20a%20storm%20%28cropped%29.jpg",
+  "y": "1899",
+  "loc": "巴庫",
+  "a": "伊万·艾瓦佐夫斯基"
+ },
+ {
+  "id": 11177,
+  "zh": "Theodosia. Moonlight night",
+  "qid": "Q6677931",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%B9%D0%B2%D0%B0%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D1%8F.%20%D0%9B%D1%83%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%BE%D1%87%D1%8C.jpg",
+  "y": "1852",
+  "loc": "",
+  "a": "伊万·艾瓦佐夫斯基"
+ },
+ {
+  "id": 11178,
+  "zh": "庞贝城的末日",
+  "qid": "Q2521909",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Brullov%20-%20The%20Last%20Day%20of%20Pompeii%20-%20Google%20Art%20Project.jpg",
+  "y": "1833",
+  "loc": "俄羅斯博物館",
+  "a": "卡尔·布留洛夫"
+ },
+ {
+  "id": 11179,
+  "zh": "Portrait of Countess Yulia",
+  "qid": "Q125446983",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Yuliya%20Samoylova.jpg",
+  "y": "1800",
+  "loc": "俄羅斯博物館",
+  "a": "卡尔·布留洛夫"
+ },
+ {
+  "id": 11180,
+  "zh": "Bathsheba",
+  "qid": "Q18687815",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Bryullov%20%28Bryullo%29%20-%20%D0%92%D0%B8%D1%80%D1%81%D0%B0%D0%B2%D0%B8%D1%8F%20-%20Google%20Art%20Project.jpg",
+  "y": "1832",
+  "loc": "特列季亚科夫画廊",
+  "a": "卡尔·布留洛夫"
+ },
+ {
+  "id": 11181,
+  "zh": "聖馬太蒙召喚",
+  "qid": "Q969377",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20%E2%80%94%20The%20Calling%20of%20Saint%20Matthew.jpg",
+  "y": "1609",
+  "loc": "肯塔瑞里小堂",
+  "a": "卡拉瓦乔"
+ },
+ {
+  "id": 11182,
+  "zh": "被斬首的聖施洗者約翰 (卡拉瓦喬)",
+  "qid": "Q2727560",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20decapitaci%C3%B3n%20de%20San%20Juan%20Bautista%2C%20por%20Caravaggio.jpg",
+  "y": "1608",
+  "loc": "圣若望副主教座堂",
+  "a": "卡拉瓦乔"
+ },
+ {
+  "id": 11183,
+  "zh": "猶迪割下赫羅弗尼斯的頭顱",
+  "qid": "Q2470123",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%20Beheading%20Holofernes%20-%20Caravaggio.jpg",
+  "y": "1599",
+  "loc": "巴贝里尼宫",
+  "a": "卡拉瓦乔"
+ },
+ {
+  "id": 11184,
+  "zh": "Medusa",
+  "qid": "Q2293905",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Medusa%20-%20Google%20Art%20Project.jpg",
+  "y": "1597",
+  "loc": "烏菲茲美術館",
+  "a": "卡拉瓦乔"
+ },
+ {
+  "id": 11185,
+  "zh": "生病的巴克斯",
+  "qid": "Q2293936",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Sick%20Bacchus-Caravaggio%20%281593%29.jpg",
+  "y": "1595",
+  "loc": "Room 8 - room of Silen",
+  "a": "卡拉瓦乔"
+ },
+ {
+  "id": 11186,
+  "zh": "Amor Vincit Omnia",
+  "qid": "Q474024",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio%20-%20Cupid%20as%20Victor%20-%20Google%20Art%20Project.jpg",
+  "y": "1601",
+  "loc": "17th and 18th centuries Italian, French, Spanish paintings - Room XIV",
+  "a": "卡拉瓦乔"
+ },
+ {
+  "id": 11187,
+  "zh": "橡樹林中的修道院",
+  "qid": "Q334360",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Abtei%20im%20Eichwald%20-%20Google%20Art%20Project.jpg",
+  "y": "1809",
+  "loc": "舊國家畫廊",
+  "a": "卡斯帕·大卫·弗里德里希"
+ },
+ {
+  "id": 11188,
+  "zh": "冰海 (畫作)",
+  "qid": "Q194137",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20Eismeer.jpg",
+  "y": "1823",
+  "loc": "漢堡美術館",
+  "a": "卡斯帕·大卫·弗里德里希"
+ },
+ {
+  "id": 11189,
+  "zh": "Chalk Cliffs at Ruegen",
+  "qid": "Q1787143",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20Kreidefelsen%20auf%20R%C3%BCgen.jpg",
+  "y": "1818",
+  "loc": "Kunst Museum Winterthur | Reinhart am Stadtgarten",
+  "a": "卡斯帕·大卫·弗里德里希"
+ },
+ {
+  "id": 11190,
+  "zh": "海邊修士",
+  "qid": "Q693746",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%2C%20Caspar%20David%20-%20M%C3%B6nch%20am%20Meer%20-%20Alte%20Nationalgalerie%20in%20Berlin.jpg",
+  "y": "1800",
+  "loc": "舊國家畫廊",
+  "a": "卡斯帕·大卫·弗里德里希"
+ },
+ {
+  "id": 11191,
+  "zh": "Mountain Landscape with Ra",
+  "qid": "Q507120",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Gebirgslandschaft%20mit%20Regenbogen.jpg",
+  "y": "1809",
+  "loc": "弗柯望博物館",
+  "a": "卡斯帕·大卫·弗里德里希"
+ },
+ {
+  "id": 11192,
+  "zh": "Altarpiece Tetschen",
+  "qid": "Q884782",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%20-%20Das%20Kreuz%20im%20Gebirge.jpg",
+  "y": "1807",
+  "loc": "阿爾伯提努",
+  "a": "卡斯帕·大卫·弗里德里希"
+ },
+ {
+  "id": 11193,
+  "zh": "威尼斯大运河的入口 (卡纳莱托)",
+  "qid": "Q19660427",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Canaletto%20-%20The%20Entrance%20to%20the%20Grand%20Canal%2C%20Venice%20-%20Google%20Art%20Project.jpg",
+  "y": "1730",
+  "loc": "休士頓美術館",
+  "a": "卡纳莱托"
+ },
+ {
+  "id": 11194,
+  "zh": "View of the Bacino di San ",
+  "qid": "Q19660494",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Antonio%20Canal%2C%20il%20Canaletto%20-%20View%20of%20the%20Bacino%20di%20San%20Marco%20%28St%20Mark%27s%20Basin%29%20-%20WGA03899.jpg",
+  "y": "1743",
+  "loc": "布雷拉画廊",
+  "a": "卡纳莱托"
+ },
+ {
+  "id": 11195,
+  "zh": "The Piazza San Marco in Ve",
+  "qid": "Q3902309",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Canaletto%20-%20The%20Piazza%20San%20Marco%20in%20Venice%20-%20Google%20Art%20Project.jpg",
+  "y": "1723",
   "loc": "提森-博内米萨博物馆",
-  "a": "路易丝·穆瓦永"
+  "a": "卡纳莱托"
  },
  {
-  "id": 10022,
-  "zh": "Apollo as Victor over Pan",
-  "qid": "Q27701409",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Jordaens%20-%20Apollo%20as%20Victor%20over%20Pan%2C%201637.jpg",
-  "y": "1636",
+  "id": 11196,
+  "zh": "Arrival of the French Amba",
+  "qid": "Q5977784",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Canal%2C%20Giovanni%20Antonio%20-%20Reception%20of%20the%20French%20Ambassador%20in%20Venice%20-%20Hermitage.jpg",
+  "y": "1727",
+  "loc": "埃尔米塔日博物馆",
+  "a": "卡纳莱托"
+ },
+ {
+  "id": 11197,
+  "zh": "Perspective View with Port",
+  "qid": "Q6073024",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Perspective%20du%20portique%22%20de%20Canaletto%20%28Accademia%2C%20Venise%29%20-%20Flickr%20-%20dalbera.jpg",
+  "y": "1765",
+  "loc": "學院美術館",
+  "a": "卡纳莱托"
+ },
+ {
+  "id": 11198,
+  "zh": "A View of Walton Bridge",
+  "qid": "Q11152607",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Canaletto%20%28Giovanni%20Antonio%20Canal%29%20-%20A%20View%20of%20Walton%20Bridge%20-%20Google%20Art%20Project.jpg",
+  "y": "1754",
+  "loc": "达利奇美术馆",
+  "a": "卡纳莱托"
+ },
+ {
+  "id": 11199,
+  "zh": "The Marriage of the Virgin",
+  "qid": "Q3967207",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/F0402%20Louvre%20Giordano%20Mariage%20Vierge%20MI868%20rwk.jpg",
+  "y": "1688",
+  "loc": "Room 717",
+  "a": "卢卡·焦尔达诺"
+ },
+ {
+  "id": 11200,
+  "zh": "牧羊人的崇拜",
+  "qid": "Q3605548",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%27Adoration%20des%20bergers%20-%20Luca%20Giordano%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20MI%20869.jpg",
+  "y": "1688",
+  "loc": "Room 717",
+  "a": "卢卡·焦尔达诺"
+ },
+ {
+  "id": 11201,
+  "zh": "The Fall of the Rebel Ange",
+  "qid": "Q3947694",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20Giordano%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Erzengel%20Michael%20st%C3%BCrzt%20die%20abtr%C3%BCnnigen%20Engel%20-%20GG%20350%20-%20Kunsthistorisches%20Museum.jpg",
+  "y": "1660",
+  "loc": "艺术史博物馆",
+  "a": "卢卡·焦尔达诺"
+ },
+ {
+  "id": 11202,
+  "zh": "Saint Januarius intercedes",
+  "qid": "Q3947171",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/SangennarointercedeGiordano.jpg",
+  "y": "1656",
+  "loc": "卡波迪蒙特美術館",
+  "a": "卢卡·焦尔达诺"
+ },
+ {
+  "id": 11203,
+  "zh": "Patron Saints of Naples ad",
+  "qid": "Q3949377",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luca%20Giordano%20Protector%20saints%20of%20Naples.jpg",
+  "y": "1660",
+  "loc": "卡波迪蒙特美術館",
+  "a": "卢卡·焦尔达诺"
+ },
+ {
+  "id": 11204,
+  "zh": "Madonna of the Baldacchino",
+  "qid": "Q123178580",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%201er%20-%20Mus%C3%A9e%20du%20Louvre%20-%20Exposition%20Naples%20%C3%A0%20Paris%20-%20Notre-Dame%20du%20Rosaire%20ou%20La%20Madone%20au%20baldaquin%20%28Luca%20Giordano%29.jpg",
+  "y": "1685",
+  "loc": "卡波迪蒙特美術館",
+  "a": "卢卡·焦尔达诺"
+ },
+ {
+  "id": 11205,
+  "zh": "歐貴茲伯爵的葬禮",
+  "qid": "Q94802",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20-%20The%20Burial%20of%20the%20Count%20of%20Orgaz.JPG",
+  "y": "1586",
+  "loc": "圣多默堂",
+  "a": "埃尔·格列柯"
+ },
+ {
+  "id": 11206,
+  "zh": "揭開第五印",
+  "qid": "Q1220013",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%2C%20The%20Vision%20of%20Saint%20John%20%281608-1614%29.jpg",
+  "y": "1610",
+  "loc": "大都會藝術博物館",
+  "a": "埃尔·格列柯"
+ },
+ {
+  "id": 11207,
+  "zh": "Fray Hortensio Félix Parav",
+  "qid": "Q949323",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Greco%20%28Domenikos%20Theotokopoulos%29%20-%20Fray%20Hortensio%20F%C3%A9lix%20Paravicino%20-%20Google%20Art%20Project.jpg",
+  "y": "1609",
+  "loc": "西班牙",
+  "a": "埃尔·格列柯"
+ },
+ {
+  "id": 11208,
+  "zh": "The Battle of the Lapiths ",
+  "qid": "Q115863942",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20Ricci%20-%20Battle%20of%20the%20Lapiths%20and%20Centaurs%20%28High%20Museum%20of%20Art%29.jpg",
+  "y": "1705",
+  "loc": "高等藝術博物館",
+  "a": "塞巴斯蒂亚诺·里奇"
+ },
+ {
+  "id": 11209,
+  "zh": "Hercules at the feet of Om",
+  "qid": "Q116689348",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20Ricci%2C%20Ercole%20ai%20piedi%20di%20Onfale%2C%201701%20circa%2C%20Olio%20su%20tela%2C%20112%20x%2090%20cm%2C%20Amiens%2C%20Mus%C3%A9e%20de%20Picardie.jpg",
+  "y": "1701",
+  "loc": "皮卡第博物馆",
+  "a": "塞巴斯蒂亚诺·里奇"
+ },
+ {
+  "id": 11210,
+  "zh": "Madonna with Baby and sain",
+  "qid": "Q116771349",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20ricci%2C%20madonna%20in%20trono%20e%20santi%2C%201708%2C%2002.jpg",
+  "y": "1708",
+  "loc": "聖喬治馬焦雷教堂",
+  "a": "塞巴斯蒂亚诺·里奇"
+ },
+ {
+  "id": 11211,
+  "zh": "Diana and Callisto",
+  "qid": "Q123456096",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Diana%20and%20Callisto%20by%20Sebastiano%20Ricci%20-%20Gallerie%20Accademia.jpg",
+  "y": "",
+  "loc": "學院美術館",
+  "a": "塞巴斯蒂亚诺·里奇"
+ },
+ {
+  "id": 11212,
+  "zh": "The dream of Aesculapius",
+  "qid": "Q123457694",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20The%20dream%20of%20Aesculapius%20by%20Sebastiano%20Ricci%20-%20Gallerie%20Accademia.jpg",
+  "y": "",
+  "loc": "學院美術館",
+  "a": "塞巴斯蒂亚诺·里奇"
+ },
+ {
+  "id": 11213,
+  "zh": "Angelica and Medoro",
+  "qid": "Q124024280",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ricci%20Medoro%20and%20Angelica.jpg",
+  "y": "1716",
+  "loc": "布鲁肯撒尔博物馆",
+  "a": "塞巴斯蒂亚诺·里奇"
+ },
+ {
+  "id": 11214,
+  "zh": "Adoration of the Shepherds",
+  "qid": "Q4684627",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Domenichino%20%28Domenico%20Zampieri%29%2C%20The%20Adoration%20of%20the%20Shepherds%2C%20c.%201607-10%2C%20Oil%20on%20canvas%2C%20143%20x%20115cm%2C%20National%20Gallery%20of%20Scotland.jpg",
+  "y": "1607",
+  "loc": "蘇格蘭國家畫廊",
+  "a": "多梅尼基诺"
+ },
+ {
+  "id": 11215,
+  "zh": "Communion of Saint Jerome",
+  "qid": "Q20087547",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/LastCommunion.jpg",
+  "y": "1614",
+  "loc": "梵蒂冈博物馆",
+  "a": "多梅尼基诺"
+ },
+ {
+  "id": 11216,
+  "zh": "黛安娜的狩獵",
+  "qid": "Q26038063",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Domenichino%20-%20La%20caccia%20di%20Diana%20%28Galleria%20Borghese%29.jpg",
+  "y": "1616",
+  "loc": "鮑格才美術館",
+  "a": "多梅尼基诺"
+ },
+ {
+  "id": 11217,
+  "zh": "Virgin and Unicorn (A Virg",
+  "qid": "Q112580922",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/DomenichinounicornPalFarnese.jpg",
+  "y": "1604",
+  "loc": "法尔内塞宫",
+  "a": "多梅尼基诺"
+ },
+ {
+  "id": 11218,
+  "zh": "Saint John the Evangelist",
+  "qid": "Q7401485",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zampieri%20St%20John%20Evangelist.jpg",
+  "y": "1621",
+  "loc": "国家美术馆",
+  "a": "多梅尼基诺"
+ },
+ {
+  "id": 11219,
+  "zh": "Saint Cecilia Playing the ",
+  "qid": "Q18572436",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Domenichino%20-%20Saint%20Cecilia%20Playing%20the%20Viol%2001.jpg",
+  "y": "1610",
+  "loc": "Room 716",
+  "a": "多梅尼基诺"
+ },
+ {
+  "id": 11220,
+  "zh": "The Lute Player",
+  "qid": "Q20176925",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Orazio%20Gentileschi%20-%20Il%20suonatore%20di%20liuto%20%28National%20Gallery%20of%20Art%29.jpg",
+  "y": "1612",
+  "loc": "國家藝廊",
+  "a": "奥拉齐奥·真蒂莱斯基"
+ },
+ {
+  "id": 11221,
+  "zh": "四個殘酷的舞台",
+  "qid": "Q2565897",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cruelty4.JPG",
+  "y": "",
+  "loc": "",
+  "a": "威廉·荷加斯"
+ },
+ {
+  "id": 11222,
+  "zh": "The Graham Children",
+  "qid": "Q3451328",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20047.jpg",
+  "y": "1742",
+  "loc": "国家美术馆",
+  "a": "威廉·荷加斯"
+ },
+ {
+  "id": 11223,
+  "zh": "The Shrimp Girl",
+  "qid": "Q4164272",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20The%20Shrimp%20Girl%20-%20WGA11467.jpg",
+  "y": "1743",
+  "loc": "国家美术馆",
+  "a": "威廉·荷加斯"
+ },
+ {
+  "id": 11224,
+  "zh": "Hogarth's Servants",
+  "qid": "Q5722643",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hogarths-Servants.jpg",
+  "y": "1752",
+  "loc": "泰特美術館",
+  "a": "威廉·荷加斯"
+ },
+ {
+  "id": 11225,
+  "zh": "The Distrest Poet",
+  "qid": "Q7730381",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hogarth%20-%20The%20Distressed%20Poet%2C%201733%20-%201735%2C%201934P500.jpg",
+  "y": "1736",
+  "loc": "伯明翰博物館和美術館",
+  "a": "威廉·荷加斯"
+ },
+ {
+  "id": 11226,
+  "zh": "Strolling Actresses Dressi",
+  "qid": "Q7624318",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hogarth%20-%20Strolling%20Actresses%20Dressing%20in%20a%20Barn%20-%201959.310%20-%20Cleveland%20Museum%20of%20Art.tif",
+  "y": "1738",
+  "loc": "國家藝廊",
+  "a": "威廉·荷加斯"
+ },
+ {
+  "id": 11227,
+  "zh": "Apotheosis of Saint Ignati",
+  "qid": "Q112401018",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Triumph%20of%20St.%20Ignatius.jpg",
+  "y": "1694",
+  "loc": "罗马圣依纳爵堂",
+  "a": "安德烈亚·波佐"
+ },
+ {
+  "id": 11228,
+  "zh": "Apotheosis of Hercules in ",
+  "qid": "Q30917640",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Liechtenstein%20Museum%20%286%29%20%284340813031%29.jpg",
+  "y": "1705",
+  "loc": "Gartenpalais Liechtenstein",
+  "a": "安德烈亚·波佐"
+ },
+ {
+  "id": 11229,
+  "zh": "Flight into Egypt",
+  "qid": "Q27954525",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fuga%20in%20Egitto.jpg",
+  "y": "",
+  "loc": "國立美術博物館 (布宜諾斯艾利斯)",
+  "a": "安德烈亚·波佐"
+ },
+ {
+  "id": 11230,
+  "zh": "The Apotheosis of St. Igna",
+  "qid": "Q97378816",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sant%27Ignazio%20-%20affresco%20soffitto%20-antmoose.jpg",
+  "y": "1685",
+  "loc": "意大利",
+  "a": "安德烈亚·波佐"
+ },
+ {
+  "id": 11231,
+  "zh": "Maria with Child and St. J",
+  "qid": "Q111648212",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Pozzo%20%281642-1709%29%20-%20Heilige%20Familie%20%28Heilige%20Nacht%29%20-%202951%20-%20F%C3%BChrermuseum.jpg",
+  "y": "1667",
+  "loc": "林茨美術館",
+  "a": "安德烈亚·波佐"
+ },
+ {
+  "id": 11232,
+  "zh": "裸体的马哈",
+  "qid": "Q152867",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Maja%20desnuda%20%28museo%20del%20Prado%29.jpg",
+  "y": "1795",
   "loc": "普拉多博物馆",
-  "a": "雅各布·约尔丹斯"
+  "a": "弗朗西斯科·戈雅"
+ },
+ {
+  "id": 11233,
+  "zh": "卡洛斯四世一家",
+  "qid": "Q920030",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20familia%20de%20Carlos%20IV%2C%20por%20Francisco%20de%20Goya.jpg",
+  "y": "1800",
+  "loc": "普拉多博物馆",
+  "a": "弗朗西斯科·戈雅"
+ },
+ {
+  "id": 11234,
+  "zh": "戰爭的災難",
+  "qid": "Q1200522",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Goya-Guerra%20%2802%29.jpg",
+  "y": "1810",
+  "loc": "西班牙",
+  "a": "弗朗西斯科·戈雅"
+ },
+ {
+  "id": 11235,
+  "zh": "1808年5月2日",
+  "qid": "Q2983399",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20dos%20de%20mayo%20de%201808%20en%20Madrid.jpg",
+  "y": "1814",
+  "loc": "普拉多博物馆",
+  "a": "弗朗西斯科·戈雅"
+ },
+ {
+  "id": 11236,
+  "zh": "狂想曲",
+  "qid": "Q1163663",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20sleep%20of%20reason%20produces%20monsters%20LACMA%2063.11.43.jpg",
+  "y": "1799",
+  "loc": "",
+  "a": "弗朗西斯科·戈雅"
+ },
+ {
+  "id": 11237,
+  "zh": "四喷泉",
+  "qid": "Q1217302",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20Quattro%20Fontane%20270deg%20Pano.jpg",
+  "y": "",
+  "loc": "",
+  "a": "彼得罗·达·科尔托纳"
+ },
+ {
+  "id": 11238,
+  "zh": "神意及巴貝里尼權威",
+  "qid": "Q4731387",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ceiling%20of%20Palazzo%20Barberini.jpg",
+  "y": "1633",
+  "loc": "國立古代藝術美術館",
+  "a": "彼得罗·达·科尔托纳"
+ },
+ {
+  "id": 11239,
+  "zh": "Rape of the Sabine Women",
+  "qid": "Q3203105",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cortona%20Rape%20of%20the%20Sabine%20Women%2001.jpg",
+  "y": "1627",
+  "loc": "卡比托利欧博物馆",
+  "a": "彼得罗·达·科尔托纳"
+ },
+ {
+  "id": 11240,
+  "zh": "Saint Alexius dying",
+  "qid": "Q16600212",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/PietrodaCortonaSantAlessioMorente.png",
+  "y": "1638",
+  "loc": "圣热罗尼莫堂 (那不勒斯)",
+  "a": "彼得罗·达·科尔托纳"
+ },
+ {
+  "id": 11241,
+  "zh": "Caesar Giving Cleopatra th",
+  "qid": "Q17175813",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9sar%20remet%20Cl%C3%A9op%C3%A2tre%20sur%20le%20tr%C3%B4ne%20d%27%C3%89gypte%20-%20Pierre%20de%20Cortone.jpg",
+  "y": "1637",
+  "loc": "里昂美术馆",
+  "a": "彼得罗·达·科尔托纳"
+ },
+ {
+  "id": 11242,
+  "zh": "The Tiburtine Sibyl announ",
+  "qid": "Q3212826",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sibylle%20de%20Tibur%20annon%C3%A7ant%20%C3%A0%20Auguste%20l%27av%C3%A8nement%20du%20Christ%20MBA.jpg",
+  "y": "1660",
+  "loc": "南锡美术博物馆",
+  "a": "彼得罗·达·科尔托纳"
+ },
+ {
+  "id": 11243,
+  "zh": "Portrait of a Lady in Blue",
+  "qid": "Q3700536",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Portrait%20of%20a%20Lady%20in%20Blue%20-%20WGA8414.jpg",
+  "y": "1780",
+  "loc": "冬宫",
+  "a": "托马斯·庚斯博罗"
+ },
+ {
+  "id": 11244,
+  "zh": "Portrait of Georgiana, Duc",
+  "qid": "Q18161868",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20Lady%20Georgiana%20Cavendish.jpg",
+  "y": "1785",
+  "loc": "查茨沃斯莊園",
+  "a": "托马斯·庚斯博罗"
+ },
+ {
+  "id": 11245,
+  "zh": "The Market Cart",
+  "qid": "Q5966011",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20002.jpg",
+  "y": "1786",
+  "loc": "国家美术馆",
+  "a": "托马斯·庚斯博罗"
+ },
+ {
+  "id": 11246,
+  "zh": "Mr and Mrs William Hallett",
+  "qid": "Q12738203",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Mr%20and%20Mrs%20William%20Hallett%20%28%27The%20Morning%20Walk%27%29%20-%20WGA8418.jpg",
+  "y": "1785",
+  "loc": "国家美术馆",
+  "a": "托马斯·庚斯博罗"
+ },
+ {
+  "id": 11247,
+  "zh": "The Honourable Mrs Graham",
+  "qid": "Q4373352",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20The%20Honourable%20Mrs%20Graham%20%281757%20-%201792%29%20-%20NG%20332%20-%20National%20Galleries%20of%20Scotland.jpg",
+  "y": "1775",
+  "loc": "蘇格蘭國家畫廊",
+  "a": "托马斯·庚斯博罗"
+ },
+ {
+  "id": 11248,
+  "zh": "Mrs. Richard Brinsley Sher",
+  "qid": "Q6929863",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Gainsborough%20-%20Mrs.%20Richard%20Brinsley%20Sheridan%20.jpg",
+  "y": "1785",
+  "loc": "英格兰",
+  "a": "托马斯·庚斯博罗"
+ },
+ {
+  "id": 11249,
+  "zh": "Rudolf II as Vertumnus",
+  "qid": "Q16333797",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vertumnus%20%C3%A5rstidernas%20gud%20m%C3%A5lad%20av%20Giuseppe%20Arcimboldo%201591%20-%20Skoklosters%20slott%20-%2091503.jpg",
+  "y": "1591",
+  "loc": "斯庫克洛斯特城堡",
+  "a": "朱塞佩·阿尔钦博托"
+ },
+ {
+  "id": 11250,
+  "zh": "The Librarian",
+  "qid": "Q17021187",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bibliotekarien%20konserverad%20-%20Skoklosters%20slott%20-%2097136.tif",
+  "y": "1556",
+  "loc": "斯庫克洛斯特城堡",
+  "a": "朱塞佩·阿尔钦博托"
+ },
+ {
+  "id": 11251,
+  "zh": "The Jurist",
+  "qid": "Q1194663",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lawyer%2C%20possibly%20Ulrich%20Zasius%2C%201461-1536%2C%20humanist%2C%20jurist%20%28Giuseppe%20Arcimboldo%29%20-%20Nationalmuseum%20-%2015897.tif",
+  "y": "1566",
+  "loc": "瑞典國立博物館",
+  "a": "朱塞佩·阿尔钦博托"
+ },
+ {
+  "id": 11252,
+  "zh": "The Gardener",
+  "qid": "Q18578019",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Arcimboldo%20Vegetables%20upsidedown.jpg",
+  "y": "1587",
+  "loc": "Museo Civico Ala Ponzone",
+  "a": "朱塞佩·阿尔钦博托"
+ },
+ {
+  "id": 11253,
+  "zh": "The Cook",
+  "qid": "Q18601924",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Arcimboldo%20-%20The%20Cook%20-%20WGA00840.jpg",
+  "y": "1570",
+  "loc": "瑞典國立博物館",
+  "a": "朱塞佩·阿尔钦博托"
+ },
+ {
+  "id": 11254,
+  "zh": "The Fruit Basket",
+  "qid": "Q19947609",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Arcimboldo%20-%20Fruit%20Basket.jpg",
+  "y": "1550",
+  "loc": "",
+  "a": "朱塞佩·阿尔钦博托"
+ },
+ {
+  "id": 11255,
+  "zh": "Received wisdom",
+  "qid": "Q30703632",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Polenov%20premudr%20NN.jpg",
+  "y": "1909",
+  "loc": "Nizhny Novgorod State Art Museum",
+  "a": "瓦西里·波列诺夫"
+ },
+ {
+  "id": 11256,
+  "zh": "Christ among the doctors",
+  "qid": "Q30703720",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1896%20Polenow%20Christus%20unter%20den%20Lehrern%20anagoria.JPG",
+  "y": "1896",
+  "loc": "特列季亚科夫画廊",
+  "a": "瓦西里·波列诺夫"
+ },
+ {
+  "id": 11257,
+  "zh": "In the Park. Veules-les-Ro",
+  "qid": "Q124246652",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%20%D0%92%20%D0%BF%D0%B0%D1%80%D0%BA%D0%B5.%20%D0%9C%D0%B5%D1%81%D1%82%D0%B5%D1%87%D0%BA%D0%BE%20%D0%92%D1%91%D0%BB%D1%8C%20%D0%B2%20%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8.jpg",
+  "y": "1874",
+  "loc": "俄羅斯博物館",
+  "a": "瓦西里·波列诺夫"
+ },
+ {
+  "id": 11258,
+  "zh": "Cupid Untying the Zone of ",
+  "qid": "Q5794826",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Reynolds%20Joshua%20-%20Cupid%20Untying%20the%20Zone%20of%20Venus.jpg",
+  "y": "1788",
+  "loc": "埃尔米塔日博物馆",
+  "a": "约书亚·雷诺兹"
+ },
+ {
+  "id": 11259,
+  "zh": "The Ladies Waldegrave",
+  "qid": "Q24657567",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Joshua%20Reynolds%20-%20The%20Ladies%20Waldegrave%20-%20Google%20Art%20Project.jpg",
+  "y": "1780",
+  "loc": "蘇格蘭國家畫廊",
+  "a": "约书亚·雷诺兹"
+ },
+ {
+  "id": 11260,
+  "zh": "乔治·K·H·古斯麦克上校（1759–1801年）",
+  "qid": "Q5036652",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Captain%20George%20K.%20H.%20Coussmaker%20%281759%E2%80%931801%29%20MET%20DP169215.jpg",
+  "y": "1782",
+  "loc": "大都會藝術博物館",
+  "a": "约书亚·雷诺兹"
+ },
+ {
+  "id": 11261,
+  "zh": "Lady Cockburn and Her Thre",
+  "qid": "Q6106762",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Joshua%20Reynolds%20-%20Lady%20Cockburn%20and%20Her%20Three%20Eldest%20Sons%20%281773-1775%29.jpg",
+  "y": "1773",
+  "loc": "国家美术馆",
+  "a": "约书亚·雷诺兹"
+ },
+ {
+  "id": 11262,
+  "zh": "卡罗琳·霍华德夫人",
+  "qid": "Q6470018",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Reynolds%20Sir%20Joshua-Lady%20Caroline%20Howard.jpg",
+  "y": "1778",
+  "loc": "國家藝廊",
+  "a": "约书亚·雷诺兹"
+ },
+ {
+  "id": 11263,
+  "zh": "Lady Elizabeth Delmé and H",
+  "qid": "Q6470123",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Joshua%20Reynolds%2C%20Lady%20Elizabeth%20Delm%C3%A9%20and%20Her%20Children%2C%201777-1779%2C%20NGA%20102.jpg",
+  "y": "1777",
+  "loc": "國家藝廊",
+  "a": "约书亚·雷诺兹"
+ },
+ {
+  "id": 11264,
+  "zh": "雨、蒸氣與速度——大西部鐵路",
+  "qid": "Q2339059",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Rain%2C%20Steam%20and%20Speed%20-%20National%20Gallery%20file.jpg",
+  "y": "1843",
+  "loc": "英国",
+  "a": "约瑟夫·马洛德·威廉·透纳"
+ },
+ {
+  "id": 11265,
+  "zh": "勇莽號戰艦",
+  "qid": "Q257580",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%2C%20J.%20M.%20W.%20-%20The%20Fighting%20T%C3%A9m%C3%A9raire%20tugged%20to%20her%20last%20Berth%20to%20be%20broken.jpg",
+  "y": "1839",
+  "loc": "国家美术馆",
+  "a": "约瑟夫·马洛德·威廉·透纳"
+ },
+ {
+  "id": 11266,
+  "zh": "Dido building Carthage",
+  "qid": "Q3027255",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Turner%20-%20Dido.jpg",
+  "y": "1815",
+  "loc": "国家美术馆",
+  "a": "约瑟夫·马洛德·威廉·透纳"
+ },
+ {
+  "id": 11267,
+  "zh": "Salisbury Cathedral from t",
+  "qid": "Q398973",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Constable%20-%20Salisbury%20Cathedral%20from%20the%20Bishop%27s%20Grounds.jpg",
+  "y": "1823",
+  "loc": "Room 87",
+  "a": "约翰·康斯太勃尔"
+ },
+ {
+  "id": 11268,
+  "zh": "The Cornfield",
+  "qid": "Q2272625",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Constable%20-%20The%20Cornfield.jpg",
+  "y": "1826",
+  "loc": "国家美术馆",
+  "a": "约翰·康斯太勃尔"
+ },
+ {
+  "id": 11269,
+  "zh": "Salisbury Cathedral from t",
+  "qid": "Q398126",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Constable%20Salisbury%20meadows.jpg",
+  "y": "1831",
+  "loc": "国家美术馆",
+  "a": "约翰·康斯太勃尔"
+ },
+ {
+  "id": 11270,
+  "zh": "Rest on the Flight to Egyp",
+  "qid": "Q1215843",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philipp%20Otto%20Runge%20004.jpg",
+  "y": "1805",
+  "loc": "漢堡美術館",
+  "a": "菲利普·奥托·龙格"
+ },
+ {
+  "id": 11271,
+  "zh": "The little Perthes",
+  "qid": "Q1218725",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philipp%20Otto%20Runge%20-%20Die%20kleine%20Perthes.jpg",
+  "y": "1805",
+  "loc": "魏玛古典基金会",
+  "a": "菲利普·奥托·龙格"
+ },
+ {
+  "id": 11272,
+  "zh": "Peter on the sea",
+  "qid": "Q2081033",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philipp%20Otto%20Runge%20-%20Petrus%20auf%20dem%20Meer%20%28ca.%201806%29.jpg",
+  "y": "1806",
+  "loc": "漢堡美術館",
+  "a": "菲利普·奥托·龙格"
+ },
+ {
+  "id": 11273,
+  "zh": "Pauline Runge with her two",
+  "qid": "Q18688360",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philipp%20Otto%20Runge%20-%20Frau%20und%20S%C3%B6hnchen%20des%20K%C3%BCnstlers%20-%20Google%20Art%20Project.jpg",
+  "y": "1807",
+  "loc": "舊國家畫廊",
+  "a": "菲利普·奥托·龙格"
+ },
+ {
+  "id": 11274,
+  "zh": "Portrait of a Young Man",
+  "qid": "Q20539548",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Philipp%20Otto%20Runge%20-%20Portrait%20of%20a%20Young%20Man%20-%20KMS4910%20-%20Statens%20Museum%20for%20Kunst.jpg",
+  "y": "1801",
+  "loc": "國立丹麥美術館",
+  "a": "菲利普·奥托·龙格"
+ },
+ {
+  "id": 11275,
+  "zh": "Entry of Jerzy Ossoliński ",
+  "qid": "Q105296752",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bellotto%20Entry%20of%20Jerzy%20Ossoli%C5%84ski%20into%20Rome%20in%201633.png",
+  "y": "1779",
+  "loc": "弗羅茨瓦夫國家博物館",
+  "a": "贝尔纳多·贝洛托"
+ },
+ {
+  "id": 11276,
+  "zh": "Rio dei Mendicanti with th",
+  "qid": "Q19681559",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Venice%29%20Il%20rio%20dei%20Mendicanti%20e%20la%20Scuola%20Grande%20di%20San%20Marco%20-%20Bernardo%20Bellotto%20-%20Gallerie%20Accademia.jpg",
+  "y": "1740",
+  "loc": "Gallerie dell'Accademia - Hall VIII",
+  "a": "贝尔纳多·贝洛托"
+ },
+ {
+  "id": 11277,
+  "zh": "Dresden from the Right Ban",
+  "qid": "Q19681565",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20Bellotto%2C%20il%20Canaletto%20-%20Dresden%20from%20the%20Right%20Bank%20of%20the%20Elbe%2C%20above%20the%20Augustusbr%C3%BCcke%20-%20WGA01830.jpg",
+  "y": "1747",
+  "loc": "历代大师画廊",
+  "a": "贝尔纳多·贝洛托"
+ },
+ {
+  "id": 11278,
+  "zh": "View of Vienna from the Be",
+  "qid": "Q19681620",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20Bellotto%2C%20called%20Canaletto%20-%20Vienna%20Viewed%20from%20the%20Belvedere%20Palace%20-%20Google%20Art%20Project.jpg",
+  "y": "1800",
+  "loc": "艺术史博物馆",
+  "a": "贝尔纳多·贝洛托"
+ },
+ {
+  "id": 11279,
+  "zh": "Das kaiserliche Lustschloß",
+  "qid": "Q19681622",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20Bellotto%2C%20gen.%20Canaletto%2C%20%2C%20Kunsthistorisches%20Museum%20Wien%2C%20Gem%C3%A4ldegalerie%20-%20Das%20kaiserliche%20Lustschlo%C3%9F%20Sch%C3%B6nbrunn%2C%20Ehrenhofseite%20-%20GG%201666%20-%20Kunsthistorisches%20Museum.jpg",
+  "y": "1759",
+  "loc": "艺术史博物馆",
+  "a": "贝尔纳多·贝洛托"
+ },
+ {
+  "id": 11280,
+  "zh": "宮女",
+  "qid": "Q208758",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Las%20Meninas%2C%20by%20Diego%20Vel%C3%A1zquez%2C%20from%20Prado%20in%20Google%20Earth.jpg",
+  "y": "1656",
+  "loc": "普拉多博物馆",
+  "a": "迭戈·委拉斯开兹"
+ },
+ {
+  "id": 11281,
+  "zh": "布雷達之降",
+  "qid": "Q1133420",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Velazquez-The%20Surrender%20of%20Breda.jpg",
+  "y": "1634",
+  "loc": "普拉多博物馆",
+  "a": "迭戈·委拉斯开兹"
+ },
+ {
+  "id": 11282,
+  "zh": "纺纱女工",
+  "qid": "Q984058",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Velazquez-las%20hilanderas.jpg",
+  "y": "1655",
+  "loc": "普拉多博物馆",
+  "a": "迭戈·委拉斯开兹"
+ },
+ {
+  "id": 11283,
+  "zh": "教皇英诺森十世像",
+  "qid": "Q1240092",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Vel%C3%A1zquez%2C%20Portrait%20du%20pape%20Innocent%20X%2C%201650%2C%20huile%20sur%20toile%2C%20140%20%C3%97%20120%20cm%2C%20Rome%2C%20Galleria%20Doria%20Pamphilj%20%28inv.%20237%29.jpg",
+  "y": "1700",
+  "loc": "多利亞潘菲利美術館",
+  "a": "迭戈·委拉斯开兹"
+ },
+ {
+  "id": 11284,
+  "zh": "Old Woman Cooking Eggs",
+  "qid": "Q2471800",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Velazquez%20-%20An%20Old%20Woman%20Cooking%20Eggs%20-%20Google%20Art%20Project.jpg",
+  "y": "1618",
+  "loc": "蘇格蘭國家畫廊",
+  "a": "迭戈·委拉斯开兹"
+ },
+ {
+  "id": 11285,
+  "zh": "Ukrainian Night",
+  "qid": "Q3206123",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuindzhi%20Ukrainian%20night%201876.jpg",
+  "y": "1876",
+  "loc": "特列季亚科夫画廊",
+  "a": "阿尔希普·库因芝"
+ },
+ {
+  "id": 11286,
+  "zh": "猶迪割下赫羅弗尼斯的頭顱",
+  "qid": "Q2247406",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Judith%20Beheading%20Holofernes%20-%20WGA8563.jpg",
+  "y": "1613",
+  "loc": "卡波迪蒙特美術館",
+  "a": "阿尔泰米西娅·真蒂莱斯基"
+ },
+ {
+  "id": 11287,
+  "zh": "Judith and Her Maidservant",
+  "qid": "Q532486",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gentileschi%20judith1.jpg",
+  "y": "1610",
+  "loc": "帕拉提納美術館",
+  "a": "阿尔泰米西娅·真蒂莱斯基"
+ },
+ {
+  "id": 11288,
+  "zh": "苏珊娜和长者",
+  "qid": "Q3978274",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Susanna%20and%20the%20Elders%20%281610%29%2C%20Artemisia%20GentileschiFXD.jpg",
+  "y": "1610",
+  "loc": "魏森斯坦城堡",
+  "a": "阿尔泰米西娅·真蒂莱斯基"
+ },
+ {
+  "id": 11289,
+  "zh": "Self-Portrait as the Alleg",
+  "qid": "Q3630745",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20as%20the%20Allegory%20of%20Painting%20%28La%20Pittura%29%20-%20Artemisia%20Gentileschi.jpg",
+  "y": "1630",
+  "loc": "白金汉宫",
+  "a": "阿尔泰米西娅·真蒂莱斯基"
+ },
+ {
+  "id": 11290,
+  "zh": "Allegory of Inclination",
+  "qid": "Q3612415",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Gentileschi%20Allegoria%20dell%27inclinazione.jpg",
+  "y": "1615",
+  "loc": "博纳罗蒂之家",
+  "a": "阿尔泰米西娅·真蒂莱斯基"
+ },
+ {
+  "id": 11291,
+  "zh": "Danaë",
+  "qid": "Q3701418",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Artemisia%20Gentileschi%20-%20Dana%C3%AB%20-%2093-1986%20-%20Saint%20Louis%20Art%20Museum.jpg",
+  "y": "1612",
+  "loc": "圣路易斯艺术博物馆",
+  "a": "阿尔泰米西娅·真蒂莱斯基"
  }
 ]
