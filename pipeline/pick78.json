@@ -1,209 +1,929 @@
 [
  {
-  "id": 9669,
-  "zh": "At 4 O'Clock in the Summer",
-  "qid": "Q97190375",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20quatre%20heures%20d%27%C3%A9t%C3%A9%2C%20l%27espoir%20Yves%20Tanguy.jpg",
-  "y": "1929",
-  "loc": "國立現代藝術博物館",
-  "a": "伊夫·唐吉"
+  "id": 10673,
+  "zh": "Trees at l'Estaque",
+  "qid": "Q20426820",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/GeorgesBraqueTreesAtEstaque.jpg",
+  "y": "1908",
+  "loc": "國立丹麥美術館",
+  "a": "乔治·布拉克"
  },
  {
-  "id": 9670,
-  "zh": "Mama, Papa Is Wounded!",
-  "qid": "Q19883963",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mama%2C%20Papa%20is%20Wounded%21.jpg",
-  "y": "1927",
-  "loc": "現代藝術博物館",
-  "a": "伊夫·唐吉"
+  "id": 10674,
+  "zh": "Landscape near Antwerp",
+  "qid": "Q19882452",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerrapc%20Guggenheim%20art%20photo%20%28157%29.png",
+  "y": "1906",
+  "loc": "所羅門·古根漢美術館",
+  "a": "乔治·布拉克"
  },
  {
-  "id": 9671,
-  "zh": "鸣啭机",
-  "qid": "Q3210239",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Zwitscher-Maschine%20%28Twittering%20Machine%29%2C%201922%20-%20Paul%20Klee.jpg",
+  "id": 10675,
+  "zh": "Flamingo",
+  "qid": "Q3073296",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Calder%20Flamingo.jpg",
+  "y": "1973",
+  "loc": "芝加哥",
+  "a": "亚历山大·考尔德"
+ },
+ {
+  "id": 10676,
+  "zh": "Cirque Calder",
+  "qid": "Q2974254",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cirque%20Calder%20Trapez%20%281951%29.jpg",
+  "y": "1926",
+  "loc": "惠特尼美术馆",
+  "a": "亚历山大·考尔德"
+ },
+ {
+  "id": 10677,
+  "zh": "Nancy",
+  "qid": "Q21971425",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Palma%20Calder-163055%2002.jpg",
+  "y": "1971",
+  "loc": "Hort del Rei",
+  "a": "亚历山大·考尔德"
+ },
+ {
+  "id": 10678,
+  "zh": "The Whirling Ear",
+  "qid": "Q55123016",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Calder%20-%20The%20Whirling%20Ear%20-%201958%20-%20Brussels.jpg",
+  "y": "1957",
+  "loc": "Coudenberg - Koudenberg",
+  "a": "亚历山大·考尔德"
+ },
+ {
+  "id": 10679,
+  "zh": "Eagle",
+  "qid": "Q5324996",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Eagle%20by%20A.Calder.jpg",
+  "y": "1971",
+  "loc": "Olympic Sculpture Park",
+  "a": "亚历山大·考尔德"
+ },
+ {
+  "id": 10680,
+  "zh": "Tribute to Jerusalem",
+  "qid": "Q6828745",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki%20Israel%201042%20STABILE%20%D7%9E%D7%97%D7%95%D7%95%D7%94%20%D7%9C%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D.JPG",
+  "y": "1977",
+  "loc": "赫茨爾山",
+  "a": "亚历山大·考尔德"
+ },
+ {
+  "id": 10681,
+  "zh": "Sundial",
+  "qid": "Q6746177",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Man%20Enters%20the%20Cosmos%20Sundial%20Outside%20the%20Adler%20Planetarium.jpg",
+  "y": "1965",
+  "loc": "阿德勒天文館",
+  "a": "亨利·摩尔"
+ },
+ {
+  "id": 10682,
+  "zh": "核能源 (雕塑)",
+  "qid": "Q4355111",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Moore%20Nuclear%20Energy%20%21.JPG",
+  "y": "1967",
+  "loc": "芝加哥大学",
+  "a": "亨利·摩尔"
+ },
+ {
+  "id": 10683,
+  "zh": "Large Two Forms",
+  "qid": "Q15457005",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Bonn%20Two%20Large%20Forms.jpg",
+  "y": "1969",
+  "loc": "Bundeskanzleramt Bonn",
+  "a": "亨利·摩尔"
+ },
+ {
+  "id": 10684,
+  "zh": "Goslar Warrior",
+  "qid": "Q5822058",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Moore%2001.jpg",
+  "y": "1973",
+  "loc": "Rambla de Santa Cruz",
+  "a": "亨利·摩尔"
+ },
+ {
+  "id": 10685,
+  "zh": "Working Model for Three Pi",
+  "qid": "Q7797232",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Moore%20002.jpg",
+  "y": "1968",
+  "loc": "赫希洪博物館和雕塑園",
+  "a": "亨利·摩尔"
+ },
+ {
+  "id": 10686,
+  "zh": "The Arch",
+  "qid": "Q19691888",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry-Moore-Arch-0855.JPG",
+  "y": "1980",
+  "loc": "肯辛顿花园",
+  "a": "亨利·摩尔"
+ },
+ {
+  "id": 10687,
+  "zh": "生之喜悅",
+  "qid": "Q2538580",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Joie%20de%20vivre%2C%20par%20Henri%20Matisse.jpg",
+  "y": "1906",
+  "loc": "巴恩斯基金會",
+  "a": "亨利·马蒂斯"
+ },
+ {
+  "id": 10688,
+  "zh": "馬蒂斯夫人肖像",
+  "qid": "Q2902188",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Raie%20verte%2C%20par%20Henri%20Matisse.jpg",
+  "y": "1905",
+  "loc": "國立丹麥美術館",
+  "a": "亨利·马蒂斯"
+ },
+ {
+  "id": 10689,
+  "zh": "Woman Reading",
+  "qid": "Q3773123",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20Liseuse%2C%20par%20Henri%20Matisse.jpg",
+  "y": "1895",
+  "loc": "Matisse Museum",
+  "a": "亨利·马蒂斯"
+ },
+ {
+  "id": 10690,
+  "zh": "開窗 (畫)",
+  "qid": "Q3745698",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Fen%C3%AAtre%20ouverte%2C%20Collioure%2C%20par%20Henri%20Matisse.jpg",
+  "y": "1905",
+  "loc": "國家藝廊",
+  "a": "亨利·马蒂斯"
+ },
+ {
+  "id": 10691,
+  "zh": "蓝色裸体：关于Biskra的记忆",
+  "qid": "Q882584",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Nu%20bleu%20%28souvenir%20de%20Biskra%29%2C%20par%20Henri%20Matisse.jpg",
+  "y": "1907",
+  "loc": "巴尔的摩艺术博物馆",
+  "a": "亨利·马蒂斯"
+ },
+ {
+  "id": 10692,
+  "zh": "奢华、宁静和享受",
+  "qid": "Q3268045",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Luxe%2C%20calme%20et%20volupt%C3%A9%2C%20par%20Henri%20Matisse.jpg",
+  "y": "1904",
+  "loc": "奥赛博物馆",
+  "a": "亨利·马蒂斯"
+ },
+ {
+  "id": 10693,
+  "zh": "Untitled Portrait",
+  "qid": "Q103311552",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Untitled%20Portrait%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201979.0372P.tif",
   "y": "1922",
-  "loc": "瑞士",
-  "a": "保罗·克利"
+  "loc": "Vanderbilt Museum of Art",
+  "a": "卡尔·施密特-罗特卢夫"
  },
  {
-  "id": 9672,
-  "zh": "Limits of Reason",
-  "qid": "Q30078904",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Grenzen%20des%20Verstandes%2C%20Paul%20Klee.jpg",
-  "y": "1927",
+  "id": 10694,
+  "zh": "艾蒂兒肖像一號",
+  "qid": "Q354396",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%2C%201907%2C%20Adele%20Bloch-Bauer%20I%2C%20Neue%20Galerie%20New%20York.jpg",
+  "y": "1907",
+  "loc": "奧地利",
+  "a": "古斯塔夫·克里姆特"
+ },
+ {
+  "id": 10695,
+  "zh": "Danaë",
+  "qid": "Q1445107",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Klimt%20010.jpg",
+  "y": "1907",
+  "loc": "列奥波多博物馆",
+  "a": "古斯塔夫·克里姆特"
+ },
+ {
+  "id": 10696,
+  "zh": "Judith I",
+  "qid": "Q2324643",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Judith%201%20%28cropped%29.jpg",
+  "y": "1901",
+  "loc": "奥地利美景宫美术馆",
+  "a": "古斯塔夫·克里姆特"
+ },
+ {
+  "id": 10697,
+  "zh": "Abschied (Parting)",
+  "qid": "Q103296618",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Abschied%20%28Parting%29%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%202002.023.jpg",
+  "y": "1906",
+  "loc": "Vanderbilt Museum of Art",
+  "a": "埃米尔·诺尔德"
+ },
+ {
+  "id": 10698,
+  "zh": "Seated Woman with Bent Kne",
+  "qid": "Q110406293",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sed%C3%ADc%C3%AD%20%C5%BEena%20s%20pokr%C4%8Den%C3%BDmi%20koleny%20CZE%20NG.K%2017864.jpg",
+  "y": "1917",
+  "loc": "布拉格國立美術館",
+  "a": "埃贡·席勒"
+ },
+ {
+  "id": 10699,
+  "zh": "Snow Landscape",
+  "qid": "Q30275342",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/VMFA%202009-152%20v1%20TF%20x-1024x886.jpg",
+  "y": "1915",
+  "loc": "維吉尼亞VMFA美術館",
+  "a": "埃里希·赫克尔"
+ },
+ {
+  "id": 10700,
+  "zh": "Mädchenkopf (Girl's Head),",
+  "qid": "Q103304801",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A4dchenkopf%20%28Girl%27s%20Head%29%2C%20from%20Genius%2C%20Zeitschrift%20f%C3%BCr%20werdende%20und%20alte%20Kunst%20%28Magazine%20for%20Emerging%20and%20Ancient%20Art%29%2C%20Year%202%2C%20no.%201%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201976.030.tif",
+  "y": "1913",
+  "loc": "Vanderbilt Museum of Art",
+  "a": "埃里希·赫克尔"
+ },
+ {
+  "id": 10701,
+  "zh": "Porträt mit Äpfeln: Frau d",
+  "qid": "Q13365716",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Macke%20-%20Portr%C3%A4t%20mit%20%C3%84pfeln%20-%20G%2013326%20-%20Lenbachhaus.jpg",
+  "y": "1909",
+  "loc": "伦巴赫美术馆",
+  "a": "奥古斯特·马克"
+ },
+ {
+  "id": 10702,
+  "zh": "Woman in Green Jacket",
+  "qid": "Q54902221",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dame%20in%20gr%C3%BCner%20Jacke%20-%20August%20Macke%20-%20Museum%20Ludwig-7004%20%28cropped%29.jpg",
+  "y": "1913",
+  "loc": "路德維希博物館",
+  "a": "奥古斯特·马克"
+ },
+ {
+  "id": 10703,
+  "zh": "Mode: Woman with Parasol i",
+  "qid": "Q17560962",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Macke%20Hutladen.jpg",
+  "y": "1914",
+  "loc": "弗柯望博物館",
+  "a": "奥古斯特·马克"
+ },
+ {
+  "id": 10704,
+  "zh": "Large Bright Showcase",
+  "qid": "Q54366255",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Macke%20August%20Gro%C3%9Fes%20Helles%20Schaufenster%20Sprengel%20Museum%2001.JPG",
+  "y": "1912",
+  "loc": "Sprengel Museum",
+  "a": "奥古斯特·马克"
+ },
+ {
+  "id": 10705,
+  "zh": "label",
+  "qid": "Q54901959",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Macke%20-%20Promenade%20-%20G%2013328%20-%20Lenbachhaus.jpg",
+  "y": "1913",
+  "loc": "伦巴赫美术馆",
+  "a": "奥古斯特·马克"
+ },
+ {
+  "id": 10706,
+  "zh": "Girls under Trees",
+  "qid": "Q13308970",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Macke%2C%20August%20-%20M%C3%A4dchen%20unter%20B%C3%A4umen%20-%201914%20-%202384%20x%201773%20px.jpg",
+  "y": "1914",
   "loc": "现代艺术陈列馆",
-  "a": "保罗·克利"
+  "a": "奥古斯特·马克"
  },
  {
-  "id": 9673,
-  "zh": "Camel (in Rhythmic Landsca",
-  "qid": "Q21153070",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%20Kamel%20in%20rhythmischer%20Baumlandschaft%20klein.jpg",
+  "id": 10707,
+  "zh": "Portrait of Kamilla Swobod",
+  "qid": "Q103307081",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Kamilla%20Swoboda%2C%20No.%205%2C%20from%20the%20series%20Variations%20on%20a%20Theme%20-%20Vanderbilt%20Fine%20Arts%20Gallery%20-%201976.008.tif",
   "y": "1920",
-  "loc": "北莱茵-威斯特法伦艺术品收藏馆",
-  "a": "保罗·克利"
+  "loc": "Vanderbilt Museum of Art",
+  "a": "奥斯卡·科柯施卡"
  },
  {
-  "id": 9674,
-  "zh": "Rotating House",
-  "qid": "Q21711782",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Revolving%20House%20by%20Paul%20Klee%2C%201921%20AD%2C%20gouache%20on%20cheesecloth%20on%20paper%20-%20Museo%20Nacional%20Centro%20de%20Arte%20Reina%20Sof%C3%ADa%20-%20DSC08792.JPG",
-  "y": "1921",
-  "loc": "提森-博内米萨博物馆",
-  "a": "保罗·克利"
+  "id": 10708,
+  "zh": "芝加哥的毕加索",
+  "qid": "Q5095736",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/2004-09-07%201800x2400%20chicago%20picasso.jpg",
+  "y": "1967",
+  "loc": "理察·J·戴利中心",
+  "a": "巴勃罗·毕加索"
  },
  {
-  "id": 9675,
-  "zh": "Bauhaus Stairway",
-  "qid": "Q19884184",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Oskar%20Schlemmer%20-%20Bauhaustreppe%201932.jpg",
-  "y": "1932",
-  "loc": "現代藝術博物館",
-  "a": "奥斯卡·施莱默"
- },
- {
-  "id": 9676,
-  "zh": "Concentric Group",
-  "qid": "Q22570081",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Konzentrische%20Gruppe%20-%20Oskar%20Schlemmer.jpg",
-  "y": "1925",
-  "loc": "斯图加特州立绘画馆",
-  "a": "奥斯卡·施莱默"
- },
- {
-  "id": 9677,
-  "zh": "Merzbau",
-  "qid": "Q1922245",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hanover%20Merzbau.jpg",
+  "id": 10709,
+  "zh": "Suite Vollard",
+  "qid": "Q7940348",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Vollard%20Suite.2869.jpg",
   "y": "1933",
   "loc": "",
-  "a": "库尔特·施维特斯"
+  "a": "巴勃罗·毕加索"
  },
  {
-  "id": 9678,
-  "zh": "The Yellow Scale",
-  "qid": "Q28093861",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Yellow%20Scale.jpg",
-  "y": "1907",
-  "loc": "休士頓美術館",
-  "a": "弗朗蒂谢克·库普卡"
- },
- {
-  "id": 9679,
-  "zh": "LIS",
-  "qid": "Q61780400",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A1szl%C3%B3%20Moholy-Nagy%2C%20LIS%201922.jpg",
-  "y": "1922",
-  "loc": "蘇黎世美術館",
-  "a": "拉斯洛·莫霍利-纳吉"
- },
- {
-  "id": 9680,
-  "zh": "Gift",
-  "qid": "Q7736407",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Cadeau%27%20by%20Man%20Ray%2C%20iron%20and%20nails%2C%20Tate%20Modern.JPG",
+  "id": 10710,
+  "zh": "The Fall of Icarus",
+  "qid": "Q28681534",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Culture%20of%20peace%2C%20Paris%2C%20Maison%20de%20l%27UNESCO%20-%20UNESCO%20-%20PHOTO0000003622%200001.tiff",
   "y": "1958",
   "loc": "",
-  "a": "曼·雷"
+  "a": "巴勃罗·毕加索"
  },
  {
-  "id": 9681,
-  "zh": "云牧人",
-  "qid": "Q90602935",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pastor%20de%20Nubes%20o%20Formes%20de%20Lutin.JPG",
-  "y": "1954",
-  "loc": "加拉加斯大学城",
-  "a": "汉斯·阿尔普"
+  "id": 10711,
+  "zh": "Figure découpée",
+  "qid": "Q24572909",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Figure%20d%C3%A9coup%C3%A9e%20%28DSCF3006%29%20%28cropped%29.jpg",
+  "y": "1965",
+  "loc": "馮德爾公園",
+  "a": "巴勃罗·毕加索"
  },
  {
-  "id": 9682,
-  "zh": "Evocation of a Form: Human",
-  "qid": "Q5418545",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Evocation%20of%20a%20Form%20Human%20Lunar%20Spectral.jpg",
-  "y": "1950",
-  "loc": "赫希洪博物館和雕塑園",
-  "a": "汉斯·阿尔普"
+  "id": 10712,
+  "zh": "Mountains of Málaga",
+  "qid": "Q5792254",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Montes%20de%20M%C3%A1laga.jpg",
+  "y": "1896",
+  "loc": "畢加索博物館",
+  "a": "巴勃罗·毕加索"
  },
  {
-  "id": 9683,
-  "zh": "Yellow-Red-Blue",
-  "qid": "Q18705525",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandinsky%20-%20Jaune%20Rouge%20Bleu.jpg",
-  "y": "1925",
-  "loc": "龐畢度中心",
-  "a": "瓦西里·康定斯基"
+  "id": 10713,
+  "zh": "Picasso sculpture i Kristi",
+  "qid": "Q18245084",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristinehamn%20Picasso%20statue%2006.jpg",
+  "y": "1965",
+  "loc": "克里斯蒂娜港",
+  "a": "巴勃罗·毕加索"
  },
  {
-  "id": 9684,
-  "zh": "Colorful Life",
-  "qid": "Q3825010",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C%201.jpg",
+  "id": 10714,
+  "zh": "Sculptural Ensemble of Con",
+  "qid": "Q4680630",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parcul%20coloanei%20infinitului.jpg",
+  "y": "1938",
+  "loc": "特爾古日烏",
+  "a": "康斯坦丁·布朗库西"
+ },
+ {
+  "id": 10715,
+  "zh": "The Endless Column",
+  "qid": "Q2628659",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/RO%20GJ%20Tg%20Jiu%20park%20featuring%20Endless%20Column.jpg",
+  "y": "1938",
+  "loc": "",
+  "a": "康斯坦丁·布朗库西"
+ },
+ {
+  "id": 10716,
+  "zh": "The Kiss",
+  "qid": "Q3220192",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Kiss%20LCCN93511527.jpg",
   "y": "1907",
+  "loc": "法國",
+  "a": "康斯坦丁·布朗库西"
+ },
+ {
+  "id": 10717,
+  "zh": "Gate of the Kiss",
+  "qid": "Q2443657",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Poarta%20s%C4%83rutului%20din%20municipiul%20T%C3%A2rgu%20Jiu%20img-07022.jpg",
+  "y": "1938",
+  "loc": "戈爾日縣",
+  "a": "康斯坦丁·布朗库西"
+ },
+ {
+  "id": 10718,
+  "zh": "Table of Silence",
+  "qid": "Q9031865",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Masa%20t%C4%83cerii%20din%20T%C3%A2rgu%20Jiu%20img-07042.jpg",
+  "y": "1937",
+  "loc": "特爾古日烏",
+  "a": "康斯坦丁·布朗库西"
+ },
+ {
+  "id": 10719,
+  "zh": "Mademoiselle Pogany",
+  "qid": "Q9076685",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Negropontes-galerie-photos-mademoiselle-pogany-brancusi.jpg",
+  "y": "1913",
+  "loc": "現代藝術博物館",
+  "a": "康斯坦丁·布朗库西"
+ },
+ {
+  "id": 10720,
+  "zh": "藍馬之塔",
+  "qid": "Q1197647",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Marc%20029a.jpg",
+  "y": "1913",
+  "loc": "\"degenerate art\" collection",
+  "a": "弗朗茨·马尔克"
+ },
+ {
+  "id": 10721,
+  "zh": "Blue Horse I",
+  "qid": "Q2592400",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Marc%20Blaues%20Pferd%201911.jpg",
+  "y": "1911",
   "loc": "伦巴赫美术馆",
-  "a": "瓦西里·康定斯基"
+  "a": "弗朗茨·马尔克"
  },
  {
-  "id": 9685,
-  "zh": "Tête Dada",
-  "qid": "Q138581656",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Sophie%20taeuber-arp%2C%20testa%20dada%2C%201920%2C%2002.JPG",
-  "y": "1920",
-  "loc": "國立現代藝術博物館",
-  "a": "索菲·陶柏-阿尔普"
+  "id": 10722,
+  "zh": "Horses in landscape",
+  "qid": "Q15428759",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%2C%20Franz%20-%20Pferde%20in%20Landschaft.jpg",
+  "y": "1911",
+  "loc": "http://www.wikidata.org/.well-known/genid/004fa5b22cda9b9700e9bb2697a7d606",
+  "a": "弗朗茨·马尔克"
  },
  {
-  "id": 9686,
-  "zh": "How Doth the Little Crocod",
-  "qid": "Q41793342",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Cocodrilo%20LeonoraCarrington.jpg",
+  "id": 10723,
+  "zh": "Yellow Cow",
+  "qid": "Q1218349",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Marc-The%20Yellow%20Cow-1911.jpg",
+  "y": "1911",
+  "loc": "所羅門·古根漢美術館",
+  "a": "弗朗茨·马尔克"
+ },
+ {
+  "id": 10724,
+  "zh": "The fate of the animals",
+  "qid": "Q2432407",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Marc-The%20fate%20of%20the%20animals-1913.jpg",
+  "y": "1913",
+  "loc": "巴塞爾美術館",
+  "a": "弗朗茨·马尔克"
+ },
+ {
+  "id": 10725,
+  "zh": "The Large Blue Horses",
+  "qid": "Q15461864",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Marc%20005.jpg",
+  "y": "1911",
+  "loc": "沃克藝術中心",
+  "a": "弗朗茨·马尔克"
+ },
+ {
+  "id": 10726,
+  "zh": "Berlin Street Scene",
+  "qid": "Q3476580",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirchner%20Berlin%20Street%20Scene%201913.jpg",
+  "y": "1913",
+  "loc": "新藝廊",
+  "a": "恩斯特·路德维希·基希纳"
+ },
+ {
+  "id": 10727,
+  "zh": "Five Women on the Street",
+  "qid": "Q2972870",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirchner%20-%20Five%20Women%20on%20the%20Street%20%28F%C3%BCnf%20Frauen%20auf%20der%20Strasse%29%201913.jpg",
+  "y": "1913",
+  "loc": "路德維希博物館",
+  "a": "恩斯特·路德维希·基希纳"
+ },
+ {
+  "id": 10728,
+  "zh": "Half-Length Nude with Hat",
+  "qid": "Q14856959",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst-Ludwig-Kirchner-Weiblicher-Akt-mit-Hut-Museum-Ludwig.jpg",
+  "y": "1911",
+  "loc": "路德維希博物館",
+  "a": "恩斯特·路德维希·基希纳"
+ },
+ {
+  "id": 10729,
+  "zh": "Portrait of Erna Schilling",
+  "qid": "Q19298701",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4t%20Erna%20Schilling%20%28Ernst%20Ludwig%20Kirchner%29-WUS00596%20%28cropped%29.jpg",
+  "y": "1913",
+  "loc": "新國立美術館",
+  "a": "恩斯特·路德维希·基希纳"
+ },
+ {
+  "id": 10730,
+  "zh": "Street, Berlin",
+  "qid": "Q19883652",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Ludwig%20Kirchner%2C%201913%2C%20Street%2C%20Berlin%2C%20oil%20on%20canvas%2C%20120.6%20x%2091.1%20cm%2C%20MoMA.jpg",
+  "y": "1913",
+  "loc": "現代藝術博物館",
+  "a": "恩斯特·路德维希·基希纳"
+ },
+ {
+  "id": 10731,
+  "zh": "Archery",
+  "qid": "Q27062154",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernst%20Ludwig%20Kirchner%20-%20Bogensch%C3%BCtzen%20-1935-37.jpg",
+  "y": "1935",
+  "loc": "Kirchner Museum Davos",
+  "a": "恩斯特·路德维希·基希纳"
+ },
+ {
+  "id": 10732,
+  "zh": "Vampire",
+  "qid": "Q1683743",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Vampire%20-%20MM.M.00292%20-%20Munch%20Museum.jpg",
+  "y": "1893",
+  "loc": "蒙克美術館",
+  "a": "爱德华·蒙克"
+ },
+ {
+  "id": 10733,
+  "zh": "The Kiss",
+  "qid": "Q18891111",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20The%20Kiss%20-%20Google%20Art%20Project.jpg",
+  "y": "1897",
+  "loc": "蒙克美術館",
+  "a": "爱德华·蒙克"
+ },
+ {
+  "id": 10734,
+  "zh": "Dance of Life",
+  "qid": "Q3208135",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20The%20Dance%20of%20Life%20-%20NG.M.00941%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
   "y": "2000",
-  "loc": "",
-  "a": "莱昂诺拉·卡林顿"
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "爱德华·蒙克"
  },
  {
-  "id": 9687,
-  "zh": "Monument with Standing Bea",
-  "qid": "Q6906917",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20with%20Standing%20Beast.jpg",
-  "y": "1984",
-  "loc": "詹姆斯·R·湯普森中心",
-  "a": "让·杜布菲"
+  "id": 10735,
+  "zh": "Puberty",
+  "qid": "Q3432673",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Puberty%20-%20NG.M.00807%20-%20National%20Museum%20of%20Art%2C%20Architecture%20and%20Design.jpg",
+  "y": "1895",
+  "loc": "國立藝術、建築和設計博物館",
+  "a": "爱德华·蒙克"
  },
  {
-  "id": 9688,
-  "zh": "Jardin d'émail",
-  "qid": "Q18844630",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Jardin%20d%27%C3%A9mail%20vanaf%20heuvel.JPG",
-  "y": "1974",
-  "loc": "sculpture garden of the Kröller-Müller Museum",
-  "a": "让·杜布菲"
+  "id": 10736,
+  "zh": "Jealousy",
+  "qid": "Q16939042",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Jealousy%201895.jpg",
+  "y": "1895",
+  "loc": "Art Museums of Bergen",
+  "a": "爱德华·蒙克"
  },
  {
-  "id": 9689,
-  "zh": "Tour aux figures",
-  "qid": "Q3533222",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Parc%20de%20l%27%C3%AEle%20Saint-Germain%2001.jpg",
-  "y": "1985",
-  "loc": "",
-  "a": "让·杜布菲"
+  "id": 10737,
+  "zh": "Anxiety",
+  "qid": "Q18208623",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%20-%20Anxiety%20-%20Google%20Art%20Project.jpg",
+  "y": "1894",
+  "loc": "蒙克美術館",
+  "a": "爱德华·蒙克"
  },
  {
-  "id": 9690,
-  "zh": "Homo rodans",
-  "qid": "Q134106656",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Surrealist%20sculpture%20made%20of%20bones%20left%20over%20from%20a%20dinner%20party%20%2851893663379%29.jpg",
-  "y": "1959",
-  "loc": "私人收藏",
-  "a": "雷梅迪奥斯·瓦罗"
+  "id": 10738,
+  "zh": "Dona i Ocell",
+  "qid": "Q593202",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20Miro%20-%20Dona%20i%20ocell%20%281%29.jpg",
+  "y": "1983",
+  "loc": "Parc de Joan Miró",
+  "a": "琼·米罗"
  },
  {
-  "id": 9691,
-  "zh": "Le Grand Assistant",
-  "qid": "Q3223171",
-  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20Le%20Grand%20Assistant%20Paris.jpg",
+  "id": 10739,
+  "zh": "The Caress of a Bird",
+  "qid": "Q1628251",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Joan%20Mir%C3%B3%20-%20The%20caress%20of%20a%20Bird.jpg",
   "y": "1967",
-  "loc": "Quartier de l'Horloge",
-  "a": "马克斯·恩斯特"
+  "loc": "琼·米罗基金会",
+  "a": "琼·米罗"
+ },
+ {
+  "id": 10740,
+  "zh": "Portrait of Vincent Nubiol",
+  "qid": "Q674682",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1%20visitor%20scaning%20QRPedia%20codes%20at%20Fundaci%C3%B3%20Joan%20Mir%C3%B3%20%288%29.JPG",
+  "y": "1917",
+  "loc": "弗柯望博物館",
+  "a": "琼·米罗"
+ },
+ {
+  "id": 10741,
+  "zh": "Miró Wall",
+  "qid": "Q325212",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hack-Museum%20Fassade.jpg",
+  "y": "1979",
+  "loc": "威廉·哈克博物館",
+  "a": "琼·米罗"
+ },
+ {
+  "id": 10742,
+  "zh": "Miró's Chicago",
+  "qid": "Q3054192",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%27Moon%2C%20Sun%2C%20and%20one%20Star%27%2C%20sculpture%20by%20Joan%20Mir%C3%B3.JPG",
+  "y": "1981",
+  "loc": "",
+  "a": "琼·米罗"
+ },
+ {
+  "id": 10743,
+  "zh": "Femme",
+  "qid": "Q1607260",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Mujer%20-%20Joan%20Mir%C3%B3%20-%201983.jpg",
+  "y": "1981",
+  "loc": "市政廳",
+  "a": "琼·米罗"
+ },
+ {
+  "id": 10744,
+  "zh": "Victory Boogie Woogie",
+  "qid": "Q1248830",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondriaan%20Victory%20Boogie%20Woogie.jpg",
+  "y": "1942",
+  "loc": "海牙美術館",
+  "a": "皮特·蒙德里安"
+ },
+ {
+  "id": 10745,
+  "zh": "The Red Tree",
+  "qid": "Q3818263",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Mondrian%2C%201908-10%2C%20Evening%3B%20Red%20Tree%20%28Avond%3B%20De%20rode%20boom%29%2C%20oil%20on%20canvas%2C%2070%20x%2099%20cm%2C%20Gemeentemuseum%20Den%20Haag.jpg",
+  "y": "1909",
+  "loc": "海牙美術館",
+  "a": "皮特·蒙德里安"
+ },
+ {
+  "id": 10746,
+  "zh": "Gray Tree",
+  "qid": "Q5598238",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Gray%20Tree%201911.jpg",
+  "y": "1911",
+  "loc": "海牙美術館",
+  "a": "皮特·蒙德里安"
+ },
+ {
+  "id": 10747,
+  "zh": "Figure for Landscape",
+  "qid": "Q5448021",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Figure%20for%20Landscape%22%20sculpture%2C%20Tate%20Britain%20%28geograph%205246099%29.jpg",
+  "y": "1965",
+  "loc": "赫希洪博物館和雕塑園",
+  "a": "芭芭拉·赫普沃斯"
+ },
+ {
+  "id": 10748,
+  "zh": "Sphere with Inner Form",
+  "qid": "Q7576685",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hepworth%20circles%20fuschia.jpg",
+  "y": "",
+  "loc": "",
+  "a": "芭芭拉·赫普沃斯"
+ },
+ {
+  "id": 10749,
+  "zh": "Two Forms (Divided Circle)",
+  "qid": "Q7858962",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Hepworth%201969.jpg",
+  "y": "",
+  "loc": "",
+  "a": "芭芭拉·赫普沃斯"
+ },
+ {
+  "id": 10750,
+  "zh": "Winged Figure",
+  "qid": "Q16903550",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Barbara%20Hepworth%20Winged%20Figure%201963.jpg",
+  "y": "1963",
+  "loc": "",
+  "a": "芭芭拉·赫普沃斯"
+ },
+ {
+  "id": 10751,
+  "zh": "Contrapuntal Forms",
+  "qid": "Q26282978",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Contrapunctal%20Forms%20%2826326481770%29.jpg",
+  "y": "",
+  "loc": "",
+  "a": "芭芭拉·赫普沃斯"
+ },
+ {
+  "id": 10752,
+  "zh": "Three Obliques (Walk In)",
+  "qid": "Q29502762",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Walk%20In%20Hepworth.jpg",
+  "y": "1968",
+  "loc": "Cathays",
+  "a": "芭芭拉·赫普沃斯"
+ },
+ {
+  "id": 10753,
+  "zh": "手淫成癖者",
+  "qid": "Q167536",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20gran%20masturbador.jpg",
+  "y": "1929",
+  "loc": "索菲亚王后国家艺术中心博物馆",
+  "a": "萨尔瓦多·达利"
+ },
+ {
+  "id": 10754,
+  "zh": "The Face of War",
+  "qid": "Q2663568",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Dal%C3%AD%20en%20el%20palacio%20de%20BA%2002.jpg",
+  "y": "1940",
+  "loc": "博伊曼斯·范伯宁恩美术馆",
+  "a": "萨尔瓦多·达利"
+ },
+ {
+  "id": 10755,
+  "zh": "龍蝦電話",
+  "qid": "Q2990594",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Lobster%20Telephone%20Photo.jpg",
+  "y": "1936",
+  "loc": "法國",
+  "a": "萨尔瓦多·达利"
+ },
+ {
+  "id": 10756,
+  "zh": "Portrait of Luis Buñuel",
+  "qid": "Q211293",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Madrid%20%2849191190833%29.jpg",
+  "y": "1924",
+  "loc": "索菲亚王后国家艺术中心博物馆",
+  "a": "萨尔瓦多·达利"
+ },
+ {
+  "id": 10757,
+  "zh": "Hombre sobre delfín",
+  "qid": "Q17530764",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Estacion%20de%20Oviedo.%20Acceso%20superior.jpg",
+  "y": "",
+  "loc": "奥维耶多",
+  "a": "萨尔瓦多·达利"
+ },
+ {
+  "id": 10758,
+  "zh": "Saint-Georges et le Dragon",
+  "qid": "Q3462260",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Pommard2.jpg",
+  "y": "1984",
+  "loc": "",
+  "a": "萨尔瓦多·达利"
+ },
+ {
+  "id": 10759,
+  "zh": "L'Homme qui marche I",
+  "qid": "Q706964",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/CHF100%208%20back.jpg",
+  "y": "1956",
+  "loc": "卡內基美術館",
+  "a": "阿尔贝托·贾科梅蒂"
+ },
+ {
+  "id": 10760,
+  "zh": "女像柱",
+  "qid": "Q208120",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Porch%20of%20the%20Maidens%20%28Caryatids%29%204.jpg",
+  "y": "",
+  "loc": "",
+  "a": "阿梅代奥·莫迪利亚尼"
+ },
+ {
+  "id": 10761,
+  "zh": "斜躺的裸女",
+  "qid": "Q3877556",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani%20-%20Nu%20couch%C3%A9.jpg",
+  "y": "1917",
+  "loc": "龙美术馆",
+  "a": "阿梅代奥·莫迪利亚尼"
+ },
+ {
+  "id": 10762,
+  "zh": "Alice",
+  "qid": "Q4062416",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20%28Amedeo%20Modigliani%29.jpg",
+  "y": "1918",
+  "loc": "國立丹麥美術館",
+  "a": "阿梅代奥·莫迪利亚尼"
+ },
+ {
+  "id": 10763,
+  "zh": "Nude Sitting on a Divan",
+  "qid": "Q3879285",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20063.jpg",
+  "y": "1917",
+  "loc": "德黑蘭現代藝術博物館",
+  "a": "阿梅代奥·莫迪利亚尼"
+ },
+ {
+  "id": 10764,
+  "zh": "Female Nude",
+  "qid": "Q3879280",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo%20Modigliani%20060.jpg",
+  "y": "1916",
+  "loc": "考陶爾德美術館",
+  "a": "阿梅代奥·莫迪利亚尼"
+ },
+ {
+  "id": 10765,
+  "zh": "Seated Nude",
+  "qid": "Q2921123",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Zittend%20naakt%2C%20Amedeo%20Modigliani%2C%20%281917%29%2C%20Koninklijk%20Museum%20voor%20Schone%20Kunsten%20Antwerpen%2C%202060.jpg",
+  "y": "1917",
+  "loc": "皇家安特衛普美術館",
+  "a": "阿梅代奥·莫迪利亚尼"
+ },
+ {
+  "id": 10766,
+  "zh": "Les barricades mystérieuse",
+  "qid": "Q120801357",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20barricades%20myst%C3%A9rieuses%2C%20Brussels.jpg",
+  "y": "1961",
+  "loc": "布鲁塞尔广场会议中心",
+  "a": "雷内·马格利特"
+ },
+ {
+  "id": 10767,
+  "zh": "White Crucifixion",
+  "qid": "Q3698207",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Crocifissione%20Bianca.jpg",
+  "y": "1938",
+  "loc": "芝加哥艺术博物馆",
+  "a": "马克·夏加尔"
+ },
+ {
+  "id": 10768,
+  "zh": "I and the Village",
+  "qid": "Q2272215",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Chagall%2C%20I%20and%20the%20Village%20%2850394064557%29.jpg",
+  "y": "1911",
+  "loc": "現代藝術博物館",
+  "a": "马克·夏加尔"
+ },
+ {
+  "id": 10769,
+  "zh": "Over Vitebsk",
+  "qid": "Q19883742",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1993.%20Stamp%20of%20Belarus%200038.jpg",
+  "y": "1920",
+  "loc": "私人收藏",
+  "a": "马克·夏加尔"
+ },
+ {
+  "id": 10770,
+  "zh": "The Night",
+  "qid": "Q7754055",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/1918%20Beckmann%20Nacht%20anagoria.jpg",
+  "y": "1918",
+  "loc": "K20",
+  "a": "马克斯·贝克曼"
+ },
+ {
+  "id": 10771,
+  "zh": "Quappi in a Pink Jumper",
+  "qid": "Q21712392",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Quappi%20con%20su%C3%A9ter%20rosa%20%28Max%20Beckmann%2C%201932%E2%80%941934%29.jpg",
+  "y": "1934",
+  "loc": "提森-博内米萨博物馆",
+  "a": "马克斯·贝克曼"
+ },
+ {
+  "id": 10772,
+  "zh": "Self-Portrait in Tuxedo",
+  "qid": "Q2267583",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Self-Portrait%20in%20Tuxedo.jpg",
+  "y": "1927",
+  "loc": "萊辛格博物館",
+  "a": "马克斯·贝克曼"
+ },
+ {
+  "id": 10773,
+  "zh": "Self-Portrait with Red Sca",
+  "qid": "Q2872719",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beckmann%20-%20Self-portrait%20with%20Red%20Scarf%20%281917%29.jpg",
+  "y": "1917",
+  "loc": "斯图加特州立绘画馆",
+  "a": "马克斯·贝克曼"
+ },
+ {
+  "id": 10774,
+  "zh": "Young Men by the Sea",
+  "qid": "Q107980301",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beckmann%20-%20Tiedemann%2C%200018.jpg",
+  "y": "1905",
+  "loc": "魏玛宫",
+  "a": "马克斯·贝克曼"
+ },
+ {
+  "id": 10775,
+  "zh": "Departure",
+  "qid": "Q3222561",
+  "img": "http://commons.wikimedia.org/wiki/Special:FilePath/Beckmann%20-%20Tiedemann%2C%200412.jpg",
+  "y": "1930",
+  "loc": "現代藝術博物館",
+  "a": "马克斯·贝克曼"
  }
 ]
