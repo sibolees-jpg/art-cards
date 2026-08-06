@@ -8,12 +8,12 @@ def norm(t):
     t=re.sub(r'\.(jpg|jpeg|png|tif|tiff|webp)$','',t,flags=re.I)
     t=re.sub(r'[_\-–—]+',' ',t)
     return re.sub(r'\s+',' ',t).strip()
-src=json.load(open('cnmerged.json'))
-nid=11292; out=[]; skip=0
+src=json.load(open('cnworks4.json'))
+nid=11500; out=[]; skip=0
 for a,rows in src.items():
     n=0
     for r in rows:
-        if n>=8: break
+        if n>=10: break
         t=norm(r['title'])
         if any(h in t or t in h for h in haveT if len(h)>3): skip+=1; continue
         if not r.get('url'): continue
@@ -33,5 +33,5 @@ for a,rows in src.items():
             nid+=1; n+=1
         except Exception as e: pass
     print(f'{a:<10} +{n}',flush=True)
-json.dump(out,open('pick84.json','w'),ensure_ascii=False,indent=1)
+json.dump(out,open('pick85.json','w'),ensure_ascii=False,indent=1)
 print('下载:',len(out),'| 因查重跳过:',skip)
