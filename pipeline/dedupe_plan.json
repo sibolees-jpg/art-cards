@@ -1,0 +1,1316 @@
+[
+ {
+  "keep": 57,
+  "drop": [
+   10506
+  ],
+  "swap_img_from": null,
+  "t": "光之教堂"
+ },
+ {
+  "keep": 9607,
+  "drop": [
+   136
+  ],
+  "swap_img_from": 136,
+  "t": "溪山行旅图"
+ },
+ {
+  "keep": 160,
+  "drop": [
+   10480
+  ],
+  "swap_img_from": null,
+  "t": "朗香教堂"
+ },
+ {
+  "keep": 167,
+  "drop": [
+   10560
+  ],
+  "swap_img_from": 10560,
+  "t": "巴拉甘自宅"
+ },
+ {
+  "keep": 212,
+  "drop": [
+   10517
+  ],
+  "swap_img_from": 10517,
+  "t": "流水别墅"
+ },
+ {
+  "keep": 242,
+  "drop": [
+   10924
+  ],
+  "swap_img_from": 10924,
+  "t": "拾穗者"
+ },
+ {
+  "keep": 249,
+  "drop": [
+   11311
+  ],
+  "swap_img_from": null,
+  "t": "早春图"
+ },
+ {
+  "keep": 293,
+  "drop": [
+   11181
+  ],
+  "swap_img_from": 11181,
+  "t": "召唤圣马太"
+ },
+ {
+  "keep": 355,
+  "drop": [
+   10537
+  ],
+  "swap_img_from": 10537,
+  "t": "包豪斯校舍"
+ },
+ {
+  "keep": 373,
+  "drop": [
+   10768
+  ],
+  "swap_img_from": null,
+  "t": "我与村庄"
+ },
+ {
+  "keep": 484,
+  "drop": [
+   10716
+  ],
+  "swap_img_from": null,
+  "t": "吻(布朗库西)"
+ },
+ {
+  "keep": 585,
+  "drop": [
+   10734
+  ],
+  "swap_img_from": 10734,
+  "t": "生命之舞"
+ },
+ {
+  "keep": 845,
+  "drop": [
+   10563
+  ],
+  "swap_img_from": 10563,
+  "t": "孟加拉国会大厦"
+ },
+ {
+  "keep": 1340,
+  "drop": [
+   10518
+  ],
+  "swap_img_from": 10518,
+  "t": "罗比住宅"
+ },
+ {
+  "keep": 1355,
+  "drop": [
+   9609
+  ],
+  "swap_img_from": 9609,
+  "t": "桃鸠图"
+ },
+ {
+  "keep": 1520,
+  "drop": [
+   10523
+  ],
+  "swap_img_from": 10523,
+  "t": "迪士尼音乐厅"
+ },
+ {
+  "keep": 1531,
+  "drop": [
+   11502
+  ],
+  "swap_img_from": null,
+  "t": "幽涧寒松图"
+ },
+ {
+  "keep": 1574,
+  "drop": [
+   11503
+  ],
+  "swap_img_from": 11503,
+  "t": "葛稚川移居图"
+ },
+ {
+  "keep": 1971,
+  "drop": [
+   11324
+  ],
+  "swap_img_from": null,
+  "t": "秋山问道图"
+ },
+ {
+  "keep": 2733,
+  "drop": [
+   7869
+  ],
+  "swap_img_from": 7869,
+  "t": "三等车厢"
+ },
+ {
+  "keep": 2743,
+  "drop": [
+   10735
+  ],
+  "swap_img_from": null,
+  "t": "青春期"
+ },
+ {
+  "keep": 2752,
+  "drop": [
+   11282
+  ],
+  "swap_img_from": 11282,
+  "t": "纺纱女"
+ },
+ {
+  "keep": 7543,
+  "drop": [
+   4333
+  ],
+  "swap_img_from": null,
+  "t": "亨利八世像"
+ },
+ {
+  "keep": 10952,
+  "drop": [
+   4340
+  ],
+  "swap_img_from": null,
+  "t": "杜尔博士的解剖课"
+ },
+ {
+  "keep": 9608,
+  "drop": [
+   4484
+  ],
+  "swap_img_from": null,
+  "t": "夏景山口待渡图"
+ },
+ {
+  "keep": 4486,
+  "drop": [
+   11295
+  ],
+  "swap_img_from": 11295,
+  "t": "寒江独钓图"
+ },
+ {
+  "keep": 9596,
+  "drop": [
+   4487
+  ],
+  "swap_img_from": null,
+  "t": "溪山清远图"
+ },
+ {
+  "keep": 4501,
+  "drop": [
+   11330
+  ],
+  "swap_img_from": null,
+  "t": "浮玉山居图"
+ },
+ {
+  "keep": 11069,
+  "drop": [
+   5184
+  ],
+  "swap_img_from": null,
+  "t": "诸神之宴"
+ },
+ {
+  "keep": 11063,
+  "drop": [
+   5185
+  ],
+  "swap_img_from": null,
+  "t": "最后的晚餐·丁托列托"
+ },
+ {
+  "keep": 5262,
+  "drop": [
+   11136
+  ],
+  "swap_img_from": null,
+  "t": "基督受洗·弗朗切斯卡"
+ },
+ {
+  "keep": 5281,
+  "drop": [
+   7515
+  ],
+  "swap_img_from": null,
+  "t": "帕里斯的裁判·克拉纳赫"
+ },
+ {
+  "keep": 11065,
+  "drop": [
+   5291
+  ],
+  "swap_img_from": null,
+  "t": "银河的起源"
+ },
+ {
+  "keep": 11205,
+  "drop": [
+   5292
+  ],
+  "swap_img_from": null,
+  "t": "奥尔加斯伯爵的葬礼"
+ },
+ {
+  "keep": 5318,
+  "drop": [
+   11406
+  ],
+  "swap_img_from": null,
+  "t": "玉洞仙源图"
+ },
+ {
+  "keep": 9643,
+  "drop": [
+   5355
+  ],
+  "swap_img_from": 5355,
+  "t": "蓝马"
+ },
+ {
+  "keep": 5356,
+  "drop": [
+   9640,
+   10724
+  ],
+  "swap_img_from": 9640,
+  "t": "动物的命运"
+ },
+ {
+  "keep": 11123,
+  "drop": [
+   5399
+  ],
+  "swap_img_from": 5399,
+  "t": "圣母升天·提香"
+ },
+ {
+  "keep": 6240,
+  "drop": [
+   10926
+  ],
+  "swap_img_from": null,
+  "t": "死神与樵夫"
+ },
+ {
+  "keep": 6302,
+  "drop": [
+   11236
+  ],
+  "swap_img_from": null,
+  "t": "理性沉睡,心魔生焉"
+ },
+ {
+  "keep": 6317,
+  "drop": [
+   10732
+  ],
+  "swap_img_from": null,
+  "t": "吸血鬼"
+ },
+ {
+  "keep": 6319,
+  "drop": [
+   10737
+  ],
+  "swap_img_from": null,
+  "t": "焦虑"
+ },
+ {
+  "keep": 6320,
+  "drop": [
+   10736
+  ],
+  "swap_img_from": null,
+  "t": "嫉妒"
+ },
+ {
+  "keep": 6339,
+  "drop": [
+   7879
+  ],
+  "swap_img_from": null,
+  "t": "红屋顶"
+ },
+ {
+  "keep": 6352,
+  "drop": [
+   7886
+  ],
+  "swap_img_from": null,
+  "t": "示巴女王登船"
+ },
+ {
+  "keep": 6353,
+  "drop": [
+   7887
+  ],
+  "swap_img_from": null,
+  "t": "阿斯卡尼俄斯射鹿"
+ },
+ {
+  "keep": 6368,
+  "drop": [
+   7544
+  ],
+  "swap_img_from": null,
+  "t": "达姆施塔特圣母"
+ },
+ {
+  "keep": 6375,
+  "drop": [
+   8578
+  ],
+  "swap_img_from": null,
+  "t": "蒲原·夜之雪"
+ },
+ {
+  "keep": 6394,
+  "drop": [
+   8337
+  ],
+  "swap_img_from": null,
+  "t": "沃克雷松的花园"
+ },
+ {
+  "keep": 6398,
+  "drop": [
+   9744,
+   10909
+  ],
+  "swap_img_from": null,
+  "t": "森林之王"
+ },
+ {
+  "keep": 6401,
+  "drop": [
+   9738
+  ],
+  "swap_img_from": null,
+  "t": "梳头的女孩"
+ },
+ {
+  "keep": 6407,
+  "drop": [
+   7843
+  ],
+  "swap_img_from": null,
+  "t": "玩陀螺的男孩"
+ },
+ {
+  "keep": 6408,
+  "drop": [
+   7848
+  ],
+  "swap_img_from": 7848,
+  "t": "纸牌屋"
+ },
+ {
+  "keep": 6414,
+  "drop": [
+   8534
+  ],
+  "swap_img_from": null,
+  "t": "阿什杜德的瘟疫"
+ },
+ {
+  "keep": 6433,
+  "drop": [
+   8061
+  ],
+  "swap_img_from": null,
+  "t": "通向帕纳索斯"
+ },
+ {
+  "keep": 6434,
+  "drop": [
+   8060
+  ],
+  "swap_img_from": null,
+  "t": "大路与小径"
+ },
+ {
+  "keep": 6451,
+  "drop": [
+   10745
+  ],
+  "swap_img_from": null,
+  "t": "红树"
+ },
+ {
+  "keep": 6452,
+  "drop": [
+   10746
+  ],
+  "swap_img_from": null,
+  "t": "灰树"
+ },
+ {
+  "keep": 6455,
+  "drop": [
+   7855
+  ],
+  "swap_img_from": null,
+  "t": "维纳斯的凯旋"
+ },
+ {
+  "keep": 6456,
+  "drop": [
+   7858
+  ],
+  "swap_img_from": null,
+  "t": "日落"
+ },
+ {
+  "keep": 6458,
+  "drop": [
+   7868
+  ],
+  "swap_img_from": null,
+  "t": "下棋者"
+ },
+ {
+  "keep": 6459,
+  "drop": [
+   7871
+  ],
+  "swap_img_from": null,
+  "t": "堂吉诃德与桑丘"
+ },
+ {
+  "keep": 6477,
+  "drop": [
+   7873
+  ],
+  "swap_img_from": null,
+  "t": "纳尔尼的桥"
+ },
+ {
+  "keep": 6478,
+  "drop": [
+   7875
+  ],
+  "swap_img_from": null,
+  "t": "读书的女人"
+ },
+ {
+  "keep": 6479,
+  "drop": [
+   7878
+  ],
+  "swap_img_from": null,
+  "t": "荒野中的夏甲"
+ },
+ {
+  "keep": 6491,
+  "drop": [
+   11066
+  ],
+  "swap_img_from": null,
+  "t": "苏珊娜与长老"
+ },
+ {
+  "keep": 6497,
+  "drop": [
+   11156
+  ],
+  "swap_img_from": null,
+  "t": "纳税银"
+ },
+ {
+  "keep": 6505,
+  "drop": [
+   11071
+  ],
+  "swap_img_from": null,
+  "t": "总督洛雷丹像"
+ },
+ {
+  "keep": 6506,
+  "drop": [
+   11072
+  ],
+  "swap_img_from": null,
+  "t": "圣扎卡里亚祭坛画"
+ },
+ {
+  "keep": 11070,
+  "drop": [
+   6508
+  ],
+  "swap_img_from": null,
+  "t": "草地上的圣母"
+ },
+ {
+  "keep": 6514,
+  "drop": [
+   10115
+  ],
+  "swap_img_from": null,
+  "t": "林中狩猎"
+ },
+ {
+  "keep": 6566,
+  "drop": [
+   8671
+  ],
+  "swap_img_from": null,
+  "t": "仲夏之舞"
+ },
+ {
+  "keep": 6568,
+  "drop": [
+   8650
+  ],
+  "swap_img_from": null,
+  "t": "仲冬之祭"
+ },
+ {
+  "keep": 6569,
+  "drop": [
+   8651
+  ],
+  "swap_img_from": null,
+  "t": "岸边的卡琳"
+ },
+ {
+  "keep": 6575,
+  "drop": [
+   8901
+  ],
+  "swap_img_from": null,
+  "t": "夜"
+ },
+ {
+  "keep": 6601,
+  "drop": [
+   8815
+  ],
+  "swap_img_from": null,
+  "t": "北极光"
+ },
+ {
+  "keep": 7974,
+  "drop": [
+   6610
+  ],
+  "swap_img_from": null,
+  "t": "牛顿"
+ },
+ {
+  "keep": 6647,
+  "drop": [
+   9803,
+   11193
+  ],
+  "swap_img_from": null,
+  "t": "大运河入口"
+ },
+ {
+  "keep": 6648,
+  "drop": [
+   9805,
+   11195
+  ],
+  "swap_img_from": null,
+  "t": "圣马可广场"
+ },
+ {
+  "keep": 6650,
+  "drop": [
+   8495
+  ],
+  "swap_img_from": null,
+  "t": "总督登上金船"
+ },
+ {
+  "keep": 6675,
+  "drop": [
+   8557
+  ],
+  "swap_img_from": null,
+  "t": "永恒的春天"
+ },
+ {
+  "keep": 6815,
+  "drop": [
+   8585
+  ],
+  "swap_img_from": null,
+  "t": "智·感·情"
+ },
+ {
+  "keep": 6820,
+  "drop": [
+   9760
+  ],
+  "swap_img_from": null,
+  "t": "谜"
+ },
+ {
+  "keep": 6823,
+  "drop": [
+   10879
+  ],
+  "swap_img_from": null,
+  "t": "冬日森林的日落"
+ },
+ {
+  "keep": 9748,
+  "drop": [
+   6827
+  ],
+  "swap_img_from": null,
+  "t": "维克多·雨果像"
+ },
+ {
+  "keep": 6835,
+  "drop": [
+   8936
+  ],
+  "swap_img_from": null,
+  "t": "路西法"
+ },
+ {
+  "keep": 6839,
+  "drop": [
+   10389
+  ],
+  "swap_img_from": null,
+  "t": "查理五世进入安特卫普"
+ },
+ {
+  "keep": 6880,
+  "drop": [
+   10412
+  ],
+  "swap_img_from": null,
+  "t": "弘前城"
+ },
+ {
+  "keep": 6881,
+  "drop": [
+   10413
+  ],
+  "swap_img_from": null,
+  "t": "云井樱"
+ },
+ {
+  "keep": 6894,
+  "drop": [
+   10883
+  ],
+  "swap_img_from": null,
+  "t": "阿普勒蒙的橡树"
+ },
+ {
+  "keep": 6954,
+  "drop": [
+   10440
+  ],
+  "swap_img_from": null,
+  "t": "无我"
+ },
+ {
+  "keep": 6956,
+  "drop": [
+   10395
+  ],
+  "swap_img_from": null,
+  "t": "深雪"
+ },
+ {
+  "keep": 6997,
+  "drop": [
+   9644,
+   10726
+  ],
+  "swap_img_from": null,
+  "t": "柏林街景"
+ },
+ {
+  "keep": 6998,
+  "drop": [
+   9645,
+   10727
+  ],
+  "swap_img_from": null,
+  "t": "街上的五个女人"
+ },
+ {
+  "keep": 7006,
+  "drop": [
+   9517
+  ],
+  "swap_img_from": null,
+  "t": "节奏"
+ },
+ {
+  "keep": 7012,
+  "drop": [
+   9534
+  ],
+  "swap_img_from": null,
+  "t": "拖船"
+ },
+ {
+  "keep": 7021,
+  "drop": [
+   10425
+  ],
+  "swap_img_from": null,
+  "t": "丽子坐像"
+ },
+ {
+  "keep": 7023,
+  "drop": [
+   9524
+  ],
+  "swap_img_from": null,
+  "t": "毕加索像"
+ },
+ {
+  "keep": 7025,
+  "drop": [
+   10673
+  ],
+  "swap_img_from": null,
+  "t": "埃斯塔克的树"
+ },
+ {
+  "keep": 7035,
+  "drop": [
+   8278
+  ],
+  "swap_img_from": null,
+  "t": "骑车人"
+ },
+ {
+  "keep": 7036,
+  "drop": [
+   8279
+  ],
+  "swap_img_from": null,
+  "t": "环舞"
+ },
+ {
+  "keep": 7054,
+  "drop": [
+   9663,
+   10770
+  ],
+  "swap_img_from": null,
+  "t": "夜"
+ },
+ {
+  "keep": 7057,
+  "drop": [
+   9668
+  ],
+  "swap_img_from": null,
+  "t": "坠落的人"
+ },
+ {
+  "keep": 9667,
+  "drop": [
+   7058
+  ],
+  "swap_img_from": null,
+  "t": "海边的年轻人"
+ },
+ {
+  "keep": 7080,
+  "drop": [
+   10791
+  ],
+  "swap_img_from": null,
+  "t": "云与椅"
+ },
+ {
+  "keep": 7087,
+  "drop": [
+   9017
+  ],
+  "swap_img_from": null,
+  "t": "至死忠诚"
+ },
+ {
+  "keep": 7088,
+  "drop": [
+   9016
+  ],
+  "swap_img_from": null,
+  "t": "风暴仙女的洞穴"
+ },
+ {
+  "keep": 7103,
+  "drop": [
+   8877
+  ],
+  "swap_img_from": null,
+  "t": "忧郁与理想"
+ },
+ {
+  "keep": 7114,
+  "drop": [
+   9401
+  ],
+  "swap_img_from": null,
+  "t": "多德雷赫特的马斯河"
+ },
+ {
+  "keep": 7144,
+  "drop": [
+   8642
+  ],
+  "swap_img_from": null,
+  "t": "警医候诊室里的阿尔贝蒂娜"
+ },
+ {
+  "keep": 7158,
+  "drop": [
+   8652
+  ],
+  "swap_img_from": null,
+  "t": "古斯塔夫·瓦萨进入斯德哥尔摩"
+ },
+ {
+  "keep": 7179,
+  "drop": [
+   7609
+  ],
+  "swap_img_from": null,
+  "t": "圣母向圣伯纳德显现"
+ },
+ {
+  "keep": 7190,
+  "drop": [
+   7763
+  ],
+  "swap_img_from": null,
+  "t": "裁缝"
+ },
+ {
+  "keep": 7725,
+  "drop": [
+   7192
+  ],
+  "swap_img_from": null,
+  "t": "两只猎犬"
+ },
+ {
+  "keep": 7205,
+  "drop": [
+   11108
+  ],
+  "swap_img_from": null,
+  "t": "安泰亚"
+ },
+ {
+  "keep": 7221,
+  "drop": [
+   7567
+  ],
+  "swap_img_from": null,
+  "t": "达那厄·戈萨特"
+ },
+ {
+  "keep": 8423,
+  "drop": [
+   7229
+  ],
+  "swap_img_from": null,
+  "t": "女人的七个年龄"
+ },
+ {
+  "keep": 7230,
+  "drop": [
+   8425
+  ],
+  "swap_img_from": null,
+  "t": "夏娃、蛇与死神"
+ },
+ {
+  "keep": 7236,
+  "drop": [
+   9293
+  ],
+  "swap_img_from": null,
+  "t": "肉铺与逃往埃及"
+ },
+ {
+  "keep": 7241,
+  "drop": [
+   9909
+  ],
+  "swap_img_from": null,
+  "t": "圣哲罗姆的最后领圣体"
+ },
+ {
+  "keep": 7242,
+  "drop": [
+   9910,
+   11216
+  ],
+  "swap_img_from": null,
+  "t": "狄安娜的狩猎"
+ },
+ {
+  "keep": 7247,
+  "drop": [
+   9972
+  ],
+  "swap_img_from": null,
+  "t": "圣塞巴斯蒂安·普雷蒂"
+ },
+ {
+  "keep": 7268,
+  "drop": [
+   9949
+  ],
+  "swap_img_from": null,
+  "t": "黎塞留三面像"
+ },
+ {
+  "keep": 7277,
+  "drop": [
+   10911
+  ],
+  "swap_img_from": null,
+  "t": "卢梭像"
+ },
+ {
+  "keep": 7278,
+  "drop": [
+   9790
+  ],
+  "swap_img_from": null,
+  "t": "浴池"
+ },
+ {
+  "keep": 7314,
+  "drop": [
+   9789
+  ],
+  "swap_img_from": null,
+  "t": "洞口"
+ },
+ {
+  "keep": 7315,
+  "drop": [
+   9792
+  ],
+  "swap_img_from": null,
+  "t": "尼姆与奥朗日的古迹"
+ },
+ {
+  "keep": 7316,
+  "drop": [
+   9793
+  ],
+  "swap_img_from": null,
+  "t": "绕方尖碑起舞的少女"
+ },
+ {
+  "keep": 8959,
+  "drop": [
+   7417
+  ],
+  "swap_img_from": null,
+  "t": "拔鹅毛的女人"
+ },
+ {
+  "keep": 8961,
+  "drop": [
+   7418
+  ],
+  "swap_img_from": null,
+  "t": "十二岁的耶稣在圣殿"
+ },
+ {
+  "keep": 8963,
+  "drop": [
+   7421
+  ],
+  "swap_img_from": null,
+  "t": "参孙与达利拉·利伯曼"
+ },
+ {
+  "keep": 8913,
+  "drop": [
+   7451
+  ],
+  "swap_img_from": null,
+  "t": "参孙与非利士人"
+ },
+ {
+  "keep": 7461,
+  "drop": [
+   8188
+  ],
+  "swap_img_from": null,
+  "t": "阿尔拜黛"
+ },
+ {
+  "keep": 9806,
+  "drop": [
+   7471,
+   11196
+  ],
+  "swap_img_from": null,
+  "t": "法国大使抵达威尼斯"
+ },
+ {
+  "keep": 11197,
+  "drop": [
+   7473
+  ],
+  "swap_img_from": null,
+  "t": "有柱廊的透视景"
+ },
+ {
+  "keep": 11198,
+  "drop": [
+   7474,
+   9808
+  ],
+  "swap_img_from": null,
+  "t": "沃尔顿桥"
+ },
+ {
+  "keep": 7489,
+  "drop": [
+   9764
+  ],
+  "swap_img_from": null,
+  "t": "布尔戈斯的乞丐"
+ },
+ {
+  "keep": 7505,
+  "drop": [
+   9165
+  ],
+  "swap_img_from": null,
+  "t": "赫柏与朱庇特之鹰"
+ },
+ {
+  "keep": 7506,
+  "drop": [
+   9166
+  ],
+  "swap_img_from": null,
+  "t": "童年的路易十三"
+ },
+ {
+  "keep": 7507,
+  "drop": [
+   9167
+  ],
+  "swap_img_from": null,
+  "t": "蒙日纪念碑"
+ },
+ {
+  "keep": 10698,
+  "drop": [
+   9629
+  ],
+  "swap_img_from": null,
+  "t": "屈膝而坐的女子"
+ },
+ {
+  "keep": 9635,
+  "drop": [
+   10706
+  ],
+  "swap_img_from": null,
+  "t": "树下的少女"
+ },
+ {
+  "keep": 9638,
+  "drop": [
+   10722
+  ],
+  "swap_img_from": null,
+  "t": "风景中的马"
+ },
+ {
+  "keep": 9641,
+  "drop": [
+   10725
+  ],
+  "swap_img_from": null,
+  "t": "大蓝马"
+ },
+ {
+  "keep": 10728,
+  "drop": [
+   9646
+  ],
+  "swap_img_from": null,
+  "t": "戴帽的半裸像"
+ },
+ {
+  "keep": 10729,
+  "drop": [
+   9647
+  ],
+  "swap_img_from": null,
+  "t": "埃尔娜·席林像"
+ },
+ {
+  "keep": 10730,
+  "drop": [
+   9648
+  ],
+  "swap_img_from": null,
+  "t": "街道·柏林"
+ },
+ {
+  "keep": 10771,
+  "drop": [
+   9664
+  ],
+  "swap_img_from": null,
+  "t": "穿粉毛衣的夸皮"
+ },
+ {
+  "keep": 10773,
+  "drop": [
+   9666
+  ],
+  "swap_img_from": null,
+  "t": "戴红围巾的自画像"
+ },
+ {
+  "keep": 10822,
+  "drop": [
+   9688
+  ],
+  "swap_img_from": null,
+  "t": "珐琅花园"
+ },
+ {
+  "keep": 10871,
+  "drop": [
+   9710
+  ],
+  "swap_img_from": null,
+  "t": "荆棘之路"
+ },
+ {
+  "keep": 9712,
+  "drop": [
+   10873
+  ],
+  "swap_img_from": null,
+  "t": "小浴女"
+ },
+ {
+  "keep": 10881,
+  "drop": [
+   9725
+  ],
+  "swap_img_from": null,
+  "t": "格朗维尔郊外"
+ },
+ {
+  "keep": 9742,
+  "drop": [
+   10907
+  ],
+  "swap_img_from": null,
+  "t": "奥弗涅的收草"
+ },
+ {
+  "keep": 9743,
+  "drop": [
+   10908
+  ],
+  "swap_img_from": null,
+  "t": "比利牛斯的牧人"
+ },
+ {
+  "keep": 9783,
+  "drop": [
+   11162
+  ],
+  "swap_img_from": null,
+  "t": "克娄巴特拉的宴会"
+ },
+ {
+  "keep": 9786,
+  "drop": [
+   11164
+  ],
+  "swap_img_from": null,
+  "t": "亨利三世访问孔塔里尼别墅"
+ },
+ {
+  "keep": 9787,
+  "drop": [
+   11165
+  ],
+  "swap_img_from": 11165,
+  "t": "卸下圣体"
+ },
+ {
+  "keep": 11167,
+  "drop": [
+   9788
+  ],
+  "swap_img_from": null,
+  "t": "布鲁图斯之死"
+ },
+ {
+  "keep": 9862,
+  "drop": [
+   11278
+  ],
+  "swap_img_from": null,
+  "t": "从美景宫看维也纳"
+ },
+ {
+  "keep": 9899,
+  "drop": [
+   11200
+  ],
+  "swap_img_from": null,
+  "t": "牧人来拜·焦尔达诺"
+ },
+ {
+  "keep": 11204,
+  "drop": [
+   9903
+  ],
+  "swap_img_from": null,
+  "t": "华盖圣母"
+ },
+ {
+  "keep": 11214,
+  "drop": [
+   9908
+  ],
+  "swap_img_from": null,
+  "t": "牧人来拜·多梅尼基诺"
+ }
+]
