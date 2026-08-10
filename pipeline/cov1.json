@@ -1,0 +1,492 @@
+{
+ "got": [
+  [
+   2831,
+   "Distinction Bourdieu",
+   "Pierre Bourdieu et la Distinction Sociale",
+   13887077
+  ],
+  [
+   2836,
+   "Street Corner Society Whyte",
+   "Street corner society",
+   9316079
+  ],
+  [
+   2842,
+   "Critique of Pure Reason Kant",
+   "Kritik der reinen Vernunft",
+   1994279
+  ],
+  [
+   2845,
+   "Being and Nothingness Sartre",
+   "A Commentary on Jean-Paul Sartre's Being and Nothi",
+   140112
+  ],
+  [
+   2846,
+   "Philosophical Investigations Wittgenstein",
+   "Wittgenstein",
+   11745540
+  ],
+  [
+   2852,
+   "Man and His Symbols Jung",
+   "Man and His Symbols",
+   281903
+  ],
+  [
+   2856,
+   "Motivation and Personality Maslow",
+   "MOTIVATION AND PERSONALITY SECOND EDITION",
+   15020930
+  ],
+  [
+   2857,
+   "Man's Search for Meaning Frankl",
+   "Man's Search for Meaning adapted for Young Adults ",
+   11203708
+  ],
+  [
+   2858,
+   "Thinking Fast and Slow Kahneman",
+   "A Macat Analysis of Daniel Kahneman's Thinking, Fa",
+   13214974
+  ],
+  [
+   2863,
+   "How to Win Friends and Influence People Carnegie",
+   "How to Win Friends and Influence People in the Dig",
+   9095869
+  ],
+  [
+   2864,
+   "The Neurotic Personality of Our Time Horney",
+   "The neurotic personality of our time",
+   248768
+  ],
+  [
+   2866,
+   "The Power of Now Tolle",
+   "Entering the Now (Power of Now)",
+   864944
+  ],
+  [
+   2869,
+   "The Lucifer Effect Zimbardo",
+   "The Lucifer Effect",
+   1538373
+  ],
+  [
+   2870,
+   "Tristes Tropiques Levi-Strauss",
+   "Works and Lives: The Anthropologist as Author",
+   9263139
+  ],
+  [
+   2874,
+   "The Chrysanthemum and the Sword Benedict",
+   "The chrysanthemum and the sword",
+   10004042
+  ],
+  [
+   2875,
+   "The Innocent Anthropologist Barley",
+   "The innocent anthropologist",
+   833376
+  ],
+  [
+   2889,
+   "The Forest of Symbols Turner",
+   "The forest of symbols",
+   565413
+  ],
+  [
+   2892,
+   "The General Theory of Employment Interest and Money Keynes",
+   "The General Theory of Employment, Interest and Mon",
+   9082532
+  ],
+  [
+   2894,
+   "Capitalism and Freedom Friedman",
+   "Capitalism and freedom",
+   10737412
+  ],
+  [
+   2895,
+   "Capital in the Twenty-First Century Piketty",
+   "Summary of Capital in the Twenty-First Century by ",
+   12597938
+  ],
+  [
+   2896,
+   "Why Nations Fail Acemoglu",
+   "Why Nations Fail",
+   7253519
+  ],
+  [
+   2898,
+   "Freakonomics Levitt",
+   "Superfreakonomics",
+   6304875
+  ],
+  [
+   2899,
+   "Free to Choose Friedman",
+   "Free to Choose",
+   13518226
+  ],
+  [
+   2900,
+   "The Great Transformation Polanyi",
+   "The Great Transformation",
+   966056
+  ],
+  [
+   2908,
+   "Nudge Thaler Sunstein",
+   "Nudge. La spinta gentile",
+   11969854
+  ],
+  [
+   2919,
+   "Understanding Media McLuhan",
+   "Understanding Media",
+   10711520
+  ],
+  [
+   2923,
+   "The Structural Transformation of the Public Sphere Habermas",
+   "New Structural Transformation of the Public Sphere",
+   14751943
+  ],
+  [
+   2930,
+   "The Consumer Society Baudrillard",
+   "CONSUMPTION IN AN AGE OF INFORMATION; ED. BY SANDE",
+   2033182
+  ],
+  [
+   2931,
+   "The Lonely Crowd Riesman",
+   "The Lonely Crowd",
+   10193258
+  ],
+  [
+   2933,
+   "The Feminine Mystique Friedan",
+   "A strange stirring",
+   7090333
+  ],
+  [
+   2935,
+   "Status Anxiety de Botton",
+   "Status anxiety",
+   6565547
+  ],
+  [
+   2936,
+   "The Philosophy of Fashion Simmel",
+   "Rembrandt",
+   6137827
+  ],
+  [
+   2945,
+   "I and Thou Buber",
+   "Martin Buber's I and Thou",
+   593620
+  ],
+  [
+   3248,
+   "Jane Eyre Bronte",
+   "Jane Eyre",
+   14713571
+  ],
+  [
+   3279,
+   "Norwegian Wood Murakami",
+   "Norwegian Wood",
+   2237620
+  ],
+  [
+   3327,
+   "The Universe in a Nutshell Hawking",
+   "The Illustrated A Brief History of Time / The Univ",
+   14817169
+  ],
+  [
+   3328,
+   "A Short History of Nearly Everything Bryson",
+   "A Really Short History of Nearly Everything",
+   8276506
+  ],
+  [
+   3329,
+   "The Selfish Gene Dawkins",
+   "Dawkins and the Selfish Gene (Postmodern Encounter",
+   883730
+  ],
+  [
+   3332,
+   "Silent Spring Carson",
+   "Silent Spring",
+   15062897
+  ],
+  [
+   3335,
+   "Surely You're Joking Mr Feynman",
+   "\"Surely You're Joking, Mr. Feynman\"",
+   9274698
+  ],
+  [
+   3342,
+   "One Two Three Infinity Gamow",
+   "One, two, three ... infinity",
+   310408
+  ],
+  [
+   3343,
+   "What Is Life Schrodinger",
+   "Cambridge Harper Collins What Is Life?",
+   10523585
+  ],
+  [
+   3345,
+   "King Solomon's Ring Lorenz",
+   "King Solomon's ring",
+   296141
+  ],
+  [
+   3346,
+   "Souvenirs entomologiques Fabre",
+   "Fabre's Book of Insects",
+   312452
+  ],
+  [
+   3347,
+   "A Sand County Almanac Leopold",
+   "A Sand County Almanac",
+   10934389
+  ],
+  [
+   3356,
+   "Cosmos Carl Sagan",
+   "Cosmos",
+   8283901
+  ],
+  [
+   3362,
+   "The Demon-Haunted World Sagan",
+   "The portable atheist",
+   1165075
+  ]
+ ],
+ "miss": [
+  [
+   2829,
+   "The Sociological Imagination Mills"
+  ],
+  [
+   2830,
+   "Discipline and Punish Foucault"
+  ],
+  [
+   2833,
+   "The Presentation of Self in Everyday Life Goffman"
+  ],
+  [
+   2853,
+   "What Life Should Mean to You Adler"
+  ],
+  [
+   2854,
+   "Escape from Freedom Fromm"
+  ],
+  [
+   2855,
+   "The Art of Loving Fromm"
+  ],
+  [
+   2860,
+   "Flow Csikszentmihalyi"
+  ],
+  [
+   2861,
+   "Emotional Intelligence Goleman"
+  ],
+  [
+   2862,
+   "The Social Animal Aronson"
+  ],
+  [
+   2865,
+   "The Body Keeps the Score van der Kolk"
+  ],
+  [
+   2868,
+   "Attachment and Loss Bowlby"
+  ],
+  [
+   2871,
+   "The Golden Bough Frazer"
+  ],
+  [
+   2872,
+   "Guns Germs and Steel Diamond"
+  ],
+  [
+   2878,
+   "Coming of Age in Samoa Mead"
+  ],
+  [
+   2880,
+   "Purity and Danger Douglas"
+  ],
+  [
+   2882,
+   "The Elementary Structures of Kinship Levi-Strauss"
+  ],
+  [
+   2883,
+   "The Third Chimpanzee Diamond"
+  ],
+  [
+   2884,
+   "The Nuer Evans-Pritchard"
+  ],
+  [
+   2886,
+   "Sweetness and Power Mintz"
+  ],
+  [
+   2887,
+   "The Interpretation of Cultures Geertz"
+  ],
+  [
+   2897,
+   "Poor Economics Banerjee"
+  ],
+  [
+   2903,
+   "The Old Regime and the Revolution Tocqueville"
+  ],
+  [
+   2909,
+   "The Limits to Growth Meadows"
+  ],
+  [
+   2911,
+   "The Work of Art in the Age of Mechanical Reproduction Benjamin"
+  ],
+  [
+   2912,
+   "Invisible Cities Calvino"
+  ],
+  [
+   2913,
+   "The Western Canon Bloom"
+  ],
+  [
+   2915,
+   "Literary Theory An Introduction Eagleton"
+  ],
+  [
+   2916,
+   "S/Z Barthes"
+  ],
+  [
+   2920,
+   "Amusing Ourselves to Death Postman"
+  ],
+  [
+   2943,
+   "The Human Condition Arendt"
+  ],
+  [
+   2944,
+   "A Short History of Chinese Philosophy Fung Yu-lan"
+  ],
+  [
+   3247,
+   "Pride and Prejudice Austen"
+  ],
+  [
+   3253,
+   "The Hunchback of Notre-Dame Hugo"
+  ],
+  [
+   3257,
+   "Resurrection Tolstoy"
+  ],
+  [
+   3260,
+   "One Hundred Years of Solitude Marquez"
+  ],
+  [
+   3261,
+   "Love in the Time of Cholera Marquez"
+  ],
+  [
+   3274,
+   "Brave New World Huxley"
+  ],
+  [
+   3280,
+   "Snow Country Kawabata"
+  ],
+  [
+   3284,
+   "And Quiet Flows the Don Sholokhov"
+  ],
+  [
+   3326,
+   "A Brief History of Time Hawking"
+  ],
+  [
+   3330,
+   "The Blind Watchmaker Dawkins"
+  ],
+  [
+   3336,
+   "Seven Brief Lessons on Physics Rovelli"
+  ],
+  [
+   3337,
+   "The Gene An Intimate History Mukherjee"
+  ],
+  [
+   3338,
+   "The Emperor of All Maladies Mukherjee"
+  ],
+  [
+   3339,
+   "The Lady Tasting Tea Salsburg"
+  ],
+  [
+   3344,
+   "The Naked Ape Morris"
+  ],
+  [
+   3348,
+   "Homo Deus Harari"
+  ],
+  [
+   3349,
+   "21 Lessons for the 21st Century Harari"
+  ],
+  [
+   3350,
+   "The Elegant Universe Greene"
+  ],
+  [
+   3364,
+   "Complexity Waldrop"
+  ],
+  [
+   3365,
+   "Stuff Matters Miodownik"
+  ]
+ ]
+}

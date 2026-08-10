@@ -719,6 +719,7 @@ document.write('<scr'+'ipt src="data.js?v='+Math.floor(Date.now()/3600000)+'"><\
 document.write('<scr'+'ipt src="worldmap.js?v=1"><\/scr'+'ipt>');
 document.write('<scr'+'ipt src="regions.js?v=2"><\/scr'+'ipt>');
 document.write('<scr'+'ipt src="courses.js?v=3"><\/scr'+'ipt>');
+document.write('<scr'+'ipt src="provinces.js?v=1"><\/scr'+'ipt>');
 </script>
 <script>
 /* ============ 状态 ============ */
@@ -2588,7 +2589,16 @@ const COUNTRY_OF={巴黎:'法国',凡尔赛:'法国',枫丹白露:'法国',尚�
 悉尼:'澳大利亚',墨尔本:'澳大利亚',堪培拉:'澳大利亚',奥克兰:'新西兰',
 德黑兰:'伊朗',伊斯法罕:'伊朗',撒马尔罕:'乌兹别克斯坦',巴格达:'伊拉克',
 拉各斯:'尼日利亚',马里:'马里',哈拉雷:'津巴布韦'};
-let _wcityPts=[], wview={level:'world',country:null,timeOn:false,T:2030,z:1,tx:0,ty:0};
+/* 城市所属省级行政区——国家层要按省点亮,得先知道每座城归哪个省 */
+const PROV_OF={北京:'北京',天津:'天津',上海:'上海',南京:'江苏',苏州:'江苏',杭州:'浙江',
+  西安:'陕西',敦煌:'甘肃',拉萨:'西藏',香港:'香港',台北:'台湾',澳门:'澳门'};
+/* 世界地图中央经线取东经 150°——中国版世界地图的做法。
+   用 105° 中国正居中,接缝却落在西经 75°,会把美国从东海岸切成两半;
+   140° 会切到巴西东端。150° 让接缝落在西经 30° 的大西洋上,美洲完整。
+   中国不在几何正中,但 wAutoFit 会把初始视野对准中国,打开就是中国居中。 */
+const LON0=150;
+const wrapLon=lon=>{ let d=lon-LON0; while(d<-180)d+=360; while(d>180)d-=360; return d; };
+let _wcityPts=[], _wprovPts=[], wview={level:'world',country:null,timeOn:false,T:2030,z:1,tx:0,ty:0};
 function wClampPan(cssW,cssH){
   const z=wview.z;
   if(z<=1&&wview.level!=='world'){ wview.tx=0; wview.ty=0; return; }
@@ -2603,8 +2613,8 @@ function wAutoFit(){
   const mapH=cssW*0.5, oy=(cssH-mapH)/2;
   const z=Math.min(3.4,Math.max(1,cssH/mapH*0.96));
   wview.z=z;
-  // 以东经40°、北纬35°为初始视野中心(欧亚非交界,藏品最密)
-  const cx=(40+180)/360*cssW, cy=oy+(90-35)/180*mapH;
+  // 以东经105°、北纬35°为初始视野中心——打开就落在中国
+  const cx=(wrapLon(105)+180)/360*cssW, cy=oy+(90-35)/180*mapH;
   wview.tx=cssW/2-cx*z; wview.ty=cssH/2-cy*z;
 }
 function wResetZoom(){ wAutoFit(); renderWorld(); }
@@ -2616,7 +2626,10 @@ function wProj(){
   const cssH=Math.max(280,Math.min(760,avail));
   if(wview.level==='world'){
     const mapH=cssW*0.5, oy=(cssH-mapH)/2;
-    return {cssW,cssH,mapH,oy,fx:(lon,lat)=>[(lon+180)/360*cssW, oy+(90-lat)/180*mapH]};
+    // fxd 收「相对中央经线的偏移」——画跨接缝的国家时要用,不能再 wrap 一次
+    return {cssW,cssH,mapH,oy,seam:true,
+      fx:(lon,lat)=>[(wrapLon(lon)+180)/360*cssW, oy+(90-lat)/180*mapH],
+      fxd:(d,lat)=>[(d+180)/360*cssW, oy+(90-lat)/180*mapH]};
   }
   // 国家视图:按该国轮廓+城市 bbox 放大
   const cs=CITIES.filter(c=>COUNTRY_OF[c[0]]===wview.country);
@@ -2628,14 +2641,17 @@ function wProj(){
   const spanLo=Math.max(lo2-lo1,16), spanLa=Math.max(la2-la1,9);
   const cx=(lo1+lo2)/2, cy=(la1+la2)/2;
   const sc=Math.min(cssW/(spanLo*1.5), cssH/(spanLa*1.5));
-  return {cssW,cssH,fx:(lon,lat)=>[cssW/2+(lon-cx)*sc, cssH/2-(lat-cy)*sc]};
+  const fx=(lon,lat)=>[cssW/2+(lon-cx)*sc, cssH/2-(lat-cy)*sc];
+  return {cssW,cssH,seam:false,fx,fxd:(d,lat)=>fx(d+LON0,lat)};
 }
 function renderWorld(){
   const cv=document.getElementById('wmap');
   const P0=wProj();
   wClampPan(P0.cssW,P0.cssH);
   const z=wview.z, tx=wview.tx, ty=wview.ty;
-  const P={cssW:P0.cssW,cssH:P0.cssH,fx:(lon,lat)=>{const p=P0.fx(lon,lat);return [p[0]*z+tx,p[1]*z+ty];}};
+  const P={cssW:P0.cssW,cssH:P0.cssH,seam:P0.seam,
+    fx:(lon,lat)=>{const p=P0.fx(lon,lat);return [p[0]*z+tx,p[1]*z+ty];},
+    fxd:(d,lat)=>{const p=P0.fxd(d,lat);return [p[0]*z+tx,p[1]*z+ty];}};
   const rb=document.getElementById('wReset'); if(rb) rb.hidden=false;
   const dpr=window.devicePixelRatio||1;
   cv.width=P.cssW*dpr; cv.height=P.cssH*dpr; cv.style.height=P.cssH+'px';
@@ -2651,35 +2667,61 @@ function renderWorld(){
     const o=stat[k]=stat[k]||{n:0,lit:0};
     o.n+=ws.length; o.lit+=ws.filter(w=>explored.has(w.id)).length;
   });
-  const path=(ring)=>{
+  /* 跨接缝的国家(俄罗斯、美国、斐济)一半在图左一半在图右,
+     直接连线会拉出一条横贯地图的错线。把这种环拆成左右两份分别画。 */
+  const seamRings=(ring)=>{
+    const ds=ring.map(p=>wrapLon(p[0]));
+    if(!P.seam || Math.max(...ds)-Math.min(...ds)<=180)
+      return [ring.map((p,i)=>[ds[i],p[1]])];
+    const a=ring.map((p,i)=>[ds[i]<0?ds[i]+360:ds[i], p[1]]);
+    return [a, a.map(p=>[p[0]-360,p[1]])];
+  };
+  const pathD=(dring)=>{
     ctx.beginPath();
-    for(let i=0;i<ring.length;i++){
-      const [x,y]=P.fx(ring[i][0],ring[i][1]);
+    for(let i=0;i<dring.length;i++){
+      const [x,y]=P.fxd(dring[i][0],dring[i][1]);
       i?ctx.lineTo(x,y):ctx.moveTo(x,y);
     }
     ctx.closePath();
   };
-  (window.REGIONS||[]).forEach(o=>{
-    const s=stat[o.n];
-    const dim = wview.level!=='world' && o.n!==wview.country;
-    o.r.forEach(ring=>{
-      path(ring);
-      if(s&&s.lit){                       // 已踏足:砖红,踏满描金边
-        const full = s.lit>=s.n;
-        ctx.fillStyle = full?'#b3543e':'#cd9280';
-        ctx.globalAlpha = dim?.3:.92;
-        ctx.fill(); ctx.globalAlpha=1;
-        ctx.strokeStyle = full?'#c9a227':'#a8674f';
-        ctx.lineWidth = dim?.5:(full?1.5:1); ctx.stroke();
-      }else if(s){                        // 有藏品未刷:待点亮的浅陆地
+  const path=(ring)=>{ pathD(seamRings(ring)[0]); };   // 兼容旧调用
+  /* 一个区块(国家或省)的四级配色:已踏满 / 已踏足 / 有藏品未刷 / 无藏品 */
+  const paintBlock=(rings,s,dim,thin)=>{
+    rings.forEach(ring=>seamRings(ring).forEach(dr=>{
+      pathD(dr);
+      if(s&&s.lit){
+        const full=s.lit>=s.n;
+        ctx.fillStyle=full?'#b3543e':'#cd9280';
+        ctx.globalAlpha=dim?.3:.92; ctx.fill(); ctx.globalAlpha=1;
+        ctx.strokeStyle=full?'#c9a227':'#a8674f';
+        ctx.lineWidth=dim?.5:(full?1.5:1);
+      }else if(s){
         ctx.fillStyle='#e2ddd0'; ctx.globalAlpha=dim?.4:1; ctx.fill(); ctx.globalAlpha=1;
-        ctx.strokeStyle='#c4bda9'; ctx.lineWidth=.8; ctx.stroke();
-      }else{                              // 无藏品:更淡的底
+        ctx.strokeStyle='#c4bda9'; ctx.lineWidth=.8;
+      }else{
         ctx.fillStyle='#edeae0'; ctx.globalAlpha=dim?.4:1; ctx.fill(); ctx.globalAlpha=1;
-        ctx.strokeStyle='#dcd7c8'; ctx.lineWidth=.6; ctx.stroke();
+        ctx.strokeStyle='#dcd7c8'; ctx.lineWidth=.6;
       }
-    });
+      if(thin) ctx.lineWidth=Math.min(ctx.lineWidth,.7);
+      ctx.stroke();
+    }));
+  };
+  (window.REGIONS||[]).forEach(o=>{
+    paintBlock(o.r, stat[o.n], wview.level!=='world' && o.n!==wview.country, false);
   });
+  /* 进到中国:在国家轮廓之上再铺一层省级区块,和世界层一个逻辑 */
+  const inChina = wview.level!=='world' && wview.country==='中国';
+  const pstat={};
+  if(inChina){
+    CITIES.forEach((c,ci)=>{
+      if(COUNTRY_OF[c[0]]!=='中国') return;
+      const pv=PROV_OF[c[0]]; if(!pv) return;
+      const ws=idx[ci].filter(wTimePass); if(!ws.length) return;
+      const o=pstat[pv]=pstat[pv]||{n:0,lit:0};
+      o.n+=ws.length; o.lit+=ws.filter(w=>explored.has(w.id)).length;
+    });
+    (window.PROVINCES||[]).forEach(o=>paintBlock(o.r,pstat[o.n],false,true));
+  }
   _wcityPts=[];
   if(wview.level==='world'){
     // 国家聚合气泡
@@ -2710,6 +2752,19 @@ function renderWorld(){
       `已点亮 <b>${litC}</b> / ${totC} 个地区 · 点地区钻进去看城市`+
       (wview.timeOn?`<br><small>时间轴开启:只显示 ${wTimeLabTxt()} 前的有纪年作品</small>`:(unloc?`<br><small>另有 ${unloc} 件暂未定位</small>`:''));
   } else {
+    // 省名标在区块上——和世界层标国名同一套做法
+    if(inChina){
+      (window.PROVINCES||[]).forEach(o=>{
+        const s=pstat[o.n];
+        let sx=0,sy=0,m=0;
+        o.r[0].forEach(([lo,la])=>{ sx+=lo; sy+=la; m++; });
+        const [x,y]=P.fx(sx/m,sy/m);
+        if(x<-40||x>P.cssW+40||y<-20||y>P.cssH+20) return;
+        ctx.font=(s&&s.lit?'bold ':'')+'10px sans-serif'; ctx.textAlign='center';
+        ctx.lineWidth=3; ctx.strokeStyle='rgba(250,248,242,.9)'; ctx.strokeText(o.n,x,y);
+        ctx.fillStyle=s?(s.lit?'#4a2318':'#6d675b'):'#a8a294'; ctx.fillText(o.n,x,y);
+      });
+    }
     // 国家内:城市气泡
     let litCt=0, tot=0;
     CITIES.forEach((c,ci)=>{
@@ -2733,7 +2788,8 @@ function renderWorld(){
     document.getElementById('wCrumb').textContent='世界 · '+wview.country;
     document.getElementById('wBack').hidden=false;
     document.getElementById('wmapNote').innerHTML=
-      `${wview.country}:亮起 <b>${litCt}</b> / ${tot} 座城 · 点城市看那里的每个角落`+
+      `${wview.country}:亮起 <b>${litCt}</b> / ${tot} 座城`+
+      (inChina?` · 省份随所在城市一起点亮`:'')+` · 点城市看那里的每个角落`+
       (wview.timeOn?`<br><small>时间轴:${wTimeLabTxt()}</small>`:'');
   }
 }
@@ -2803,14 +2859,21 @@ function wTap(x,y){
   // 世界视图:先按区块形状命中(点在哪个国家的轮廓里就进哪个)
   if(wview.level==='world'&&window.REGIONS){
     const P0=wProj(), z=wview.z, tx=wview.tx, ty=wview.ty;
-    const fx=(lo,la)=>{const p=P0.fx(lo,la);return [p[0]*z+tx,p[1]*z+ty];};
-    const inRing=(ring)=>{                       // 射线法
+    const fxd=(d,la)=>{const p=P0.fxd(d,la);return [p[0]*z+tx,p[1]*z+ty];};
+    // 命中要和绘制走同一套拆缝逻辑,否则跨接缝的国家会判错
+    const inD=(dring)=>{
       let inside=false;
-      for(let i=0,j=ring.length-1;i<ring.length;j=i++){
-        const a=fx(ring[i][0],ring[i][1]), b=fx(ring[j][0],ring[j][1]);
+      for(let i=0,j=dring.length-1;i<dring.length;j=i++){
+        const a=fxd(dring[i][0],dring[i][1]), b=fxd(dring[j][0],dring[j][1]);
         if((a[1]>y)!==(b[1]>y) && x < (b[0]-a[0])*(y-a[1])/(b[1]-a[1])+a[0]) inside=!inside;
       }
       return inside;
+    };
+    const inRing=(ring)=>{
+      const ds=ring.map(p=>wrapLon(p[0]));
+      if(Math.max(...ds)-Math.min(...ds)<=180) return inD(ring.map((p,i)=>[ds[i],p[1]]));
+      const a=ring.map((p,i)=>[ds[i]<0?ds[i]+360:ds[i],p[1]]);
+      return inD(a)||inD(a.map(p=>[p[0]-360,p[1]]));
     };
     const hasWorks=new Set(_wcityPts.map(p=>p.country));
     for(const o of window.REGIONS){

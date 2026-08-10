@@ -1,0 +1,35 @@
+北京    环1 点167
+天津    环1 点143
+河北    环1 点113
+山西    ERR IncompleteRead IncompleteRead(13570 bytes read, 10388 m
+内蒙古   ERR IncompleteRead IncompleteRead(13570 bytes read, 10434 m
+辽宁    环1 点67
+吉林    环1 点90
+黑龙江   环1 点133
+上海    环2 点73
+江苏    环1 点60
+浙江    环1 点33
+安徽    环1 点77
+福建    环1 点37
+江西    环1 点70
+山东    环1 点51
+河南    环1 点69
+湖北    环1 点91
+湖南    环1 点89
+广东    ERR IncompleteRead IncompleteRead(13570 bytes read, 7001 mo
+广西    环1 点94
+海南    环6 点108
+重庆    环1 点68
+四川    环1 点145
+贵州    环1 点87
+云南    环1 点145
+西藏    环1 点164
+陕西    环1 点85
+甘肃    ERR IncompleteRead IncompleteRead(13570 bytes read, 15080 m
+青海    环1 点138
+宁夏    环1 点41
+新疆    环1 点160
+台湾    ERR ValueError no rings
+香港    ERR RemoteDisconnected Remote end closed connection without res
+澳门    环1 点8
+写出 provinces.js | 28 个省级区 | 37 KB
