@@ -1,0 +1,31 @@
+== 英国: 2 个一级行政区
+   Ascension -- ValueError
+   Saint Helena -- ValueError
+英国 抓到 0/2
+== 美国: 50 个一级行政区
+   加利福尼亚州 -- RemoteDisconnected
+   新罕布什尔州 -- RemoteDisconnected
+   夏威夷州 -- RemoteDisconnected
+   印第安纳州 -- RemoteDisconnected
+   北卡罗来纳州 -- RemoteDisconnected
+   南卡罗来纳州 -- RemoteDisconnected
+   密西西比州 -- RemoteDisconnected
+   田纳西州 -- RemoteDisconnected
+   威斯康辛州 -- RemoteDisconnected
+美国 抓到 41/50
+== 西班牙: 16 个一级行政区
+   安達盧西亞 -- RemoteDisconnected
+西班牙 抓到 15/16
+== 荷兰: 12 个一级行政区
+荷兰 抓到 12/12
+== 瑞士: 26 个一级行政区
+   日內瓦州 -- ValueError
+   楚格州 -- RemoteDisconnected
+   內阿彭策爾州 -- ValueError
+   巴塞爾城市州 -- ValueError
+   下瓦爾登州 -- RemoteDisconnected
+   沙夫豪森州 -- ValueError
+瑞士 抓到 20/26
+== 比利时: 0 个一级行政区
+比利时 抓到 0/0
+合计 134 个区划

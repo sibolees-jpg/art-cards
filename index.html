@@ -719,7 +719,7 @@ document.write('<scr'+'ipt src="data.js?v='+Math.floor(Date.now()/3600000)+'"><\
 document.write('<scr'+'ipt src="worldmap.js?v=1"><\/scr'+'ipt>');
 document.write('<scr'+'ipt src="regions.js?v=2"><\/scr'+'ipt>');
 document.write('<scr'+'ipt src="courses.js?v=3"><\/scr'+'ipt>');
-document.write('<scr'+'ipt src="provinces.js?v=1"><\/scr'+'ipt>');
+document.write('<scr'+'ipt src="admin1.js?v=1"><\/scr'+'ipt>');
 </script>
 <script>
 /* ============ 状态 ============ */
@@ -2589,9 +2589,51 @@ const COUNTRY_OF={巴黎:'法国',凡尔赛:'法国',枫丹白露:'法国',尚�
 悉尼:'澳大利亚',墨尔本:'澳大利亚',堪培拉:'澳大利亚',奥克兰:'新西兰',
 德黑兰:'伊朗',伊斯法罕:'伊朗',撒马尔罕:'乌兹别克斯坦',巴格达:'伊拉克',
 拉各斯:'尼日利亚',马里:'马里',哈拉雷:'津巴布韦'};
-/* 城市所属省级行政区——国家层要按省点亮,得先知道每座城归哪个省 */
-const PROV_OF={北京:'北京',天津:'天津',上海:'上海',南京:'江苏',苏州:'江苏',杭州:'浙江',
-  西安:'陕西',敦煌:'甘肃',拉萨:'西藏',香港:'香港',台北:'台湾',澳门:'澳门'};
+/* 城市所属的一级行政区(州/省/大区)——国家层要按区块点亮,得先知道每座城归哪个区。
+   名称必须和 admin1.js 里的写法一字不差(数据来自 Wikidata,繁简混杂)。 */
+const ADM_OF={
+  // 中国
+  北京:'北京',天津:'天津',上海:'上海',南京:'江苏',苏州:'江苏',杭州:'浙江',
+  西安:'陕西',敦煌:'甘肃',拉萨:'西藏',香港:'香港',台北:'台湾',澳门:'澳门',
+  // 美国
+  纽约:'纽约州',布法罗:'纽约州',华盛顿:'華盛頓哥倫比亞特區',波士顿:'麻薩諸塞州',
+  威廉斯敦:'麻薩諸塞州',芝加哥:'伊利诺伊州',费城:'宾夕法尼亚州',
+  洛杉矶:'加利福尼亚州',旧金山:'加利福尼亚州',亨廷顿:'加利福尼亚州',
+  底特律:'密歇根州',克利夫兰:'俄亥俄州',休斯顿:'德克萨斯州',沃斯堡:'德克萨斯州',
+  明尼阿波利斯:'明尼蘇達州',圣路易斯:'密蘇里州',堪萨斯城:'密蘇里州',
+  巴尔的摩:'马里兰州',西雅图:'华盛顿州',
+  // 德国
+  柏林:'柏林',汉堡:'汉堡',慕尼黑:'巴伐利亚州',德累斯顿:'萨克森自由州',
+  科隆:'北莱茵-威斯特法伦州',埃森:'北莱茵-威斯特法伦州',法兰克福:'黑森州',
+  斯图加特:'巴登-符腾堡州',
+  // 法国
+  巴黎:'法蘭西島大區',凡尔赛:'法蘭西島大區',枫丹白露:'法蘭西島大區',
+  尚蒂伊:'上法兰西大区',里尔:'上法兰西大区',里昂:'奧弗涅-羅訥-阿爾卑斯大區',
+  蒙彼利埃:'奥克西塔尼大区',
+  // 英国
+  伦敦:'英格兰',曼彻斯特:'英格兰',利物浦:'英格兰',牛津:'英格兰',剑桥:'英格兰',
+  伯明翰:'英格兰',爱丁堡:'蘇格蘭',
+  // 意大利
+  罗马:'拉齐奥大区',佛罗伦萨:'托斯卡纳大区',威尼斯:'威尼托',米兰:'伦巴第',
+  那不勒斯:'坎帕尼亚',
+  // 比利时 / 荷兰 / 瑞士
+  布鲁塞尔:'布鲁塞尔首都大区',安特卫普:'弗拉芒大区',根特:'弗拉芒大区',布鲁日:'弗拉芒大区',
+  阿姆斯特丹:'北荷兰省',海牙:'南荷蘭省',奥特洛:'海尔德兰省',
+  苏黎世:'苏黎世州',伯尔尼:'伯恩州',巴塞尔:'巴塞尔城市州',巴塞尔郊区:'巴塞爾鄉村州',
+  // 日本
+  东京:'東京都',京都:'京都府',奈良:'奈良縣',直岛:'香川县',
+  // 其他
+  马德里:'马德里自治区',巴塞罗那:'加泰罗尼亚自治区',
+  华沙:'马佐夫舍省',克拉科夫:'小波兰省',
+  多伦多:'安大略省',渥太华:'安大略省',
+  里约热内卢:'里約熱內盧州',圣保罗:'聖保羅州',
+  新德里:'德里',孟买:'马哈拉施特拉邦',加尔各答:'西孟加拉邦',
+  悉尼:'新南威爾士州',墨尔本:'維多利亞州',堪培拉:'澳大利亞首都領地',
+  德黑兰:'德黑蘭省',伊斯法罕:'伊斯法罕省',
+  哥本哈根:'首都大區',兰讷斯:'中日德兰大区',
+  奥斯陆:'奥斯陆',卑尔根:'韋斯特蘭郡',
+  莫斯科:'莫斯科',圣彼得堡:'列宁格勒州',
+  墨西哥城:'墨西哥城'};
 /* 世界地图中央经线取东经 150°——中国版世界地图的做法。
    用 105° 中国正居中,接缝却落在西经 75°,会把美国从东海岸切成两半;
    140° 会切到巴西东端。150° 让接缝落在西经 30° 的大西洋上,美洲完整。
@@ -2709,18 +2751,19 @@ function renderWorld(){
   (window.REGIONS||[]).forEach(o=>{
     paintBlock(o.r, stat[o.n], wview.level!=='world' && o.n!==wview.country, false);
   });
-  /* 进到中国:在国家轮廓之上再铺一层省级区块,和世界层一个逻辑 */
-  const inChina = wview.level!=='world' && wview.country==='中国';
+  /* 进到某个国家:在国家轮廓之上再铺一层一级行政区,和世界层一个逻辑。
+     admin1.js 里有该国数据才铺——没有的国家退回原来的城市气泡视图。 */
+  const adm1 = wview.level!=='world' ? ((window.ADMIN1||{})[wview.country]||null) : null;
   const pstat={};
-  if(inChina){
+  if(adm1){
     CITIES.forEach((c,ci)=>{
-      if(COUNTRY_OF[c[0]]!=='中国') return;
-      const pv=PROV_OF[c[0]]; if(!pv) return;
+      if(COUNTRY_OF[c[0]]!==wview.country) return;
+      const pv=ADM_OF[c[0]]; if(!pv) return;
       const ws=idx[ci].filter(wTimePass); if(!ws.length) return;
       const o=pstat[pv]=pstat[pv]||{n:0,lit:0};
       o.n+=ws.length; o.lit+=ws.filter(w=>explored.has(w.id)).length;
     });
-    (window.PROVINCES||[]).forEach(o=>paintBlock(o.r,pstat[o.n],false,true));
+    adm1.forEach(o=>paintBlock(o.r,pstat[o.n],false,true));
   }
   _wcityPts=[];
   if(wview.level==='world'){
@@ -2752,9 +2795,9 @@ function renderWorld(){
       `已点亮 <b>${litC}</b> / ${totC} 个地区 · 点地区钻进去看城市`+
       (wview.timeOn?`<br><small>时间轴开启:只显示 ${wTimeLabTxt()} 前的有纪年作品</small>`:(unloc?`<br><small>另有 ${unloc} 件暂未定位</small>`:''));
   } else {
-    // 省名标在区块上——和世界层标国名同一套做法
-    if(inChina){
-      (window.PROVINCES||[]).forEach(o=>{
+    // 区划名标在区块上——和世界层标国名同一套做法
+    if(adm1){
+      adm1.forEach(o=>{
         const s=pstat[o.n];
         let sx=0,sy=0,m=0;
         o.r[0].forEach(([lo,la])=>{ sx+=lo; sy+=la; m++; });
@@ -2789,7 +2832,7 @@ function renderWorld(){
     document.getElementById('wBack').hidden=false;
     document.getElementById('wmapNote').innerHTML=
       `${wview.country}:亮起 <b>${litCt}</b> / ${tot} 座城`+
-      (inChina?` · 省份随所在城市一起点亮`:'')+` · 点城市看那里的每个角落`+
+      (adm1?` · ${adm1.length} 个地区随所在城市一起点亮`:'')+` · 点城市看那里的每个角落`+
       (wview.timeOn?`<br><small>时间轴:${wTimeLabTxt()}</small>`:'');
   }
 }

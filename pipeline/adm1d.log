@@ -1,0 +1,36 @@
+== 丹麦: 5 个一级行政区
+丹麦 抓到 5/5
+== 挪威: 18 个一级行政区
+   內陸郡 -- RemoteDisconnected
+   斯瓦尔巴 -- RemoteDisconnected
+   东福尔郡 -- RemoteDisconnected
+   布斯克吕郡 -- RemoteDisconnected
+   特罗姆斯郡 -- RemoteDisconnected
+挪威 抓到 13/18
+== 比利时: 1 个一级行政区
+   Principality of Waterloo -- ValueError
+比利时 抓到 0/1
+== 印度: 37 个一级行政区
+   本地治里 -- ValueError
+   Chandigarh -- ValueError
+   特里普拉邦 -- RemoteDisconnected
+   旁遮普邦 -- RemoteDisconnected
+印度 抓到 33/37
+== 巴西: 27 个一级行政区
+巴西 抓到 27/27
+== 伊朗: 31 个一级行政区
+   中央省 -- RemoteDisconnected
+   贊詹省 -- RemoteDisconnected
+   恰哈馬哈勒－巴赫蒂亞里省 -- RemoteDisconnected
+   北呼羅珊省 -- RemoteDisconnected
+   馬贊德蘭省 -- RemoteDisconnected
+   厄尔布尔士省 -- RemoteDisconnected
+   礼萨呼罗珊省 -- RemoteDisconnected
+   德黑蘭省 -- RemoteDisconnected
+   霍爾木茲甘省 -- RemoteDisconnected
+伊朗 抓到 22/31
+== 墨西哥: 32 个一级行政区
+   薩卡特卡斯州 -- RemoteDisconnected
+   墨西哥城 -- RemoteDisconnected
+墨西哥 抓到 30/32
+合计 337 个区划

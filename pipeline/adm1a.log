@@ -1,0 +1,15 @@
+== 德国: 16 个一级行政区
+   不來梅州 -- ValueError
+德国 抓到 15/16
+== 法国: 19 个一级行政区
+   法國南部 -- ValueError
+   诺曼底大区 -- RemoteDisconnected
+法国 抓到 17/19
+== 意大利: 15 个一级行政区
+   卡拉布里亚大区 -- RemoteDisconnected
+意大利 抓到 14/15
+== 英国: 2 个一级行政区
+   Ascension -- ValueError
+   Saint Helena -- ValueError
+英国 抓到 0/2
+合计 46 个区划
