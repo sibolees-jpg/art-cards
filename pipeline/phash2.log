@@ -1,0 +1,29 @@
+/Users/sli001/Library/Python/3.9/lib/python/site-packages/PIL/Image.py:1047: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+已算指纹 7026
+近似对(阈值8): 25
+  d=0   music#1419 「我的祖国」  ≈  music#5453 「沃尔塔瓦河」
+  d=0   music#1461 「动物狂欢节」  ≈  music#4674 「天鹅·圣桑」
+  d=0   music#1641 「童年情景」  ≈  music#4851 「梦幻曲·舒曼」
+  d=0   film#1957 「天堂电影院」  ≈  music#5216 「天堂电影院·配乐」
+  d=0   music#197 「新长征路上的摇滚」  ≈  music#5016 「一无所有」
+  d=0   art#201 「宫娥(Las Meninas」  ≈  book#3806 「词与物」
+  d=0   music#290 「Blue」  ≈  music#5550 「蓝色·琼尼米切尔」
+  d=0   art#435 「佃农之妻」  ≈  art#598 「仿沃克·埃文斯」
+  d=0   film#454 「游戏时间」  ≈  film#4587 「玩乐时间」
+  d=0   music#4839 「参孙与达丽拉」  ≈  music#4856 「引子与回旋随想曲」
+  d=0   music#5226 「指环王·配乐」  ≈  music#5230 「故宫·神思者」
+  d=0   music#644 「卡门」  ≈  music#4859 「卡门幻想曲」
+  d=0   film#757 「光明(Yeelen)」  ≈  film#1505 「月亮女神」
+  d=0   music#791 「金·塔布的配音」  ≈  music#931 「配音回响(Dub)」
+  d=0   music#843 「卡玛隆的弗拉门戈」  ≈  music#991 「佛朗明哥吉他」
+  d=1   music#1683 「高山流水」  ≈  music#2067 「寒鸦戏水」
+  d=1   film#450 「惊魂记」  ≈  film#4570 「精神病患者」
+  d=1   music#648 「Songs in the K」  ≈  music#1878 「史蒂夫·旺德」
+  d=1   music#877 「Led Zeppelin I」  ≈  music#5549 「Stairway to He」
+  d=2   art#137 「富春山居图」  ≈  film#4897 「春江水暖」
+  d=2   music#5004 「Like a Rolling」  ≈  music#5547 「血泪交织」
+  d=3   music#744 「This Land Is Y」  ≈  music#1845 「伍迪·格思里」
+  d=6   music#1464 「蝴蝶夫人」  ≈  music#5698 「贾尼·斯基基」
+  d=8   art#2344 「元素生存课」  ≈  book#2851 「文明及其不满」
+  d=8   music#271 「Pet Sounds」  ≈  music#5553 「宠物之声」
