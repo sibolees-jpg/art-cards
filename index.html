@@ -9,6 +9,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="艺术卡片">
 <title>艺术卡片</title>
+<link rel="stylesheet" href="creative-tools.css">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="icon" type="image/png" href="icon-192.png">
@@ -545,11 +546,13 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
       <button class="ptab on" data-tab="info">个人信息</button>
       <button class="ptab" data-tab="works">我的作品</button>
       <button class="ptab" data-tab="attr">个人属性</button>
+      <button class="ptab" data-tab="creative">创作工具</button>
       <button class="ptab" data-tab="sign">签到</button>
     </div>
     <div id="pInfo" class="ptabbody"></div>
     <div id="pWorks" class="ptabbody" hidden></div>
     <div id="pAttr" class="ptabbody" hidden></div>
+    <div id="pCreative" class="ptabbody" hidden></div>
     <div id="pSign" class="ptabbody" hidden>
       <div class="sgtop">
         <div class="sgstreak">已连续签到 <b id="sgStreak">0</b> 天</div>
@@ -721,6 +724,7 @@ document.write('<scr'+'ipt src="regions.js?v=2"><\/scr'+'ipt>');
 document.write('<scr'+'ipt src="courses.js?v=3"><\/scr'+'ipt>');
 document.write('<scr'+'ipt src="admin1.js?v=1"><\/scr'+'ipt>');
 </script>
+<script src="creative-tools.js"></script>
 <script>
 /* ============ 状态 ============ */
 let MODE = localStorage.getItem('ac_mode')||'all';   // 'all'综合 | 'visual'视觉专业
@@ -2062,6 +2066,7 @@ function exportMd(){
 
 /* ============ 个人属性(v1:从库里作品文本即时归纳,后续会升级) ============ */
 const ATTR = {
+  mood: CreativeTools.moods,
   concern:[
     {k:'时间与消逝',kw:['时间','消逝','易逝','流逝','瞬间','永恒','一瞬','转瞬','光阴','岁月','逝','短暂','稍纵'],
       q:['一段影像、一件遗物,凭什么能替一个逝去的时刻继续活着?','正在流走的此刻,艺术能不能把它按住?','明知一切都会过去,人为什么还要拼命留住?']},
@@ -2157,18 +2162,17 @@ function attrSeed(a){
   (a.method[0]?[a.method[0]]:[]).forEach(x=> s += x.s*19);
   return Math.abs(s);
 }
+function profileQuestions(a){
+  const seed=attrSeed(a);
+  return a.concern.slice(0,3).map((x,i)=>{
+    const b=ATTR.concern.find(c=>c.k===x.k);
+    return b?.q?.length?{k:x.k,text:b.q[(seed+i*5)%b.q.length]}:null;
+  }).filter(Boolean);
+}
 function problemText(a){
-  const tops = a.concern.slice(0,3);
-  if(!tops.length) return '继续刷,你的问题会慢慢浮现。';
-  const seed = attrSeed(a);
-  const pair = tops.slice(0, tops.length>=2?2:1).map(x=>x.k).join('】与【');
-  const head = `你反复被【${pair}】牵动 ——`;
-  const qs = tops.map((x,i)=>{
-    const b = ATTR.concern.find(c=>c.k===x.k);
-    if(!b||!b.q||!b.q.length) return null;
-    return '· '+b.q[(seed + i*5) % b.q.length];
-  }).filter(Boolean).slice(0,3);
-  return head + '<br>' + qs.join('<br>');
+  if(!a.concern.length) return '继续刷,你的问题会慢慢浮现。';
+  const pair=a.concern.slice(0,2).map(x=>x.k).join('】与【');
+  return `你反复被【${pair}】牵动 ——<br>`+profileQuestions(a).map(x=>'· '+x.text).join('<br>');
 }
 function computeAttr(){
   const liked = WORKS.filter(w=>lib.has(w.id));
@@ -2178,7 +2182,7 @@ function computeAttr(){
     return {k:b.k, s};
   }).filter(x=>x.s>0).sort((a,b)=>b.s-a.s);
   const wsum = liked.reduce((a,w)=>a+(favs.has(w.id)?2:1),0);
-  return { n:liked.length, nf:favs.size, wsum, concern:tally(ATTR.concern), material:tally(ATTR.material), method:tally(ATTR.method) };
+  return { n:liked.length, nf:favs.size, wsum, concern:tally(ATTR.concern), material:tally(ATTR.material), method:tally(ATTR.method), mood:tally(ATTR.mood) };
 }
 
 /* ============ 个人(信息 + 属性) ============ */
@@ -2189,6 +2193,8 @@ function switchPtab(t){
   document.getElementById('pWorks').hidden = t!=='works';
   document.getElementById('pAttr').hidden = t!=='attr';
   document.getElementById('pSign').hidden = t!=='sign';
+  document.getElementById('pCreative').hidden = t!=='creative';
+  if(t==='creative'){ const a=computeAttr(); CreativeTools.mount(document.getElementById('pCreative'),{attributes:a,questions:profileQuestions(a),unlocked:rounds>=1,suffix:_sfx()}); }
   if(t==='sign') renderSign();
 }
 /* ============ 我的作品:个人作品集(本机存储,可展示) ============ */
@@ -2334,7 +2340,7 @@ function renderAttr(){
     const done=roundTotal-deck.length;
     box.innerHTML=`<div class="alock"><div class="ico">🔒</div>
       <h4>刷完第 1 关即可解锁</h4>
-      <p>个人属性由你库里喜欢的作品自动归纳。<br>先刷完这一关(当前 ${done}/${roundTotal}),<br>它会为你勾出:核心关怀 · 问题意识 · 材料 · 组织方法。</p></div>`;
+      <p>个人属性由你库里喜欢的作品自动归纳。<br>先刷完这一关(当前 ${done}/${roundTotal}),<br>它会为你勾出:核心关怀 · 问题意识 · 材料 · 组织方法 · 意境。</p></div>`;
     return;
   }
   const a=computeAttr();
@@ -2354,15 +2360,17 @@ function renderAttr(){
     <div class="asec"><div class="at">问 题 意 识</div><div class="aq">${q}</div></div>
     <div class="asec"><div class="at">材 料</div>${tags(a.material)}</div>
     <div class="asec"><div class="at">组 织 方 法</div>${tags(a.method)}</div>
-    <div class="anote">基于库里 ${a.n} 件作品即时归纳${a.nf?`,其中 ${a.nf} 件爆灯按双倍权重计入`:''} · 刷得越多越准</div>`;
+    <div class="asec"><div class="at">意 境</div>${tags(a.mood)}</div>
+    <div class="anote">基于库里 ${a.n} 件作品的文字线索归纳${a.nf?`,其中 ${a.nf} 件爆灯按双倍权重计入`:''} · 随刷卡更新，供创作参考</div>`;
 }
 function hardReset(){
-  if(!confirm('⚠️ 重置会清空你的全部数据:作品库、荣誉、闯关进度、个人属性,且无法恢复。\n\n确定要继续吗?')) return;
+  if(!confirm('⚠️ 重置会清空你的全部数据:作品库、荣誉、闯关进度、个人属性与创作组合,且无法恢复。\n\n确定要继续吗?')) return;
   if(!confirm('⚠️ 再确认一次。\n你喜欢过的所有作品、所有荣誉都会永久消失。\n建议先去「我的库」导出目录留档。\n\n仍然要清空吗?')) return;
   const t=prompt('最后一步:请输入「清空」二字确认(输入其它任何内容都会取消)。');
   if(t!=='清空'){ alert('已取消,你的数据安然无恙。'); return; }
   judged={}; undoStack=[]; lib.clear(); favs.clear(); passed.clear(); rounds=0; seen=0;
   saveJ(); saveL(); saveF(); saveP(); saveR(); saveS();
+  localStorage.removeItem('ac_creative'+_sfx());
   closeOv('person'); buildDeck(); render();
   alert('已全部清空,从第 1 关重新开始。');
 }
