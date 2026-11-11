@@ -1,0 +1,13 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const root=require('node:path').resolve(__dirname,'..')+'/';
+const c={window:{}};vm.createContext(c);vm.runInContext(fs.readFileSync(root+'regions.js','utf8'),c);
+const regs=c.window.REGIONS;
+assert.equal(regs.some(x=>x.c==='TW'||x.c==='CN-TW'||x.n==='台湾'||x.n==='中华民国'),false,'Taiwan outline must not be a separate world entry');
+const cn=regs.find(x=>x.n==='中国');
+const inside=(ring,x,y)=>{let yes=false;for(let i=0,j=ring.length-1;i<ring.length;j=i++){const a=ring[i],b=ring[j];if((a[1]>y)!==(b[1]>y)&&x<(b[0]-a[0])*(y-a[1])/(b[1]-a[1])+a[0])yes=!yes;}return yes;};
+assert.ok(cn.r.some(r=>inside(r,121,23.7)),'Taiwan must hit China world geometry');
+assert.ok(cn.r.some(r=>inside(r,116.4,39.9)),'Mainland geometry retained');
+vm.runInContext(fs.readFileSync(root+'admin1.js','utf8'),c);
+assert.ok(c.window.ADMIN1['中国'].some(x=>x.n==='台湾'),'Taiwan retained within China subdivisions');
+const html=fs.readFileSync(root+'index.html','utf8');assert.ok(html.includes("台北:'中国'"));assert.ok(html.includes("台北:'台湾'"));
+console.log('PASS: world geometry, mainland retained, China subdivision and Taipei statistics');
