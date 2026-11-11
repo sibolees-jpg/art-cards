@@ -279,6 +279,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 /* 覆盖层 */
 .overlay{position:fixed;inset:0;background:var(--bg);z-index:20;display:none;flex-direction:column;overflow:hidden}
 .overlay.show{display:flex}
+#detail{z-index:30}
 .obar{display:flex;align-items:center;justify-content:space-between;padding:calc(env(safe-area-inset-top,0px) + 10px) 16px 10px;border-bottom:1px solid var(--line);flex:none}
 .obar h3{font-size:16px}
 .obar .close{font-size:22px;color:var(--sub);padding:4px 10px}
@@ -466,6 +467,7 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
 .ptab.due{position:relative}
 .ptab.due::after{content:"";position:absolute;top:5px;right:6px;width:6px;height:6px;border-radius:50%;background:var(--like)}
 </style>
+<link rel="stylesheet" href="interest-radar.css">
 </head>
 <body>
 <div id="app">
@@ -669,17 +671,17 @@ footer{display:flex;justify-content:center;gap:26px;padding:10px 0 calc(env(safe
   <div class="obar">
     <h3>学习</h3>
     <div class="gtabs">
-      <button class="gtab on" data-gt="map">🗺 兴趣谱系</button>
+      <button class="gtab on" data-gt="map">◎ 兴趣雷达</button>
       <button class="gtab" data-gt="rev">🃏 复习 <b id="revBadge">0</b></button>
     </div>
     <button class="close" data-close="learn">✕</button>
   </div>
   <div id="gMapView">
     <div id="gAttrLine"></div>
-    <div id="gmapWrap"><canvas id="gmapCv"></canvas></div>
-    <div id="gmapEmpty" class="muted" hidden>谱系还没长出来。<br>先去刷卡:右滑喜欢、上滑爆灯的作品<br>会自动在这里织成你的兴趣地图。</div>
+    <div id="gmapWrap"><div id="interestRadar"></div></div>
+    <div id="gmapEmpty" class="muted" hidden>兴趣雷达还没有数据。<br>右滑喜欢、上滑爆灯的作品，<br>会成为你的分析依据。</div>
     <div id="gTray">
-      <div id="gSelChips"><span class="gtip">点一件作品:亮出它的师承与题材链条 · 点满2件可分析公约</span></div>
+      <div id="gSelChips"><span class="gtip">点击雷达维度查看对应作品 · 选择至少 2 件可分析共同点</span></div>
       <div class="gtrayBtns">
         <button id="gAnalyze" disabled>⚡ 分析公约</button>
         <button id="gDeep" disabled hidden>🤖 AI深析</button>
@@ -725,6 +727,7 @@ document.write('<scr'+'ipt src="courses.js?v=3"><\/scr'+'ipt>');
 document.write('<scr'+'ipt src="admin1.js?v=1"><\/scr'+'ipt>');
 </script>
 <script src="creative-tools.js"></script>
+<script src="interest-radar.js"></script>
 <script>
 /* ============ 状态 ============ */
 let MODE = localStorage.getItem('ac_mode')||'all';   // 'all'综合 | 'visual'视觉专业
@@ -1292,193 +1295,25 @@ function yearNum(w){
 const eraLabel=v=> v==null?'年代不详': v<0?('公元前'+Math.round(-v/100)+'世纪'): v<1000?(Math.floor(v/100)+1)+'世纪': String(Math.floor(v/10)*10)+'s';
 
 /* ---- 兴趣谱系:时间轴地图 ---- */
-const GCOLORS=['#b3543e','#5b7a5e','#4a6d8c','#8c6a4a','#7a5b8c','#8c4a5f','#4a8c7d','#6b6b45'];
-let gSel=new Set(), gWorks=[], gTab='map';
+let gSel=new Set(), gWorks=[], gTab='map', gRadar=null;
 const gTextOf=w=> (w.bg||'')+(w.how||'')+(w.why||'')+(w.more||'')+(w.cat||'')+(w.t||'')+(w.verse||'');
-function laneOf(w,lanes){
-  const t=gTextOf(w);
-  for(const ln of lanes){ const b=ATTR.concern.find(c=>c.k===ln); if(b&&b.kw.some(k=>t.includes(k))) return ln; }
-  return '其他';
+function gUpdateSummary(){
+  document.getElementById('gAttrLine').textContent=`${gWorks.length} 件收藏 · ${gWorks.filter(w=>favs.has(w.id)).length} 件爆灯 · ${gSel.size} 件选中`;
 }
-/* ---- 力导向谱系(Obsidian 风,时间轴做横向约束) ---- */
-let _gn=[], _ge=[], _gAnim=null, _gW=900, _gH=520, _gSettle=0;
 function buildGMap(){
+  if(gRadar){gRadar.destroy();gRadar=null;}
   gWorks=WORKS.filter(w=>lib.has(w.id));
-  const empty=document.getElementById('gmapEmpty'), wrap=document.getElementById('gmapWrap');
-  const attrLine=document.getElementById('gAttrLine');
-  if(gWorks.length<1){ empty.hidden=false; wrap.style.display='none'; attrLine.innerHTML=''; stopGAnim(); return; }
-  empty.hidden=true; wrap.style.display='';
-  const a=computeAttr();
-  const lanes=a.concern.slice(0,6).map(x=>x.k);
-  attrLine.innerHTML='你的方向:'+(lanes.length?lanes.slice(0,3).map(k=>'<span class="gc">'+k+'</span>').join(''):'还在浮现')+
-    ' <span style="opacity:.6">'+gWorks.length+' 件收藏 · '+[...gSel].length+' 件选中 · 点圆点选中,拖动可拨弄星团</span>';
-  // 节点:x 目标=年代顺位,y 自由
-  const items=gWorks.map(w=>({w,y:yearNum(w),lane:laneOf(w,lanes)}))
-    .sort((p,q)=>((p.y==null?9e9:p.y)-(q.y==null?9e9:q.y)));
-  const STEP=64, PADX=80;
-  _gW=Math.max((wrap.clientWidth||340), PADX+items.length*STEP+80);
-  _gH=Math.max(420, Math.min(640, (wrap.clientHeight||480)));
-  const keep={}; _gn.forEach(n=>keep[n.w.id]=n);
-  _gn=items.map((p,i)=>{
-    const xt=PADX+i*STEP;
-    const prev=keep[p.w.id];
-    return {w:p.w, y:p.y, lane:p.lane, xt,
-      x:prev?prev.x:xt+(Math.random()*40-20),
-      py:prev?prev.py:_gH/2+(Math.random()*160-80),
-      vx:0, vy:0, fix:false};
-  });
-  // 边:同作者(强);同题材相邻(弱,每节点最多2条)
-  _ge=[];
-  const byA={};
-  _gn.forEach((n,i)=>{ const k=(n.w.a||'').replace(/[(（].*$/,''); if(k&&!/佚名/.test(k)) (byA[k]=byA[k]||[]).push(i); });
-  let ci=0; const artistCol={};
-  for(const k in byA){ const idxs=byA[k];
-    if(idxs.length>=2){ artistCol[k]=GCOLORS[ci++%GCOLORS.length];
-      for(let j=1;j<idxs.length;j++) _ge.push({a:idxs[j-1],b:idxs[j],type:'artist',col:artistCol[k],name:j===1?k:''});
-    }
-  }
-  const byLane={};
-  _gn.forEach((n,i)=>{ if(n.lane!=='其他') (byLane[n.lane]=byLane[n.lane]||[]).push(i); });
-  for(const k in byLane){ const idxs=byLane[k];
-    for(let j=1;j<idxs.length;j++) _ge.push({a:idxs[j-1],b:idxs[j],type:'concern'});
-  }
-  const cv=document.getElementById('gmapCv');
-  const dpr=window.devicePixelRatio||1;
-  cv.width=_gW*dpr; cv.height=_gH*dpr;
-  cv.style.width=_gW+'px'; cv.style.height=_gH+'px';
-  cv.getContext('2d').setTransform(dpr,0,0,dpr,0,0);
-  _gSettle=0;
-  startGAnim();
-}
-function gPhysics(){
-  const N=_gn.length;
-  // 斥力
-  for(let i=0;i<N;i++) for(let j=i+1;j<N;j++){
-    const a=_gn[i],b=_gn[j];
-    let dx=a.x-b.x, dy=a.py-b.py;
-    let d2=dx*dx+dy*dy; if(d2<1) d2=1;
-    if(d2<7000){ const f=520/d2; const d=Math.sqrt(d2);
-      dx/=d; dy/=d;
-      a.vx+=dx*f; a.vy+=dy*f; b.vx-=dx*f; b.vy-=dy*f; }
-  }
-  // 弹簧
-  _ge.forEach(e=>{
-    const a=_gn[e.a], b=_gn[e.b];
-    const L=e.type==='artist'?70:120, K=e.type==='artist'?0.012:0.0025;
-    let dx=b.x-a.x, dy=b.py-a.py;
-    const d=Math.sqrt(dx*dx+dy*dy)||1;
-    const f=K*(d-L);
-    dx/=d; dy/=d;
-    a.vx+=dx*f; a.vy+=dy*f; b.vx-=dx*f; b.vy-=dy*f;
-  });
-  // 时间轴 x 约束 + y 回中
-  _gn.forEach(n=>{
-    if(n.fix) return;
-    n.vx+=(n.xt-n.x)*0.02;
-    n.vy+=(_gH/2-n.py)*0.0016;
-    n.vx*=0.86; n.vy*=0.86;
-    n.x+=n.vx; n.py+=n.vy;
-    if(n.py<40)n.py=40; if(n.py>_gH-46)n.py=_gH-46;
+  const empty=document.getElementById('gmapEmpty'),wrap=document.getElementById('gmapWrap');
+  empty.hidden=!!gWorks.length;wrap.style.display=gWorks.length?'':'none';gUpdateSummary();
+  if(!gWorks.length)return;
+  gRadar=InterestRadar.mount(document.getElementById('interestRadar'),{
+    profile:computeAttr(),buckets:ATTR,works:gWorks,favourites:favs,getSelected:()=>gSel,
+    onToggle:gToggle,onOpen:id=>{const w=WORKS.find(w=>w.id===id);if(w)openDetail(w,false);},suffix:_sfx()
   });
 }
-function gDraw(){
-  const cv=document.getElementById('gmapCv'); if(!cv) return;
-  const ctx=cv.getContext('2d');
-  ctx.clearRect(0,0,_gW,_gH);
-  // 时代刻度
-  ctx.font='10px sans-serif'; ctx.textAlign='left';
-  let lastEra='';
-  _gn.forEach(n=>{
-    const el=eraLabel(n.y);
-    if(el!==lastEra){ lastEra=el;
-      ctx.strokeStyle='rgba(0,0,0,.05)'; ctx.beginPath(); ctx.moveTo(n.xt,26); ctx.lineTo(n.xt,_gH); ctx.stroke();
-      ctx.fillStyle='#a49f92'; ctx.fillText(el,n.xt,18);
-    }
-  });
-  /* 边:默认全部收起,只有点中作品时才展开它这条链 */
-  const kin=new Set();   // 与选中作品直接相连的节点下标
-  if(gSel.size){
-    _ge.forEach(e=>{
-      const a=_gn[e.a], b=_gn[e.b];
-      const ha=gSel.has(a.w.id), hb=gSel.has(b.w.id);
-      if(!ha&&!hb) return;
-      kin.add(e.a); kin.add(e.b);
-      if(e.type==='artist'){ ctx.strokeStyle=e.col; ctx.globalAlpha=.85; ctx.lineWidth=1.8; }
-      else { ctx.strokeStyle='#8a8578'; ctx.globalAlpha=.42; ctx.lineWidth=1.2; }
-      ctx.beginPath(); ctx.moveTo(a.x,a.py); ctx.lineTo(b.x,b.py); ctx.stroke();
-      ctx.globalAlpha=1;
-      if(e.name){ ctx.fillStyle=e.col; ctx.font='10px sans-serif'; ctx.textAlign='center';
-        ctx.fillText(e.name,(a.x+b.x)/2,(a.py+b.py)/2-5); }
-    });
-  }
-  // 节点
-  ctx.textAlign='center';
-  const focusing=gSel.size>0;
-  _gn.forEach((n,i)=>{
-    const sel=gSel.has(n.w.id), fav=favs.has(n.w.id);
-    const near=kin.has(i);
-    const dim=focusing&&!sel&&!near;
-    if(fav&&!dim){ ctx.strokeStyle='#c9a227'; ctx.lineWidth=2;
-      ctx.beginPath(); ctx.arc(n.x,n.py,12,0,7); ctx.stroke(); }
-    ctx.fillStyle=sel?'#1d1d22':'#b3543e';
-    ctx.globalAlpha=sel?1:(dim?.22:.85);
-    ctx.beginPath(); ctx.arc(n.x,n.py,sel?9:7.5,0,7); ctx.fill(); ctx.globalAlpha=1;
-    if(sel){ ctx.fillStyle='#fff'; ctx.font='9px sans-serif'; ctx.fillText('✓',n.x,n.py+3); }
-    // 标题:未聚焦时全部淡显;聚焦后只有本人与链上邻居显示
-    if(!focusing||sel||near){
-      ctx.globalAlpha=focusing?1:.62;
-      ctx.fillStyle=sel?'#1d1d22':'#55534c'; ctx.font=(sel?'bold ':'')+'10px sans-serif';
-      const t=n.w.t.length>7?n.w.t.slice(0,7)+'…':n.w.t;
-      ctx.fillText(t,n.x,n.py+22);
-      if(n.y!=null){ ctx.fillStyle='#b0aa9c'; ctx.font='9px sans-serif';
-        ctx.fillText(n.y<0?('前'+(-n.y)):n.y,n.x,n.py+33); }
-      ctx.globalAlpha=1;
-    }
-  });
-}
-function gTick(){
-  gPhysics(); gDraw();
-  _gSettle++;
-  const learnOpen=document.getElementById('learn').classList.contains('show');
-  if(learnOpen&&gTab==='map'&&_gSettle<1200) _gAnim=requestAnimationFrame(gTick);
-  else _gAnim=null;
-}
-function startGAnim(){ if(!_gAnim){ _gSettle=0; _gAnim=requestAnimationFrame(gTick); } }
-function stopGAnim(){ if(_gAnim){ cancelAnimationFrame(_gAnim); _gAnim=null; } }
-/* 交互:点选 + 拖拽拨弄 */
-(function(){
-  const cv=document.getElementById('gmapCv');
-  let drag=null, moved=0;
-  function pos(e){ const r=cv.getBoundingClientRect();
-    const p=e.touches?e.touches[0]:e;
-    return [p.clientX-r.left, p.clientY-r.top]; }
-  function hit(x,y){ let best=null,bd=1e9;
-    _gn.forEach(n=>{ const d=(n.x-x)**2+(n.py-y)**2; if(d<bd){bd=d;best=n;} });
-    return (best&&bd<=18*18)?best:null; }
-  cv.addEventListener('pointerdown',e=>{
-    const [x,y]=pos(e); const n=hit(x,y);
-    if(n){ drag=n; n.fix=true; moved=0; cv.setPointerCapture(e.pointerId); e.preventDefault(); }
-  });
-  cv.addEventListener('pointermove',e=>{
-    if(!drag) return;
-    const [x,y]=pos(e);
-    moved+=Math.abs(x-drag.x)+Math.abs(y-drag.py);
-    drag.x=x; drag.py=y; drag.vx=0; drag.vy=0;
-    startGAnim(); _gSettle=0;
-  });
-  cv.addEventListener('pointerup',e=>{
-    if(!drag) return;
-    drag.fix=false;
-    if(moved<6) gToggle(drag.w.id);
-    drag=null; _gSettle=0; startGAnim();
-  });
-})();
 function gToggle(id){
-  if(gSel.has(id)) gSel.delete(id); else gSel.add(id);
-  renderGTray(); _gSettle=0; startGAnim(); gDraw();
-  const a=computeAttr();
-  document.getElementById('gAttrLine').innerHTML='你的方向:'+(a.concern.slice(0,3).map(x=>'<span class="gc">'+x.k+'</span>').join('')||'还在浮现')+
-    ' <span style="opacity:.6">'+gWorks.length+' 件收藏 · '+[...gSel].length+' 件选中</span>';
+  if(gSel.has(id))gSel.delete(id);else gSel.add(id);
+  renderGTray();gUpdateSummary();if(gRadar)gRadar.syncSelection();
 }
 function renderGTray(){
   const chips=document.getElementById('gSelChips');
@@ -1489,7 +1324,7 @@ function renderGTray(){
       ? '<span class="gtip">存档:</span>'+rec.slice(0,12).map(([sig,r])=>
           '<span class="ghchip" data-sig="'+sig+'"><b>'+r.ids.length+'件</b> '+
           (r.titles||[]).slice(0,2).map(t=>'《'+t+'》').join('')+' <span style="opacity:.55">'+fmtDay(r.t)+'</span></span>').join('')
-      : '<span class="gtip">点一件作品:亮出它的师承与题材链条 · 点满2件可分析公约</span>';
+      : '<span class="gtip">点击雷达维度查看对应作品 · 选择至少 2 件可分析共同点</span>';
     chips.querySelectorAll('.ghchip').forEach(c=>c.onclick=()=>openSaved(c.dataset.sig));
   }
   else chips.innerHTML=ids.map(id=>{ const w=WORKS.find(x=>x.id===id); return w?'<span class="gchip" data-gid="'+id+'">《'+w.t+'》<span class="x">✕</span></span>':''; }).join('');

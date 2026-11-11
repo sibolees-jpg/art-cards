@@ -1,9 +1,9 @@
 /* 艺术卡片 Service Worker —— 离线可用 + 图片缓存 */
-const VER = 'ac-v84';
+const VER = 'ac-v85';
 const SHELL = VER + '-shell';
 const IMG = VER + '-img';
 const APP = [
-  './', './index.html', './creative-tools.js', './creative-tools.css', './data.js', './worldmap.js', './regions.js', './courses.js', './admin1.js', './manifest.webmanifest',
+  './', './index.html', './creative-tools.js', './creative-tools.css', './interest-radar.js', './interest-radar.css', './data.js', './worldmap.js', './regions.js', './courses.js', './admin1.js', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './apple-touch-icon.png'
 ];
 
